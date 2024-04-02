@@ -1,0 +1,4218 @@
+[
+  {
+    "categories": [
+      "6542ebd1-bb30-4d03-be32-d60043fae905"
+    ],
+    "color": "#EFBB2B",
+    "description": "<p>Non hai molto tempo? Con questo percorso potrai scoprire le opere da non perdere e le storie principali del Museo.</p>\n",
+    "lastUpdate": "2024-03-26T15:44:14",
+    "mediaUuid": "f16e283d-329f-4a8b-a54c-72aaf0b4788a",
+    "order": 0,
+    "skuCode": null,
+    "subtitle": "Tempo stimato: 1h",
+    "tag": "path-main-internal",
+    "totalSize": 4512104,
+    "title": "Percorso Breve",
+    "uuid": "28fd5853-0f3e-4762-a4b9-edd170e0419f",
+    "beacons": [
+      {
+        "lastUpdate": "2024-03-26T15:43:45",
+        "major": 1,
+        "minor": 1,
+        "name": "Beacon 1",
+        "proximityUuid": "12345678-1234-1234-1234-123456789abc",
+        "radius": 10.0,
+        "uuid": "dd60a8a3-ed32-493a-a6a9-41c2b795b887"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:44:00",
+        "major": 1,
+        "minor": 2,
+        "name": "Beacon 2",
+        "proximityUuid": "12345678-1234-1234-1234-123456789abc",
+        "radius": 10.0,
+        "uuid": "60bb3af8-78ef-4ff3-b497-4fac085c664b"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:44:14",
+        "major": 1,
+        "minor": 3,
+        "name": "Beacon 3",
+        "proximityUuid": "12345678-1234-1234-1234-123456789abc",
+        "radius": 10.0,
+        "uuid": "48917e04-95b3-4af1-8364-5d110f9b5fc9"
+      }
+    ],
+    "galleries": [
+      {
+        "description": null,
+        "items": [
+          "57e04844-d715-4c30-b996-8b08dbb9a7ef"
+        ],
+        "lastUpdate": "2024-03-26T11:09:46",
+        "subtitle": null,
+        "tag": "images-gallery",
+        "title": null,
+        "uuid": "625a40f6-5965-4b08-b560-c777b86578bd"
+      },
+      {
+        "description": null,
+        "items": [
+          "403a14d2-a7c4-47f8-b15b-a3dbbe96420b"
+        ],
+        "lastUpdate": "2024-03-26T11:10:01",
+        "subtitle": null,
+        "tag": "images-gallery",
+        "title": null,
+        "uuid": "2d6048f6-0082-4b90-abe7-3f766fa3e907"
+      },
+      {
+        "description": null,
+        "items": [
+          "55b8dbb3-bf91-4e9d-b9d9-7a0836dacb2f"
+        ],
+        "lastUpdate": "2024-03-26T14:44:56",
+        "subtitle": null,
+        "tag": "images-gallery",
+        "title": null,
+        "uuid": "264b0890-4cd1-440d-b94c-5e86d7512354"
+      }
+    ],
+    "galleryItems": [
+      {
+        "description": null,
+        "lastUpdate": "2024-03-26T11:09:46",
+        "mediaUuid": "6dda1624-41ca-405b-8b71-3397e6243cca",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "57e04844-d715-4c30-b996-8b08dbb9a7ef"
+      },
+      {
+        "description": null,
+        "lastUpdate": "2024-03-26T11:10:01",
+        "mediaUuid": "34073319-53ec-4cd5-9639-4c1fec374d66",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "403a14d2-a7c4-47f8-b15b-a3dbbe96420b"
+      },
+      {
+        "description": null,
+        "lastUpdate": "2024-03-26T14:44:56",
+        "mediaUuid": "ff386f1a-9426-47b0-b07b-8b18f4aac41d",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "55b8dbb3-bf91-4e9d-b9d9-7a0836dacb2f"
+      }
+    ],
+    "mapItems": [
+      {
+        "latitude": null,
+        "lastUpdate": "2024-03-26T14:43:41",
+        "longitude": null,
+        "mediaUuid": null,
+        "poiUuid": "82583380-ce23-4f86-ae57-510d941b0713",
+        "uuid": "cb5af24b-cd3f-415f-9d3c-194411be952b",
+        "x": 725,
+        "y": 1712
+      },
+      {
+        "latitude": null,
+        "lastUpdate": "2024-03-26T14:44:03",
+        "longitude": null,
+        "mediaUuid": null,
+        "poiUuid": "34103dad-9462-4ea0-b7e2-9d2707f7652e",
+        "uuid": "b7a93147-2a75-4ab5-8930-08cecb54d189",
+        "x": 1878,
+        "y": 2272
+      },
+      {
+        "latitude": null,
+        "lastUpdate": "2024-03-26T14:46:15",
+        "longitude": null,
+        "mediaUuid": null,
+        "poiUuid": "4a18af31-4fde-4e5a-98bf-decf4f5ca421",
+        "uuid": "f4646281-7f98-480a-a7c7-7c748d443b03",
+        "x": 2207,
+        "y": 2272
+      }
+    ],
+    "maps": [
+      {
+        "bottomRightLatitude": null,
+        "bottomRightLongitude": null,
+        "description": null,
+        "height": 4000,
+        "items": [
+          "cb5af24b-cd3f-415f-9d3c-194411be952b",
+          "b7a93147-2a75-4ab5-8930-08cecb54d189"
+        ],
+        "lastUpdate": "2024-03-26T14:45:07",
+        "mapType": "image",
+        "mediaUuid": "70669571-9ccb-4375-a182-d16d452702bd",
+        "order": 0,
+        "subtitle": null,
+        "tag": "map-main-internal",
+        "title": "Piano 0",
+        "topLeftLatitude": null,
+        "topLeftLongitude": null,
+        "uuid": "701c7546-09a5-4338-823d-99d89012cc37",
+        "width": 4000
+      },
+      {
+        "bottomRightLatitude": null,
+        "bottomRightLongitude": null,
+        "description": null,
+        "height": 4000,
+        "items": [
+          "f4646281-7f98-480a-a7c7-7c748d443b03"
+        ],
+        "lastUpdate": "2024-03-26T15:10:56",
+        "mapType": "image",
+        "mediaUuid": "6f43711e-7f5a-40f8-958e-665796565ace",
+        "order": 1,
+        "subtitle": null,
+        "tag": "map-main-internal",
+        "title": "Piano 1",
+        "topLeftLatitude": null,
+        "topLeftLongitude": null,
+        "uuid": "b82a7627-89f7-4c28-bebb-e3ea03d9bf13",
+        "width": 4000
+      }
+    ],
+    "mediaFiles": [
+      {
+        "lastUpdate": "2024-03-26T14:43:03",
+        "mimeType": "image/png",
+        "name": "percorso1_piano0.png",
+        "size": 335632,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/percorso1_piano0.png",
+        "uuid": "70669571-9ccb-4375-a182-d16d452702bd"
+      },
+      {
+        "lastUpdate": "2024-03-26T11:10:59",
+        "mimeType": "image/jpeg",
+        "name": "percorso_1.jpg",
+        "size": 101717,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/percorso_1.jpg",
+        "uuid": "f16e283d-329f-4a8b-a54c-72aaf0b4788a"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:43:16",
+        "mimeType": "image/png",
+        "name": "percorso1_piano1.png",
+        "size": 333212,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/percorso1_piano1.png",
+        "uuid": "6f43711e-7f5a-40f8-958e-665796565ace"
+      },
+      {
+        "lastUpdate": "2024-03-26T11:08:28",
+        "mimeType": "image/jpeg",
+        "name": "poi1.jpg",
+        "size": 488309,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/poi1.jpg",
+        "uuid": "6dda1624-41ca-405b-8b71-3397e6243cca"
+      },
+      {
+        "lastUpdate": "2024-03-26T11:09:02",
+        "mimeType": "image/jpeg",
+        "name": "poi2.jpg",
+        "size": 530037,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/poi2.jpg",
+        "uuid": "34073319-53ec-4cd5-9639-4c1fec374d66"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:44:55",
+        "mimeType": "image/jpeg",
+        "name": "poi3.jpg",
+        "size": 467145,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/poi3.jpg",
+        "uuid": "ff386f1a-9426-47b0-b07b-8b18f4aac41d"
+      }
+    ],
+    "pathCategories": [
+      {
+        "code": "39F67161-4F70-4333-9F73-751F1B74AE92",
+        "color": "",
+        "description": "",
+        "lastUpdate": "2024-03-26T11:11:51",
+        "mediaUuid": null,
+        "order": 1,
+        "subtitle": "",
+        "tag": "preview",
+        "type": "mainPage",
+        "title": "Itinerari al Museo",
+        "uuid": "6542ebd1-bb30-4d03-be32-d60043fae905"
+      }
+    ],
+    "poiOrder": [
+      {
+        "index": 0,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "82583380-ce23-4f86-ae57-510d941b0713"
+      },
+      {
+        "index": 1,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "34103dad-9462-4ea0-b7e2-9d2707f7652e"
+      },
+      {
+        "index": 2,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "4a18af31-4fde-4e5a-98bf-decf4f5ca421"
+      }
+    ],
+    "pois": [
+      {
+        "categories": [],
+        "description": "<p>Poi 1</p>\n",
+        "lastUpdate": "2024-03-26T15:43:45",
+        "mediaUuid": "6dda1624-41ca-405b-8b71-3397e6243cca",
+        "subtitle": "",
+        "tag": "poi-main-internal",
+        "title": "Poi 1",
+        "uuid": "82583380-ce23-4f86-ae57-510d941b0713"
+      },
+      {
+        "categories": [],
+        "description": "<p>Poi 2</p>\n",
+        "lastUpdate": "2024-03-26T15:44:00",
+        "mediaUuid": "34073319-53ec-4cd5-9639-4c1fec374d66",
+        "subtitle": "",
+        "tag": "poi-main-internal",
+        "title": "Poi 2",
+        "uuid": "34103dad-9462-4ea0-b7e2-9d2707f7652e"
+      },
+      {
+        "categories": [],
+        "description": "<p>Poi 3</p>\n",
+        "lastUpdate": "2024-03-26T15:44:14",
+        "mediaUuid": "ff386f1a-9426-47b0-b07b-8b18f4aac41d",
+        "subtitle": "",
+        "tag": "poi-main-internal",
+        "title": "Poi 3",
+        "uuid": "4a18af31-4fde-4e5a-98bf-decf4f5ca421"
+      }
+    ],
+    "qrCodes": [
+      {
+        "lastUpdate": "2024-03-26T15:40:23",
+        "scanInfo": "https://ettsolutions.com/?q=poi_01",
+        "tag": "QRCode 1",
+        "uuid": "2b6cdfba-4efa-4f8e-b734-51f91e8e2752"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:40:34",
+        "scanInfo": "https://ettsolutions.com/?q=poi_02",
+        "tag": "QRCode 2",
+        "uuid": "a7ff598b-52d6-45bb-9c3f-cc673da390a7"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:40:47",
+        "scanInfo": "https://ettsolutions.com/?q=poi_03",
+        "tag": "QRCode 3",
+        "uuid": "80807ea0-c262-4600-9c35-946d735ddb7e"
+      }
+    ],
+    "relations": [
+      {
+        "inType": "EPT",
+        "inUuid": "",
+        "poiUuid": "",
+        "outType": "MAP",
+        "outUuid": "701c7546-09a5-4338-823d-99d89012cc37"
+      },
+      {
+        "inType": "EPT",
+        "inUuid": "",
+        "poiUuid": "",
+        "outType": "MAP",
+        "outUuid": "b82a7627-89f7-4c28-bebb-e3ea03d9bf13"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "0469a115-b286-4cbc-85ad-1643235dd03b",
+        "poiUuid": "82583380-ce23-4f86-ae57-510d941b0713",
+        "outType": "GLR",
+        "outUuid": "625a40f6-5965-4b08-b560-c777b86578bd"
+      },
+      {
+        "inType": "BCN",
+        "inUuid": "dd60a8a3-ed32-493a-a6a9-41c2b795b887",
+        "poiUuid": "82583380-ce23-4f86-ae57-510d941b0713",
+        "outType": "SHT",
+        "outUuid": "9cfad3ba-ea92-4b81-81ae-fb0833f7e77b"
+      },
+      {
+        "inType": "QRC",
+        "inUuid": "2b6cdfba-4efa-4f8e-b734-51f91e8e2752",
+        "poiUuid": "82583380-ce23-4f86-ae57-510d941b0713",
+        "outType": "SHT",
+        "outUuid": "9cfad3ba-ea92-4b81-81ae-fb0833f7e77b"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "67fb3ee9-c91f-45d3-a5fe-28cc7c033971",
+        "poiUuid": "34103dad-9462-4ea0-b7e2-9d2707f7652e",
+        "outType": "GLR",
+        "outUuid": "2d6048f6-0082-4b90-abe7-3f766fa3e907"
+      },
+      {
+        "inType": "BCN",
+        "inUuid": "60bb3af8-78ef-4ff3-b497-4fac085c664b",
+        "poiUuid": "34103dad-9462-4ea0-b7e2-9d2707f7652e",
+        "outType": "SHT",
+        "outUuid": "9b7bd28b-dda4-47fa-ba33-2582ef5f5f71"
+      },
+      {
+        "inType": "QRC",
+        "inUuid": "a7ff598b-52d6-45bb-9c3f-cc673da390a7",
+        "poiUuid": "34103dad-9462-4ea0-b7e2-9d2707f7652e",
+        "outType": "SHT",
+        "outUuid": "9b7bd28b-dda4-47fa-ba33-2582ef5f5f71"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "c2727932-d943-49ec-82a9-36a3b897beca",
+        "poiUuid": "4a18af31-4fde-4e5a-98bf-decf4f5ca421",
+        "outType": "GLR",
+        "outUuid": "264b0890-4cd1-440d-b94c-5e86d7512354"
+      },
+      {
+        "inType": "BCN",
+        "inUuid": "48917e04-95b3-4af1-8364-5d110f9b5fc9",
+        "poiUuid": "4a18af31-4fde-4e5a-98bf-decf4f5ca421",
+        "outType": "SHT",
+        "outUuid": "1f0e63b6-3cf0-435d-8038-5342ddeb8e42"
+      },
+      {
+        "inType": "QRC",
+        "inUuid": "80807ea0-c262-4600-9c35-946d735ddb7e",
+        "poiUuid": "4a18af31-4fde-4e5a-98bf-decf4f5ca421",
+        "outType": "SHT",
+        "outUuid": "1f0e63b6-3cf0-435d-8038-5342ddeb8e42"
+      },
+      {
+        "inType": "EPT",
+        "inUuid": "",
+        "poiUuid": "",
+        "outType": "SHT",
+        "outUuid": "979d3fe2-a623-44ec-9dd8-92c5878a58a3"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "88adeb1e-d530-4ba2-b3b0-97023940d35b",
+        "poiUuid": "82583380-ce23-4f86-ae57-510d941b0713",
+        "outType": "SHT",
+        "outUuid": "9cfad3ba-ea92-4b81-81ae-fb0833f7e77b"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "685bb3c5-9fa8-4adb-b5dc-53e532da17f5",
+        "poiUuid": "34103dad-9462-4ea0-b7e2-9d2707f7652e",
+        "outType": "SHT",
+        "outUuid": "9b7bd28b-dda4-47fa-ba33-2582ef5f5f71"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "2d1dba79-451c-49fd-8201-7e7aabe23454",
+        "poiUuid": "4a18af31-4fde-4e5a-98bf-decf4f5ca421",
+        "outType": "SHT",
+        "outUuid": "1f0e63b6-3cf0-435d-8038-5342ddeb8e42"
+      }
+    ],
+    "sheetItems": [
+      {
+        "lastUpdate": "2024-03-26T11:09:46",
+        "order": 0,
+        "uuid": "0469a115-b286-4cbc-85ad-1643235dd03b"
+      },
+      {
+        "lastUpdate": "2024-03-26T11:10:01",
+        "order": 0,
+        "uuid": "67fb3ee9-c91f-45d3-a5fe-28cc7c033971"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:44:55",
+        "order": 0,
+        "uuid": "c2727932-d943-49ec-82a9-36a3b897beca"
+      },
+      {
+        "lastUpdate": "2024-03-26T11:10:59",
+        "order": 0,
+        "uuid": "88adeb1e-d530-4ba2-b3b0-97023940d35b"
+      },
+      {
+        "lastUpdate": "2024-03-26T11:10:59",
+        "order": 1,
+        "uuid": "685bb3c5-9fa8-4adb-b5dc-53e532da17f5"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:46:15",
+        "order": 2,
+        "uuid": "2d1dba79-451c-49fd-8201-7e7aabe23454"
+      }
+    ],
+    "sheets": [
+      {
+        "description": "<p>Poi 1</p>\n",
+        "extraData": null,
+        "items": [
+          "0469a115-b286-4cbc-85ad-1643235dd03b"
+        ],
+        "lastUpdate": "2024-03-26T11:09:46",
+        "mediaUuid": "6dda1624-41ca-405b-8b71-3397e6243cca",
+        "subtitle": "",
+        "tag": "poi-main-internal-entry-sheet",
+        "title": "Poi 1",
+        "uuid": "9cfad3ba-ea92-4b81-81ae-fb0833f7e77b"
+      },
+      {
+        "description": "<p>Poi 2</p>\n",
+        "extraData": null,
+        "items": [
+          "67fb3ee9-c91f-45d3-a5fe-28cc7c033971"
+        ],
+        "lastUpdate": "2024-03-26T11:10:01",
+        "mediaUuid": "34073319-53ec-4cd5-9639-4c1fec374d66",
+        "subtitle": "",
+        "tag": "poi-main-internal-entry-sheet",
+        "title": "Poi 2",
+        "uuid": "9b7bd28b-dda4-47fa-ba33-2582ef5f5f71"
+      },
+      {
+        "description": "<p>Poi 3</p>\n",
+        "extraData": null,
+        "items": [
+          "c2727932-d943-49ec-82a9-36a3b897beca"
+        ],
+        "lastUpdate": "2024-03-26T14:44:56",
+        "mediaUuid": "ff386f1a-9426-47b0-b07b-8b18f4aac41d",
+        "subtitle": "",
+        "tag": "poi-main-internal-entry-sheet",
+        "title": "Poi 3",
+        "uuid": "1f0e63b6-3cf0-435d-8038-5342ddeb8e42"
+      },
+      {
+        "description": "<p>Non hai molto tempo? Con questo percorso potrai scoprire le opere da non perdere e le storie principali del Museo.</p>\n",
+        "extraData": null,
+        "items": [
+          "88adeb1e-d530-4ba2-b3b0-97023940d35b",
+          "685bb3c5-9fa8-4adb-b5dc-53e532da17f5",
+          "2d1dba79-451c-49fd-8201-7e7aabe23454"
+        ],
+        "lastUpdate": "2024-03-26T14:46:15",
+        "mediaUuid": "f16e283d-329f-4a8b-a54c-72aaf0b4788a",
+        "subtitle": "Tempo stimato: 1h",
+        "tag": "path-main-internal-entry-sheet",
+        "title": "Percorso Breve",
+        "uuid": "979d3fe2-a623-44ec-9dd8-92c5878a58a3"
+      }
+    ]
+  },
+  {
+    "categories": [
+      "0a7a951f-db4a-4b03-ac93-ed26c20ec9f1"
+    ],
+    "color": null,
+    "description": "",
+    "lastUpdate": "2024-03-26T15:52:57",
+    "mediaUuid": null,
+    "order": 0,
+    "skuCode": null,
+    "subtitle": "",
+    "tag": "bookmarks",
+    "totalSize": 0,
+    "title": "Preferiti",
+    "uuid": "2b08d37c-e7fd-41ef-b5af-2782d76665c7",
+    "pathCategories": [
+      {
+        "code": "C64E1D8E-749B-44D9-925B-12B636D88759",
+        "color": "",
+        "description": "",
+        "lastUpdate": "2024-03-26T11:25:48",
+        "mediaUuid": null,
+        "order": 7,
+        "subtitle": "",
+        "tag": "bookmarks",
+        "type": "mainPage",
+        "title": "I miei Preferiti",
+        "uuid": "0a7a951f-db4a-4b03-ac93-ed26c20ec9f1"
+      }
+    ]
+  },
+  {
+    "categories": [
+      "b42d428f-c152-4f60-8a74-1f231a4de561"
+    ],
+    "color": "#EFBB2B",
+    "description": "<p>Visita il Museo anche da casa per scoprire le collezioni e immergerti nella storia.</p>\n",
+    "lastUpdate": "2024-03-26T15:54:15",
+    "mediaUuid": "6ca2f95a-007a-4159-9071-21b27bbff154",
+    "order": 0,
+    "skuCode": null,
+    "subtitle": "",
+    "tag": "path-links",
+    "totalSize": 13470,
+    "title": "Virtual Tour",
+    "uuid": "2f3ee3fa-3ce2-4957-aad2-2eea3c12ce0d",
+    "mediaFiles": [
+      {
+        "lastUpdate": "2024-03-26T15:52:31",
+        "mimeType": "image/png",
+        "name": "secondary_matterport.png",
+        "size": 6735,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/secondary_matterport.png",
+        "uuid": "6ca2f95a-007a-4159-9071-21b27bbff154"
+      }
+    ],
+    "pathCategories": [
+      {
+        "code": "F6540B7E-87AD-4657-A9C4-2561352C67A2",
+        "color": "",
+        "description": "",
+        "lastUpdate": "2024-03-26T15:54:15",
+        "mediaUuid": null,
+        "order": 4,
+        "subtitle": "",
+        "tag": "secondary-expanded",
+        "type": "mainPage",
+        "title": "",
+        "uuid": "b42d428f-c152-4f60-8a74-1f231a4de561"
+      }
+    ],
+    "poiOrder": [
+      {
+        "index": 0,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "8cd48aa7-5086-4cfa-b46e-c138dd88bd53"
+      }
+    ],
+    "pois": [
+      {
+        "categories": [],
+        "description": "<p>Visita il Museo anche da casa per scoprire le collezioni e immergerti nella storia.</p>\n",
+        "lastUpdate": "2024-03-26T15:52:32",
+        "mediaUuid": "6ca2f95a-007a-4159-9071-21b27bbff154",
+        "subtitle": "",
+        "tag": "poi-links",
+        "title": "Virtual Tour",
+        "uuid": "8cd48aa7-5086-4cfa-b46e-c138dd88bd53"
+      }
+    ],
+    "relations": [
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "98842a75-9d0d-4127-bb22-7b0612d8c5dd",
+        "poiUuid": "8cd48aa7-5086-4cfa-b46e-c138dd88bd53",
+        "outType": "SHT",
+        "outUuid": "a0994c41-b4e0-4eaa-9090-1120ea109821"
+      },
+      {
+        "inType": "EPT",
+        "inUuid": "",
+        "poiUuid": "",
+        "outType": "SHT",
+        "outUuid": "1e58da33-c90c-4075-b958-f08dd9efc038"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "dc20afcc-7ec8-4e00-b47f-cd3ac5e5339f",
+        "poiUuid": "8cd48aa7-5086-4cfa-b46e-c138dd88bd53",
+        "outType": "SHT",
+        "outUuid": "0a832f76-7ea2-4e64-aaa2-9abe71c92455"
+      }
+    ],
+    "sheetItems": [
+      {
+        "lastUpdate": "2024-03-26T15:52:31",
+        "order": 0,
+        "uuid": "98842a75-9d0d-4127-bb22-7b0612d8c5dd"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:52:31",
+        "order": 0,
+        "uuid": "dc20afcc-7ec8-4e00-b47f-cd3ac5e5339f"
+      }
+    ],
+    "sheets": [
+      {
+        "description": null,
+        "extraData": null,
+        "items": [],
+        "lastUpdate": "2024-03-26T15:52:32",
+        "mediaUuid": null,
+        "subtitle": "http://www.google.com",
+        "tag": "link-sheet",
+        "title": null,
+        "uuid": "a0994c41-b4e0-4eaa-9090-1120ea109821"
+      },
+      {
+        "description": "<p>Visita il Museo anche da casa per scoprire le collezioni e immergerti nella storia.</p>\n",
+        "extraData": null,
+        "items": [
+          "98842a75-9d0d-4127-bb22-7b0612d8c5dd"
+        ],
+        "lastUpdate": "2024-03-26T15:52:32",
+        "mediaUuid": "6ca2f95a-007a-4159-9071-21b27bbff154",
+        "subtitle": "",
+        "tag": "poi-links-entry-sheet",
+        "title": "Virtual Tour",
+        "uuid": "0a832f76-7ea2-4e64-aaa2-9abe71c92455"
+      },
+      {
+        "description": null,
+        "extraData": null,
+        "items": [
+          "dc20afcc-7ec8-4e00-b47f-cd3ac5e5339f"
+        ],
+        "lastUpdate": "2024-03-26T15:52:32",
+        "mediaUuid": null,
+        "subtitle": null,
+        "tag": "path-links-entry-sheet",
+        "title": "Virtual Tour",
+        "uuid": "1e58da33-c90c-4075-b958-f08dd9efc038"
+      }
+    ]
+  },
+  {
+    "categories": [],
+    "color": null,
+    "description": null,
+    "lastUpdate": "2024-03-26T16:08:42",
+    "mediaUuid": null,
+    "order": 0,
+    "skuCode": null,
+    "subtitle": null,
+    "tag": "path-extra",
+    "totalSize": 89080,
+    "title": "",
+    "uuid": "470a0c3a-6295-4119-99e5-4b03c13f58db",
+    "mediaFiles": [
+      {
+        "lastUpdate": "2024-03-26T16:08:23",
+        "mimeType": "image/png",
+        "name": "loghi_credits.png",
+        "size": 44540,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/loghi_credits.png",
+        "uuid": "71b67ab0-aeba-44d1-8abe-522fc1ea96ad"
+      }
+    ],
+    "poiOrder": [
+      {
+        "index": 0,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "d7468c97-917e-45a4-b413-556660039a92"
+      }
+    ],
+    "pois": [
+      {
+        "categories": [],
+        "description": null,
+        "lastUpdate": "2024-03-26T16:08:24",
+        "mediaUuid": null,
+        "subtitle": null,
+        "tag": "poi-extra",
+        "title": "",
+        "uuid": "d7468c97-917e-45a4-b413-556660039a92"
+      }
+    ],
+    "relations": [
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "32644fda-23c8-477e-8c1f-d3346bf6a9f0",
+        "poiUuid": "d7468c97-917e-45a4-b413-556660039a92",
+        "outType": "SHT",
+        "outUuid": "5b55a1dd-408c-40e2-b244-04b0f6909ad2"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "8a58911a-0a69-4079-b323-8f931f0a1291",
+        "poiUuid": "d7468c97-917e-45a4-b413-556660039a92",
+        "outType": "SHT",
+        "outUuid": "6dd81f4c-ffd6-4ede-95d0-2c87640c16a0"
+      },
+      {
+        "inType": "EPT",
+        "inUuid": "",
+        "poiUuid": "",
+        "outType": "SHT",
+        "outUuid": "2060a59a-4404-4c5f-bd37-508c8cb50253"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "5bf57c3e-0604-4ecc-999d-a943a45fd0ac",
+        "poiUuid": "d7468c97-917e-45a4-b413-556660039a92",
+        "outType": "SHT",
+        "outUuid": "d35114d2-1161-40c1-8ff8-474fa2d34a0a"
+      }
+    ],
+    "sheetItems": [
+      {
+        "lastUpdate": "2024-03-26T16:08:23",
+        "order": 0,
+        "uuid": "32644fda-23c8-477e-8c1f-d3346bf6a9f0"
+      },
+      {
+        "lastUpdate": "2024-03-26T16:08:23",
+        "order": 0,
+        "uuid": "8a58911a-0a69-4079-b323-8f931f0a1291"
+      },
+      {
+        "lastUpdate": "2024-03-26T16:08:33",
+        "order": 0,
+        "uuid": "5bf57c3e-0604-4ecc-999d-a943a45fd0ac"
+      }
+    ],
+    "sheets": [
+      {
+        "description": "",
+        "extraData": null,
+        "items": [],
+        "lastUpdate": "2024-03-26T16:08:24",
+        "mediaUuid": "71b67ab0-aeba-44d1-8abe-522fc1ea96ad",
+        "subtitle": "",
+        "tag": "image-block",
+        "title": "",
+        "uuid": "5b55a1dd-408c-40e2-b244-04b0f6909ad2"
+      },
+      {
+        "description": null,
+        "extraData": null,
+        "items": [
+          "32644fda-23c8-477e-8c1f-d3346bf6a9f0"
+        ],
+        "lastUpdate": "2024-03-26T16:08:24",
+        "mediaUuid": null,
+        "subtitle": null,
+        "tag": "other-sheet",
+        "title": null,
+        "uuid": "6dd81f4c-ffd6-4ede-95d0-2c87640c16a0"
+      },
+      {
+        "description": null,
+        "extraData": null,
+        "items": [
+          "8a58911a-0a69-4079-b323-8f931f0a1291"
+        ],
+        "lastUpdate": "2024-03-26T16:08:24",
+        "mediaUuid": null,
+        "subtitle": null,
+        "tag": "poi-extra-entry-sheet",
+        "title": "",
+        "uuid": "d35114d2-1161-40c1-8ff8-474fa2d34a0a"
+      },
+      {
+        "description": null,
+        "extraData": null,
+        "items": [
+          "5bf57c3e-0604-4ecc-999d-a943a45fd0ac"
+        ],
+        "lastUpdate": "2024-03-26T16:08:33",
+        "mediaUuid": null,
+        "subtitle": null,
+        "tag": "path-extra-entry-sheet",
+        "title": "",
+        "uuid": "2060a59a-4404-4c5f-bd37-508c8cb50253"
+      }
+    ]
+  },
+  {
+    "categories": [
+      "ef91da05-0e2c-4016-b3c3-9b46fb78650f"
+    ],
+    "color": "#EFBB2B",
+    "description": "<p>Esplora i contenuti da non perdere tramite image recognition.</p>\n",
+    "lastUpdate": "2024-03-28T15:27:01",
+    "mediaUuid": "c390c5fa-e1f0-4f77-b7c9-b375f0874a00",
+    "order": 0,
+    "skuCode": null,
+    "subtitle": "",
+    "tag": "path-main-list-imagemarker",
+    "totalSize": 1888198,
+    "title": "Da non perdere al Museo",
+    "uuid": "49808320-baf7-4ea1-a351-8503de3b1aed",
+    "galleries": [
+      {
+        "description": null,
+        "items": [
+          "1667b5b5-f13e-4a0a-978e-376fd0a4d4a7"
+        ],
+        "lastUpdate": "2024-03-27T14:31:34",
+        "subtitle": null,
+        "tag": "images-gallery",
+        "title": null,
+        "uuid": "983d9304-fcfb-4a58-8393-10603879d668"
+      }
+    ],
+    "galleryItems": [
+      {
+        "description": null,
+        "lastUpdate": "2024-03-27T14:31:34",
+        "mediaUuid": "f534a962-cf40-46e1-973e-6e5bc28ba576",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "1667b5b5-f13e-4a0a-978e-376fd0a4d4a7"
+      }
+    ],
+    "imageMarkers": [
+      {
+        "lastUpdate": "2024-03-27T14:26:12",
+        "scanInfo": "66042c7b727868ff90113056",
+        "uuid": "67b82b87-6cb5-487e-bb85-d4ab70b2eb96"
+      }
+    ],
+    "mediaFiles": [
+      {
+        "lastUpdate": "2024-03-27T11:20:15",
+        "mimeType": "image/jpeg",
+        "name": "percorso_4.jpg",
+        "size": 112323,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/percorso_4.jpg",
+        "uuid": "c390c5fa-e1f0-4f77-b7c9-b375f0874a00"
+      },
+      {
+        "lastUpdate": "2024-03-27T14:25:27",
+        "mimeType": "image/jpeg",
+        "name": "Testa_di_Apollo.jpg",
+        "size": 253153,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/Testa_di_Apollo.jpg",
+        "uuid": "f534a962-cf40-46e1-973e-6e5bc28ba576"
+      },
+      {
+        "lastUpdate": "2024-03-27T14:25:25",
+        "mimeType": "image/jpeg",
+        "name": "205140151-e2127501-7c2a-4e90-ba87-ba6764bb3e2f.jpg",
+        "size": 75172,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/205140151-e2127501-7c2a-4e90-ba87-ba6764bb3e2f.jpg",
+        "uuid": "1baef623-5ad3-4769-bc35-6aa621cb1996"
+      },
+      {
+        "lastUpdate": "2024-03-27T14:25:26",
+        "mimeType": "image/jpeg",
+        "name": "Museo-archeologico-provinciale-Salerno-Apollo-225x300-1.jpg",
+        "size": 12285,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/Museo-archeologico-provinciale-Salerno-Apollo-225x300-1.jpg",
+        "uuid": "186052c9-256e-4844-b4ca-6e25993891d0"
+      },
+      {
+        "lastUpdate": "2024-03-27T14:25:26",
+        "mimeType": "image/jpeg",
+        "name": "10858504_756053207823252_4148492767854032789_n-250x250-1.jpg",
+        "size": 19629,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/10858504_756053207823252_4148492767854032789_n-250x250-1.jpg",
+        "uuid": "8c4027f4-d32e-4a9b-8703-e85e0166d1e5"
+      },
+      {
+        "lastUpdate": "2024-03-27T14:25:26",
+        "mimeType": "image/jpeg",
+        "name": "WhatsApp-Image-2023-12-05-at-16.37.53.jpeg",
+        "size": 48108,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/WhatsApp-Image-2023-12-05-at-16.37.53.jpeg",
+        "uuid": "96a8dc49-894a-4256-9df7-8bb83c7c331f"
+      },
+      {
+        "lastUpdate": "2024-03-27T14:25:27",
+        "mimeType": "image/jpeg",
+        "name": "Salerno-testa-di-Apollo-640x430-1.jpg",
+        "size": 46219,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/Salerno-testa-di-Apollo-640x430-1.jpg",
+        "uuid": "be374142-9ee7-4fe6-bcba-133a98f47035"
+      },
+      {
+        "lastUpdate": "2024-03-27T14:25:27",
+        "mimeType": "image/jpeg",
+        "name": "apollo.jpg",
+        "size": 377210,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/apollo.jpg",
+        "uuid": "f9db4b86-b099-49ef-8d24-c7c2c9ba0b15"
+      }
+    ],
+    "pathCategories": [
+      {
+        "code": "F8184B86-2B85-4920-90C7-EF591A668FC4",
+        "color": "",
+        "description": "",
+        "lastUpdate": "2024-03-26T11:13:48",
+        "mediaUuid": null,
+        "order": 2,
+        "subtitle": "",
+        "tag": "button",
+        "type": "mainPage",
+        "title": "",
+        "uuid": "ef91da05-0e2c-4016-b3c3-9b46fb78650f"
+      }
+    ],
+    "poiOrder": [
+      {
+        "index": 0,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "a55c9c76-9b8e-4011-b834-0cf8169a1bf8"
+      }
+    ],
+    "pois": [
+      {
+        "categories": [],
+        "description": "<p>Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa. Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.</p>\n",
+        "lastUpdate": "2024-03-27T14:31:34",
+        "mediaUuid": "f534a962-cf40-46e1-973e-6e5bc28ba576",
+        "subtitle": "",
+        "tag": "poi-main-list",
+        "title": "Testa bronzea di Apollo",
+        "uuid": "a55c9c76-9b8e-4011-b834-0cf8169a1bf8"
+      }
+    ],
+    "relations": [
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "0ee56601-4b9b-499f-8c54-21d1699e0a3f",
+        "poiUuid": "a55c9c76-9b8e-4011-b834-0cf8169a1bf8",
+        "outType": "US_AC",
+        "outUuid": "ec3481c2-0802-44f6-b3f7-27ab2355c65d"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "f1a42e78-0b06-453c-bb95-d19d1e3ddf0e",
+        "poiUuid": "a55c9c76-9b8e-4011-b834-0cf8169a1bf8",
+        "outType": "GLR",
+        "outUuid": "983d9304-fcfb-4a58-8393-10603879d668"
+      },
+      {
+        "inType": "IMG_MRK",
+        "inUuid": "67b82b87-6cb5-487e-bb85-d4ab70b2eb96",
+        "poiUuid": "a55c9c76-9b8e-4011-b834-0cf8169a1bf8",
+        "outType": "SHT",
+        "outUuid": "facd14d8-079b-4fc7-9ac9-b551a95a0fab"
+      },
+      {
+        "inType": "EPT",
+        "inUuid": "",
+        "poiUuid": "",
+        "outType": "SHT",
+        "outUuid": "e0f99c44-d8e5-43af-87d9-2c26525303cd"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "34483bf8-3fd5-4d8a-b7f4-e0282b52af39",
+        "poiUuid": "a55c9c76-9b8e-4011-b834-0cf8169a1bf8",
+        "outType": "SHT",
+        "outUuid": "facd14d8-079b-4fc7-9ac9-b551a95a0fab"
+      }
+    ],
+    "sheetItems": [
+      {
+        "lastUpdate": "2024-03-27T14:27:27",
+        "order": 0,
+        "uuid": "0ee56601-4b9b-499f-8c54-21d1699e0a3f"
+      },
+      {
+        "lastUpdate": "2024-03-27T14:31:34",
+        "order": 1,
+        "uuid": "f1a42e78-0b06-453c-bb95-d19d1e3ddf0e"
+      },
+      {
+        "lastUpdate": "2024-03-27T11:20:15",
+        "order": 0,
+        "uuid": "34483bf8-3fd5-4d8a-b7f4-e0282b52af39"
+      }
+    ],
+    "sheets": [
+      {
+        "description": "<p>Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa. Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.</p>\n",
+        "extraData": null,
+        "items": [
+          "0ee56601-4b9b-499f-8c54-21d1699e0a3f",
+          "f1a42e78-0b06-453c-bb95-d19d1e3ddf0e"
+        ],
+        "lastUpdate": "2024-03-27T14:31:34",
+        "mediaUuid": "f534a962-cf40-46e1-973e-6e5bc28ba576",
+        "subtitle": "",
+        "tag": "poi-main-list-entry-sheet",
+        "title": "Testa bronzea di Apollo",
+        "uuid": "facd14d8-079b-4fc7-9ac9-b551a95a0fab"
+      },
+      {
+        "description": "<p>Esplora i contenuti da non perdere tramite image recognition.</p>\n",
+        "extraData": null,
+        "items": [
+          "34483bf8-3fd5-4d8a-b7f4-e0282b52af39"
+        ],
+        "lastUpdate": "2024-03-28T15:27:01",
+        "mediaUuid": "c390c5fa-e1f0-4f77-b7c9-b375f0874a00",
+        "subtitle": "",
+        "tag": "path-main-list-imagemarker-entry-sheet",
+        "title": "Da non perdere al Museo",
+        "uuid": "e0f99c44-d8e5-43af-87d9-2c26525303cd"
+      }
+    ],
+    "unityscenes": [
+      {
+        "code": "FADDA6A5-2435-42A0-89C9-84A33CD1E885",
+        "dependencies": "",
+        "extra": "{\r\n  \"hexColor\": \"#EFBB2B\",\r\n  \"addressablesPath\": \"http://demo02.ettsolutions.it/ettproject/VdtAR/Suggestus\",\r\n  \"catalogName\": \"catalog_0.1.json\",\r\n  \"modelLabel\": \"Apollo\",\r\n  \"titleIt\": \"\",\r\n  \"subtitleIt\": \"\",\r\n  \"titleEn\": \"\",\r\n  \"subtitleEn\": \"\"\r\n}",
+        "lastUpdate": "2024-03-26T16:13:57",
+        "name": "General",
+        "uuid": "ec3481c2-0802-44f6-b3f7-27ab2355c65d"
+      }
+    ]
+  },
+  {
+    "categories": [
+      "6542ebd1-bb30-4d03-be32-d60043fae905"
+    ],
+    "color": "#EFBB2B",
+    "description": "<p>Preparati a goderti qualche ora tra le opere che hanno fatto la storia del Museo. Esplora l&#8217;intera raccolta degli artisti del XVI secolo.</p>\n",
+    "lastUpdate": "2024-03-26T15:44:54",
+    "mediaUuid": "378ad0ac-82f6-48d3-8b14-bdef7ce8716f",
+    "order": 2,
+    "skuCode": null,
+    "subtitle": "Tempo stimato: 3h",
+    "tag": "path-main-internal",
+    "totalSize": 7102468,
+    "title": "Percorso Integrale",
+    "uuid": "66fa7a19-dc46-45ee-9610-5b9a4849e38d",
+    "beacons": [
+      {
+        "lastUpdate": "2024-03-26T15:43:45",
+        "major": 1,
+        "minor": 1,
+        "name": "Beacon 1",
+        "proximityUuid": "12345678-1234-1234-1234-123456789abc",
+        "radius": 10.0,
+        "uuid": "dd60a8a3-ed32-493a-a6a9-41c2b795b887"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:44:00",
+        "major": 1,
+        "minor": 2,
+        "name": "Beacon 2",
+        "proximityUuid": "12345678-1234-1234-1234-123456789abc",
+        "radius": 10.0,
+        "uuid": "60bb3af8-78ef-4ff3-b497-4fac085c664b"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:44:14",
+        "major": 1,
+        "minor": 3,
+        "name": "Beacon 3",
+        "proximityUuid": "12345678-1234-1234-1234-123456789abc",
+        "radius": 10.0,
+        "uuid": "48917e04-95b3-4af1-8364-5d110f9b5fc9"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:44:28",
+        "major": 1,
+        "minor": 4,
+        "name": "Beacon 4",
+        "proximityUuid": "12345678-1234-1234-1234-123456789abc",
+        "radius": 10.0,
+        "uuid": "e36e9ba5-a8ec-4ba1-98a4-bffca0aeeb85"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:44:40",
+        "major": 1,
+        "minor": 5,
+        "name": "Beacon 5",
+        "proximityUuid": "12345678-1234-1234-1234-123456789abc",
+        "radius": 10.0,
+        "uuid": "4473dbbc-0b4e-4a79-ae2a-ac40c11ebf1a"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:44:54",
+        "major": 1,
+        "minor": 6,
+        "name": "Beacon 6",
+        "proximityUuid": "12345678-1234-1234-1234-123456789abc",
+        "radius": 10.0,
+        "uuid": "b20b6928-e52c-4b1a-805f-cab2e05b782c"
+      }
+    ],
+    "galleries": [
+      {
+        "description": null,
+        "items": [
+          "57e04844-d715-4c30-b996-8b08dbb9a7ef"
+        ],
+        "lastUpdate": "2024-03-26T11:09:46",
+        "subtitle": null,
+        "tag": "images-gallery",
+        "title": null,
+        "uuid": "625a40f6-5965-4b08-b560-c777b86578bd"
+      },
+      {
+        "description": null,
+        "items": [
+          "403a14d2-a7c4-47f8-b15b-a3dbbe96420b"
+        ],
+        "lastUpdate": "2024-03-26T11:10:01",
+        "subtitle": null,
+        "tag": "images-gallery",
+        "title": null,
+        "uuid": "2d6048f6-0082-4b90-abe7-3f766fa3e907"
+      },
+      {
+        "description": null,
+        "items": [
+          "55b8dbb3-bf91-4e9d-b9d9-7a0836dacb2f"
+        ],
+        "lastUpdate": "2024-03-26T14:44:56",
+        "subtitle": null,
+        "tag": "images-gallery",
+        "title": null,
+        "uuid": "264b0890-4cd1-440d-b94c-5e86d7512354"
+      },
+      {
+        "description": null,
+        "items": [
+          "a3b07a31-f7ab-4e9c-95f8-3b3d6398bdcd"
+        ],
+        "lastUpdate": "2024-03-26T14:47:04",
+        "subtitle": null,
+        "tag": "images-gallery",
+        "title": null,
+        "uuid": "123e303f-f34a-4923-a80f-5accb85ae5db"
+      },
+      {
+        "description": null,
+        "items": [
+          "bd1f586f-ff39-4457-bfa5-fe01bf384c42"
+        ],
+        "lastUpdate": "2024-03-26T14:48:13",
+        "subtitle": null,
+        "tag": "images-gallery",
+        "title": null,
+        "uuid": "e9e5c0cd-30f4-4980-b54b-3c81da6c7ad0"
+      },
+      {
+        "description": null,
+        "items": [
+          "f5400f79-a87d-47d0-9bd2-d368fe944f8b"
+        ],
+        "lastUpdate": "2024-03-26T14:48:49",
+        "subtitle": null,
+        "tag": "images-gallery",
+        "title": null,
+        "uuid": "c8572fc4-3631-419d-a66a-d2d063d47fe4"
+      }
+    ],
+    "galleryItems": [
+      {
+        "description": null,
+        "lastUpdate": "2024-03-26T11:09:46",
+        "mediaUuid": "6dda1624-41ca-405b-8b71-3397e6243cca",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "57e04844-d715-4c30-b996-8b08dbb9a7ef"
+      },
+      {
+        "description": null,
+        "lastUpdate": "2024-03-26T11:10:01",
+        "mediaUuid": "34073319-53ec-4cd5-9639-4c1fec374d66",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "403a14d2-a7c4-47f8-b15b-a3dbbe96420b"
+      },
+      {
+        "description": null,
+        "lastUpdate": "2024-03-26T14:44:56",
+        "mediaUuid": "ff386f1a-9426-47b0-b07b-8b18f4aac41d",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "55b8dbb3-bf91-4e9d-b9d9-7a0836dacb2f"
+      },
+      {
+        "description": null,
+        "lastUpdate": "2024-03-26T14:47:04",
+        "mediaUuid": "60c619ea-be68-40d0-9bd2-dd38b42c71a3",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "a3b07a31-f7ab-4e9c-95f8-3b3d6398bdcd"
+      },
+      {
+        "description": null,
+        "lastUpdate": "2024-03-26T14:48:13",
+        "mediaUuid": "c273d726-14d8-479b-9501-d4566d055844",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "bd1f586f-ff39-4457-bfa5-fe01bf384c42"
+      },
+      {
+        "description": null,
+        "lastUpdate": "2024-03-26T14:48:49",
+        "mediaUuid": "a4e5485f-fc30-4420-b53a-3be7c121652c",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "f5400f79-a87d-47d0-9bd2-d368fe944f8b"
+      }
+    ],
+    "mapItems": [
+      {
+        "latitude": null,
+        "lastUpdate": "2024-03-26T14:49:37",
+        "longitude": null,
+        "mediaUuid": null,
+        "poiUuid": "82583380-ce23-4f86-ae57-510d941b0713",
+        "uuid": "4934563a-69da-446b-beb1-0423d3a4767c",
+        "x": 725,
+        "y": 1712
+      },
+      {
+        "latitude": null,
+        "lastUpdate": "2024-03-26T14:49:37",
+        "longitude": null,
+        "mediaUuid": null,
+        "poiUuid": "34103dad-9462-4ea0-b7e2-9d2707f7652e",
+        "uuid": "96ddfc2b-436a-4b97-9e24-3ef20eb64246",
+        "x": 1878,
+        "y": 2272
+      },
+      {
+        "latitude": null,
+        "lastUpdate": "2024-03-26T14:49:37",
+        "longitude": null,
+        "mediaUuid": null,
+        "poiUuid": "a3a169a6-c7e9-4c9d-b8d6-388abb87e647",
+        "uuid": "709ef030-a1ed-41f5-800b-a89bee5b733a",
+        "x": 2578,
+        "y": 2272
+      },
+      {
+        "latitude": null,
+        "lastUpdate": "2024-03-26T14:49:37",
+        "longitude": null,
+        "mediaUuid": null,
+        "poiUuid": "4a18af31-4fde-4e5a-98bf-decf4f5ca421",
+        "uuid": "c8a21504-a21f-46ac-80b2-94eb161b65ca",
+        "x": 2207,
+        "y": 2272
+      },
+      {
+        "latitude": null,
+        "lastUpdate": "2024-03-26T14:49:37",
+        "longitude": null,
+        "mediaUuid": null,
+        "poiUuid": "6d3a9a4d-03a9-4899-b845-1a32d459dd26",
+        "uuid": "f5eb24f3-5e9e-4881-a6e9-80ecbd7897aa",
+        "x": 1159,
+        "y": 2370
+      },
+      {
+        "latitude": null,
+        "lastUpdate": "2024-03-26T14:49:37",
+        "longitude": null,
+        "mediaUuid": null,
+        "poiUuid": "125885d5-a93c-4938-924e-f31d6b02aea6",
+        "uuid": "c06140a0-036c-4ffe-b5c2-219fcc6826da",
+        "x": 1055,
+        "y": 1712
+      }
+    ],
+    "maps": [
+      {
+        "bottomRightLatitude": null,
+        "bottomRightLongitude": null,
+        "description": null,
+        "height": 4000,
+        "items": [
+          "4934563a-69da-446b-beb1-0423d3a4767c",
+          "96ddfc2b-436a-4b97-9e24-3ef20eb64246",
+          "709ef030-a1ed-41f5-800b-a89bee5b733a"
+        ],
+        "lastUpdate": "2024-03-26T14:49:37",
+        "mapType": "image",
+        "mediaUuid": "70669571-9ccb-4375-a182-d16d452702bd",
+        "order": 0,
+        "subtitle": null,
+        "tag": "map-main-internal",
+        "title": "Piano 0",
+        "topLeftLatitude": null,
+        "topLeftLongitude": null,
+        "uuid": "fd80a701-24a6-4434-b062-8e1ba7314f41",
+        "width": 4000
+      },
+      {
+        "bottomRightLatitude": null,
+        "bottomRightLongitude": null,
+        "description": null,
+        "height": 4000,
+        "items": [
+          "c8a21504-a21f-46ac-80b2-94eb161b65ca",
+          "f5eb24f3-5e9e-4881-a6e9-80ecbd7897aa",
+          "c06140a0-036c-4ffe-b5c2-219fcc6826da"
+        ],
+        "lastUpdate": "2024-03-26T15:10:56",
+        "mapType": "image",
+        "mediaUuid": "6f43711e-7f5a-40f8-958e-665796565ace",
+        "order": 1,
+        "subtitle": null,
+        "tag": "map-main-internal",
+        "title": "Piano 1",
+        "topLeftLatitude": null,
+        "topLeftLongitude": null,
+        "uuid": "23872ef5-509a-40f1-9e79-04bdb4c3a72c",
+        "width": 4000
+      }
+    ],
+    "mediaFiles": [
+      {
+        "lastUpdate": "2024-03-26T14:43:03",
+        "mimeType": "image/png",
+        "name": "percorso1_piano0.png",
+        "size": 335632,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/percorso1_piano0.png",
+        "uuid": "70669571-9ccb-4375-a182-d16d452702bd"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:43:16",
+        "mimeType": "image/png",
+        "name": "percorso1_piano1.png",
+        "size": 333212,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/percorso1_piano1.png",
+        "uuid": "6f43711e-7f5a-40f8-958e-665796565ace"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:49:36",
+        "mimeType": "image/jpeg",
+        "name": "percorso_3.jpg",
+        "size": 115788,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/percorso_3.jpg",
+        "uuid": "378ad0ac-82f6-48d3-8b14-bdef7ce8716f"
+      },
+      {
+        "lastUpdate": "2024-03-26T11:08:28",
+        "mimeType": "image/jpeg",
+        "name": "poi1.jpg",
+        "size": 488309,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/poi1.jpg",
+        "uuid": "6dda1624-41ca-405b-8b71-3397e6243cca"
+      },
+      {
+        "lastUpdate": "2024-03-26T11:09:02",
+        "mimeType": "image/jpeg",
+        "name": "poi2.jpg",
+        "size": 530037,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/poi2.jpg",
+        "uuid": "34073319-53ec-4cd5-9639-4c1fec374d66"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:44:55",
+        "mimeType": "image/jpeg",
+        "name": "poi3.jpg",
+        "size": 467145,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/poi3.jpg",
+        "uuid": "ff386f1a-9426-47b0-b07b-8b18f4aac41d"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:47:03",
+        "mimeType": "image/jpeg",
+        "name": "poi4.jpg",
+        "size": 523230,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/poi4.jpg",
+        "uuid": "60c619ea-be68-40d0-9bd2-dd38b42c71a3"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:48:04",
+        "mimeType": "image/jpeg",
+        "name": "poi5.jpg",
+        "size": 348572,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/poi5.jpg",
+        "uuid": "c273d726-14d8-479b-9501-d4566d055844"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:48:48",
+        "mimeType": "image/jpeg",
+        "name": "poi6.jpg",
+        "size": 409309,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/poi6.jpg",
+        "uuid": "a4e5485f-fc30-4420-b53a-3be7c121652c"
+      }
+    ],
+    "pathCategories": [
+      {
+        "code": "39F67161-4F70-4333-9F73-751F1B74AE92",
+        "color": "",
+        "description": "",
+        "lastUpdate": "2024-03-26T11:11:51",
+        "mediaUuid": null,
+        "order": 1,
+        "subtitle": "",
+        "tag": "preview",
+        "type": "mainPage",
+        "title": "Itinerari al Museo",
+        "uuid": "6542ebd1-bb30-4d03-be32-d60043fae905"
+      }
+    ],
+    "poiOrder": [
+      {
+        "index": 0,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "82583380-ce23-4f86-ae57-510d941b0713"
+      },
+      {
+        "index": 1,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "34103dad-9462-4ea0-b7e2-9d2707f7652e"
+      },
+      {
+        "index": 2,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "4a18af31-4fde-4e5a-98bf-decf4f5ca421"
+      },
+      {
+        "index": 3,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "6d3a9a4d-03a9-4899-b845-1a32d459dd26"
+      },
+      {
+        "index": 4,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "a3a169a6-c7e9-4c9d-b8d6-388abb87e647"
+      },
+      {
+        "index": 5,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "125885d5-a93c-4938-924e-f31d6b02aea6"
+      }
+    ],
+    "pois": [
+      {
+        "categories": [],
+        "description": "<p>Poi 1</p>\n",
+        "lastUpdate": "2024-03-26T15:43:45",
+        "mediaUuid": "6dda1624-41ca-405b-8b71-3397e6243cca",
+        "subtitle": "",
+        "tag": "poi-main-internal",
+        "title": "Poi 1",
+        "uuid": "82583380-ce23-4f86-ae57-510d941b0713"
+      },
+      {
+        "categories": [],
+        "description": "<p>Poi 2</p>\n",
+        "lastUpdate": "2024-03-26T15:44:00",
+        "mediaUuid": "34073319-53ec-4cd5-9639-4c1fec374d66",
+        "subtitle": "",
+        "tag": "poi-main-internal",
+        "title": "Poi 2",
+        "uuid": "34103dad-9462-4ea0-b7e2-9d2707f7652e"
+      },
+      {
+        "categories": [],
+        "description": "<p>Poi 3</p>\n",
+        "lastUpdate": "2024-03-26T15:44:14",
+        "mediaUuid": "ff386f1a-9426-47b0-b07b-8b18f4aac41d",
+        "subtitle": "",
+        "tag": "poi-main-internal",
+        "title": "Poi 3",
+        "uuid": "4a18af31-4fde-4e5a-98bf-decf4f5ca421"
+      },
+      {
+        "categories": [],
+        "description": "<p>Poi 4</p>\n",
+        "lastUpdate": "2024-03-26T15:44:28",
+        "mediaUuid": "60c619ea-be68-40d0-9bd2-dd38b42c71a3",
+        "subtitle": "",
+        "tag": "poi-main-internal",
+        "title": "Poi 4",
+        "uuid": "6d3a9a4d-03a9-4899-b845-1a32d459dd26"
+      },
+      {
+        "categories": [],
+        "description": "<p>Poi 5</p>\n",
+        "lastUpdate": "2024-03-26T15:44:40",
+        "mediaUuid": "c273d726-14d8-479b-9501-d4566d055844",
+        "subtitle": "",
+        "tag": "poi-main-internal",
+        "title": "Poi 5",
+        "uuid": "a3a169a6-c7e9-4c9d-b8d6-388abb87e647"
+      },
+      {
+        "categories": [],
+        "description": "<p>Poi 6</p>\n",
+        "lastUpdate": "2024-03-26T15:44:54",
+        "mediaUuid": "a4e5485f-fc30-4420-b53a-3be7c121652c",
+        "subtitle": "",
+        "tag": "poi-main-internal",
+        "title": "Poi 6",
+        "uuid": "125885d5-a93c-4938-924e-f31d6b02aea6"
+      }
+    ],
+    "qrCodes": [
+      {
+        "lastUpdate": "2024-03-26T15:40:23",
+        "scanInfo": "https://ettsolutions.com/?q=poi_01",
+        "tag": "QRCode 1",
+        "uuid": "2b6cdfba-4efa-4f8e-b734-51f91e8e2752"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:40:34",
+        "scanInfo": "https://ettsolutions.com/?q=poi_02",
+        "tag": "QRCode 2",
+        "uuid": "a7ff598b-52d6-45bb-9c3f-cc673da390a7"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:40:47",
+        "scanInfo": "https://ettsolutions.com/?q=poi_03",
+        "tag": "QRCode 3",
+        "uuid": "80807ea0-c262-4600-9c35-946d735ddb7e"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:41:02",
+        "scanInfo": "https://ettsolutions.com/?q=poi_04",
+        "tag": "QRCode 4",
+        "uuid": "5ca87f99-b5ec-43f8-b4c9-80e2d5be6fa9"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:41:14",
+        "scanInfo": "https://ettsolutions.com/?q=poi_05",
+        "tag": "QRCode 5",
+        "uuid": "39236837-d951-4dd9-bcfc-fab967ba92fa"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:41:24",
+        "scanInfo": "https://ettsolutions.com/?q=poi_06",
+        "tag": "QRCode 6",
+        "uuid": "399dc754-b1f2-4522-9543-c13a224460f7"
+      }
+    ],
+    "relations": [
+      {
+        "inType": "EPT",
+        "inUuid": "",
+        "poiUuid": "",
+        "outType": "MAP",
+        "outUuid": "fd80a701-24a6-4434-b062-8e1ba7314f41"
+      },
+      {
+        "inType": "EPT",
+        "inUuid": "",
+        "poiUuid": "",
+        "outType": "MAP",
+        "outUuid": "23872ef5-509a-40f1-9e79-04bdb4c3a72c"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "0469a115-b286-4cbc-85ad-1643235dd03b",
+        "poiUuid": "82583380-ce23-4f86-ae57-510d941b0713",
+        "outType": "GLR",
+        "outUuid": "625a40f6-5965-4b08-b560-c777b86578bd"
+      },
+      {
+        "inType": "BCN",
+        "inUuid": "dd60a8a3-ed32-493a-a6a9-41c2b795b887",
+        "poiUuid": "82583380-ce23-4f86-ae57-510d941b0713",
+        "outType": "SHT",
+        "outUuid": "9cfad3ba-ea92-4b81-81ae-fb0833f7e77b"
+      },
+      {
+        "inType": "QRC",
+        "inUuid": "2b6cdfba-4efa-4f8e-b734-51f91e8e2752",
+        "poiUuid": "82583380-ce23-4f86-ae57-510d941b0713",
+        "outType": "SHT",
+        "outUuid": "9cfad3ba-ea92-4b81-81ae-fb0833f7e77b"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "67fb3ee9-c91f-45d3-a5fe-28cc7c033971",
+        "poiUuid": "34103dad-9462-4ea0-b7e2-9d2707f7652e",
+        "outType": "GLR",
+        "outUuid": "2d6048f6-0082-4b90-abe7-3f766fa3e907"
+      },
+      {
+        "inType": "BCN",
+        "inUuid": "60bb3af8-78ef-4ff3-b497-4fac085c664b",
+        "poiUuid": "34103dad-9462-4ea0-b7e2-9d2707f7652e",
+        "outType": "SHT",
+        "outUuid": "9b7bd28b-dda4-47fa-ba33-2582ef5f5f71"
+      },
+      {
+        "inType": "QRC",
+        "inUuid": "a7ff598b-52d6-45bb-9c3f-cc673da390a7",
+        "poiUuid": "34103dad-9462-4ea0-b7e2-9d2707f7652e",
+        "outType": "SHT",
+        "outUuid": "9b7bd28b-dda4-47fa-ba33-2582ef5f5f71"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "c2727932-d943-49ec-82a9-36a3b897beca",
+        "poiUuid": "4a18af31-4fde-4e5a-98bf-decf4f5ca421",
+        "outType": "GLR",
+        "outUuid": "264b0890-4cd1-440d-b94c-5e86d7512354"
+      },
+      {
+        "inType": "BCN",
+        "inUuid": "48917e04-95b3-4af1-8364-5d110f9b5fc9",
+        "poiUuid": "4a18af31-4fde-4e5a-98bf-decf4f5ca421",
+        "outType": "SHT",
+        "outUuid": "1f0e63b6-3cf0-435d-8038-5342ddeb8e42"
+      },
+      {
+        "inType": "QRC",
+        "inUuid": "80807ea0-c262-4600-9c35-946d735ddb7e",
+        "poiUuid": "4a18af31-4fde-4e5a-98bf-decf4f5ca421",
+        "outType": "SHT",
+        "outUuid": "1f0e63b6-3cf0-435d-8038-5342ddeb8e42"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "2dcb95ab-9296-4d22-9bfc-00db61e7484b",
+        "poiUuid": "6d3a9a4d-03a9-4899-b845-1a32d459dd26",
+        "outType": "GLR",
+        "outUuid": "123e303f-f34a-4923-a80f-5accb85ae5db"
+      },
+      {
+        "inType": "BCN",
+        "inUuid": "e36e9ba5-a8ec-4ba1-98a4-bffca0aeeb85",
+        "poiUuid": "6d3a9a4d-03a9-4899-b845-1a32d459dd26",
+        "outType": "SHT",
+        "outUuid": "73f2a922-0e36-45be-8d88-3c7176ae9ea6"
+      },
+      {
+        "inType": "QRC",
+        "inUuid": "5ca87f99-b5ec-43f8-b4c9-80e2d5be6fa9",
+        "poiUuid": "6d3a9a4d-03a9-4899-b845-1a32d459dd26",
+        "outType": "SHT",
+        "outUuid": "73f2a922-0e36-45be-8d88-3c7176ae9ea6"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "87408921-78a1-41d1-a4be-8760141c2905",
+        "poiUuid": "a3a169a6-c7e9-4c9d-b8d6-388abb87e647",
+        "outType": "GLR",
+        "outUuid": "e9e5c0cd-30f4-4980-b54b-3c81da6c7ad0"
+      },
+      {
+        "inType": "BCN",
+        "inUuid": "4473dbbc-0b4e-4a79-ae2a-ac40c11ebf1a",
+        "poiUuid": "a3a169a6-c7e9-4c9d-b8d6-388abb87e647",
+        "outType": "SHT",
+        "outUuid": "6fc5404c-ff63-43ba-9412-62757fe60dca"
+      },
+      {
+        "inType": "QRC",
+        "inUuid": "39236837-d951-4dd9-bcfc-fab967ba92fa",
+        "poiUuid": "a3a169a6-c7e9-4c9d-b8d6-388abb87e647",
+        "outType": "SHT",
+        "outUuid": "6fc5404c-ff63-43ba-9412-62757fe60dca"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "43189d91-4bfa-4da8-be0c-e6e8ab1eb157",
+        "poiUuid": "125885d5-a93c-4938-924e-f31d6b02aea6",
+        "outType": "GLR",
+        "outUuid": "c8572fc4-3631-419d-a66a-d2d063d47fe4"
+      },
+      {
+        "inType": "BCN",
+        "inUuid": "b20b6928-e52c-4b1a-805f-cab2e05b782c",
+        "poiUuid": "125885d5-a93c-4938-924e-f31d6b02aea6",
+        "outType": "SHT",
+        "outUuid": "1267b1f9-7615-4018-a136-866d0694e02d"
+      },
+      {
+        "inType": "QRC",
+        "inUuid": "399dc754-b1f2-4522-9543-c13a224460f7",
+        "poiUuid": "125885d5-a93c-4938-924e-f31d6b02aea6",
+        "outType": "SHT",
+        "outUuid": "1267b1f9-7615-4018-a136-866d0694e02d"
+      },
+      {
+        "inType": "EPT",
+        "inUuid": "",
+        "poiUuid": "",
+        "outType": "SHT",
+        "outUuid": "be77691d-3dda-4b9b-8701-50faadb362f4"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "449eb607-d6a7-481f-9bb6-3383510fe037",
+        "poiUuid": "82583380-ce23-4f86-ae57-510d941b0713",
+        "outType": "SHT",
+        "outUuid": "9cfad3ba-ea92-4b81-81ae-fb0833f7e77b"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "bf86ec6d-c136-40a7-af47-8ad0c24cec71",
+        "poiUuid": "34103dad-9462-4ea0-b7e2-9d2707f7652e",
+        "outType": "SHT",
+        "outUuid": "9b7bd28b-dda4-47fa-ba33-2582ef5f5f71"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "50b64d0e-6f7e-4982-92b9-fdb80d035d25",
+        "poiUuid": "4a18af31-4fde-4e5a-98bf-decf4f5ca421",
+        "outType": "SHT",
+        "outUuid": "1f0e63b6-3cf0-435d-8038-5342ddeb8e42"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "7111eb66-70fa-48d4-a254-de2d401469df",
+        "poiUuid": "6d3a9a4d-03a9-4899-b845-1a32d459dd26",
+        "outType": "SHT",
+        "outUuid": "73f2a922-0e36-45be-8d88-3c7176ae9ea6"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "52738b94-b696-4cd0-a9e8-491b17168133",
+        "poiUuid": "a3a169a6-c7e9-4c9d-b8d6-388abb87e647",
+        "outType": "SHT",
+        "outUuid": "6fc5404c-ff63-43ba-9412-62757fe60dca"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "5c54c34a-f42d-408f-a5af-17fb5a846c90",
+        "poiUuid": "125885d5-a93c-4938-924e-f31d6b02aea6",
+        "outType": "SHT",
+        "outUuid": "1267b1f9-7615-4018-a136-866d0694e02d"
+      }
+    ],
+    "sheetItems": [
+      {
+        "lastUpdate": "2024-03-26T11:09:46",
+        "order": 0,
+        "uuid": "0469a115-b286-4cbc-85ad-1643235dd03b"
+      },
+      {
+        "lastUpdate": "2024-03-26T11:10:01",
+        "order": 0,
+        "uuid": "67fb3ee9-c91f-45d3-a5fe-28cc7c033971"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:44:55",
+        "order": 0,
+        "uuid": "c2727932-d943-49ec-82a9-36a3b897beca"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:47:03",
+        "order": 0,
+        "uuid": "2dcb95ab-9296-4d22-9bfc-00db61e7484b"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:48:13",
+        "order": 0,
+        "uuid": "87408921-78a1-41d1-a4be-8760141c2905"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:48:49",
+        "order": 0,
+        "uuid": "43189d91-4bfa-4da8-be0c-e6e8ab1eb157"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:49:37",
+        "order": 0,
+        "uuid": "449eb607-d6a7-481f-9bb6-3383510fe037"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:49:37",
+        "order": 1,
+        "uuid": "bf86ec6d-c136-40a7-af47-8ad0c24cec71"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:49:37",
+        "order": 2,
+        "uuid": "50b64d0e-6f7e-4982-92b9-fdb80d035d25"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:49:37",
+        "order": 3,
+        "uuid": "7111eb66-70fa-48d4-a254-de2d401469df"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:49:37",
+        "order": 4,
+        "uuid": "52738b94-b696-4cd0-a9e8-491b17168133"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:49:37",
+        "order": 5,
+        "uuid": "5c54c34a-f42d-408f-a5af-17fb5a846c90"
+      }
+    ],
+    "sheets": [
+      {
+        "description": "<p>Poi 1</p>\n",
+        "extraData": null,
+        "items": [
+          "0469a115-b286-4cbc-85ad-1643235dd03b"
+        ],
+        "lastUpdate": "2024-03-26T11:09:46",
+        "mediaUuid": "6dda1624-41ca-405b-8b71-3397e6243cca",
+        "subtitle": "",
+        "tag": "poi-main-internal-entry-sheet",
+        "title": "Poi 1",
+        "uuid": "9cfad3ba-ea92-4b81-81ae-fb0833f7e77b"
+      },
+      {
+        "description": "<p>Poi 2</p>\n",
+        "extraData": null,
+        "items": [
+          "67fb3ee9-c91f-45d3-a5fe-28cc7c033971"
+        ],
+        "lastUpdate": "2024-03-26T11:10:01",
+        "mediaUuid": "34073319-53ec-4cd5-9639-4c1fec374d66",
+        "subtitle": "",
+        "tag": "poi-main-internal-entry-sheet",
+        "title": "Poi 2",
+        "uuid": "9b7bd28b-dda4-47fa-ba33-2582ef5f5f71"
+      },
+      {
+        "description": "<p>Poi 3</p>\n",
+        "extraData": null,
+        "items": [
+          "c2727932-d943-49ec-82a9-36a3b897beca"
+        ],
+        "lastUpdate": "2024-03-26T14:44:56",
+        "mediaUuid": "ff386f1a-9426-47b0-b07b-8b18f4aac41d",
+        "subtitle": "",
+        "tag": "poi-main-internal-entry-sheet",
+        "title": "Poi 3",
+        "uuid": "1f0e63b6-3cf0-435d-8038-5342ddeb8e42"
+      },
+      {
+        "description": "<p>Poi 4</p>\n",
+        "extraData": null,
+        "items": [
+          "2dcb95ab-9296-4d22-9bfc-00db61e7484b"
+        ],
+        "lastUpdate": "2024-03-26T14:47:04",
+        "mediaUuid": "60c619ea-be68-40d0-9bd2-dd38b42c71a3",
+        "subtitle": "",
+        "tag": "poi-main-internal-entry-sheet",
+        "title": "Poi 4",
+        "uuid": "73f2a922-0e36-45be-8d88-3c7176ae9ea6"
+      },
+      {
+        "description": "<p>Poi 5</p>\n",
+        "extraData": null,
+        "items": [
+          "87408921-78a1-41d1-a4be-8760141c2905"
+        ],
+        "lastUpdate": "2024-03-26T14:48:13",
+        "mediaUuid": "c273d726-14d8-479b-9501-d4566d055844",
+        "subtitle": "",
+        "tag": "poi-main-internal-entry-sheet",
+        "title": "Poi 5",
+        "uuid": "6fc5404c-ff63-43ba-9412-62757fe60dca"
+      },
+      {
+        "description": "<p>Poi 6</p>\n",
+        "extraData": null,
+        "items": [
+          "43189d91-4bfa-4da8-be0c-e6e8ab1eb157"
+        ],
+        "lastUpdate": "2024-03-26T14:48:49",
+        "mediaUuid": "a4e5485f-fc30-4420-b53a-3be7c121652c",
+        "subtitle": "",
+        "tag": "poi-main-internal-entry-sheet",
+        "title": "Poi 6",
+        "uuid": "1267b1f9-7615-4018-a136-866d0694e02d"
+      },
+      {
+        "description": "<p>Preparati a goderti qualche ora tra le opere che hanno fatto la storia del Museo. Esplora l&#8217;intera raccolta degli artisti del XVI secolo.</p>\n",
+        "extraData": null,
+        "items": [
+          "449eb607-d6a7-481f-9bb6-3383510fe037",
+          "bf86ec6d-c136-40a7-af47-8ad0c24cec71",
+          "50b64d0e-6f7e-4982-92b9-fdb80d035d25",
+          "7111eb66-70fa-48d4-a254-de2d401469df",
+          "52738b94-b696-4cd0-a9e8-491b17168133",
+          "5c54c34a-f42d-408f-a5af-17fb5a846c90"
+        ],
+        "lastUpdate": "2024-03-26T14:49:38",
+        "mediaUuid": "378ad0ac-82f6-48d3-8b14-bdef7ce8716f",
+        "subtitle": "Tempo stimato: 3h",
+        "tag": "path-main-internal-entry-sheet",
+        "title": "Percorso Integrale",
+        "uuid": "be77691d-3dda-4b9b-8701-50faadb362f4"
+      }
+    ]
+  },
+  {
+    "categories": [
+      "d5dfa426-7400-4ae0-971d-8bed466a9af9"
+    ],
+    "color": null,
+    "description": "",
+    "lastUpdate": "2024-03-28T15:26:39",
+    "mediaUuid": "76230039-9552-4852-a548-944f8b651adc",
+    "order": 0,
+    "skuCode": null,
+    "subtitle": "",
+    "tag": "path-main-list",
+    "totalSize": 36856,
+    "title": "",
+    "uuid": "bc0334b4-eec2-44a5-8518-2a8e7fbe0637",
+    "mediaFiles": [
+      {
+        "lastUpdate": "2024-03-26T16:18:18",
+        "mimeType": "image/jpeg",
+        "name": "percorso_5_a.jpg",
+        "size": 5738,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/percorso_5_a.jpg",
+        "uuid": "76230039-9552-4852-a548-944f8b651adc"
+      },
+      {
+        "lastUpdate": "2024-03-26T16:19:26",
+        "mimeType": "image/jpeg",
+        "name": "percorso_5_d.jpg",
+        "size": 8731,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/percorso_5_d.jpg",
+        "uuid": "c8a3443f-96b8-4f88-bf16-730794ce1bb7"
+      },
+      {
+        "lastUpdate": "2024-03-26T16:19:43",
+        "mimeType": "image/jpeg",
+        "name": "percorso_5_c.jpg",
+        "size": 3959,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/percorso_5_c.jpg",
+        "uuid": "0b7b6f3b-701e-4f8e-8603-9b5c0a67e4f7"
+      }
+    ],
+    "pathCategories": [
+      {
+        "code": "CCA01F59-4A7D-450B-B244-C705EC0DCEA3",
+        "color": "",
+        "description": "",
+        "lastUpdate": "2024-03-26T11:14:38",
+        "mediaUuid": null,
+        "order": 3,
+        "subtitle": "",
+        "tag": "circular-expanded",
+        "type": "mainPage",
+        "title": "Contenuti AR+",
+        "uuid": "d5dfa426-7400-4ae0-971d-8bed466a9af9"
+      }
+    ],
+    "poiOrder": [
+      {
+        "index": 0,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "468b8368-4358-498d-a075-8c42e1e0c94b"
+      },
+      {
+        "index": 1,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "ccb012d7-6624-4f05-8ef9-fcb5c5cf489f"
+      },
+      {
+        "index": 2,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "b4a54bff-b473-437c-b248-ae2ee440cf40"
+      }
+    ],
+    "pois": [
+      {
+        "categories": [],
+        "description": "",
+        "lastUpdate": "2024-03-26T16:19:10",
+        "mediaUuid": "76230039-9552-4852-a548-944f8b651adc",
+        "subtitle": "",
+        "tag": "poi-main-list",
+        "title": "Apollo",
+        "uuid": "468b8368-4358-498d-a075-8c42e1e0c94b"
+      },
+      {
+        "categories": [],
+        "description": "",
+        "lastUpdate": "2024-03-26T16:19:27",
+        "mediaUuid": "c8a3443f-96b8-4f88-bf16-730794ce1bb7",
+        "subtitle": "",
+        "tag": "poi-main-list",
+        "title": "Hercules",
+        "uuid": "ccb012d7-6624-4f05-8ef9-fcb5c5cf489f"
+      },
+      {
+        "categories": [],
+        "description": "",
+        "lastUpdate": "2024-03-26T16:19:44",
+        "mediaUuid": "0b7b6f3b-701e-4f8e-8603-9b5c0a67e4f7",
+        "subtitle": "",
+        "tag": "poi-main-list",
+        "title": "San Gennaro",
+        "uuid": "b4a54bff-b473-437c-b248-ae2ee440cf40"
+      }
+    ],
+    "relations": [
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "d92f8253-24d4-4a39-874f-46e71cfd6350",
+        "poiUuid": "468b8368-4358-498d-a075-8c42e1e0c94b",
+        "outType": "US_AC",
+        "outUuid": "ec3481c2-0802-44f6-b3f7-27ab2355c65d"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "a1a39210-0a10-4901-9f23-3aaff9811a59",
+        "poiUuid": "ccb012d7-6624-4f05-8ef9-fcb5c5cf489f",
+        "outType": "US_AC",
+        "outUuid": "8afe0d78-3271-4ee2-9d32-04c54304bf4d"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "8e8ad082-a3cc-42e9-873d-f5b086402f84",
+        "poiUuid": "b4a54bff-b473-437c-b248-ae2ee440cf40",
+        "outType": "US_AC",
+        "outUuid": "348c1e75-392b-42f7-a572-c249bc3cd1bd"
+      },
+      {
+        "inType": "EPT",
+        "inUuid": "",
+        "poiUuid": "",
+        "outType": "SHT",
+        "outUuid": "87a54ff3-fe7c-4021-b452-4d6a96bfb7f2"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "3d035a3d-0fc9-42d9-ad15-2c32071920f5",
+        "poiUuid": "468b8368-4358-498d-a075-8c42e1e0c94b",
+        "outType": "SHT",
+        "outUuid": "0b529c67-8429-4964-a409-d9f4d591bfd8"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "5ddda9da-4e91-4751-84dc-a85e2a348bde",
+        "poiUuid": "ccb012d7-6624-4f05-8ef9-fcb5c5cf489f",
+        "outType": "SHT",
+        "outUuid": "16116a0f-5390-42ff-b640-f5d409a3e7e2"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "097c34f8-3165-42a3-9f3b-1d5e15280590",
+        "poiUuid": "b4a54bff-b473-437c-b248-ae2ee440cf40",
+        "outType": "SHT",
+        "outUuid": "bfe52c7b-ba7e-40e0-8eb8-9e35d298d0d8"
+      }
+    ],
+    "sheetItems": [
+      {
+        "lastUpdate": "2024-03-26T16:19:10",
+        "order": 0,
+        "uuid": "d92f8253-24d4-4a39-874f-46e71cfd6350"
+      },
+      {
+        "lastUpdate": "2024-03-26T16:19:26",
+        "order": 0,
+        "uuid": "a1a39210-0a10-4901-9f23-3aaff9811a59"
+      },
+      {
+        "lastUpdate": "2024-03-26T16:19:43",
+        "order": 0,
+        "uuid": "8e8ad082-a3cc-42e9-873d-f5b086402f84"
+      },
+      {
+        "lastUpdate": "2024-03-26T16:20:37",
+        "order": 0,
+        "uuid": "3d035a3d-0fc9-42d9-ad15-2c32071920f5"
+      },
+      {
+        "lastUpdate": "2024-03-26T16:20:37",
+        "order": 1,
+        "uuid": "5ddda9da-4e91-4751-84dc-a85e2a348bde"
+      },
+      {
+        "lastUpdate": "2024-03-26T16:20:37",
+        "order": 2,
+        "uuid": "097c34f8-3165-42a3-9f3b-1d5e15280590"
+      }
+    ],
+    "sheets": [
+      {
+        "description": "",
+        "extraData": null,
+        "items": [
+          "d92f8253-24d4-4a39-874f-46e71cfd6350"
+        ],
+        "lastUpdate": "2024-03-26T16:19:10",
+        "mediaUuid": "76230039-9552-4852-a548-944f8b651adc",
+        "subtitle": "",
+        "tag": "poi-main-list-entry-sheet",
+        "title": "Apollo",
+        "uuid": "0b529c67-8429-4964-a409-d9f4d591bfd8"
+      },
+      {
+        "description": "",
+        "extraData": null,
+        "items": [
+          "a1a39210-0a10-4901-9f23-3aaff9811a59"
+        ],
+        "lastUpdate": "2024-03-26T16:19:27",
+        "mediaUuid": "c8a3443f-96b8-4f88-bf16-730794ce1bb7",
+        "subtitle": "",
+        "tag": "poi-main-list-entry-sheet",
+        "title": "Hercules",
+        "uuid": "16116a0f-5390-42ff-b640-f5d409a3e7e2"
+      },
+      {
+        "description": "",
+        "extraData": null,
+        "items": [
+          "8e8ad082-a3cc-42e9-873d-f5b086402f84"
+        ],
+        "lastUpdate": "2024-03-26T16:19:44",
+        "mediaUuid": "0b7b6f3b-701e-4f8e-8603-9b5c0a67e4f7",
+        "subtitle": "",
+        "tag": "poi-main-list-entry-sheet",
+        "title": "San Gennaro",
+        "uuid": "bfe52c7b-ba7e-40e0-8eb8-9e35d298d0d8"
+      },
+      {
+        "description": "",
+        "extraData": null,
+        "items": [
+          "3d035a3d-0fc9-42d9-ad15-2c32071920f5",
+          "5ddda9da-4e91-4751-84dc-a85e2a348bde",
+          "097c34f8-3165-42a3-9f3b-1d5e15280590"
+        ],
+        "lastUpdate": "2024-03-28T15:26:38",
+        "mediaUuid": "76230039-9552-4852-a548-944f8b651adc",
+        "subtitle": "",
+        "tag": "path-main-list-entry-sheet",
+        "title": "",
+        "uuid": "87a54ff3-fe7c-4021-b452-4d6a96bfb7f2"
+      }
+    ],
+    "unityscenes": [
+      {
+        "code": "FADDA6A5-2435-42A0-89C9-84A33CD1E885",
+        "dependencies": "",
+        "extra": "{\r\n  \"hexColor\": \"#EFBB2B\",\r\n  \"addressablesPath\": \"http://demo02.ettsolutions.it/ettproject/VdtAR/Suggestus\",\r\n  \"catalogName\": \"catalog_0.1.json\",\r\n  \"modelLabel\": \"Apollo\",\r\n  \"titleIt\": \"\",\r\n  \"subtitleIt\": \"\",\r\n  \"titleEn\": \"\",\r\n  \"subtitleEn\": \"\"\r\n}",
+        "lastUpdate": "2024-03-26T16:13:57",
+        "name": "General",
+        "uuid": "ec3481c2-0802-44f6-b3f7-27ab2355c65d"
+      },
+      {
+        "code": "F93966BA-EFEE-422F-BE98-7B70A244D1FD",
+        "dependencies": "",
+        "extra": "{\r\n  \"hexColor\": \"#EFBB2B\",\r\n  \"addressablesPath\": \"http://demo02.ettsolutions.it/ettproject/VdtAR/Suggestus\",\r\n  \"catalogName\": \"catalog_0.1.json\",\r\n  \"modelLabel\": \"Hercules\",\r\n  \"titleIt\": \"\",\r\n  \"subtitleIt\": \"\",\r\n  \"titleEn\": \"\",\r\n  \"subtitleEn\": \"\"\r\n}",
+        "lastUpdate": "2024-03-26T16:15:00",
+        "name": "General",
+        "uuid": "8afe0d78-3271-4ee2-9d32-04c54304bf4d"
+      },
+      {
+        "code": "5910B79B-7012-46BD-A475-3FF6F6B568A5",
+        "dependencies": "",
+        "extra": "{\r\n  \"hexColor\": \"#EFBB2B\",\r\n  \"addressablesPath\": \"http://demo02.ettsolutions.it/ettproject/VdtAR/Suggestus\",\r\n  \"catalogName\": \"catalog_0.1.json\",\r\n  \"modelLabel\": \"SanGennaro\",\r\n  \"titleIt\": \"\",\r\n  \"subtitleIt\": \"\",\r\n  \"titleEn\": \"\",\r\n  \"subtitleEn\": \"\"\r\n}",
+        "lastUpdate": "2024-03-26T16:16:04",
+        "name": "General",
+        "uuid": "348c1e75-392b-42f7-a572-c249bc3cd1bd"
+      }
+    ]
+  },
+  {
+    "categories": [
+      "19db52db-63da-4ec6-b22e-f032994b572f"
+    ],
+    "color": null,
+    "description": "<p>Sono disponibili contenuti aggiornati, premi qui per scaricarli subito.</p>\n",
+    "lastUpdate": "2024-03-26T15:52:52",
+    "mediaUuid": "cefe8513-b8b2-418b-890b-4887c333e78a",
+    "order": 0,
+    "skuCode": null,
+    "subtitle": "",
+    "tag": "check-updates",
+    "totalSize": 74804,
+    "title": "Ci sono novità!",
+    "uuid": "ca52693a-2920-46dd-b9d2-a39c06c3e858",
+    "mediaFiles": [
+      {
+        "lastUpdate": "2024-03-26T15:52:08",
+        "mimeType": "image/png",
+        "name": "up_icon3-1.png",
+        "size": 37402,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/up_icon3-1.png",
+        "uuid": "cefe8513-b8b2-418b-890b-4887c333e78a"
+      }
+    ],
+    "pathCategories": [
+      {
+        "code": "F7142D3F-5809-4EE2-ADCA-8A223704DC40",
+        "color": "",
+        "description": "",
+        "lastUpdate": "2024-03-26T11:12:32",
+        "mediaUuid": null,
+        "order": 0,
+        "subtitle": "",
+        "tag": "check-updates",
+        "type": "mainPage",
+        "title": "",
+        "uuid": "19db52db-63da-4ec6-b22e-f032994b572f"
+      }
+    ]
+  },
+  {
+    "categories": [
+      "40f90278-f462-44d4-9296-a6717ddb8b14",
+      "0530862c-a90a-4f10-925a-a0129de38081"
+    ],
+    "color": "#EFBB2B",
+    "description": "<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia.</p>\n",
+    "lastUpdate": "2024-03-27T09:54:59",
+    "mediaUuid": "bb8edf41-d000-4f52-8096-74146e337162",
+    "order": 0,
+    "skuCode": null,
+    "subtitle": "IL TERRITORIO",
+    "tag": "path-main-external",
+    "totalSize": 24935948,
+    "title": "Esplora la città",
+    "uuid": "cb799987-9bcc-45ef-8419-8651521fe0e4",
+    "galleries": [
+      {
+        "description": null,
+        "items": [
+          "b3138d12-cb32-49be-8c59-2531a91ba694"
+        ],
+        "lastUpdate": "2024-03-26T15:03:07",
+        "subtitle": null,
+        "tag": "images-gallery",
+        "title": null,
+        "uuid": "c3455514-b957-47e3-adc1-aacec1f507dc"
+      },
+      {
+        "description": null,
+        "items": [
+          "3df12389-e09d-4e5a-975b-8812594ca6e3"
+        ],
+        "lastUpdate": "2024-03-26T15:05:01",
+        "subtitle": null,
+        "tag": "images-gallery",
+        "title": null,
+        "uuid": "a1757498-d789-46d4-8451-2eca15ab1bda"
+      },
+      {
+        "description": null,
+        "items": [
+          "78be1a67-05d7-48c8-a551-15651d5912a8"
+        ],
+        "lastUpdate": "2024-03-26T15:05:59",
+        "subtitle": null,
+        "tag": "images-gallery",
+        "title": null,
+        "uuid": "00a0f31b-ca65-4efc-9f46-89f113515458"
+      },
+      {
+        "description": null,
+        "items": [
+          "1d3bc072-434a-4af1-afd6-db93eba62258"
+        ],
+        "lastUpdate": "2024-03-26T15:07:12",
+        "subtitle": null,
+        "tag": "images-gallery",
+        "title": null,
+        "uuid": "a2807ecf-cbe1-4f82-9288-47d72720eb1c"
+      },
+      {
+        "description": null,
+        "items": [
+          "d742c315-7c69-46c5-a29e-321bd845890b"
+        ],
+        "lastUpdate": "2024-03-26T15:08:06",
+        "subtitle": null,
+        "tag": "images-gallery",
+        "title": null,
+        "uuid": "721562ab-673a-4db5-9f2f-4a50de54f876"
+      }
+    ],
+    "galleryItems": [
+      {
+        "description": null,
+        "lastUpdate": "2024-03-26T15:03:07",
+        "mediaUuid": "1cf40413-565d-4439-a676-3498981cc58d",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "b3138d12-cb32-49be-8c59-2531a91ba694"
+      },
+      {
+        "description": null,
+        "lastUpdate": "2024-03-26T15:05:01",
+        "mediaUuid": "53278969-21a1-47dd-8d36-5c24239e04c1",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "3df12389-e09d-4e5a-975b-8812594ca6e3"
+      },
+      {
+        "description": null,
+        "lastUpdate": "2024-03-26T15:05:59",
+        "mediaUuid": "2be9561f-f270-4997-9e88-7217cb33d632",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "78be1a67-05d7-48c8-a551-15651d5912a8"
+      },
+      {
+        "description": null,
+        "lastUpdate": "2024-03-26T15:07:12",
+        "mediaUuid": "bb8edf41-d000-4f52-8096-74146e337162",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "1d3bc072-434a-4af1-afd6-db93eba62258"
+      },
+      {
+        "description": null,
+        "lastUpdate": "2024-03-26T15:08:06",
+        "mediaUuid": "049dadf8-ee9f-4f66-8f51-a990e72cbf26",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "d742c315-7c69-46c5-a29e-321bd845890b"
+      }
+    ],
+    "gps": [
+      {
+        "lastUpdate": "2024-03-26T15:49:38",
+        "latitude": 44.4076213,
+        "longitude": 8.9314274,
+        "radius": 50.0,
+        "uuid": "01ab0762-15df-4010-80ed-af753a33d7a2"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:49:53",
+        "latitude": 44.4067432,
+        "longitude": 8.9340628,
+        "radius": 50.0,
+        "uuid": "baa4ba3b-b1bd-4aa8-a93c-0b02d528317f"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:50:04",
+        "latitude": 44.4081451,
+        "longitude": 8.9349002,
+        "radius": 50.0,
+        "uuid": "80a281ea-c43f-4148-b60e-a995a95b4ef6"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:50:15",
+        "latitude": 44.4126277,
+        "longitude": 8.9330021,
+        "radius": 50.0,
+        "uuid": "774696a4-b975-48a0-931e-be4fc8d05c25"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:50:28",
+        "latitude": 44.4134655,
+        "longitude": 8.933124,
+        "radius": 50.0,
+        "uuid": "5599b4f7-96a8-487b-b881-c88c491bb9ad"
+      }
+    ],
+    "imageMarkers": [
+      {
+        "lastUpdate": "2024-03-27T09:43:58",
+        "scanInfo": "6603ea60f4446b78dcabee3b",
+        "uuid": "fdf09a6c-9bbb-489b-88da-cf4595a3b5fc"
+      }
+    ],
+    "mapItems": [
+      {
+        "latitude": 44.4076213,
+        "lastUpdate": "2024-03-26T15:09:30",
+        "longitude": 8.9314274,
+        "mediaUuid": null,
+        "poiUuid": "f6a61b8c-cc53-4693-b7a2-344c0a5db561",
+        "uuid": "3cf98ea1-59ff-45a0-9932-d3a97d89bd95",
+        "x": null,
+        "y": null
+      },
+      {
+        "latitude": 44.4067432,
+        "lastUpdate": "2024-03-26T15:09:30",
+        "longitude": 8.9340628,
+        "mediaUuid": null,
+        "poiUuid": "3e4a0969-ebf1-4334-adfb-a85afd40eda7",
+        "uuid": "5b1df022-a7b6-44ce-abd3-07d712f76636",
+        "x": null,
+        "y": null
+      },
+      {
+        "latitude": 44.4081451,
+        "lastUpdate": "2024-03-26T15:09:30",
+        "longitude": 8.9349002,
+        "mediaUuid": null,
+        "poiUuid": "2fe4c676-6a4f-48da-8714-865ba0647ce4",
+        "uuid": "c106fff5-eafe-4ccf-a53d-2e3d955ee7ae",
+        "x": null,
+        "y": null
+      },
+      {
+        "latitude": 44.4126277,
+        "lastUpdate": "2024-03-26T15:09:30",
+        "longitude": 8.9330021,
+        "mediaUuid": null,
+        "poiUuid": "90f31891-db5e-4d73-88f4-a516429f392d",
+        "uuid": "e046e6b9-5252-4ecd-be1e-bab346809225",
+        "x": null,
+        "y": null
+      },
+      {
+        "latitude": 44.4134655,
+        "lastUpdate": "2024-03-26T15:09:30",
+        "longitude": 8.933124,
+        "mediaUuid": null,
+        "poiUuid": "8f5e5126-07a6-4fed-a329-fad8173dbe82",
+        "uuid": "132ea841-d23c-4de6-968b-b8b2ef0d25b1",
+        "x": null,
+        "y": null
+      }
+    ],
+    "maps": [
+      {
+        "bottomRightLatitude": null,
+        "bottomRightLongitude": null,
+        "description": null,
+        "height": null,
+        "items": [
+          "3cf98ea1-59ff-45a0-9932-d3a97d89bd95",
+          "5b1df022-a7b6-44ce-abd3-07d712f76636",
+          "c106fff5-eafe-4ccf-a53d-2e3d955ee7ae",
+          "e046e6b9-5252-4ecd-be1e-bab346809225",
+          "132ea841-d23c-4de6-968b-b8b2ef0d25b1"
+        ],
+        "lastUpdate": "2024-03-26T15:09:30",
+        "mapType": "geoReferenced",
+        "mediaUuid": null,
+        "order": 0,
+        "subtitle": null,
+        "tag": null,
+        "title": null,
+        "topLeftLatitude": null,
+        "topLeftLongitude": null,
+        "uuid": "50c4675c-0364-4ae0-bb98-8f6530d41d4a",
+        "width": null
+      }
+    ],
+    "mediaFiles": [
+      {
+        "lastUpdate": "2024-03-26T15:07:11",
+        "mimeType": "image/jpeg",
+        "name": "poi5-1.jpg",
+        "size": 551645,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/poi5-1.jpg",
+        "uuid": "bb8edf41-d000-4f52-8096-74146e337162"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:03:07",
+        "mimeType": "image/jpeg",
+        "name": "poi1-1.jpg",
+        "size": 497178,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/poi1-1.jpg",
+        "uuid": "1cf40413-565d-4439-a676-3498981cc58d"
+      },
+      {
+        "lastUpdate": "2024-03-27T09:43:39",
+        "mimeType": "image/jpeg",
+        "name": "49083580007_a68b1d0c45_b.jpg",
+        "size": 120343,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/49083580007_a68b1d0c45_b.jpg",
+        "uuid": "b71cfe51-910f-4832-81cb-027be6f680eb"
+      },
+      {
+        "lastUpdate": "2024-03-27T09:43:39",
+        "mimeType": "image/jpeg",
+        "name": "Giovanni_boldini_miss_bell_1903_02.jpg",
+        "size": 3955092,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/Giovanni_boldini_miss_bell_1903_02.jpg",
+        "uuid": "d3c9721f-43ff-4c01-8b7f-2d899f2d55c9"
+      },
+      {
+        "lastUpdate": "2024-03-27T09:43:39",
+        "mimeType": "image/jpeg",
+        "name": "Giovanni_boldini_miss_bell_1903_01.jpg",
+        "size": 2777068,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/Giovanni_boldini_miss_bell_1903_01.jpg",
+        "uuid": "7a13f5ec-dacb-4d80-b0d5-ec1284af0b8a"
+      },
+      {
+        "lastUpdate": "2024-03-27T09:43:40",
+        "mimeType": "image/jpeg",
+        "name": "Giovanni-Boldini-Miss-Bell-1903-olio-su-tela-Musei-di-Nervi-Raccolte-Frugone-1.jpg",
+        "size": 3197444,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/Giovanni-Boldini-Miss-Bell-1903-olio-su-tela-Musei-di-Nervi-Raccolte-Frugone-1.jpg",
+        "uuid": "9e837b2e-6e21-4e9e-ba05-69eec5d73f32"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:05:00",
+        "mimeType": "image/jpeg",
+        "name": "poi3-1.jpg",
+        "size": 484356,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/poi3-1.jpg",
+        "uuid": "53278969-21a1-47dd-8d36-5c24239e04c1"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:05:59",
+        "mimeType": "image/jpeg",
+        "name": "poi2-1.jpg",
+        "size": 399674,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/poi2-1.jpg",
+        "uuid": "2be9561f-f270-4997-9e88-7217cb33d632"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:08:05",
+        "mimeType": "image/jpeg",
+        "name": "poi4-1.jpg",
+        "size": 485174,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/poi4-1.jpg",
+        "uuid": "049dadf8-ee9f-4f66-8f51-a990e72cbf26"
+      }
+    ],
+    "pathCategories": [
+      {
+        "code": "D5A8A047-ADF8-4088-AF3C-DF2511B66520",
+        "color": "",
+        "description": "",
+        "lastUpdate": "2024-03-26T11:15:46",
+        "mediaUuid": null,
+        "order": 5,
+        "subtitle": "",
+        "tag": "boxed",
+        "type": "mainPage",
+        "title": "",
+        "uuid": "40f90278-f462-44d4-9296-a6717ddb8b14"
+      },
+      {
+        "code": "5B1E8172-B678-4E2C-92C1-4FD7F63C4678",
+        "color": "",
+        "description": "",
+        "lastUpdate": "2024-03-26T11:23:41",
+        "mediaUuid": null,
+        "order": 6,
+        "subtitle": "",
+        "tag": "carousel-horizontal-expanded",
+        "type": "mainPage",
+        "title": "Il meglio della Città",
+        "uuid": "0530862c-a90a-4f10-925a-a0129de38081"
+      }
+    ],
+    "poiOrder": [
+      {
+        "index": 0,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "f6a61b8c-cc53-4693-b7a2-344c0a5db561"
+      },
+      {
+        "index": 1,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "3e4a0969-ebf1-4334-adfb-a85afd40eda7"
+      },
+      {
+        "index": 2,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "2fe4c676-6a4f-48da-8714-865ba0647ce4"
+      },
+      {
+        "index": 3,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "90f31891-db5e-4d73-88f4-a516429f392d"
+      },
+      {
+        "index": 4,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "8f5e5126-07a6-4fed-a329-fad8173dbe82"
+      }
+    ],
+    "pois": [
+      {
+        "categories": [],
+        "description": "<p>Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa. Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.</p>\n",
+        "lastUpdate": "2024-03-27T09:53:21",
+        "mediaUuid": "1cf40413-565d-4439-a676-3498981cc58d",
+        "subtitle": "",
+        "tag": "poi-main-external",
+        "title": "Cattedrale di San Lorenzo",
+        "uuid": "f6a61b8c-cc53-4693-b7a2-344c0a5db561"
+      },
+      {
+        "categories": [],
+        "description": "<p>Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa. Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.</p>\n",
+        "lastUpdate": "2024-03-27T09:53:54",
+        "mediaUuid": "53278969-21a1-47dd-8d36-5c24239e04c1",
+        "subtitle": "",
+        "tag": "poi-main-external",
+        "title": "Piazza De Ferrari",
+        "uuid": "3e4a0969-ebf1-4334-adfb-a85afd40eda7"
+      },
+      {
+        "categories": [],
+        "description": "<p>Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa. Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.</p>\n",
+        "lastUpdate": "2024-03-27T09:54:59",
+        "mediaUuid": "2be9561f-f270-4997-9e88-7217cb33d632",
+        "subtitle": "",
+        "tag": "poi-main-external",
+        "title": "Teatro Carlo Felice",
+        "uuid": "2fe4c676-6a4f-48da-8714-865ba0647ce4"
+      },
+      {
+        "categories": [],
+        "description": "<p>Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa. Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.</p>\n",
+        "lastUpdate": "2024-03-27T09:54:26",
+        "mediaUuid": "bb8edf41-d000-4f52-8096-74146e337162",
+        "subtitle": "",
+        "tag": "poi-main-external",
+        "title": "Vista su Genova 1",
+        "uuid": "90f31891-db5e-4d73-88f4-a516429f392d"
+      },
+      {
+        "categories": [],
+        "description": "<p>Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa. Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.</p>\n",
+        "lastUpdate": "2024-03-27T09:54:37",
+        "mediaUuid": "049dadf8-ee9f-4f66-8f51-a990e72cbf26",
+        "subtitle": "",
+        "tag": "poi-main-external",
+        "title": "Vista su Genova 2",
+        "uuid": "8f5e5126-07a6-4fed-a329-fad8173dbe82"
+      }
+    ],
+    "relations": [
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "aba78bc9-f6c9-4719-b5ed-3098bc81fa1e",
+        "poiUuid": "f6a61b8c-cc53-4693-b7a2-344c0a5db561",
+        "outType": "SHT",
+        "outUuid": "9e3fd973-0ee1-4894-bc51-47b166b8936a"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "67c74e4a-878c-4516-833f-c5ce482d47d8",
+        "poiUuid": "f6a61b8c-cc53-4693-b7a2-344c0a5db561",
+        "outType": "GLR",
+        "outUuid": "c3455514-b957-47e3-adc1-aacec1f507dc"
+      },
+      {
+        "inType": "IMG_MRK",
+        "inUuid": "fdf09a6c-9bbb-489b-88da-cf4595a3b5fc",
+        "poiUuid": "f6a61b8c-cc53-4693-b7a2-344c0a5db561",
+        "outType": "SHT",
+        "outUuid": "365c193a-bca3-4d83-9695-e4c6cba73844"
+      },
+      {
+        "inType": "GPS",
+        "inUuid": "01ab0762-15df-4010-80ed-af753a33d7a2",
+        "poiUuid": "f6a61b8c-cc53-4693-b7a2-344c0a5db561",
+        "outType": "SHT",
+        "outUuid": "365c193a-bca3-4d83-9695-e4c6cba73844"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "ce5b6f8b-578a-485b-a02e-e85abb5d8842",
+        "poiUuid": "3e4a0969-ebf1-4334-adfb-a85afd40eda7",
+        "outType": "SHT",
+        "outUuid": "7934ff1b-9a6b-4eec-a13b-2f724dccdd9f"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "f63a317b-56c5-4675-b539-be57bb7a22cd",
+        "poiUuid": "3e4a0969-ebf1-4334-adfb-a85afd40eda7",
+        "outType": "GLR",
+        "outUuid": "a1757498-d789-46d4-8451-2eca15ab1bda"
+      },
+      {
+        "inType": "GPS",
+        "inUuid": "baa4ba3b-b1bd-4aa8-a93c-0b02d528317f",
+        "poiUuid": "3e4a0969-ebf1-4334-adfb-a85afd40eda7",
+        "outType": "SHT",
+        "outUuid": "0a479403-0e7a-4cf8-9175-dc7dde3599d5"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "d7013a20-61f6-42e2-902f-cca205dec410",
+        "poiUuid": "2fe4c676-6a4f-48da-8714-865ba0647ce4",
+        "outType": "SHT",
+        "outUuid": "6c03dec7-fdcf-4ca3-854a-cbe93bf6dbc0"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "282ba579-ebeb-4f09-8343-7b5ee342fe40",
+        "poiUuid": "2fe4c676-6a4f-48da-8714-865ba0647ce4",
+        "outType": "GLR",
+        "outUuid": "00a0f31b-ca65-4efc-9f46-89f113515458"
+      },
+      {
+        "inType": "GPS",
+        "inUuid": "80a281ea-c43f-4148-b60e-a995a95b4ef6",
+        "poiUuid": "2fe4c676-6a4f-48da-8714-865ba0647ce4",
+        "outType": "SHT",
+        "outUuid": "5e7daae9-c86a-4717-aec4-f3519dab6c2c"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "387eea0e-9c83-4ec5-bd57-814551ccd8e2",
+        "poiUuid": "90f31891-db5e-4d73-88f4-a516429f392d",
+        "outType": "SHT",
+        "outUuid": "b1356ded-b7d3-4d23-aeef-fd5cf90f650b"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "c4b0cea0-c738-4ae7-a3d3-9920d2d439e7",
+        "poiUuid": "90f31891-db5e-4d73-88f4-a516429f392d",
+        "outType": "GLR",
+        "outUuid": "a2807ecf-cbe1-4f82-9288-47d72720eb1c"
+      },
+      {
+        "inType": "GPS",
+        "inUuid": "774696a4-b975-48a0-931e-be4fc8d05c25",
+        "poiUuid": "90f31891-db5e-4d73-88f4-a516429f392d",
+        "outType": "SHT",
+        "outUuid": "ca9ce308-88fb-45e6-a7f1-5d3ea864a926"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "33d86458-88c2-4978-ac7f-ec9d23457742",
+        "poiUuid": "8f5e5126-07a6-4fed-a329-fad8173dbe82",
+        "outType": "SHT",
+        "outUuid": "23b3ddac-d9e0-492d-87a1-eac5ef32d0bd"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "6be4bfcb-0aa5-45c2-bfb5-1d28d729ced7",
+        "poiUuid": "8f5e5126-07a6-4fed-a329-fad8173dbe82",
+        "outType": "GLR",
+        "outUuid": "721562ab-673a-4db5-9f2f-4a50de54f876"
+      },
+      {
+        "inType": "GPS",
+        "inUuid": "5599b4f7-96a8-487b-b881-c88c491bb9ad",
+        "poiUuid": "8f5e5126-07a6-4fed-a329-fad8173dbe82",
+        "outType": "SHT",
+        "outUuid": "5a593b99-288c-47b7-bd97-aa00bc1834c0"
+      },
+      {
+        "inType": "EPT",
+        "inUuid": "",
+        "poiUuid": "",
+        "outType": "SHT",
+        "outUuid": "061cad8f-3e1a-4f02-bd18-1f9865bdee3a"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "69efa0bf-391d-448c-9370-82fb6b4893e6",
+        "poiUuid": "f6a61b8c-cc53-4693-b7a2-344c0a5db561",
+        "outType": "SHT",
+        "outUuid": "365c193a-bca3-4d83-9695-e4c6cba73844"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "ca28fa59-b3c1-4c8e-b854-e7917673414c",
+        "poiUuid": "3e4a0969-ebf1-4334-adfb-a85afd40eda7",
+        "outType": "SHT",
+        "outUuid": "0a479403-0e7a-4cf8-9175-dc7dde3599d5"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "bc4c1c55-3cec-4159-a86e-26fa2969510c",
+        "poiUuid": "2fe4c676-6a4f-48da-8714-865ba0647ce4",
+        "outType": "SHT",
+        "outUuid": "5e7daae9-c86a-4717-aec4-f3519dab6c2c"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "54a33807-21c0-4b32-be9d-8ab5399b543d",
+        "poiUuid": "90f31891-db5e-4d73-88f4-a516429f392d",
+        "outType": "SHT",
+        "outUuid": "ca9ce308-88fb-45e6-a7f1-5d3ea864a926"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "672d6a28-3df1-4629-b826-60be387873d2",
+        "poiUuid": "8f5e5126-07a6-4fed-a329-fad8173dbe82",
+        "outType": "SHT",
+        "outUuid": "5a593b99-288c-47b7-bd97-aa00bc1834c0"
+      },
+      {
+        "inType": "EPT",
+        "inUuid": "",
+        "poiUuid": "",
+        "outType": "MAP",
+        "outUuid": "50c4675c-0364-4ae0-bb98-8f6530d41d4a"
+      }
+    ],
+    "sheetItems": [
+      {
+        "lastUpdate": "2024-03-26T15:03:07",
+        "order": 0,
+        "uuid": "aba78bc9-f6c9-4719-b5ed-3098bc81fa1e"
+      },
+      {
+        "lastUpdate": "2024-03-27T09:53:21",
+        "order": 1,
+        "uuid": "67c74e4a-878c-4516-833f-c5ce482d47d8"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:05:01",
+        "order": 0,
+        "uuid": "ce5b6f8b-578a-485b-a02e-e85abb5d8842"
+      },
+      {
+        "lastUpdate": "2024-03-27T09:53:54",
+        "order": 1,
+        "uuid": "f63a317b-56c5-4675-b539-be57bb7a22cd"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:05:59",
+        "order": 0,
+        "uuid": "d7013a20-61f6-42e2-902f-cca205dec410"
+      },
+      {
+        "lastUpdate": "2024-03-27T09:54:59",
+        "order": 1,
+        "uuid": "282ba579-ebeb-4f09-8343-7b5ee342fe40"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:07:12",
+        "order": 0,
+        "uuid": "387eea0e-9c83-4ec5-bd57-814551ccd8e2"
+      },
+      {
+        "lastUpdate": "2024-03-27T09:54:26",
+        "order": 1,
+        "uuid": "c4b0cea0-c738-4ae7-a3d3-9920d2d439e7"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:08:05",
+        "order": 0,
+        "uuid": "33d86458-88c2-4978-ac7f-ec9d23457742"
+      },
+      {
+        "lastUpdate": "2024-03-27T09:54:37",
+        "order": 1,
+        "uuid": "6be4bfcb-0aa5-45c2-bfb5-1d28d729ced7"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:09:29",
+        "order": 0,
+        "uuid": "69efa0bf-391d-448c-9370-82fb6b4893e6"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:09:29",
+        "order": 1,
+        "uuid": "ca28fa59-b3c1-4c8e-b854-e7917673414c"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:09:29",
+        "order": 2,
+        "uuid": "bc4c1c55-3cec-4159-a86e-26fa2969510c"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:09:29",
+        "order": 3,
+        "uuid": "54a33807-21c0-4b32-be9d-8ab5399b543d"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:09:29",
+        "order": 4,
+        "uuid": "672d6a28-3df1-4629-b826-60be387873d2"
+      }
+    ],
+    "sheets": [
+      {
+        "description": null,
+        "extraData": null,
+        "items": [],
+        "lastUpdate": "2024-03-27T09:53:21",
+        "mediaUuid": null,
+        "subtitle": "ChIJxdpSZudD0xIRuEo0hgxWxAk",
+        "tag": "gmap-code",
+        "title": null,
+        "uuid": "9e3fd973-0ee1-4894-bc51-47b166b8936a"
+      },
+      {
+        "description": "<p>Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa. Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.</p>\n",
+        "extraData": null,
+        "items": [
+          "aba78bc9-f6c9-4719-b5ed-3098bc81fa1e",
+          "67c74e4a-878c-4516-833f-c5ce482d47d8"
+        ],
+        "lastUpdate": "2024-03-27T09:53:21",
+        "mediaUuid": "1cf40413-565d-4439-a676-3498981cc58d",
+        "subtitle": "",
+        "tag": "poi-main-external-entry-sheet",
+        "title": "Cattedrale di San Lorenzo",
+        "uuid": "365c193a-bca3-4d83-9695-e4c6cba73844"
+      },
+      {
+        "description": null,
+        "extraData": null,
+        "items": [],
+        "lastUpdate": "2024-03-27T09:53:54",
+        "mediaUuid": null,
+        "subtitle": "ChIJEdODiudD0xIR3he1xUdNgmc",
+        "tag": "gmap-code",
+        "title": null,
+        "uuid": "7934ff1b-9a6b-4eec-a13b-2f724dccdd9f"
+      },
+      {
+        "description": "<p>Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa. Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.</p>\n",
+        "extraData": null,
+        "items": [
+          "ce5b6f8b-578a-485b-a02e-e85abb5d8842",
+          "f63a317b-56c5-4675-b539-be57bb7a22cd"
+        ],
+        "lastUpdate": "2024-03-27T09:53:54",
+        "mediaUuid": "53278969-21a1-47dd-8d36-5c24239e04c1",
+        "subtitle": "",
+        "tag": "poi-main-external-entry-sheet",
+        "title": "Piazza De Ferrari",
+        "uuid": "0a479403-0e7a-4cf8-9175-dc7dde3599d5"
+      },
+      {
+        "description": null,
+        "extraData": null,
+        "items": [],
+        "lastUpdate": "2024-03-27T09:54:59",
+        "mediaUuid": null,
+        "subtitle": "ChIJUxCtkf1D0xIRa28P0NihOGQ",
+        "tag": "gmap-code",
+        "title": null,
+        "uuid": "6c03dec7-fdcf-4ca3-854a-cbe93bf6dbc0"
+      },
+      {
+        "description": "<p>Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa. Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.</p>\n",
+        "extraData": null,
+        "items": [
+          "d7013a20-61f6-42e2-902f-cca205dec410",
+          "282ba579-ebeb-4f09-8343-7b5ee342fe40"
+        ],
+        "lastUpdate": "2024-03-27T09:54:59",
+        "mediaUuid": "2be9561f-f270-4997-9e88-7217cb33d632",
+        "subtitle": "",
+        "tag": "poi-main-external-entry-sheet",
+        "title": "Teatro Carlo Felice",
+        "uuid": "5e7daae9-c86a-4717-aec4-f3519dab6c2c"
+      },
+      {
+        "description": null,
+        "extraData": null,
+        "items": [],
+        "lastUpdate": "2024-03-27T09:54:26",
+        "mediaUuid": null,
+        "subtitle": "Ei9TcGlhbmF0YSBkaSBDYXN0ZWxsZXR0bywgMTYxMjQgR2Vub3ZhIEdFLCBJdGFseSIuKiwKFAoSCd9pULTlQ9MSEVufWJ52dhrnEhQKEgmtmtTcUkHTEhEKYoEY8YRqIw",
+        "tag": "gmap-code",
+        "title": null,
+        "uuid": "b1356ded-b7d3-4d23-aeef-fd5cf90f650b"
+      },
+      {
+        "description": "<p>Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa. Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.</p>\n",
+        "extraData": null,
+        "items": [
+          "387eea0e-9c83-4ec5-bd57-814551ccd8e2",
+          "c4b0cea0-c738-4ae7-a3d3-9920d2d439e7"
+        ],
+        "lastUpdate": "2024-03-27T09:54:26",
+        "mediaUuid": "bb8edf41-d000-4f52-8096-74146e337162",
+        "subtitle": "",
+        "tag": "poi-main-external-entry-sheet",
+        "title": "Vista su Genova 1",
+        "uuid": "ca9ce308-88fb-45e6-a7f1-5d3ea864a926"
+      },
+      {
+        "description": null,
+        "extraData": null,
+        "items": [],
+        "lastUpdate": "2024-03-27T09:54:37",
+        "mediaUuid": null,
+        "subtitle": "Ei9TcGlhbmF0YSBkaSBDYXN0ZWxsZXR0bywgMTYxMjQgR2Vub3ZhIEdFLCBJdGFseSIuKiwKFAoSCd9pULTlQ9MSEVufWJ52dhrnEhQKEgmtmtTcUkHTEhEKYoEY8YRqIw",
+        "tag": "gmap-code",
+        "title": null,
+        "uuid": "23b3ddac-d9e0-492d-87a1-eac5ef32d0bd"
+      },
+      {
+        "description": "<p>Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa. Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.</p>\n",
+        "extraData": null,
+        "items": [
+          "33d86458-88c2-4978-ac7f-ec9d23457742",
+          "6be4bfcb-0aa5-45c2-bfb5-1d28d729ced7"
+        ],
+        "lastUpdate": "2024-03-27T09:54:37",
+        "mediaUuid": "049dadf8-ee9f-4f66-8f51-a990e72cbf26",
+        "subtitle": "",
+        "tag": "poi-main-external-entry-sheet",
+        "title": "Vista su Genova 2",
+        "uuid": "5a593b99-288c-47b7-bd97-aa00bc1834c0"
+      },
+      {
+        "description": "<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia.</p>\n",
+        "extraData": null,
+        "items": [
+          "69efa0bf-391d-448c-9370-82fb6b4893e6",
+          "ca28fa59-b3c1-4c8e-b854-e7917673414c",
+          "bc4c1c55-3cec-4159-a86e-26fa2969510c",
+          "54a33807-21c0-4b32-be9d-8ab5399b543d",
+          "672d6a28-3df1-4629-b826-60be387873d2"
+        ],
+        "lastUpdate": "2024-03-26T15:09:29",
+        "mediaUuid": "bb8edf41-d000-4f52-8096-74146e337162",
+        "subtitle": "IL TERRITORIO",
+        "tag": "path-main-external-entry-sheet",
+        "title": "Esplora la città",
+        "uuid": "061cad8f-3e1a-4f02-bd18-1f9865bdee3a"
+      }
+    ]
+  },
+  {
+    "categories": [],
+    "color": "#EFBB2B",
+    "description": null,
+    "lastUpdate": "2024-03-26T15:00:51",
+    "mediaUuid": null,
+    "order": 0,
+    "skuCode": null,
+    "subtitle": null,
+    "tag": "path-intro",
+    "totalSize": 960514,
+    "title": "Intro",
+    "uuid": "dbf6e55c-4e37-4def-83b6-d905a40df580",
+    "galleries": [
+      {
+        "description": null,
+        "items": [
+          "0e3c089d-08b2-4293-85f3-4793afdc8559"
+        ],
+        "lastUpdate": "2024-03-26T10:54:00",
+        "subtitle": null,
+        "tag": "image-gallery",
+        "title": null,
+        "uuid": "738a77b7-efcd-4a6e-b00d-19415cd70c27"
+      },
+      {
+        "description": null,
+        "items": [
+          "f4813a7c-3cf5-4bce-88ba-792f907e12a0",
+          "c84acbae-9b80-4c87-95af-2223ee0e1562"
+        ],
+        "lastUpdate": "2024-03-26T10:54:00",
+        "subtitle": null,
+        "tag": "image-gallery",
+        "title": null,
+        "uuid": "2498bedb-68a8-4c4d-9e35-4dfb786a2d06"
+      },
+      {
+        "description": null,
+        "items": [
+          "15c4693c-c9bf-42b1-9899-f83a819a5d46"
+        ],
+        "lastUpdate": "2024-03-26T10:54:00",
+        "subtitle": null,
+        "tag": "image-gallery",
+        "title": null,
+        "uuid": "88387b85-3435-48cf-9c43-6119c6143778"
+      }
+    ],
+    "galleryItems": [
+      {
+        "description": null,
+        "lastUpdate": "2024-03-26T10:54:00",
+        "mediaUuid": "3cdf1eca-fa06-466f-bf04-97716c91baa1",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "0e3c089d-08b2-4293-85f3-4793afdc8559"
+      },
+      {
+        "description": null,
+        "lastUpdate": "2024-03-26T10:54:00",
+        "mediaUuid": "47cd4359-99e2-4a20-8528-92cfe001a62a",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "f4813a7c-3cf5-4bce-88ba-792f907e12a0"
+      },
+      {
+        "description": null,
+        "lastUpdate": "2024-03-26T10:54:00",
+        "mediaUuid": "8150e1cd-c715-4a36-a4fa-2210a134af59",
+        "order": 1,
+        "subtitle": null,
+        "title": null,
+        "uuid": "c84acbae-9b80-4c87-95af-2223ee0e1562"
+      },
+      {
+        "description": null,
+        "lastUpdate": "2024-03-26T10:54:00",
+        "mediaUuid": "b965f06c-74a3-4156-af72-e062d390e7d8",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "15c4693c-c9bf-42b1-9899-f83a819a5d46"
+      }
+    ],
+    "mediaFiles": [
+      {
+        "lastUpdate": "2024-03-26T10:53:57",
+        "mimeType": "image/jpeg",
+        "name": "intro_1.jpg",
+        "size": 107301,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/intro_1.jpg",
+        "uuid": "3cdf1eca-fa06-466f-bf04-97716c91baa1"
+      },
+      {
+        "lastUpdate": "2024-03-26T10:53:57",
+        "mimeType": "image/jpeg",
+        "name": "intro_2.jpg",
+        "size": 127905,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/intro_2.jpg",
+        "uuid": "47cd4359-99e2-4a20-8528-92cfe001a62a"
+      },
+      {
+        "lastUpdate": "2024-03-26T10:53:58",
+        "mimeType": "image/jpeg",
+        "name": "intro_3.jpg",
+        "size": 65663,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/intro_3.jpg",
+        "uuid": "8150e1cd-c715-4a36-a4fa-2210a134af59"
+      },
+      {
+        "lastUpdate": "2024-03-26T10:53:58",
+        "mimeType": "image/jpeg",
+        "name": "intro_4.jpg",
+        "size": 179388,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/intro_4.jpg",
+        "uuid": "b965f06c-74a3-4156-af72-e062d390e7d8"
+      }
+    ],
+    "poiOrder": [
+      {
+        "index": 0,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "af474b7a-7ea5-47e4-a3e9-ebc2f75f055a"
+      }
+    ],
+    "pois": [
+      {
+        "categories": [],
+        "description": null,
+        "lastUpdate": "2024-03-26T15:00:51",
+        "mediaUuid": null,
+        "subtitle": null,
+        "tag": "poi-intro",
+        "title": "Intro",
+        "uuid": "af474b7a-7ea5-47e4-a3e9-ebc2f75f055a"
+      }
+    ],
+    "relations": [
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "84c77822-b50e-4d9d-8ffa-7124b8f9da0e",
+        "poiUuid": "af474b7a-7ea5-47e4-a3e9-ebc2f75f055a",
+        "outType": "GLR",
+        "outUuid": "738a77b7-efcd-4a6e-b00d-19415cd70c27"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "e026769a-8b9e-45e4-b3b8-a3a0aafe6c48",
+        "poiUuid": "af474b7a-7ea5-47e4-a3e9-ebc2f75f055a",
+        "outType": "GLR",
+        "outUuid": "2498bedb-68a8-4c4d-9e35-4dfb786a2d06"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "4bfa370c-1c0a-40cf-8b74-90b44c7a7a24",
+        "poiUuid": "af474b7a-7ea5-47e4-a3e9-ebc2f75f055a",
+        "outType": "GLR",
+        "outUuid": "88387b85-3435-48cf-9c43-6119c6143778"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "fa223722-8636-40ab-8b15-2dbd2c9050bf",
+        "poiUuid": "af474b7a-7ea5-47e4-a3e9-ebc2f75f055a",
+        "outType": "SHT",
+        "outUuid": "0ed241bf-c93e-40e1-af04-6f9af6c3b8e0"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "cb3270ac-1204-4969-a014-a7c477859c0e",
+        "poiUuid": "af474b7a-7ea5-47e4-a3e9-ebc2f75f055a",
+        "outType": "SHT",
+        "outUuid": "1652bedc-d4e7-4518-be28-c3ba6029a9d2"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "ad0c4abf-ba26-4b3a-a477-418a6bccd7ec",
+        "poiUuid": "af474b7a-7ea5-47e4-a3e9-ebc2f75f055a",
+        "outType": "SHT",
+        "outUuid": "170b83a8-8cb1-47e2-a02f-b35d7ac26e61"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "5830ceed-b8d2-4f8f-9cdd-2bc994d97b0e",
+        "poiUuid": "af474b7a-7ea5-47e4-a3e9-ebc2f75f055a",
+        "outType": "SHT",
+        "outUuid": "50ea9aef-c986-4b68-ae69-e39168b5191d"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "82b4b1c5-52db-42e8-998e-2e62337f052f",
+        "poiUuid": "af474b7a-7ea5-47e4-a3e9-ebc2f75f055a",
+        "outType": "SHT",
+        "outUuid": "6ddbe165-8f7f-4acf-b23a-e58498fb48f5"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "ab48cae1-3552-4031-8ec7-0e708d1939ba",
+        "poiUuid": "af474b7a-7ea5-47e4-a3e9-ebc2f75f055a",
+        "outType": "SHT",
+        "outUuid": "0de424dd-30e1-44e6-af32-83f1752ed543"
+      },
+      {
+        "inType": "EPT",
+        "inUuid": "",
+        "poiUuid": "",
+        "outType": "SHT",
+        "outUuid": "3b1f5af7-c825-40fd-b3fa-81f6ac167883"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "5fa1c42e-1e9b-4496-8744-b89ed745d340",
+        "poiUuid": "af474b7a-7ea5-47e4-a3e9-ebc2f75f055a",
+        "outType": "SHT",
+        "outUuid": "1a4dbfa2-114a-4c83-92d5-5cc664760d44"
+      }
+    ],
+    "sheetItems": [
+      {
+        "lastUpdate": "2024-03-26T10:53:58",
+        "order": 0,
+        "uuid": "84c77822-b50e-4d9d-8ffa-7124b8f9da0e"
+      },
+      {
+        "lastUpdate": "2024-03-26T10:53:59",
+        "order": 0,
+        "uuid": "e026769a-8b9e-45e4-b3b8-a3a0aafe6c48"
+      },
+      {
+        "lastUpdate": "2024-03-26T10:53:59",
+        "order": 0,
+        "uuid": "4bfa370c-1c0a-40cf-8b74-90b44c7a7a24"
+      },
+      {
+        "lastUpdate": "2024-03-26T10:53:59",
+        "order": 0,
+        "uuid": "fa223722-8636-40ab-8b15-2dbd2c9050bf"
+      },
+      {
+        "lastUpdate": "2024-03-26T10:53:59",
+        "order": 1,
+        "uuid": "cb3270ac-1204-4969-a014-a7c477859c0e"
+      },
+      {
+        "lastUpdate": "2024-03-26T10:53:59",
+        "order": 2,
+        "uuid": "ad0c4abf-ba26-4b3a-a477-418a6bccd7ec"
+      },
+      {
+        "lastUpdate": "2024-03-26T10:53:59",
+        "order": 3,
+        "uuid": "5830ceed-b8d2-4f8f-9cdd-2bc994d97b0e"
+      },
+      {
+        "lastUpdate": "2024-03-26T10:53:59",
+        "order": 4,
+        "uuid": "82b4b1c5-52db-42e8-998e-2e62337f052f"
+      },
+      {
+        "lastUpdate": "2024-03-26T10:53:59",
+        "order": 5,
+        "uuid": "ab48cae1-3552-4031-8ec7-0e708d1939ba"
+      },
+      {
+        "lastUpdate": "2024-03-26T10:13:13",
+        "order": 0,
+        "uuid": "5fa1c42e-1e9b-4496-8744-b89ed745d340"
+      }
+    ],
+    "sheets": [
+      {
+        "description": "<p>Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip.</p>\n",
+        "extraData": null,
+        "items": [],
+        "lastUpdate": "2024-03-26T10:53:59",
+        "mediaUuid": null,
+        "subtitle": null,
+        "tag": "description-sheet",
+        "title": "",
+        "uuid": "0ed241bf-c93e-40e1-af04-6f9af6c3b8e0"
+      },
+      {
+        "description": null,
+        "extraData": null,
+        "items": [
+          "84c77822-b50e-4d9d-8ffa-7124b8f9da0e"
+        ],
+        "lastUpdate": "2024-03-26T10:54:00",
+        "mediaUuid": null,
+        "subtitle": null,
+        "tag": "image-gallery",
+        "title": null,
+        "uuid": "1652bedc-d4e7-4518-be28-c3ba6029a9d2"
+      },
+      {
+        "description": "<p>Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip.</p>\n<p>Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip.</p>\n",
+        "extraData": null,
+        "items": [],
+        "lastUpdate": "2024-03-26T10:54:00",
+        "mediaUuid": null,
+        "subtitle": null,
+        "tag": "description-sheet",
+        "title": "",
+        "uuid": "170b83a8-8cb1-47e2-a02f-b35d7ac26e61"
+      },
+      {
+        "description": null,
+        "extraData": null,
+        "items": [
+          "e026769a-8b9e-45e4-b3b8-a3a0aafe6c48"
+        ],
+        "lastUpdate": "2024-03-26T10:54:00",
+        "mediaUuid": null,
+        "subtitle": null,
+        "tag": "image-gallery",
+        "title": null,
+        "uuid": "50ea9aef-c986-4b68-ae69-e39168b5191d"
+      },
+      {
+        "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>\n",
+        "extraData": "{\"bgColor\":\"#EFBB2B\",\"fgColor\":\"#FFFFFF\"}",
+        "items": [],
+        "lastUpdate": "2024-03-26T15:00:51",
+        "mediaUuid": null,
+        "subtitle": null,
+        "tag": "description-sheet",
+        "title": "Scopri il teaser del Museo",
+        "uuid": "6ddbe165-8f7f-4acf-b23a-e58498fb48f5"
+      },
+      {
+        "description": null,
+        "extraData": "{\"bgColor\":\"#EFBB2B\",\"fgColor\":\"#FFFFFF\"}",
+        "items": [
+          "4bfa370c-1c0a-40cf-8b74-90b44c7a7a24"
+        ],
+        "lastUpdate": "2024-03-26T15:00:51",
+        "mediaUuid": null,
+        "subtitle": null,
+        "tag": "image-gallery",
+        "title": null,
+        "uuid": "0de424dd-30e1-44e6-af32-83f1752ed543"
+      },
+      {
+        "description": null,
+        "extraData": null,
+        "items": [
+          "fa223722-8636-40ab-8b15-2dbd2c9050bf",
+          "cb3270ac-1204-4969-a014-a7c477859c0e",
+          "ad0c4abf-ba26-4b3a-a477-418a6bccd7ec",
+          "5830ceed-b8d2-4f8f-9cdd-2bc994d97b0e",
+          "82b4b1c5-52db-42e8-998e-2e62337f052f",
+          "ab48cae1-3552-4031-8ec7-0e708d1939ba"
+        ],
+        "lastUpdate": "2024-03-26T15:00:51",
+        "mediaUuid": null,
+        "subtitle": null,
+        "tag": "poi-intro-entry-sheet",
+        "title": "Intro",
+        "uuid": "1a4dbfa2-114a-4c83-92d5-5cc664760d44"
+      },
+      {
+        "description": null,
+        "extraData": null,
+        "items": [
+          "5fa1c42e-1e9b-4496-8744-b89ed745d340"
+        ],
+        "lastUpdate": "2024-03-26T10:50:20",
+        "mediaUuid": null,
+        "subtitle": null,
+        "tag": "path-intro-entry-sheet",
+        "title": "Intro",
+        "uuid": "3b1f5af7-c825-40fd-b3fa-81f6ac167883"
+      }
+    ]
+  },
+  {
+    "categories": [
+      "6542ebd1-bb30-4d03-be32-d60043fae905"
+    ],
+    "color": "#EFBB2B",
+    "description": "<p>Scopri le opere principali e le storie da non perdere al Museo, aggiungendo qualche curiosità in più alla tua visita.</p>\n",
+    "lastUpdate": "2024-03-26T15:44:28",
+    "mediaUuid": "7dff87ea-350d-4cfb-a28b-3e46de343e50",
+    "order": 1,
+    "skuCode": null,
+    "subtitle": "Tempo stimato: 2h",
+    "tag": "path-main-internal",
+    "totalSize": 5601924,
+    "title": "Percorso Intermedio",
+    "uuid": "f0fe9391-74f7-4ff4-9605-2dc0591de708",
+    "beacons": [
+      {
+        "lastUpdate": "2024-03-26T15:43:45",
+        "major": 1,
+        "minor": 1,
+        "name": "Beacon 1",
+        "proximityUuid": "12345678-1234-1234-1234-123456789abc",
+        "radius": 10.0,
+        "uuid": "dd60a8a3-ed32-493a-a6a9-41c2b795b887"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:44:00",
+        "major": 1,
+        "minor": 2,
+        "name": "Beacon 2",
+        "proximityUuid": "12345678-1234-1234-1234-123456789abc",
+        "radius": 10.0,
+        "uuid": "60bb3af8-78ef-4ff3-b497-4fac085c664b"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:44:14",
+        "major": 1,
+        "minor": 3,
+        "name": "Beacon 3",
+        "proximityUuid": "12345678-1234-1234-1234-123456789abc",
+        "radius": 10.0,
+        "uuid": "48917e04-95b3-4af1-8364-5d110f9b5fc9"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:44:28",
+        "major": 1,
+        "minor": 4,
+        "name": "Beacon 4",
+        "proximityUuid": "12345678-1234-1234-1234-123456789abc",
+        "radius": 10.0,
+        "uuid": "e36e9ba5-a8ec-4ba1-98a4-bffca0aeeb85"
+      }
+    ],
+    "galleries": [
+      {
+        "description": null,
+        "items": [
+          "57e04844-d715-4c30-b996-8b08dbb9a7ef"
+        ],
+        "lastUpdate": "2024-03-26T11:09:46",
+        "subtitle": null,
+        "tag": "images-gallery",
+        "title": null,
+        "uuid": "625a40f6-5965-4b08-b560-c777b86578bd"
+      },
+      {
+        "description": null,
+        "items": [
+          "403a14d2-a7c4-47f8-b15b-a3dbbe96420b"
+        ],
+        "lastUpdate": "2024-03-26T11:10:01",
+        "subtitle": null,
+        "tag": "images-gallery",
+        "title": null,
+        "uuid": "2d6048f6-0082-4b90-abe7-3f766fa3e907"
+      },
+      {
+        "description": null,
+        "items": [
+          "55b8dbb3-bf91-4e9d-b9d9-7a0836dacb2f"
+        ],
+        "lastUpdate": "2024-03-26T14:44:56",
+        "subtitle": null,
+        "tag": "images-gallery",
+        "title": null,
+        "uuid": "264b0890-4cd1-440d-b94c-5e86d7512354"
+      },
+      {
+        "description": null,
+        "items": [
+          "a3b07a31-f7ab-4e9c-95f8-3b3d6398bdcd"
+        ],
+        "lastUpdate": "2024-03-26T14:47:04",
+        "subtitle": null,
+        "tag": "images-gallery",
+        "title": null,
+        "uuid": "123e303f-f34a-4923-a80f-5accb85ae5db"
+      }
+    ],
+    "galleryItems": [
+      {
+        "description": null,
+        "lastUpdate": "2024-03-26T11:09:46",
+        "mediaUuid": "6dda1624-41ca-405b-8b71-3397e6243cca",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "57e04844-d715-4c30-b996-8b08dbb9a7ef"
+      },
+      {
+        "description": null,
+        "lastUpdate": "2024-03-26T11:10:01",
+        "mediaUuid": "34073319-53ec-4cd5-9639-4c1fec374d66",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "403a14d2-a7c4-47f8-b15b-a3dbbe96420b"
+      },
+      {
+        "description": null,
+        "lastUpdate": "2024-03-26T14:44:56",
+        "mediaUuid": "ff386f1a-9426-47b0-b07b-8b18f4aac41d",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "55b8dbb3-bf91-4e9d-b9d9-7a0836dacb2f"
+      },
+      {
+        "description": null,
+        "lastUpdate": "2024-03-26T14:47:04",
+        "mediaUuid": "60c619ea-be68-40d0-9bd2-dd38b42c71a3",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "a3b07a31-f7ab-4e9c-95f8-3b3d6398bdcd"
+      }
+    ],
+    "mapItems": [
+      {
+        "latitude": null,
+        "lastUpdate": "2024-03-26T14:46:07",
+        "longitude": null,
+        "mediaUuid": null,
+        "poiUuid": "82583380-ce23-4f86-ae57-510d941b0713",
+        "uuid": "87f1a282-2687-4163-8484-2bba5232b74c",
+        "x": 725,
+        "y": 1712
+      },
+      {
+        "latitude": null,
+        "lastUpdate": "2024-03-26T14:46:07",
+        "longitude": null,
+        "mediaUuid": null,
+        "poiUuid": "34103dad-9462-4ea0-b7e2-9d2707f7652e",
+        "uuid": "96ec48de-6471-49c5-82c2-7af8fede8fbb",
+        "x": 1878,
+        "y": 2272
+      },
+      {
+        "latitude": null,
+        "lastUpdate": "2024-03-26T14:46:07",
+        "longitude": null,
+        "mediaUuid": null,
+        "poiUuid": "4a18af31-4fde-4e5a-98bf-decf4f5ca421",
+        "uuid": "3521ba90-486b-457d-a19b-53f75f8928d5",
+        "x": 2207,
+        "y": 2272
+      },
+      {
+        "latitude": null,
+        "lastUpdate": "2024-03-26T14:50:11",
+        "longitude": null,
+        "mediaUuid": null,
+        "poiUuid": "6d3a9a4d-03a9-4899-b845-1a32d459dd26",
+        "uuid": "483dbf89-6fb6-4ee6-b12a-7a66ec9c6a17",
+        "x": 1159,
+        "y": 2370
+      }
+    ],
+    "maps": [
+      {
+        "bottomRightLatitude": null,
+        "bottomRightLongitude": null,
+        "description": null,
+        "height": 4000,
+        "items": [
+          "87f1a282-2687-4163-8484-2bba5232b74c",
+          "96ec48de-6471-49c5-82c2-7af8fede8fbb"
+        ],
+        "lastUpdate": "2024-03-26T14:46:07",
+        "mapType": "image",
+        "mediaUuid": "70669571-9ccb-4375-a182-d16d452702bd",
+        "order": 0,
+        "subtitle": null,
+        "tag": "map-main-internal",
+        "title": "Piano 0",
+        "topLeftLatitude": null,
+        "topLeftLongitude": null,
+        "uuid": "77d52bf7-8800-4a8b-8d9c-43a4d9e78d06",
+        "width": 4000
+      },
+      {
+        "bottomRightLatitude": null,
+        "bottomRightLongitude": null,
+        "description": null,
+        "height": 4000,
+        "items": [
+          "3521ba90-486b-457d-a19b-53f75f8928d5",
+          "483dbf89-6fb6-4ee6-b12a-7a66ec9c6a17"
+        ],
+        "lastUpdate": "2024-03-26T15:10:56",
+        "mapType": "image",
+        "mediaUuid": "6f43711e-7f5a-40f8-958e-665796565ace",
+        "order": 1,
+        "subtitle": null,
+        "tag": "map-main-internal",
+        "title": "Piano 1",
+        "topLeftLatitude": null,
+        "topLeftLongitude": null,
+        "uuid": "b020b969-e675-4afd-a101-156be5da3cd7",
+        "width": 4000
+      }
+    ],
+    "mediaFiles": [
+      {
+        "lastUpdate": "2024-03-26T14:43:03",
+        "mimeType": "image/png",
+        "name": "percorso1_piano0.png",
+        "size": 335632,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/percorso1_piano0.png",
+        "uuid": "70669571-9ccb-4375-a182-d16d452702bd"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:43:16",
+        "mimeType": "image/png",
+        "name": "percorso1_piano1.png",
+        "size": 333212,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/percorso1_piano1.png",
+        "uuid": "6f43711e-7f5a-40f8-958e-665796565ace"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:46:06",
+        "mimeType": "image/jpeg",
+        "name": "percorso_2.jpg",
+        "size": 123397,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/percorso_2.jpg",
+        "uuid": "7dff87ea-350d-4cfb-a28b-3e46de343e50"
+      },
+      {
+        "lastUpdate": "2024-03-26T11:08:28",
+        "mimeType": "image/jpeg",
+        "name": "poi1.jpg",
+        "size": 488309,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/poi1.jpg",
+        "uuid": "6dda1624-41ca-405b-8b71-3397e6243cca"
+      },
+      {
+        "lastUpdate": "2024-03-26T11:09:02",
+        "mimeType": "image/jpeg",
+        "name": "poi2.jpg",
+        "size": 530037,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/poi2.jpg",
+        "uuid": "34073319-53ec-4cd5-9639-4c1fec374d66"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:44:55",
+        "mimeType": "image/jpeg",
+        "name": "poi3.jpg",
+        "size": 467145,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/poi3.jpg",
+        "uuid": "ff386f1a-9426-47b0-b07b-8b18f4aac41d"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:47:03",
+        "mimeType": "image/jpeg",
+        "name": "poi4.jpg",
+        "size": 523230,
+        "type": "IMG",
+        "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/poi4.jpg",
+        "uuid": "60c619ea-be68-40d0-9bd2-dd38b42c71a3"
+      }
+    ],
+    "pathCategories": [
+      {
+        "code": "39F67161-4F70-4333-9F73-751F1B74AE92",
+        "color": "",
+        "description": "",
+        "lastUpdate": "2024-03-26T11:11:51",
+        "mediaUuid": null,
+        "order": 1,
+        "subtitle": "",
+        "tag": "preview",
+        "type": "mainPage",
+        "title": "Itinerari al Museo",
+        "uuid": "6542ebd1-bb30-4d03-be32-d60043fae905"
+      }
+    ],
+    "poiOrder": [
+      {
+        "index": 0,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "82583380-ce23-4f86-ae57-510d941b0713"
+      },
+      {
+        "index": 1,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "34103dad-9462-4ea0-b7e2-9d2707f7652e"
+      },
+      {
+        "index": 2,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "4a18af31-4fde-4e5a-98bf-decf4f5ca421"
+      },
+      {
+        "index": 3,
+        "isAccessible": true,
+        "isEnabled": true,
+        "isHidden": false,
+        "isVisited": true,
+        "order": null,
+        "poiUuid": "6d3a9a4d-03a9-4899-b845-1a32d459dd26"
+      }
+    ],
+    "pois": [
+      {
+        "categories": [],
+        "description": "<p>Poi 1</p>\n",
+        "lastUpdate": "2024-03-26T15:43:45",
+        "mediaUuid": "6dda1624-41ca-405b-8b71-3397e6243cca",
+        "subtitle": "",
+        "tag": "poi-main-internal",
+        "title": "Poi 1",
+        "uuid": "82583380-ce23-4f86-ae57-510d941b0713"
+      },
+      {
+        "categories": [],
+        "description": "<p>Poi 2</p>\n",
+        "lastUpdate": "2024-03-26T15:44:00",
+        "mediaUuid": "34073319-53ec-4cd5-9639-4c1fec374d66",
+        "subtitle": "",
+        "tag": "poi-main-internal",
+        "title": "Poi 2",
+        "uuid": "34103dad-9462-4ea0-b7e2-9d2707f7652e"
+      },
+      {
+        "categories": [],
+        "description": "<p>Poi 3</p>\n",
+        "lastUpdate": "2024-03-26T15:44:14",
+        "mediaUuid": "ff386f1a-9426-47b0-b07b-8b18f4aac41d",
+        "subtitle": "",
+        "tag": "poi-main-internal",
+        "title": "Poi 3",
+        "uuid": "4a18af31-4fde-4e5a-98bf-decf4f5ca421"
+      },
+      {
+        "categories": [],
+        "description": "<p>Poi 4</p>\n",
+        "lastUpdate": "2024-03-26T15:44:28",
+        "mediaUuid": "60c619ea-be68-40d0-9bd2-dd38b42c71a3",
+        "subtitle": "",
+        "tag": "poi-main-internal",
+        "title": "Poi 4",
+        "uuid": "6d3a9a4d-03a9-4899-b845-1a32d459dd26"
+      }
+    ],
+    "qrCodes": [
+      {
+        "lastUpdate": "2024-03-26T15:40:23",
+        "scanInfo": "https://ettsolutions.com/?q=poi_01",
+        "tag": "QRCode 1",
+        "uuid": "2b6cdfba-4efa-4f8e-b734-51f91e8e2752"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:40:34",
+        "scanInfo": "https://ettsolutions.com/?q=poi_02",
+        "tag": "QRCode 2",
+        "uuid": "a7ff598b-52d6-45bb-9c3f-cc673da390a7"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:40:47",
+        "scanInfo": "https://ettsolutions.com/?q=poi_03",
+        "tag": "QRCode 3",
+        "uuid": "80807ea0-c262-4600-9c35-946d735ddb7e"
+      },
+      {
+        "lastUpdate": "2024-03-26T15:41:02",
+        "scanInfo": "https://ettsolutions.com/?q=poi_04",
+        "tag": "QRCode 4",
+        "uuid": "5ca87f99-b5ec-43f8-b4c9-80e2d5be6fa9"
+      }
+    ],
+    "relations": [
+      {
+        "inType": "EPT",
+        "inUuid": "",
+        "poiUuid": "",
+        "outType": "MAP",
+        "outUuid": "77d52bf7-8800-4a8b-8d9c-43a4d9e78d06"
+      },
+      {
+        "inType": "EPT",
+        "inUuid": "",
+        "poiUuid": "",
+        "outType": "MAP",
+        "outUuid": "b020b969-e675-4afd-a101-156be5da3cd7"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "0469a115-b286-4cbc-85ad-1643235dd03b",
+        "poiUuid": "82583380-ce23-4f86-ae57-510d941b0713",
+        "outType": "GLR",
+        "outUuid": "625a40f6-5965-4b08-b560-c777b86578bd"
+      },
+      {
+        "inType": "BCN",
+        "inUuid": "dd60a8a3-ed32-493a-a6a9-41c2b795b887",
+        "poiUuid": "82583380-ce23-4f86-ae57-510d941b0713",
+        "outType": "SHT",
+        "outUuid": "9cfad3ba-ea92-4b81-81ae-fb0833f7e77b"
+      },
+      {
+        "inType": "QRC",
+        "inUuid": "2b6cdfba-4efa-4f8e-b734-51f91e8e2752",
+        "poiUuid": "82583380-ce23-4f86-ae57-510d941b0713",
+        "outType": "SHT",
+        "outUuid": "9cfad3ba-ea92-4b81-81ae-fb0833f7e77b"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "67fb3ee9-c91f-45d3-a5fe-28cc7c033971",
+        "poiUuid": "34103dad-9462-4ea0-b7e2-9d2707f7652e",
+        "outType": "GLR",
+        "outUuid": "2d6048f6-0082-4b90-abe7-3f766fa3e907"
+      },
+      {
+        "inType": "BCN",
+        "inUuid": "60bb3af8-78ef-4ff3-b497-4fac085c664b",
+        "poiUuid": "34103dad-9462-4ea0-b7e2-9d2707f7652e",
+        "outType": "SHT",
+        "outUuid": "9b7bd28b-dda4-47fa-ba33-2582ef5f5f71"
+      },
+      {
+        "inType": "QRC",
+        "inUuid": "a7ff598b-52d6-45bb-9c3f-cc673da390a7",
+        "poiUuid": "34103dad-9462-4ea0-b7e2-9d2707f7652e",
+        "outType": "SHT",
+        "outUuid": "9b7bd28b-dda4-47fa-ba33-2582ef5f5f71"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "c2727932-d943-49ec-82a9-36a3b897beca",
+        "poiUuid": "4a18af31-4fde-4e5a-98bf-decf4f5ca421",
+        "outType": "GLR",
+        "outUuid": "264b0890-4cd1-440d-b94c-5e86d7512354"
+      },
+      {
+        "inType": "BCN",
+        "inUuid": "48917e04-95b3-4af1-8364-5d110f9b5fc9",
+        "poiUuid": "4a18af31-4fde-4e5a-98bf-decf4f5ca421",
+        "outType": "SHT",
+        "outUuid": "1f0e63b6-3cf0-435d-8038-5342ddeb8e42"
+      },
+      {
+        "inType": "QRC",
+        "inUuid": "80807ea0-c262-4600-9c35-946d735ddb7e",
+        "poiUuid": "4a18af31-4fde-4e5a-98bf-decf4f5ca421",
+        "outType": "SHT",
+        "outUuid": "1f0e63b6-3cf0-435d-8038-5342ddeb8e42"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "2dcb95ab-9296-4d22-9bfc-00db61e7484b",
+        "poiUuid": "6d3a9a4d-03a9-4899-b845-1a32d459dd26",
+        "outType": "GLR",
+        "outUuid": "123e303f-f34a-4923-a80f-5accb85ae5db"
+      },
+      {
+        "inType": "BCN",
+        "inUuid": "e36e9ba5-a8ec-4ba1-98a4-bffca0aeeb85",
+        "poiUuid": "6d3a9a4d-03a9-4899-b845-1a32d459dd26",
+        "outType": "SHT",
+        "outUuid": "73f2a922-0e36-45be-8d88-3c7176ae9ea6"
+      },
+      {
+        "inType": "QRC",
+        "inUuid": "5ca87f99-b5ec-43f8-b4c9-80e2d5be6fa9",
+        "poiUuid": "6d3a9a4d-03a9-4899-b845-1a32d459dd26",
+        "outType": "SHT",
+        "outUuid": "73f2a922-0e36-45be-8d88-3c7176ae9ea6"
+      },
+      {
+        "inType": "EPT",
+        "inUuid": "",
+        "poiUuid": "",
+        "outType": "SHT",
+        "outUuid": "c7c1dc1a-ca0c-4241-89c7-2ba43afad082"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "f7b3b79c-1be8-4034-8714-0469f892f432",
+        "poiUuid": "82583380-ce23-4f86-ae57-510d941b0713",
+        "outType": "SHT",
+        "outUuid": "9cfad3ba-ea92-4b81-81ae-fb0833f7e77b"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "cbb1f921-2f0d-4640-9b1a-4ce47e6f2321",
+        "poiUuid": "34103dad-9462-4ea0-b7e2-9d2707f7652e",
+        "outType": "SHT",
+        "outUuid": "9b7bd28b-dda4-47fa-ba33-2582ef5f5f71"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "d216221a-e006-4988-b1d4-f6c240896772",
+        "poiUuid": "4a18af31-4fde-4e5a-98bf-decf4f5ca421",
+        "outType": "SHT",
+        "outUuid": "1f0e63b6-3cf0-435d-8038-5342ddeb8e42"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "12551575-784c-4ec9-9ad8-cfbdab0560ee",
+        "poiUuid": "6d3a9a4d-03a9-4899-b845-1a32d459dd26",
+        "outType": "SHT",
+        "outUuid": "73f2a922-0e36-45be-8d88-3c7176ae9ea6"
+      }
+    ],
+    "sheetItems": [
+      {
+        "lastUpdate": "2024-03-26T11:09:46",
+        "order": 0,
+        "uuid": "0469a115-b286-4cbc-85ad-1643235dd03b"
+      },
+      {
+        "lastUpdate": "2024-03-26T11:10:01",
+        "order": 0,
+        "uuid": "67fb3ee9-c91f-45d3-a5fe-28cc7c033971"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:44:55",
+        "order": 0,
+        "uuid": "c2727932-d943-49ec-82a9-36a3b897beca"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:47:03",
+        "order": 0,
+        "uuid": "2dcb95ab-9296-4d22-9bfc-00db61e7484b"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:46:07",
+        "order": 0,
+        "uuid": "f7b3b79c-1be8-4034-8714-0469f892f432"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:46:07",
+        "order": 1,
+        "uuid": "cbb1f921-2f0d-4640-9b1a-4ce47e6f2321"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:46:07",
+        "order": 2,
+        "uuid": "d216221a-e006-4988-b1d4-f6c240896772"
+      },
+      {
+        "lastUpdate": "2024-03-26T14:50:11",
+        "order": 3,
+        "uuid": "12551575-784c-4ec9-9ad8-cfbdab0560ee"
+      }
+    ],
+    "sheets": [
+      {
+        "description": "<p>Poi 1</p>\n",
+        "extraData": null,
+        "items": [
+          "0469a115-b286-4cbc-85ad-1643235dd03b"
+        ],
+        "lastUpdate": "2024-03-26T11:09:46",
+        "mediaUuid": "6dda1624-41ca-405b-8b71-3397e6243cca",
+        "subtitle": "",
+        "tag": "poi-main-internal-entry-sheet",
+        "title": "Poi 1",
+        "uuid": "9cfad3ba-ea92-4b81-81ae-fb0833f7e77b"
+      },
+      {
+        "description": "<p>Poi 2</p>\n",
+        "extraData": null,
+        "items": [
+          "67fb3ee9-c91f-45d3-a5fe-28cc7c033971"
+        ],
+        "lastUpdate": "2024-03-26T11:10:01",
+        "mediaUuid": "34073319-53ec-4cd5-9639-4c1fec374d66",
+        "subtitle": "",
+        "tag": "poi-main-internal-entry-sheet",
+        "title": "Poi 2",
+        "uuid": "9b7bd28b-dda4-47fa-ba33-2582ef5f5f71"
+      },
+      {
+        "description": "<p>Poi 3</p>\n",
+        "extraData": null,
+        "items": [
+          "c2727932-d943-49ec-82a9-36a3b897beca"
+        ],
+        "lastUpdate": "2024-03-26T14:44:56",
+        "mediaUuid": "ff386f1a-9426-47b0-b07b-8b18f4aac41d",
+        "subtitle": "",
+        "tag": "poi-main-internal-entry-sheet",
+        "title": "Poi 3",
+        "uuid": "1f0e63b6-3cf0-435d-8038-5342ddeb8e42"
+      },
+      {
+        "description": "<p>Poi 4</p>\n",
+        "extraData": null,
+        "items": [
+          "2dcb95ab-9296-4d22-9bfc-00db61e7484b"
+        ],
+        "lastUpdate": "2024-03-26T14:47:04",
+        "mediaUuid": "60c619ea-be68-40d0-9bd2-dd38b42c71a3",
+        "subtitle": "",
+        "tag": "poi-main-internal-entry-sheet",
+        "title": "Poi 4",
+        "uuid": "73f2a922-0e36-45be-8d88-3c7176ae9ea6"
+      },
+      {
+        "description": "<p>Scopri le opere principali e le storie da non perdere al Museo, aggiungendo qualche curiosità in più alla tua visita.</p>\n",
+        "extraData": null,
+        "items": [
+          "f7b3b79c-1be8-4034-8714-0469f892f432",
+          "cbb1f921-2f0d-4640-9b1a-4ce47e6f2321",
+          "d216221a-e006-4988-b1d4-f6c240896772",
+          "12551575-784c-4ec9-9ad8-cfbdab0560ee"
+        ],
+        "lastUpdate": "2024-03-26T14:50:11",
+        "mediaUuid": "7dff87ea-350d-4cfb-a28b-3e46de343e50",
+        "subtitle": "Tempo stimato: 2h",
+        "tag": "path-main-internal-entry-sheet",
+        "title": "Percorso Intermedio",
+        "uuid": "c7c1dc1a-ca0c-4241-89c7-2ba43afad082"
+      }
+    ]
+  }
+]
