@@ -1,0 +1,357 @@
+{
+  "mediaFiles": [
+    {
+      "lastUpdate": "2024-03-26T16:18:18",
+      "mimeType": "image/jpeg",
+      "name": "percorso_5_a.jpg",
+      "size": 5738,
+      "type": "IMG",
+      "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/percorso_5_a.jpg",
+      "uuid": "76230039-9552-4852-a548-944f8b651adc"
+    },
+    {
+      "lastUpdate": "2024-03-26T15:52:31",
+      "mimeType": "image/png",
+      "name": "secondary_matterport.png",
+      "size": 6735,
+      "type": "IMG",
+      "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/secondary_matterport.png",
+      "uuid": "6ca2f95a-007a-4159-9071-21b27bbff154"
+    },
+    {
+      "lastUpdate": "2024-03-26T15:52:08",
+      "mimeType": "image/png",
+      "name": "up_icon3-1.png",
+      "size": 37402,
+      "type": "IMG",
+      "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/up_icon3-1.png",
+      "uuid": "cefe8513-b8b2-418b-890b-4887c333e78a"
+    },
+    {
+      "lastUpdate": "2024-03-26T15:07:11",
+      "mimeType": "image/jpeg",
+      "name": "poi5-1.jpg",
+      "size": 551645,
+      "type": "IMG",
+      "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/poi5-1.jpg",
+      "uuid": "bb8edf41-d000-4f52-8096-74146e337162"
+    },
+    {
+      "lastUpdate": "2024-03-26T11:10:59",
+      "mimeType": "image/jpeg",
+      "name": "percorso_1.jpg",
+      "size": 101717,
+      "type": "IMG",
+      "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/percorso_1.jpg",
+      "uuid": "f16e283d-329f-4a8b-a54c-72aaf0b4788a"
+    },
+    {
+      "lastUpdate": "2024-03-27T11:20:15",
+      "mimeType": "image/jpeg",
+      "name": "percorso_4.jpg",
+      "size": 112323,
+      "type": "IMG",
+      "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/percorso_4.jpg",
+      "uuid": "c390c5fa-e1f0-4f77-b7c9-b375f0874a00"
+    },
+    {
+      "lastUpdate": "2024-03-26T14:46:06",
+      "mimeType": "image/jpeg",
+      "name": "percorso_2.jpg",
+      "size": 123397,
+      "type": "IMG",
+      "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/percorso_2.jpg",
+      "uuid": "7dff87ea-350d-4cfb-a28b-3e46de343e50"
+    },
+    {
+      "lastUpdate": "2024-03-26T14:49:36",
+      "mimeType": "image/jpeg",
+      "name": "percorso_3.jpg",
+      "size": 115788,
+      "type": "IMG",
+      "url": "https://inventacms.virtualcontent.it/wp-content/uploads/2024/03/percorso_3.jpg",
+      "uuid": "378ad0ac-82f6-48d3-8b14-bdef7ce8716f"
+    }
+  ],
+  "pathCategories": [
+    {
+      "code": "CCA01F59-4A7D-450B-B244-C705EC0DCEA3",
+      "color": "",
+      "description": "",
+      "lastUpdate": "2024-03-26T11:14:38",
+      "mediaUuid": null,
+      "order": 3,
+      "subtitle": "",
+      "tag": "circular-expanded",
+      "type": "mainPage",
+      "title": "Contenuti AR+",
+      "uuid": "d5dfa426-7400-4ae0-971d-8bed466a9af9"
+    },
+    {
+      "code": "C64E1D8E-749B-44D9-925B-12B636D88759",
+      "color": "",
+      "description": "",
+      "lastUpdate": "2024-03-26T11:25:48",
+      "mediaUuid": null,
+      "order": 7,
+      "subtitle": "",
+      "tag": "bookmarks",
+      "type": "mainPage",
+      "title": "I miei Preferiti",
+      "uuid": "0a7a951f-db4a-4b03-ac93-ed26c20ec9f1"
+    },
+    {
+      "code": "F6540B7E-87AD-4657-A9C4-2561352C67A2",
+      "color": "",
+      "description": "",
+      "lastUpdate": "2024-03-26T15:54:15",
+      "mediaUuid": null,
+      "order": 4,
+      "subtitle": "",
+      "tag": "secondary-expanded",
+      "type": "mainPage",
+      "title": "",
+      "uuid": "b42d428f-c152-4f60-8a74-1f231a4de561"
+    },
+    {
+      "code": "F7142D3F-5809-4EE2-ADCA-8A223704DC40",
+      "color": "",
+      "description": "",
+      "lastUpdate": "2024-03-26T11:12:32",
+      "mediaUuid": null,
+      "order": 0,
+      "subtitle": "",
+      "tag": "check-updates",
+      "type": "mainPage",
+      "title": "",
+      "uuid": "19db52db-63da-4ec6-b22e-f032994b572f"
+    },
+    {
+      "code": "D5A8A047-ADF8-4088-AF3C-DF2511B66520",
+      "color": "",
+      "description": "",
+      "lastUpdate": "2024-03-26T11:15:46",
+      "mediaUuid": null,
+      "order": 5,
+      "subtitle": "",
+      "tag": "boxed",
+      "type": "mainPage",
+      "title": "",
+      "uuid": "40f90278-f462-44d4-9296-a6717ddb8b14"
+    },
+    {
+      "code": "5B1E8172-B678-4E2C-92C1-4FD7F63C4678",
+      "color": "",
+      "description": "",
+      "lastUpdate": "2024-03-26T11:23:41",
+      "mediaUuid": null,
+      "order": 6,
+      "subtitle": "",
+      "tag": "carousel-horizontal-expanded",
+      "type": "mainPage",
+      "title": "Il meglio della Città",
+      "uuid": "0530862c-a90a-4f10-925a-a0129de38081"
+    },
+    {
+      "code": "39F67161-4F70-4333-9F73-751F1B74AE92",
+      "color": "",
+      "description": "",
+      "lastUpdate": "2024-03-26T11:11:51",
+      "mediaUuid": null,
+      "order": 1,
+      "subtitle": "",
+      "tag": "preview",
+      "type": "mainPage",
+      "title": "Itinerari al Museo",
+      "uuid": "6542ebd1-bb30-4d03-be32-d60043fae905"
+    },
+    {
+      "code": "F8184B86-2B85-4920-90C7-EF591A668FC4",
+      "color": "",
+      "description": "",
+      "lastUpdate": "2024-03-26T11:13:48",
+      "mediaUuid": null,
+      "order": 2,
+      "subtitle": "",
+      "tag": "button",
+      "type": "mainPage",
+      "title": "",
+      "uuid": "ef91da05-0e2c-4016-b3c3-9b46fb78650f"
+    }
+  ],
+  "paths": [
+    {
+      "categories": [],
+      "color": "#EFBB2B",
+      "description": null,
+      "lastUpdate": "2024-03-26T15:00:51",
+      "mediaUuid": null,
+      "order": 0,
+      "skuCode": null,
+      "subtitle": null,
+      "tag": "path-intro",
+      "totalSize": 960514,
+      "title": "Intro",
+      "uuid": "dbf6e55c-4e37-4def-83b6-d905a40df580"
+    },
+    {
+      "categories": [
+        "d5dfa426-7400-4ae0-971d-8bed466a9af9"
+      ],
+      "color": null,
+      "description": "",
+      "lastUpdate": "2024-03-28T15:26:39",
+      "mediaUuid": "76230039-9552-4852-a548-944f8b651adc",
+      "order": 0,
+      "skuCode": null,
+      "subtitle": "",
+      "tag": "path-main-list",
+      "totalSize": 36856,
+      "title": "",
+      "uuid": "bc0334b4-eec2-44a5-8518-2a8e7fbe0637"
+    },
+    {
+      "categories": [],
+      "color": null,
+      "description": null,
+      "lastUpdate": "2024-03-26T16:08:42",
+      "mediaUuid": null,
+      "order": 0,
+      "skuCode": null,
+      "subtitle": null,
+      "tag": "path-extra",
+      "totalSize": 89080,
+      "title": "",
+      "uuid": "470a0c3a-6295-4119-99e5-4b03c13f58db"
+    },
+    {
+      "categories": [
+        "0a7a951f-db4a-4b03-ac93-ed26c20ec9f1"
+      ],
+      "color": null,
+      "description": "",
+      "lastUpdate": "2024-03-26T15:52:57",
+      "mediaUuid": null,
+      "order": 0,
+      "skuCode": null,
+      "subtitle": "",
+      "tag": "bookmarks",
+      "totalSize": 0,
+      "title": "Preferiti",
+      "uuid": "2b08d37c-e7fd-41ef-b5af-2782d76665c7"
+    },
+    {
+      "categories": [
+        "b42d428f-c152-4f60-8a74-1f231a4de561"
+      ],
+      "color": "#EFBB2B",
+      "description": "<p>Visita il Museo anche da casa per scoprire le collezioni e immergerti nella storia.</p>\n",
+      "lastUpdate": "2024-03-26T15:54:15",
+      "mediaUuid": "6ca2f95a-007a-4159-9071-21b27bbff154",
+      "order": 0,
+      "skuCode": null,
+      "subtitle": "",
+      "tag": "path-links",
+      "totalSize": 13470,
+      "title": "Virtual Tour",
+      "uuid": "2f3ee3fa-3ce2-4957-aad2-2eea3c12ce0d"
+    },
+    {
+      "categories": [
+        "19db52db-63da-4ec6-b22e-f032994b572f"
+      ],
+      "color": null,
+      "description": "<p>Sono disponibili contenuti aggiornati, premi qui per scaricarli subito.</p>\n",
+      "lastUpdate": "2024-03-26T15:52:52",
+      "mediaUuid": "cefe8513-b8b2-418b-890b-4887c333e78a",
+      "order": 0,
+      "skuCode": null,
+      "subtitle": "",
+      "tag": "check-updates",
+      "totalSize": 74804,
+      "title": "Ci sono novità!",
+      "uuid": "ca52693a-2920-46dd-b9d2-a39c06c3e858"
+    },
+    {
+      "categories": [
+        "40f90278-f462-44d4-9296-a6717ddb8b14",
+        "0530862c-a90a-4f10-925a-a0129de38081"
+      ],
+      "color": "#EFBB2B",
+      "description": "<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia.</p>\n",
+      "lastUpdate": "2024-03-27T09:54:59",
+      "mediaUuid": "bb8edf41-d000-4f52-8096-74146e337162",
+      "order": 0,
+      "skuCode": null,
+      "subtitle": "IL TERRITORIO",
+      "tag": "path-main-external",
+      "totalSize": 24935948,
+      "title": "Esplora la città",
+      "uuid": "cb799987-9bcc-45ef-8419-8651521fe0e4"
+    },
+    {
+      "categories": [
+        "6542ebd1-bb30-4d03-be32-d60043fae905"
+      ],
+      "color": "#EFBB2B",
+      "description": "<p>Non hai molto tempo? Con questo percorso potrai scoprire le opere da non perdere e le storie principali del Museo.</p>\n",
+      "lastUpdate": "2024-03-26T15:44:14",
+      "mediaUuid": "f16e283d-329f-4a8b-a54c-72aaf0b4788a",
+      "order": 0,
+      "skuCode": null,
+      "subtitle": "Tempo stimato: 1h",
+      "tag": "path-main-internal",
+      "totalSize": 4512104,
+      "title": "Percorso Breve",
+      "uuid": "28fd5853-0f3e-4762-a4b9-edd170e0419f"
+    },
+    {
+      "categories": [
+        "ef91da05-0e2c-4016-b3c3-9b46fb78650f"
+      ],
+      "color": "#EFBB2B",
+      "description": "<p>Esplora i contenuti da non perdere tramite image recognition.</p>\n",
+      "lastUpdate": "2024-04-02T08:16:33",
+      "mediaUuid": "c390c5fa-e1f0-4f77-b7c9-b375f0874a00",
+      "order": 0,
+      "skuCode": null,
+      "subtitle": "",
+      "tag": "path-main-list-imagemarker",
+      "totalSize": 37708970,
+      "title": "Da non perdere al Museo",
+      "uuid": "49808320-baf7-4ea1-a351-8503de3b1aed"
+    },
+    {
+      "categories": [
+        "6542ebd1-bb30-4d03-be32-d60043fae905"
+      ],
+      "color": "#EFBB2B",
+      "description": "<p>Scopri le opere principali e le storie da non perdere al Museo, aggiungendo qualche curiosità in più alla tua visita.</p>\n",
+      "lastUpdate": "2024-03-26T15:44:28",
+      "mediaUuid": "7dff87ea-350d-4cfb-a28b-3e46de343e50",
+      "order": 1,
+      "skuCode": null,
+      "subtitle": "Tempo stimato: 2h",
+      "tag": "path-main-internal",
+      "totalSize": 5601924,
+      "title": "Percorso Intermedio",
+      "uuid": "f0fe9391-74f7-4ff4-9605-2dc0591de708"
+    },
+    {
+      "categories": [
+        "6542ebd1-bb30-4d03-be32-d60043fae905"
+      ],
+      "color": "#EFBB2B",
+      "description": "<p>Preparati a goderti qualche ora tra le opere che hanno fatto la storia del Museo. Esplora l&#8217;intera raccolta degli artisti del XVI secolo.</p>\n",
+      "lastUpdate": "2024-03-26T15:44:54",
+      "mediaUuid": "378ad0ac-82f6-48d3-8b14-bdef7ce8716f",
+      "order": 2,
+      "skuCode": null,
+      "subtitle": "Tempo stimato: 3h",
+      "tag": "path-main-internal",
+      "totalSize": 7102468,
+      "title": "Percorso Integrale",
+      "uuid": "66fa7a19-dc46-45ee-9610-5b9a4849e38d"
+    }
+  ]
+}
