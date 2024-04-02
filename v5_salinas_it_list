@@ -1,0 +1,403 @@
+{
+  "mediaFiles": [
+    {
+      "lastUpdate": "2023-12-13T12:00:34",
+      "mimeType": "image/jpeg",
+      "name": "percorso_4_catalogo.jpg",
+      "size": 81075,
+      "type": "IMG",
+      "url": "https://salinascms.virtualcontent.it/wp-content/uploads/2023/12/percorso_4_catalogo.jpg",
+      "uuid": "589d5382-9fba-4693-9c93-649119ea6ddd"
+    },
+    {
+      "lastUpdate": "2023-12-06T17:54:25",
+      "mimeType": "image/jpeg",
+      "name": "target_percorso_2.jpg",
+      "size": 4977,
+      "type": "IMG",
+      "url": "https://salinascms.virtualcontent.it/wp-content/uploads/2023/12/target_percorso_2.jpg",
+      "uuid": "eca535b4-4b4a-41f5-9944-86347655fb78"
+    },
+    {
+      "lastUpdate": "2023-12-06T18:23:38",
+      "mimeType": "image/png",
+      "name": "secondary_qrcode.png",
+      "size": 2525,
+      "type": "IMG",
+      "url": "https://salinascms.virtualcontent.it/wp-content/uploads/2023/12/secondary_qrcode.png",
+      "uuid": "196f62c8-63ee-4ed4-8a84-8a60b2d305da"
+    },
+    {
+      "lastUpdate": "2023-12-06T18:23:05",
+      "mimeType": "image/png",
+      "name": "secondary_matterport.png",
+      "size": 6735,
+      "type": "IMG",
+      "url": "https://salinascms.virtualcontent.it/wp-content/uploads/2023/12/secondary_matterport.png",
+      "uuid": "705aa63f-87a1-4d47-bce4-416a0f5b7b92"
+    },
+    {
+      "lastUpdate": "2023-10-19T13:19:48",
+      "mimeType": "image/png",
+      "name": "placeholder.png",
+      "size": 4259,
+      "type": "IMG",
+      "url": "https://salinascms.virtualcontent.it/wp-content/uploads/2023/10/placeholder.png",
+      "uuid": "1d2f948b-ad60-43ce-975b-f084231a5466"
+    },
+    {
+      "lastUpdate": "2023-12-06T17:53:34",
+      "mimeType": "image/jpeg",
+      "name": "target_percorso_1.jpg",
+      "size": 3787,
+      "type": "IMG",
+      "url": "https://salinascms.virtualcontent.it/wp-content/uploads/2023/12/target_percorso_1.jpg",
+      "uuid": "f17f43ca-6a97-4c40-8aca-d361b4fa9972"
+    },
+    {
+      "lastUpdate": "2023-12-07T14:01:22",
+      "mimeType": "image/jpeg",
+      "name": "permanente_percorso_2.jpg",
+      "size": 147933,
+      "type": "IMG",
+      "url": "https://salinascms.virtualcontent.it/wp-content/uploads/2023/10/permanente_percorso_2.jpg",
+      "uuid": "0bc4a103-ec88-4c59-aac5-f4bc559ff122"
+    },
+    {
+      "lastUpdate": "2024-03-13T10:17:12",
+      "mimeType": "image/png",
+      "name": "secondary_nummidigitali.png",
+      "size": 11901,
+      "type": "IMG",
+      "url": "https://salinascms.virtualcontent.it/wp-content/uploads/2024/03/secondary_nummidigitali.png",
+      "uuid": "d2a044ee-4f96-4f42-86ab-233cba4dcee4"
+    },
+    {
+      "lastUpdate": "2023-12-07T13:57:37",
+      "mimeType": "image/jpeg",
+      "name": "permanente_percorso_3.jpg",
+      "size": 174165,
+      "type": "IMG",
+      "url": "https://salinascms.virtualcontent.it/wp-content/uploads/2023/10/permanente_percorso_3.jpg",
+      "uuid": "a3c0e2d0-28f8-41d5-982c-3fecdb8be54e"
+    }
+  ],
+  "pathCategories": [
+    {
+      "code": "87A6ABD1-D8EF-4F08-9C5E-096FAC230E92",
+      "color": "",
+      "description": "<p>Sicilia // Grecia // Magna Grecia: esplora i contenuti della mostra.</p>\n",
+      "lastUpdate": "2023-12-06T17:54:25",
+      "mediaUuid": "eca535b4-4b4a-41f5-9944-86347655fb78",
+      "order": 1,
+      "subtitle": "",
+      "tag": "target_temporanea",
+      "type": "target",
+      "title": "Mostra Temporanea",
+      "uuid": "6a0da03b-6cd0-40fc-a623-a992d15ecd9b"
+    },
+    {
+      "code": "F9FDA0C1-6925-4456-9C56-B0A3D958C270",
+      "color": "",
+      "description": "",
+      "lastUpdate": "2023-12-06T18:40:38",
+      "mediaUuid": null,
+      "order": 3,
+      "subtitle": "",
+      "tag": "boxed-expanded",
+      "type": "mainPage",
+      "title": "",
+      "uuid": "0921156c-e062-4e29-ac5b-7222ee1b10cb"
+    },
+    {
+      "code": "1A86D038-91B4-464A-9799-48196033164C",
+      "color": "",
+      "description": "",
+      "lastUpdate": "2023-12-06T17:49:16",
+      "mediaUuid": null,
+      "order": 0,
+      "subtitle": "",
+      "tag": "circular-expanded",
+      "type": "mainPage",
+      "title": "Podcast - I reperti in Mostra",
+      "uuid": "4341ced0-184d-4178-aa17-4c7b41d6f375"
+    },
+    {
+      "code": "7C50FD49-0F64-4E00-A616-441435C9E78D",
+      "color": "",
+      "description": "",
+      "lastUpdate": "2023-12-12T15:03:39",
+      "mediaUuid": null,
+      "order": 1,
+      "subtitle": "",
+      "tag": "secondary-subtitle",
+      "type": "mainPage",
+      "title": "",
+      "uuid": "fb4d1895-4eb2-4bea-aab1-7cc28dec51e3"
+    },
+    {
+      "code": "B73E2A78-0F3D-48B7-B750-CE14C5F3506E",
+      "color": "",
+      "description": "",
+      "lastUpdate": "2024-02-16T15:39:38",
+      "mediaUuid": null,
+      "order": 4,
+      "subtitle": "",
+      "tag": "secondary-expanded",
+      "type": "mainPage",
+      "title": "",
+      "uuid": "b1ce35a1-fcbe-4486-9ace-da6def723b63"
+    },
+    {
+      "code": "B0C03C6F-FFD1-4418-AB2A-FD1D4FACEBA6",
+      "color": "",
+      "description": "<p>Approfondisci le opere e i reperti del Salinas ascoltando i racconti dei personaggi che hanno fatto la storia del Museo.</p>\n",
+      "lastUpdate": "2023-12-06T17:40:14",
+      "mediaUuid": null,
+      "order": 0,
+      "subtitle": "",
+      "tag": "capsule-expanded",
+      "type": "mainPage",
+      "title": "Le voci del Salinas",
+      "uuid": "767fe584-7aea-4cd0-878a-e7fbc09fbd43"
+    },
+    {
+      "code": "333CC020-948A-488A-B147-7B11D7C9E4C9",
+      "color": "",
+      "description": "<p>Approfondisci le storie e i reperti del più antico museo siciliano.</p>\n",
+      "lastUpdate": "2023-12-06T17:53:35",
+      "mediaUuid": "f17f43ca-6a97-4c40-8aca-d361b4fa9972",
+      "order": 0,
+      "subtitle": "",
+      "tag": "target_permanente",
+      "type": "target",
+      "title": "Collezione Salinas",
+      "uuid": "3654f490-65fb-4ff8-8b2c-358d43c8d201"
+    },
+    {
+      "code": "25B85B59-FC18-4894-9DEF-5089904069C2",
+      "color": "",
+      "description": "",
+      "lastUpdate": "2023-12-06T17:39:53",
+      "mediaUuid": null,
+      "order": 1,
+      "subtitle": "",
+      "tag": "preview",
+      "type": "mainPage",
+      "title": "La collezione del Salinas",
+      "uuid": "c0f428ab-f5ab-48fe-bcc0-bb7b54945b48"
+    },
+    {
+      "code": "F784461A-E145-412E-96BC-21020301DFD2",
+      "color": "",
+      "description": "",
+      "lastUpdate": "2024-03-13T09:19:31",
+      "mediaUuid": null,
+      "order": 4,
+      "subtitle": "",
+      "tag": "secondary-expanded",
+      "type": "mainPage",
+      "title": "",
+      "uuid": "ce5e4ce1-04ae-4542-b5ae-bf3a3ae33674"
+    },
+    {
+      "code": "3DF16523-81CE-43C4-A411-1E249390ED80",
+      "color": "",
+      "description": "",
+      "lastUpdate": "2023-12-07T13:57:38",
+      "mediaUuid": "a3c0e2d0-28f8-41d5-982c-3fecdb8be54e",
+      "order": 2,
+      "subtitle": "",
+      "tag": "button",
+      "type": "mainPage",
+      "title": "",
+      "uuid": "c8491d26-d6af-40c4-9626-19cbc2269e92"
+    },
+    {
+      "code": "D393BDF2-C2A9-401F-ABAE-C3E9D9DEBEC6",
+      "color": "",
+      "description": "",
+      "lastUpdate": "2023-12-06T18:21:07",
+      "mediaUuid": null,
+      "order": 2,
+      "subtitle": "",
+      "tag": "square-expanded",
+      "type": "mainPage",
+      "title": "Il Mito Animato",
+      "uuid": "1262b537-fbd2-48cd-beae-e61bcf117baa"
+    }
+  ],
+  "paths": [
+    {
+      "categories": [],
+      "color": null,
+      "description": null,
+      "lastUpdate": "2023-12-13T11:10:21",
+      "mediaUuid": null,
+      "order": 0,
+      "skuCode": null,
+      "subtitle": null,
+      "tag": "path-intro",
+      "totalSize": 803268,
+      "title": "Intro",
+      "uuid": "9ac4e32d-dd0f-4f5a-a230-cd045447178d"
+    },
+    {
+      "categories": [
+        "6a0da03b-6cd0-40fc-a623-a992d15ecd9b",
+        "0921156c-e062-4e29-ac5b-7222ee1b10cb"
+      ],
+      "color": "#B91D37",
+      "description": "<p>Inquadra i marker che trovi all&#8217;interno del catalogo per vedere i video in AR.</p>\n",
+      "lastUpdate": "2024-03-04T08:56:49",
+      "mediaUuid": "589d5382-9fba-4693-9c93-649119ea6ddd",
+      "order": 0,
+      "skuCode": null,
+      "subtitle": "Il Mito Animato",
+      "tag": "path-main-list",
+      "totalSize": 172104,
+      "title": "Il Catalogo in Realtà Aumentata",
+      "groups": ["group-online"],
+      "uuid": "aa4b4572-cdcc-41c8-8c7d-f64eedaa8e40"
+    },
+    {
+      "categories": [],
+      "color": "#B91D37",
+      "description": null,
+      "lastUpdate": "2024-02-20T13:54:29",
+      "mediaUuid": null,
+      "order": 0,
+      "skuCode": null,
+      "subtitle": null,
+      "tag": "path-extra",
+      "totalSize": 0,
+      "title": "Credits",
+      "uuid": "419b5490-53c7-4bf0-b975-dfaff6840565"
+    },
+    {
+      "categories": [
+        "4341ced0-184d-4178-aa17-4c7b41d6f375",
+        "6a0da03b-6cd0-40fc-a623-a992d15ecd9b",
+        "fb4d1895-4eb2-4bea-aab1-7cc28dec51e3"
+      ],
+      "color": null,
+      "description": "<p>Inquadra i QR Code relativi ai podcast alla mostra o sul catalogo.</p>\n",
+      "lastUpdate": "2024-03-01T14:17:14",
+      "mediaUuid": "196f62c8-63ee-4ed4-8a84-8a60b2d305da",
+      "order": 0,
+      "skuCode": null,
+      "subtitle": "Scansiona i QR Code",
+      "tag": "path-main-list-playlist-qrcode",
+      "totalSize": 215213414,
+      "title": "Podcast - I reperti in Mostra",
+      "groups": ["group-online"],
+      "uuid": "da754ba7-f544-47fa-8fbc-a522056e178d"
+    },
+    {
+      "categories": [
+        "b1ce35a1-fcbe-4486-9ace-da6def723b63",
+        "6a0da03b-6cd0-40fc-a623-a992d15ecd9b"
+      ],
+      "color": "#B91D37",
+      "description": "<p>Visita la Mostra anche da casa per scoprire i reperti in esposizione.</p>\n",
+      "lastUpdate": "2024-02-16T15:39:38",
+      "mediaUuid": "705aa63f-87a1-4d47-bce4-416a0f5b7b92",
+      "order": 0,
+      "skuCode": null,
+      "subtitle": "",
+      "tag": "path-links",
+      "totalSize": 23424,
+      "title": "Virtual Tour",
+      "groups": ["group-online"],
+      "uuid": "65604a84-b6db-4e8c-a9de-1545b5d9cb25"
+    },
+    {
+      "categories": [
+        "767fe584-7aea-4cd0-878a-e7fbc09fbd43",
+        "3654f490-65fb-4ff8-8b2c-358d43c8d201"
+      ],
+      "color": null,
+      "description": "",
+      "lastUpdate": "2024-02-20T14:01:01",
+      "mediaUuid": "1d2f948b-ad60-43ce-975b-f084231a5466",
+      "order": 0,
+      "skuCode": null,
+      "subtitle": "",
+      "tag": "path-main-list",
+      "totalSize": 299683510,
+      "title": "Le voci del Salinas",
+      "groups": ["group-online"],
+      "uuid": "da8fd068-7e09-428d-b1c9-4806cf4b7b30"
+    },
+    {
+      "categories": [
+        "c0f428ab-f5ab-48fe-bcc0-bb7b54945b48",
+        "3654f490-65fb-4ff8-8b2c-358d43c8d201"
+      ],
+      "color": "#B91D37",
+      "description": "<p>Inquadrando i QR Code che troverai in prossimità delle sale, potrai accedere ai contenuti che racconteranno la storia della collezione.</p>\n",
+      "lastUpdate": "2024-03-18T15:01:04",
+      "mediaUuid": "0bc4a103-ec88-4c59-aac5-f4bc559ff122",
+      "order": 0,
+      "skuCode": null,
+      "subtitle": "Percorso completo",
+      "tag": "path-main-internal",
+      "totalSize": 317085098,
+      "title": "La collezione del Salinas",
+      "uuid": "12f364bf-942f-4c01-a747-30adb49ee6d9"
+    },
+    {
+      "categories": [
+        "ce5e4ce1-04ae-4542-b5ae-bf3a3ae33674",
+        "3654f490-65fb-4ff8-8b2c-358d43c8d201"
+      ],
+      "color": "#B91D37",
+      "description": "<p>Scopri il patrimonio numismatico del Museo Archeologico «A. Salinas».</p>\n",
+      "lastUpdate": "2024-03-13T10:17:14",
+      "mediaUuid": "d2a044ee-4f96-4f42-86ab-233cba4dcee4",
+      "order": 0,
+      "skuCode": null,
+      "subtitle": "",
+      "tag": "path-links",
+      "totalSize": 31376,
+      "title": "Nummi Digitali",
+      "groups": ["group-online"],
+      "uuid": "e967b436-9967-4684-8c64-08198968e2f3"
+    },
+    {
+      "categories": [
+        "c8491d26-d6af-40c4-9626-19cbc2269e92",
+        "3654f490-65fb-4ff8-8b2c-358d43c8d201"
+      ],
+      "color": "#B91D37",
+      "description": "<p>Esplora i contenuti consigliati per approfondire i reperti principali.</p>\n",
+      "lastUpdate": "2024-03-18T15:01:04",
+      "mediaUuid": "a3c0e2d0-28f8-41d5-982c-3fecdb8be54e",
+      "order": 1,
+      "skuCode": null,
+      "subtitle": "",
+      "tag": "path-main-internal",
+      "totalSize": 128486588,
+      "title": "Da non perdere",
+      "uuid": "651c8112-f133-478f-bb98-950869a571d3"
+    },
+    {
+      "categories": [
+        "6a0da03b-6cd0-40fc-a623-a992d15ecd9b",
+        "1262b537-fbd2-48cd-beae-e61bcf117baa"
+      ],
+      "color": null,
+      "description": "",
+      "lastUpdate": "2023-12-15T16:59:11",
+      "mediaUuid": "eca535b4-4b4a-41f5-9944-86347655fb78",
+      "order": 2,
+      "skuCode": null,
+      "subtitle": "",
+      "tag": "path-main-list",
+      "totalSize": 294043414,
+      "title": "Il Mito Animato",
+      "groups": ["group-online"],
+      "uuid": "e06ac33b-abf3-4a7f-96f5-b4210725bcd6"
+    }
+  ]
+}
