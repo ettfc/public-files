@@ -167,7 +167,7 @@
   ],
   "color": null,
   "description": "",
-  "lastUpdate": "2024-04-15T16:59:11",
+  "lastUpdate": "2024-04-17T16:59:11",
   "mediaUuid": "eca535b4-4b4a-41f5-9944-86347655fb78",
   "order": 2,
   "skuCode": null,
@@ -445,7 +445,8 @@
       "tag": "square-expanded",
       "type": "mainPage",
       "title": "Il Mito Animato",
-      "uuid": "1262b537-fbd2-48cd-beae-e61bcf117baa"
+      "uuid": "1262b537-fbd2-48cd-beae-e61bcf117baa",
+      "parentCategories": ["3654f490-65fb-4ff8-8b2c-358d43c8d201"]
     },
     {
       "code": "D393BDF2-C2A9-401F-ABAE-C3E9D9DEBEC6",
@@ -458,7 +459,8 @@
       "tag": "carousel-horizontal-expanded",
       "type": "mainPage",
       "title": "Il Mito Animato",
-      "uuid": "1262b537-fbd2-48cd-beae-e61bcf117bac"
+      "uuid": "1262b537-fbd2-48cd-beae-e61bcf117bac",
+      "parentCategories": ["6a0da03b-6cd0-40fc-a623-a992d15ecd9b"]
     }
   ],
   "poiOrder": [
