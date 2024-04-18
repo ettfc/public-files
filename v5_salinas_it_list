@@ -225,6 +225,19 @@
       "type": "mainPage",
       "title": "Il Mito Animato",
       "uuid": "1262b537-fbd2-48cd-beae-e61bcf117baa"
+    },
+    {
+      "code": "D393BDF2-C2A9-401F-ABAE-C3E9D9DEBEC6",
+      "color": "",
+      "description": "",
+      "lastUpdate": "2023-12-06T18:21:07",
+      "mediaUuid": null,
+      "order": 5,
+      "subtitle": "",
+      "tag": "carousel-horizontal-expanded",
+      "type": "mainPage",
+      "title": "Il Mito Animato",
+      "uuid": "1262b537-fbd2-48cd-beae-e61bcf117bac"
     }
   ],
   "paths": [
