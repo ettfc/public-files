@@ -107,7 +107,8 @@
       "tag": "boxed-expanded",
       "type": "mainPage",
       "title": "",
-      "uuid": "0921156c-e062-4e29-ac5b-7222ee1b10cb"
+      "uuid": "0921156c-e062-4e29-ac5b-7222ee1b10cb",
+      "parentCategories": ["6a0da03b-6cd0-40fc-a623-a992d15ecd9b"]
     },
     {
       "code": "1A86D038-91B4-464A-9799-48196033164C",
@@ -120,7 +121,8 @@
       "tag": "circular-expanded",
       "type": "mainPage",
       "title": "Podcast - I reperti in Mostra",
-      "uuid": "4341ced0-184d-4178-aa17-4c7b41d6f375"
+      "uuid": "4341ced0-184d-4178-aa17-4c7b41d6f375",
+      "parentCategories": ["6a0da03b-6cd0-40fc-a623-a992d15ecd9b"]
     },
     {
       "code": "7C50FD49-0F64-4E00-A616-441435C9E78D",
@@ -133,7 +135,8 @@
       "tag": "secondary-subtitle",
       "type": "mainPage",
       "title": "",
-      "uuid": "fb4d1895-4eb2-4bea-aab1-7cc28dec51e3"
+      "uuid": "fb4d1895-4eb2-4bea-aab1-7cc28dec51e3",
+      "parentCategories": ["6a0da03b-6cd0-40fc-a623-a992d15ecd9b"]
     },
     {
       "code": "B73E2A78-0F3D-48B7-B750-CE14C5F3506E",
@@ -146,7 +149,8 @@
       "tag": "secondary-expanded",
       "type": "mainPage",
       "title": "",
-      "uuid": "b1ce35a1-fcbe-4486-9ace-da6def723b63"
+      "uuid": "b1ce35a1-fcbe-4486-9ace-da6def723b63",
+      "parentCategories": ["6a0da03b-6cd0-40fc-a623-a992d15ecd9b"]
     },
     {
       "code": "B0C03C6F-FFD1-4418-AB2A-FD1D4FACEBA6",
@@ -159,7 +163,8 @@
       "tag": "capsule-expanded",
       "type": "mainPage",
       "title": "Le voci del Salinas",
-      "uuid": "767fe584-7aea-4cd0-878a-e7fbc09fbd43"
+      "uuid": "767fe584-7aea-4cd0-878a-e7fbc09fbd43",
+      "parentCategories": ["3654f490-65fb-4ff8-8b2c-358d43c8d201"]
     },
     {
       "code": "333CC020-948A-488A-B147-7B11D7C9E4C9",
@@ -185,7 +190,8 @@
       "tag": "preview",
       "type": "mainPage",
       "title": "La collezione del Salinas",
-      "uuid": "c0f428ab-f5ab-48fe-bcc0-bb7b54945b48"
+      "uuid": "c0f428ab-f5ab-48fe-bcc0-bb7b54945b48",
+      "parentCategories": ["3654f490-65fb-4ff8-8b2c-358d43c8d201"]
     },
     {
       "code": "F784461A-E145-412E-96BC-21020301DFD2",
@@ -198,7 +204,8 @@
       "tag": "secondary-expanded",
       "type": "mainPage",
       "title": "",
-      "uuid": "ce5e4ce1-04ae-4542-b5ae-bf3a3ae33674"
+      "uuid": "ce5e4ce1-04ae-4542-b5ae-bf3a3ae33674",
+      "parentCategories": ["3654f490-65fb-4ff8-8b2c-358d43c8d201"]
     },
     {
       "code": "3DF16523-81CE-43C4-A411-1E249390ED80",
@@ -211,7 +218,8 @@
       "tag": "button",
       "type": "mainPage",
       "title": "",
-      "uuid": "c8491d26-d6af-40c4-9626-19cbc2269e92"
+      "uuid": "c8491d26-d6af-40c4-9626-19cbc2269e92",
+      "parentCategories": ["3654f490-65fb-4ff8-8b2c-358d43c8d201"]
     },
     {
       "code": "D393BDF2-C2A9-401F-ABAE-C3E9D9DEBEC6",
