@@ -3731,14 +3731,14 @@
   ],
   "poiOrder": [
     {
-      "index": "0",
+      "index": "1a",
       "isHidden": false,
       "status": "visited",
       "order": 0,
       "poiUuid": "4de3be81-c54c-47c7-8cb6-6eb47bbfa8b7"
     },
     {
-      "index": "1",
+      "index": "1b",
       "isHidden": false,
       "status": "visited",
       "order": 1,
