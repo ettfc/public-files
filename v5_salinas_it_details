@@ -11951,14 +11951,14 @@
   ],
   "poiOrder": [
     {
-      "index": "0",
+      "index": "1a",
       "isAccessible": true,
       "status": "locked",
       "order": 0,
       "poiUuid": "3fead55e-1db7-4575-9c44-669d17295241"
     },
     {
-      "index": "1",
+      "index": "1b",
       "isAccessible": true,
       "status": "locked",
       "order": null,
@@ -16823,7 +16823,7 @@
         "c5cc6e06-d0c6-4d85-86cc-1ab542732dea",
         "2c5ba212-eda3-4dc7-b22e-22effc8193b7"
       ],
-      "lastUpdate": "2024-03-11T16:33:37",
+      "lastUpdate": "2024-03-13T16:33:37",
       "mediaUuid": "0bc4a103-ec88-4c59-aac5-f4bc559ff122",
       "subtitle": "Percorso completo",
       "tag": "path-main-internal-entry-sheet",
