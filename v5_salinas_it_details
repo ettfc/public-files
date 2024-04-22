@@ -968,7 +968,7 @@
         "relations": [
             {
                 "inType": "SHT_ITM",
-                "inUuid": "414f7dd2-386b-4f22-aae6-d7c6fe8a1448",
+                "inUuid": "15a18e6d-8a3c-49ad-a205-a3eab733f9cc",
                 "poiUuid": "c9278252-ad58-4190-b77e-35a3cd6003c1",
                 "outType": "GLR",
                 "outUuid": "e633e8b7-2976-4e97-9306-afd0d015bb22"
@@ -993,13 +993,6 @@
                 "poiUuid": "c9278252-ad58-4190-b77e-35a3cd6003c1",
                 "outType": "SHT",
                 "outUuid": "111ad41a-c651-4912-9b20-193c935c6faa"
-            },
-            {
-                "inType": "SHT_ITM",
-                "inUuid": "15a18e6d-8a3c-49ad-a205-a3eab733f9cc",
-                "poiUuid": "c9278252-ad58-4190-b77e-35a3cd6003c1",
-                "outType": "SHT",
-                "outUuid": "9e90e4d6-a3ff-4114-a016-9cd7f82fb6f3"
             },
             {
                 "inType": "SHT_ITM",
@@ -1038,11 +1031,6 @@
             }
         ],
         "sheetItems": [
-            {
-                "lastUpdate": "2023-11-08T15:49:59",
-                "order": 0,
-                "uuid": "414f7dd2-386b-4f22-aae6-d7c6fe8a1448"
-            },
             {
                 "lastUpdate": "2023-11-08T15:49:59",
                 "order": 0,
@@ -1112,19 +1100,6 @@
                 "tag": "text-sheet",
                 "title": "",
                 "uuid": "155ad41a-c651-4912-9b20-193c935c6fe2"
-            },
-            {
-                "description": null,
-                "extraData": null,
-                "items": [
-                    "414f7dd2-386b-4f22-aae6-d7c6fe8a1448"
-                ],
-                "lastUpdate": "2023-12-11T15:11:12",
-                "mediaUuid": null,
-                "subtitle": null,
-                "tag": "image-gallery",
-                "title": null,
-                "uuid": "9e90e4d6-a3ff-4114-a016-9cd7f82fb6f3"
             },
             {
                 "description": "<p>Con questa applicazione vi guideremo alla scoperta delle tante storie che hanno da raccontarci i reperti archeologici, in prestito per questa esposizione, in stretta connessione con le opere del nostro museo: le #storiedituttinoi, l’hashtag da sempre ufficiale del nostro museo, diventa ancor più concreto ed evidente nei racconti dei nostri podcast, cui hanno dato voce tanti “amici del Museo Salinas”.</p>\n",
