@@ -975,7 +975,7 @@
             },
             {
                 "inType": "SHT_ITM",
-                "inUuid": "b54c3086-3423-46be-a4d0-113cd65ba5c9",
+                "inUuid": "3aaecf4a-a38f-41ca-9888-199c697b32db",
                 "poiUuid": "c9278252-ad58-4190-b77e-35a3cd6003c1",
                 "outType": "GLR",
                 "outUuid": "78b666e8-429d-4ba4-9fcb-68e5fd9be7e7"
@@ -1003,13 +1003,6 @@
             },
             {
                 "inType": "SHT_ITM",
-                "inUuid": "3aaecf4a-a38f-41ca-9888-199c697b32db",
-                "poiUuid": "c9278252-ad58-4190-b77e-35a3cd6003c1",
-                "outType": "SHT",
-                "outUuid": "c9560ccd-b449-47dc-89e5-23e7dfee98be"
-            },
-            {
-                "inType": "SHT_ITM",
                 "inUuid": "68c8f985-5197-48ed-acf4-2b304e1a9ef8",
                 "poiUuid": "c9278252-ad58-4190-b77e-35a3cd6003c1",
                 "outType": "SHT",
@@ -1031,11 +1024,6 @@
             }
         ],
         "sheetItems": [
-            {
-                "lastUpdate": "2023-11-08T15:49:59",
-                "order": 0,
-                "uuid": "b54c3086-3423-46be-a4d0-113cd65ba5c9"
-            },
             {
                 "lastUpdate": "2023-11-08T15:49:59",
                 "order": 0,
@@ -1111,19 +1099,6 @@
                 "tag": "text-sheet",
                 "title": "",
                 "uuid": "a3286010-3cb0-4262-becf-aa2c7bf6917a"
-            },
-            {
-                "description": null,
-                "extraData": null,
-                "items": [
-                    "b54c3086-3423-46be-a4d0-113cd65ba5c9"
-                ],
-                "lastUpdate": "2023-12-11T15:11:12",
-                "mediaUuid": null,
-                "subtitle": null,
-                "tag": "image-gallery",
-                "title": null,
-                "uuid": "c9560ccd-b449-47dc-89e5-23e7dfee98be"
             },
             {
                 "description": "<p>Questo viaggio di storie digitali ci rimbalza da Cipro alla Fenicia, dalle prime colonie greche d’occidente ad Atene, dai siti magnogreci fino alle romane Paestum e Pompei. Con queste storie, il Museo Salinas vuole offrirvi un percorso interattivo e coinvolgente, ricco di storie e di rimandi, di connessioni fisiche e digitali, attraverso una scelta narrativa originale e accostamenti inediti fra opere “esemplari”.</p>\n",
