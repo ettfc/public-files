@@ -21150,203 +21150,194 @@
     },
     {
         "categories": [],
-        "color": "#B91D37",
+        "groups": [],
+        "color": null,
         "description": null,
-        "lastUpdate": "2024-02-20T13:54:29",
+        "lastUpdate": "2024-03-11T09:29:05",
         "mediaUuid": null,
         "order": 0,
-        "skuCode": null,
         "subtitle": null,
-        "tag": "path-extra",
-        "totalSize": 0,
-        "title": "Credits",
-        "uuid": "419b5490-53c7-4bf0-b975-dfaff6840565",
+        "tag": "path-credits",
+        "totalSize": 351506,
+        "title": "",
+        "uuid": "702a855b-a47d-437c-8882-b82a0c8e3ff6",
+        "galleries": [
+            {
+                "description": null,
+                "items": [
+                    "101f524d-a8bd-4161-8d32-806b8c69a5fa",
+                    "3fcb2488-429b-46a4-9d83-1f700265472b"
+                ],
+                "lastUpdate": "2024-03-11T09:23:15",
+                "subtitle": null,
+                "tag": "image-gallery",
+                "title": null,
+                "uuid": "cdb77413-b030-4731-bcac-f23b39078619"
+            }
+        ],
+        "galleryItems": [
+            {
+                "description": null,
+                "lastUpdate": "2024-03-11T09:23:15",
+                "mediaUuid": "23678233-4d63-41bc-a9ba-77a28e2e847f",
+                "order": 0,
+                "subtitle": null,
+                "title": null,
+                "uuid": "101f524d-a8bd-4161-8d32-806b8c69a5fa"
+            },
+            {
+                "description": null,
+                "lastUpdate": "2024-03-11T09:23:15",
+                "mediaUuid": "4310dade-a78f-49c7-a81d-1dae0e5ced24",
+                "order": 1,
+                "subtitle": null,
+                "title": null,
+                "uuid": "3fcb2488-429b-46a4-9d83-1f700265472b"
+            }
+        ],
+        "mediaFiles": [
+            {
+                "lastUpdate": "2024-03-11T09:23:07",
+                "mimeType": "image/png",
+                "name": "ett_logo.png",
+                "size": 1852,
+                "type": "IMG",
+                "url": "https://testvdt.democontent.it/wp-content/uploads/2024/03/ett_logo.png",
+                "uuid": "2399cbce-ce8c-4451-a8ae-1cee32515731"
+            },
+            {
+                "lastUpdate": "2023-08-09T12:26:19",
+                "mimeType": "image/png",
+                "name": "test.png",
+                "size": 65803,
+                "type": "IMG",
+                "url": "https://testvdt.democontent.it/wp-content/uploads/2023/07/test.png",
+                "uuid": "23678233-4d63-41bc-a9ba-77a28e2e847f"
+            },
+            {
+                "lastUpdate": "2023-10-03T16:56:33",
+                "mimeType": "image/png",
+                "name": "blocco_loghi_credits.png",
+                "size": 108098,
+                "type": "IMG",
+                "url": "https://testvdt.democontent.it/wp-content/uploads/2023/10/blocco_loghi_credits.png",
+                "uuid": "4310dade-a78f-49c7-a81d-1dae0e5ced24"
+            }
+        ],
         "poiOrder": [
             {
                 "index": "0",
                 "isHidden": false,
-                "status": "visited",
                 "order": 0,
-                "poiUuid": "3baf8791-851f-4dcf-9628-cbcd96c25ff7"
+                "status": "visited",
+                "poiUuid": "611568e3-3abf-405a-9acc-acc037e63917"
             }
         ],
         "pois": [
             {
                 "categories": [],
                 "description": null,
-                "lastUpdate": "2024-02-20T13:54:29",
+                "lastUpdate": "2024-03-11T09:23:16",
                 "mediaUuid": null,
                 "subtitle": null,
-                "tag": "poi-extra",
-                "title": "Credits permanente",
-                "uuid": "3baf8791-851f-4dcf-9628-cbcd96c25ff7"
+                "tag": "poi-credits",
+                "title": "",
+                "uuid": "611568e3-3abf-405a-9acc-acc037e63917"
             }
         ],
         "relations": [
             {
                 "inType": "SHT_ITM",
-                "inUuid": "848b0ef2-1673-4486-98c2-b7b4f2a4712c",
-                "poiUuid": "3baf8791-851f-4dcf-9628-cbcd96c25ff7",
-                "outType": "SHT",
-                "outUuid": "b2c5da29-6b25-45ce-a3aa-124a20763b2f"
+                "inUuid": "95798b02-5101-4072-b3a3-c7c8b7a222bf",
+                "poiUuid": "611568e3-3abf-405a-9acc-acc037e63917",
+                "outType": "GLR",
+                "outUuid": "cdb77413-b030-4731-bcac-f23b39078619"
             },
             {
                 "inType": "SHT_ITM",
-                "inUuid": "1cc3e373-6363-4e35-8003-5fbd7f505552",
-                "poiUuid": "3baf8791-851f-4dcf-9628-cbcd96c25ff7",
+                "inUuid": "8f49698b-8c99-4ccd-a7de-8ecea8ff9f99",
+                "poiUuid": "611568e3-3abf-405a-9acc-acc037e63917",
                 "outType": "SHT",
-                "outUuid": "89f830fd-613b-44f0-9661-c14c5fed6d10"
+                "outUuid": "2cad9700-0ae3-4a3f-8ffc-f529c55f7124"
             },
             {
                 "inType": "SHT_ITM",
-                "inUuid": "89aed065-d49c-4666-b12a-d625900b7c80",
-                "poiUuid": "3baf8791-851f-4dcf-9628-cbcd96c25ff7",
+                "inUuid": "0ab5b134-26e0-4fa2-a6c7-01ed54ee45f9",
+                "poiUuid": "611568e3-3abf-405a-9acc-acc037e63917",
                 "outType": "SHT",
-                "outUuid": "1a95f896-d2dc-4314-9add-b4ff7f520795"
+                "outUuid": "fc53d96e-9ddc-4cba-affa-12e2fda16e72"
             },
             {
                 "inType": "SHT_ITM",
-                "inUuid": "3be5e520-e3ed-4002-b890-1e2fc017c841",
-                "poiUuid": "3baf8791-851f-4dcf-9628-cbcd96c25ff7",
+                "inUuid": "bcdb8dc9-8de9-40ba-bd4c-b27b76a82a6f",
+                "poiUuid": "611568e3-3abf-405a-9acc-acc037e63917",
                 "outType": "SHT",
-                "outUuid": "7c733281-0b18-457d-9323-56db20236b80"
+                "outUuid": "7e39bc56-6c59-4a60-b4fd-669c5fcdf674"
             },
             {
                 "inType": "SHT_ITM",
-                "inUuid": "81740cc8-2546-4551-8cdc-004d0e4b367d",
-                "poiUuid": "3baf8791-851f-4dcf-9628-cbcd96c25ff7",
+                "inUuid": "b90bc515-aec8-4e98-8f07-d47082e9d616",
+                "poiUuid": "611568e3-3abf-405a-9acc-acc037e63917",
                 "outType": "SHT",
-                "outUuid": "55a7ce1f-e933-43cb-89d3-8fa33a092e7f"
+                "outUuid": "663dfa5e-ecd7-4521-b943-77267f2b75e9"
             },
             {
                 "inType": "SHT_ITM",
-                "inUuid": "3974c35f-f393-4220-935f-4102f1e00f7b",
-                "poiUuid": "3baf8791-851f-4dcf-9628-cbcd96c25ff7",
+                "inUuid": "1366a456-6e08-4975-8d76-d49e6edaddb6",
+                "poiUuid": "611568e3-3abf-405a-9acc-acc037e63917",
                 "outType": "SHT",
-                "outUuid": "d588ce9a-ccbc-42a3-8fc7-ae796fb41500"
-            },
-            {
-                "inType": "SHT_ITM",
-                "inUuid": "c30d89cb-bf7a-4758-a495-3918f1a3efb8",
-                "poiUuid": "3baf8791-851f-4dcf-9628-cbcd96c25ff7",
-                "outType": "SHT",
-                "outUuid": "6b576eca-97ca-4347-8eaf-16ee95e831ca"
-            },
-            {
-                "inType": "SHT_ITM",
-                "inUuid": "1d086107-bdaf-4fa0-a2ef-172171e6489a",
-                "poiUuid": "3baf8791-851f-4dcf-9628-cbcd96c25ff7",
-                "outType": "SHT",
-                "outUuid": "4ad9dde9-9c85-403b-aacf-f60f0735e3bb"
-            },
-            {
-                "inType": "SHT_ITM",
-                "inUuid": "947895bb-252b-4a66-ad94-bb7a1bca5804",
-                "poiUuid": "3baf8791-851f-4dcf-9628-cbcd96c25ff7",
-                "outType": "SHT",
-                "outUuid": "5461541b-8da4-4221-ba4d-c7f597f55175"
-            },
-            {
-                "inType": "SHT_ITM",
-                "inUuid": "e368685e-222f-4eba-be37-22e09ad1b2da",
-                "poiUuid": "3baf8791-851f-4dcf-9628-cbcd96c25ff7",
-                "outType": "SHT",
-                "outUuid": "8c4b9fd7-305c-403b-9c48-dea5ed3310b2"
-            },
-            {
-                "inType": "SHT_ITM",
-                "inUuid": "b81c6d68-7ccf-4b6a-8f80-08407b814885",
-                "poiUuid": "3baf8791-851f-4dcf-9628-cbcd96c25ff7",
-                "outType": "SHT",
-                "outUuid": "29a0c04d-c788-46b2-b0f1-c9ed074c4356"
-            },
-            {
-                "inType": "SHT_ITM",
-                "inUuid": "9fba6b3b-502b-4afd-b613-39c086060a2e",
-                "poiUuid": "3baf8791-851f-4dcf-9628-cbcd96c25ff7",
-                "outType": "SHT",
-                "outUuid": "819a41b1-0116-47d5-a4da-01bbe3346a5b"
+                "outUuid": "08d47142-c393-489a-bb17-928bb8e39360"
             },
             {
                 "inType": "EPT",
                 "inUuid": "",
                 "poiUuid": "",
                 "outType": "SHT",
-                "outUuid": "df314d15-d134-4da6-99bc-c38b7aaa250d"
+                "outUuid": "80825c5b-41e7-4f09-90c5-88ca432c82b7"
             },
             {
                 "inType": "SHT_ITM",
-                "inUuid": "ec0a8e55-988a-40d2-9b29-635353a8b4df",
-                "poiUuid": "3baf8791-851f-4dcf-9628-cbcd96c25ff7",
+                "inUuid": "e66e9201-8987-4db1-90bd-f03b26cafcef",
+                "poiUuid": "611568e3-3abf-405a-9acc-acc037e63917",
                 "outType": "SHT",
-                "outUuid": "49c44618-4b8f-4c7b-af3b-1e0d11227973"
+                "outUuid": "7b146906-0ef4-4005-b657-5fbc354c90eb"
             }
         ],
         "sheetItems": [
             {
-                "lastUpdate": "2024-02-20T13:54:29",
+                "lastUpdate": "2024-03-11T09:23:16",
                 "order": 0,
-                "uuid": "848b0ef2-1673-4486-98c2-b7b4f2a4712c"
+                "uuid": "8f49698b-8c99-4ccd-a7de-8ecea8ff9f99"
             },
             {
-                "lastUpdate": "2024-02-20T13:54:29",
+                "lastUpdate": "2024-03-11T09:23:16",
                 "order": 1,
-                "uuid": "1cc3e373-6363-4e35-8003-5fbd7f505552"
+                "uuid": "0ab5b134-26e0-4fa2-a6c7-01ed54ee45f9"
             },
             {
-                "lastUpdate": "2024-02-20T13:54:29",
+                "lastUpdate": "2024-03-11T09:23:16",
                 "order": 2,
-                "uuid": "89aed065-d49c-4666-b12a-d625900b7c80"
+                "uuid": "bcdb8dc9-8de9-40ba-bd4c-b27b76a82a6f"
             },
             {
-                "lastUpdate": "2024-02-20T13:54:29",
+                "lastUpdate": "2024-03-11T09:23:16",
                 "order": 3,
-                "uuid": "3be5e520-e3ed-4002-b890-1e2fc017c841"
+                "uuid": "b90bc515-aec8-4e98-8f07-d47082e9d616"
             },
             {
-                "lastUpdate": "2024-02-20T13:54:29",
+                "lastUpdate": "2024-03-11T09:23:16",
                 "order": 4,
-                "uuid": "81740cc8-2546-4551-8cdc-004d0e4b367d"
+                "uuid": "95798b02-5101-4072-b3a3-c7c8b7a222bf"
             },
             {
-                "lastUpdate": "2024-02-20T13:54:29",
-                "order": 5,
-                "uuid": "3974c35f-f393-4220-935f-4102f1e00f7b"
-            },
-            {
-                "lastUpdate": "2024-02-20T13:54:29",
-                "order": 6,
-                "uuid": "c30d89cb-bf7a-4758-a495-3918f1a3efb8"
-            },
-            {
-                "lastUpdate": "2024-02-20T13:54:29",
-                "order": 7,
-                "uuid": "1d086107-bdaf-4fa0-a2ef-172171e6489a"
-            },
-            {
-                "lastUpdate": "2024-02-20T13:54:29",
-                "order": 8,
-                "uuid": "947895bb-252b-4a66-ad94-bb7a1bca5804"
-            },
-            {
-                "lastUpdate": "2024-02-20T13:54:29",
-                "order": 9,
-                "uuid": "e368685e-222f-4eba-be37-22e09ad1b2da"
-            },
-            {
-                "lastUpdate": "2024-02-20T13:54:29",
-                "order": 10,
-                "uuid": "b81c6d68-7ccf-4b6a-8f80-08407b814885"
-            },
-            {
-                "lastUpdate": "2024-02-20T13:54:29",
+                "lastUpdate": "2024-03-11T09:23:16",
                 "order": 0,
-                "uuid": "9fba6b3b-502b-4afd-b613-39c086060a2e"
+                "uuid": "1366a456-6e08-4975-8d76-d49e6edaddb6"
             },
             {
-                "lastUpdate": "2023-12-06T18:25:50",
+                "lastUpdate": "2024-03-11T09:27:49",
                 "order": 0,
-                "uuid": "ec0a8e55-988a-40d2-9b29-635353a8b4df"
+                "uuid": "e66e9201-8987-4db1-90bd-f03b26cafcef"
             }
         ],
         "sheets": [
@@ -21354,171 +21345,88 @@
                 "description": "",
                 "extraData": null,
                 "items": [],
-                "lastUpdate": "2024-02-20T13:54:29",
+                "lastUpdate": "2024-03-11T09:23:15",
                 "mediaUuid": null,
                 "subtitle": "",
-                "tag": "title-block",
-                "title": "COLLEZIONE PERMANENTE",
-                "uuid": "b2c5da29-6b25-45ce-a3aa-124a20763b2f"
+                "tag": "text-sheet",
+                "title": "Titolo Credits",
+                "uuid": "2cad9700-0ae3-4a3f-8ffc-f529c55f7124"
             },
             {
                 "description": "",
                 "extraData": null,
                 "items": [],
-                "lastUpdate": "2024-02-20T13:54:29",
+                "lastUpdate": "2024-03-11T09:23:15",
                 "mediaUuid": null,
-                "subtitle": "",
-                "tag": "title-block",
-                "title": "La Direzione del Museo e revisione generale",
-                "uuid": "89f830fd-613b-44f0-9661-c14c5fed6d10"
+                "subtitle": "SOTTOTITOLO",
+                "tag": "text-sheet",
+                "title": "",
+                "uuid": "fc53d96e-9ddc-4cba-affa-12e2fda16e72"
             },
             {
-                "description": "<p>Caterina Greco</p>\n",
+                "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dignissim tortor nec cursus mollis. Suspendisse eget sagittis purus, eu interdum velit. Integer non pulvinar mi, malesuada imperdiet dui. Phasellus ac enim nisi. Donec eu ipsum urna. Mauris sit amet tellus libero. Aliquam eget lorem non dolor condimentum faucibus. Cras id augue ac risus aliquet laoreet. In sit amet vulputate turpis. Donec faucibus metus velit, eu feugiat urna maximus id. Suspendisse ipsum magna, laoreet sit amet dapibus sed, consequat venenatis urna. Integer vestibulum varius tortor in fermentum. Quisque justo diam, suscipit sit amet augue id, fringilla sollicitudin erat. Pellentesque egestas risus ut nisi tempor bibendum. Maecenas eleifend quam id lectus tempor, eget posuere enim ultrices.</p>\n",
                 "extraData": null,
                 "items": [],
-                "lastUpdate": "2024-02-20T13:54:29",
+                "lastUpdate": "2024-03-11T09:23:15",
                 "mediaUuid": null,
                 "subtitle": "",
-                "tag": "description-block",
+                "tag": "text-sheet",
                 "title": "",
-                "uuid": "1a95f896-d2dc-4314-9add-b4ff7f520795"
+                "uuid": "7e39bc56-6c59-4a60-b4fd-669c5fcdf674"
             },
             {
                 "description": "",
                 "extraData": null,
                 "items": [],
-                "lastUpdate": "2024-02-20T13:54:29",
-                "mediaUuid": null,
+                "lastUpdate": "2024-03-11T09:23:15",
+                "mediaUuid": "2399cbce-ce8c-4451-a8ae-1cee32515731",
                 "subtitle": "",
-                "tag": "title-block",
-                "title": "Lo staff del Museo Salinas",
-                "uuid": "7c733281-0b18-457d-9323-56db20236b80"
-            },
-            {
-                "description": "<p>Lucia Ferruzza (per i gioielli della collezione),</p>\n<p>Sandro Garrubbo (per i materiali video),</p>\n<p>Letizia Graditi (per l’archivio fotografico),</p>\n<p>Renata La Grutta (per le planimetrie del Museo),</p>\n<p>Alessandra Merra (per l’area archeologica di Piazza della Vittoria),</p>\n<p>Elena Pezzini (per l’età islamica e medievale),</p>\n<p>Costanza Polizzi (per la fase protostorica e greca),</p>\n<p>Sandra Ruvituso (per le collezioni sette e ottocentesche),</p>\n<p>Giuliana Sarà (per l’età fenicio-punica),</p>\n<p>Vittoria Schimmenti (per l’età preistorica),</p>\n<p>Alessandra Carrubba (per la Casa dei Padri Filippini all’Olivella)</p>\n",
-                "extraData": null,
-                "items": [],
-                "lastUpdate": "2024-02-20T13:54:29",
-                "mediaUuid": null,
-                "subtitle": "",
-                "tag": "description-block",
+                "tag": "image-sheet",
                 "title": "",
-                "uuid": "55a7ce1f-e933-43cb-89d3-8fa33a092e7f"
-            },
-            {
-                "description": "",
-                "extraData": null,
-                "items": [],
-                "lastUpdate": "2024-02-20T13:54:29",
-                "mediaUuid": null,
-                "subtitle": "",
-                "tag": "title-block",
-                "title": "I collaboratori esterni",
-                "uuid": "d588ce9a-ccbc-42a3-8fc7-ae796fb41500"
-            },
-            {
-                "description": "<p>Giuseppina Battaglia (soprintendenza di Palermo), per la Grotta dell’Addaura;</p>\n<p>Laura Cappuggi direttrice del cricd, insieme a Maurizio De Francisci;</p>\n<p>Massimo Cultraro (CNR – Università degli Studi di Palermo), per la parte preistorica;</p>\n<p>Vittorio Fazio, per le foto della mostra “Salinas ricorda Salinas 1914-2014);</p>\n<p>Francesco Gabellone (CNR), per i render in computer grafica del Tempio C di Selinunte (progetto Land Lab, Università di Lecce) e del kothon di Mozia (progetto Sicilia a Memoria di Syremont);</p>\n<p>Roberto Graditi, per le collezioni Casuccuni e del Museo Salnitriano;</p>\n<p>Graphimated Cartoon di Antonino Pirrotta e Alessandra Ragusa, per il Videodocumentario in computer grafica “Selinunte città fra i due fiumi”;</p>\n<p>Massimo Limoncelli (Università degli Studi di Palermo) e Giuseppe Messina (Parco di Selinunte), per i render in computer grafica del Santuario della Malophoros di Selinunte;</p>\n<p>Dario Piombino Mascali (Vilnius University), per la testa della mummia;</p>\n<p>Massimiliano Nuzzolo (Università degli Studi di Torino) per la Pietra di Palermo;</p>\n<p>Marcello Paternostro, per le foto della mostra “Pulcherrima Res”;</p>\n<p>Giuseppe Sarcinelli (Università del Salento) per la collezione numismatica medievale;</p>\n<p>Lavinia Sole (Università degli Studi di Palermo), per la collezione numismatica antica</p>\n",
-                "extraData": null,
-                "items": [],
-                "lastUpdate": "2024-02-20T13:54:29",
-                "mediaUuid": null,
-                "subtitle": "",
-                "tag": "description-block",
-                "title": "",
-                "uuid": "6b576eca-97ca-4347-8eaf-16ee95e831ca"
-            },
-            {
-                "description": "",
-                "extraData": null,
-                "items": [],
-                "lastUpdate": "2024-02-20T13:54:29",
-                "mediaUuid": null,
-                "subtitle": "",
-                "tag": "title-block",
-                "title": "Ideazione, progetto editoriale, coordinamento, scrittura dei testi e processo partecipativo",
-                "uuid": "4ad9dde9-9c85-403b-aacf-f60f0735e3bb"
-            },
-            {
-                "description": "<p>Elisa Bonacini</p>\n",
-                "extraData": null,
-                "items": [],
-                "lastUpdate": "2024-02-20T13:54:29",
-                "mediaUuid": null,
-                "subtitle": "",
-                "tag": "description-block",
-                "title": "",
-                "uuid": "5461541b-8da4-4221-ba4d-c7f597f55175"
-            },
-            {
-                "description": "",
-                "extraData": null,
-                "items": [],
-                "lastUpdate": "2024-02-20T13:54:29",
-                "mediaUuid": null,
-                "subtitle": "",
-                "tag": "title-block",
-                "title": "Sviluppo App e contenuti",
-                "uuid": "8c4b9fd7-305c-403b-9c48-dea5ed3310b2"
-            },
-            {
-                "description": "<p>ETT S.p.A.</p>\n",
-                "extraData": null,
-                "items": [],
-                "lastUpdate": "2024-02-20T13:54:29",
-                "mediaUuid": null,
-                "subtitle": "",
-                "tag": "description-block",
-                "title": "",
-                "uuid": "29a0c04d-c788-46b2-b0f1-c9ed074c4356"
+                "uuid": "663dfa5e-ecd7-4521-b943-77267f2b75e9"
             },
             {
                 "description": null,
                 "extraData": null,
                 "items": [
-                    "848b0ef2-1673-4486-98c2-b7b4f2a4712c",
-                    "1cc3e373-6363-4e35-8003-5fbd7f505552",
-                    "89aed065-d49c-4666-b12a-d625900b7c80",
-                    "3be5e520-e3ed-4002-b890-1e2fc017c841",
-                    "81740cc8-2546-4551-8cdc-004d0e4b367d",
-                    "3974c35f-f393-4220-935f-4102f1e00f7b",
-                    "c30d89cb-bf7a-4758-a495-3918f1a3efb8",
-                    "1d086107-bdaf-4fa0-a2ef-172171e6489a",
-                    "947895bb-252b-4a66-ad94-bb7a1bca5804",
-                    "e368685e-222f-4eba-be37-22e09ad1b2da",
-                    "b81c6d68-7ccf-4b6a-8f80-08407b814885"
+                    "8f49698b-8c99-4ccd-a7de-8ecea8ff9f99",
+                    "0ab5b134-26e0-4fa2-a6c7-01ed54ee45f9",
+                    "bcdb8dc9-8de9-40ba-bd4c-b27b76a82a6f",
+                    "b90bc515-aec8-4e98-8f07-d47082e9d616",
+                    "95798b02-5101-4072-b3a3-c7c8b7a222bf"
                 ],
-                "lastUpdate": "2024-02-20T13:54:29",
+                "lastUpdate": "2024-03-11T09:23:16",
                 "mediaUuid": null,
                 "subtitle": null,
-                "tag": "other-sheet",
+                "tag": "container-sheet",
                 "title": null,
-                "uuid": "819a41b1-0116-47d5-a4da-01bbe3346a5b"
+                "uuid": "08d47142-c393-489a-bb17-928bb8e39360"
             },
             {
                 "description": null,
                 "extraData": null,
                 "items": [
-                    "9fba6b3b-502b-4afd-b613-39c086060a2e"
+                    "1366a456-6e08-4975-8d76-d49e6edaddb6"
                 ],
-                "lastUpdate": "2024-02-20T13:54:29",
+                "lastUpdate": "2024-03-11T09:23:16",
                 "mediaUuid": null,
                 "subtitle": null,
-                "tag": "poi-extra-entry-sheet",
-                "title": "Credits permanente",
-                "uuid": "49c44618-4b8f-4c7b-af3b-1e0d11227973"
+                "tag": "poi-credits-entry-sheet",
+                "title": "",
+                "uuid": "7b146906-0ef4-4005-b657-5fbc354c90eb"
             },
             {
                 "description": null,
                 "extraData": null,
                 "items": [
-                    "ec0a8e55-988a-40d2-9b29-635353a8b4df"
+                    "e66e9201-8987-4db1-90bd-f03b26cafcef"
                 ],
-                "lastUpdate": "2023-12-13T18:37:09",
+                "lastUpdate": "2024-03-11T09:27:49",
                 "mediaUuid": null,
                 "subtitle": null,
-                "tag": "path-extra-entry-sheet",
-                "title": "Credits",
-                "uuid": "df314d15-d134-4da6-99bc-c38b7aaa250d"
+                "tag": "path-credits-entry-sheet",
+                "title": "",
+                "uuid": "80825c5b-41e7-4f09-90c5-88ca432c82b7"
             }
         ]
     }
