@@ -21153,12 +21153,12 @@
         "groups": [],
         "color": null,
         "description": null,
-        "lastUpdate": "2024-03-11T09:29:05",
+        "lastUpdate": "2024-03-12T09:29:05",
         "mediaUuid": null,
         "order": 0,
         "subtitle": null,
         "tag": "path-credits",
-        "totalSize": 351506,
+        "totalSize": 359622,
         "title": "",
         "uuid": "702a855b-a47d-437c-8882-b82a0c8e3ff6",
         "galleries": [
@@ -21197,13 +21197,13 @@
         ],
         "mediaFiles": [
             {
-                "lastUpdate": "2024-03-11T09:23:07",
+                "lastUpdate": "2024-05-02T17:34:08",
                 "mimeType": "image/png",
-                "name": "ett_logo.png",
-                "size": 1852,
+                "name": "logo_main@3x.png",
+                "size": 5910,
                 "type": "IMG",
-                "url": "https://testvdt.democontent.it/wp-content/uploads/2024/03/ett_logo.png",
-                "uuid": "2399cbce-ce8c-4451-a8ae-1cee32515731"
+                "url": "https://testvdt.democontent.it/wp-content/uploads/2024/03/logo_main@3x.png",
+                "uuid": "1be1c2b8-5cfe-41ba-8730-6bed8b2deb73"
             },
             {
                 "lastUpdate": "2023-08-09T12:26:19",
@@ -21379,7 +21379,7 @@
                 "extraData": null,
                 "items": [],
                 "lastUpdate": "2024-03-11T09:23:15",
-                "mediaUuid": "2399cbce-ce8c-4451-a8ae-1cee32515731",
+                "mediaUuid": "1be1c2b8-5cfe-41ba-8730-6bed8b2deb73",
                 "subtitle": "",
                 "tag": "image-sheet",
                 "title": "",
