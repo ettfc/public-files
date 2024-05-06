@@ -21222,6 +21222,42 @@
                 "type": "IMG",
                 "url": "https://testvdt.democontent.it/wp-content/uploads/2023/10/blocco_loghi_credits.png",
                 "uuid": "4310dade-a78f-49c7-a81d-1dae0e5ced24"
+            },
+            {
+                "lastUpdate": "2023-10-03T16:56:33",
+                "mimeType": "image/png",
+                "name": "logo_rosso.png",
+                "size": 108098,
+                "type": "IMG",
+                "url": "https://ettsolutions.com/wp-content/uploads/2022/05/logo_rosso.png",
+                "uuid": "ett0dade-a78f-49c7-a81d-1dae0e5ced24"
+            },
+            {
+                "lastUpdate": "2023-10-03T16:56:33",
+                "mimeType": "image/jpeg",
+                "name": "instagram-small-icon-24.jpg",
+                "size": 108098,
+                "type": "IMG",
+                "url": "https://icon-library.com/images/instagram-small-icon/instagram-small-icon-24.jpg",
+                "uuid": "iig0dade-a78f-49c7-a81d-1dae0e5ced24"
+            },
+            {
+                "lastUpdate": "2023-10-03T16:56:33",
+                "mimeType": "image/png",
+                "name": "facebook-fb-icon.png",
+                "size": 108098,
+                "type": "IMG",
+                "url": "https://www.iconninja.com/files/507/604/46/facebook-fb-icon.png",
+                "uuid": "ifb0dade-a78f-49c7-a81d-1dae0e5ced24"
+            },
+            {
+                "lastUpdate": "2023-10-03T16:56:33",
+                "mimeType": "image/png",
+                "name": "5969020.png",
+                "size": 108098,
+                "type": "IMG",
+                "url": "https://cdn-icons-png.flaticon.com/128/5969/5969020.png",
+                "uuid": "ixx0dade-a78f-49c7-a81d-1dae0e5ced24"
             }
         ],
         "poiOrder": [
@@ -21301,6 +21337,41 @@
                 "poiUuid": "611568e3-3abf-405a-9acc-acc037e63917",
                 "outType": "SHT",
                 "outUuid": "7b146906-0ef4-4005-b657-5fbc354c90eb"
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "aabb8b02-5101-4072-b3a3-c7c8b7a222bf",
+                "poiUuid": "611568e3-3abf-405a-9acc-acc037e63917",
+                "outType": "SHT",
+                "outUuid": "aaa00000-8987-4db1-90bd-f03b26cafcef"
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "aaccc515-aec8-4e98-8f07-d47082e9d616",
+                "poiUuid": "611568e3-3abf-405a-9acc-acc037e63917",
+                "outType": "SHT",
+                "outUuid": "aaac1234-8de9-40ba-bd4c-b27b76a82a6f"
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "aaac0012-8de9-40ba-bd4c-b27b76a82a6f",
+                "poiUuid": "611568e3-3abf-405a-9acc-acc037e63917",
+                "outType": "SHT",
+                "outUuid": "aaac0000-8c99-4ccd-a7de-8ecea8ff9f99"
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "aaac0112-8de9-40ba-bd4c-b27b76a82a6f",
+                "poiUuid": "611568e3-3abf-405a-9acc-acc037e63917",
+                "outType": "SHT",
+                "outUuid": "aaac1111-26e0-4fa2-a6c7-01ed54ee45f9"
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "aaac0212-8de9-40ba-bd4c-b27b76a82a6f",
+                "poiUuid": "611568e3-3abf-405a-9acc-acc037e63917",
+                "outType": "SHT",
+                "outUuid": "aaac2222-8de9-40ba-bd4c-b27b76a82a6f"
             }
         ],
         "sheetItems": [
@@ -21327,7 +21398,17 @@
             {
                 "lastUpdate": "2024-03-11T09:23:16",
                 "order": 4,
+                "uuid": "aaccc515-aec8-4e98-8f07-d47082e9d616"
+            },
+            {
+                "lastUpdate": "2024-03-11T09:23:16",
+                "order": 5,
                 "uuid": "95798b02-5101-4072-b3a3-c7c8b7a222bf"
+            },
+            {
+                "lastUpdate": "2024-03-11T09:23:16",
+                "order": 6,
+                "uuid": "aabb8b02-5101-4072-b3a3-c7c8b7a222bf"
             },
             {
                 "lastUpdate": "2024-03-11T09:23:16",
@@ -21338,6 +21419,26 @@
                 "lastUpdate": "2024-03-11T09:27:49",
                 "order": 0,
                 "uuid": "e66e9201-8987-4db1-90bd-f03b26cafcef"
+            },
+            {
+                "lastUpdate": "2024-03-11T09:23:16",
+                "order": 0,
+                "uuid": "aaac0000-8c99-4ccd-a7de-8ecea8ff9f99"
+            },
+            {
+                "lastUpdate": "2024-03-11T09:23:16",
+                "order": 1,
+                "uuid": "aaac1111-26e0-4fa2-a6c7-01ed54ee45f9"
+            },
+            {
+                "lastUpdate": "2024-03-11T09:23:16",
+                "order": 2,
+                "uuid": "aaac2222-8de9-40ba-bd4c-b27b76a82a6f"
+            },
+            {
+                "lastUpdate": "2024-03-11T09:27:49",
+                "order": 0,
+                "uuid": "aaa00000-8987-4db1-90bd-f03b26cafcef"
             }
         ],
         "sheets": [
@@ -21388,12 +21489,73 @@
             {
                 "description": null,
                 "extraData": null,
+                "items": [],
+                "lastUpdate": "2024-03-11T09:23:15",
+                "mediaUuid": "ett0dade-a78f-49c7-a81d-1dae0e5ced24",
+                "subtitle": "https://ettsolutions.com/",
+                "tag": "link-sheet",
+                "title": "Visita il nostro sito",
+                "uuid": "aaa00000-8987-4db1-90bd-f03b26cafcef"
+            },
+            {
+                "description": null,
+                "extraData": null,
+                "items": [],
+                "lastUpdate": "2024-03-11T09:23:15",
+                "mediaUuid": "ifb0dade-a78f-49c7-a81d-1dae0e5ced24",
+                "subtitle": "https://www.facebook.com/ettspa/",
+                "tag": "link-sheet",
+                "title": "",
+                "uuid": "aaac0000-8c99-4ccd-a7de-8ecea8ff9f99"
+            },
+            {
+                "description": null,
+                "extraData": null,
+                "items": [],
+                "lastUpdate": "2024-03-11T09:23:15",
+                "mediaUuid": "ixx0dade-a78f-49c7-a81d-1dae0e5ced24",
+                "subtitle": "https://twitter.com/ettspa/",
+                "tag": "link-sheet",
+                "title": "",
+                "uuid": "aaac1111-26e0-4fa2-a6c7-01ed54ee45f9"
+            },
+            {
+                "description": null,
+                "extraData": null,
+                "items": [],
+                "lastUpdate": "2024-03-11T09:23:15",
+                "mediaUuid": "iig0dade-a78f-49c7-a81d-1dae0e5ced24",
+                "subtitle": "https://www.instagram.com/ettspa/",
+                "tag": "link-sheet",
+                "title": "",
+                "uuid": "aaac2222-8de9-40ba-bd4c-b27b76a82a6f"
+            },
+            {
+                "description": null,
+                "extraData": null,
+                "items": [
+                    "aaac0012-8de9-40ba-bd4c-b27b76a82a6f",
+                    "aaac0112-8de9-40ba-bd4c-b27b76a82a6f",
+                    "aaac0212-8de9-40ba-bd4c-b27b76a82a6f"
+                ],
+                "lastUpdate": "2024-03-11T09:23:15",
+                "mediaUuid": null,
+                "subtitle": null,
+                "tag": "link-collection-sheet",
+                "title": null,
+                "uuid": "aaac1234-8de9-40ba-bd4c-b27b76a82a6f"
+            },
+            {
+                "description": null,
+                "extraData": null,
                 "items": [
                     "8f49698b-8c99-4ccd-a7de-8ecea8ff9f99",
                     "0ab5b134-26e0-4fa2-a6c7-01ed54ee45f9",
                     "bcdb8dc9-8de9-40ba-bd4c-b27b76a82a6f",
                     "b90bc515-aec8-4e98-8f07-d47082e9d616",
-                    "95798b02-5101-4072-b3a3-c7c8b7a222bf"
+                    "aaccc515-aec8-4e98-8f07-d47082e9d616",
+                    "95798b02-5101-4072-b3a3-c7c8b7a222bf",
+                    "aabb8b02-5101-4072-b3a3-c7c8b7a222bf"
                 ],
                 "lastUpdate": "2024-03-11T09:23:16",
                 "mediaUuid": null,
