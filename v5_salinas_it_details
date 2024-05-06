@@ -21444,7 +21444,7 @@
         "sheets": [
             {
                 "description": "",
-                "extraData": null,
+                "extraData": "{ \"align\": \"start\", \"titleColor\": \"#32a852\" }",
                 "items": [],
                 "lastUpdate": "2024-03-11T09:23:15",
                 "mediaUuid": null,
@@ -21454,14 +21454,14 @@
                 "uuid": "2cad9700-0ae3-4a3f-8ffc-f529c55f7124"
             },
             {
-                "description": "",
-                "extraData": null,
+                "description": "Pure una breve descrizione (ma proprio breve breve)",
+                "extraData": "{ \"align\": \"end\", \"titleStyle\": \"h1\", \"descriptionColor\": \"#31213b\" }",
                 "items": [],
                 "lastUpdate": "2024-03-11T09:23:15",
                 "mediaUuid": null,
-                "subtitle": "SOTTOTITOLO",
+                "subtitle": "Sottotitolo",
                 "tag": "text-sheet",
-                "title": "",
+                "title": "Titolo importante",
                 "uuid": "fc53d96e-9ddc-4cba-affa-12e2fda16e72"
             },
             {
@@ -21547,7 +21547,7 @@
             },
             {
                 "description": null,
-                "extraData": null,
+                "extraData": "{ \"align\": \"center\"}",
                 "items": [
                     "8f49698b-8c99-4ccd-a7de-8ecea8ff9f99",
                     "0ab5b134-26e0-4fa2-a6c7-01ed54ee45f9",
