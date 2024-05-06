@@ -996,6 +996,20 @@
             },
             {
                 "inType": "SHT_ITM",
+                "inUuid": "772bacdb-6535-412a-89f9-7f90b965c999",
+                "poiUuid": "c9278252-ad58-4190-b77e-35a3cd6003c1",
+                "outType": "SHT",
+                "outUuid": "222ad41a-c651-4912-9b20-193c935c6faa"
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "773bacdb-6535-412a-89f9-7f90b965c999",
+                "poiUuid": "c9278252-ad58-4190-b77e-35a3cd6003c1",
+                "outType": "SHT",
+                "outUuid": "333ad41a-c651-4912-9b20-193c935c6faa"
+            },
+            {
+                "inType": "SHT_ITM",
                 "inUuid": "735005a2-e9e0-4d8a-98c1-b249ad6edca8",
                 "poiUuid": "c9278252-ad58-4190-b77e-35a3cd6003c1",
                 "outType": "SHT",
@@ -1028,6 +1042,16 @@
                 "lastUpdate": "2023-11-08T15:49:59",
                 "order": 0,
                 "uuid": "777bacdb-6535-412a-89f9-7f90b965c999"
+            },
+            {
+                "lastUpdate": "2023-11-08T15:49:59",
+                "order": 1,
+                "uuid": "772bacdb-6535-412a-89f9-7f90b965c999"
+            },
+            {
+                "lastUpdate": "2023-11-08T15:49:59",
+                "order": 2,
+                "uuid": "773bacdb-6535-412a-89f9-7f90b965c999"
             },
             {
                 "lastUpdate": "2023-11-08T15:49:59",
@@ -1067,9 +1091,7 @@
                 "items": [
                     "7bfbacdb-6535-412a-89f9-7f90b965c977",
                     "15a18e6d-8a3c-49ad-a205-a3eab733f9cc",
-                    "735005a2-e9e0-4d8a-98c1-b249ad6edca8",
-                    "3aaecf4a-a38f-41ca-9888-199c697b32db",
-                    "68c8f985-5197-48ed-acf4-2b304e1a9ef8"
+                    "735005a2-e9e0-4d8a-98c1-b249ad6edca8"
                 ],
                 "lastUpdate": "2023-12-13T11:10:18",
                 "mediaUuid": null,
@@ -1077,6 +1099,32 @@
                 "tag": "container-sheet",
                 "title": null,
                 "uuid": "111ad41a-c651-4912-9b20-193c935c6faa"
+            },
+            {
+                "description": null,
+                "extraData": "{ \"backgroundColor\": \"#ccf294\" }",
+                "items": [
+                    "3aaecf4a-a38f-41ca-9888-199c697b32db"
+                ],
+                "lastUpdate": "2023-12-13T11:10:18",
+                "mediaUuid": null,
+                "subtitle": null,
+                "tag": "container-sheet",
+                "title": null,
+                "uuid": "222ad41a-c651-4912-9b20-193c935c6faa"
+            },
+            {
+                "description": null,
+                "extraData": null,
+                "items": [
+                    "68c8f985-5197-48ed-acf4-2b304e1a9ef8"
+                ],
+                "lastUpdate": "2023-12-13T11:10:18",
+                "mediaUuid": null,
+                "subtitle": null,
+                "tag": "container-sheet",
+                "title": null,
+                "uuid": "333ad41a-c651-4912-9b20-193c935c6faa"
             },
             {
                 "description": "<p>Benvenuti al Museo archeologico regionale “Antonino Salinas” e alla mostra “Sicilia//Grecia//Magna Grecia. E dunque, quello che cercavo sono”.</p>\n<p>Con questa esposizione, abbiamo voluto attivare un “dialogo” fra straordinari reperti provenienti da musei italiani, siciliani e anche stranieri, in grado di rivelare quanto stretto fosse il rapporto fra Grecia ad Oriente e Sicilia ed Italia meridionale ad Occidente. Una storia, tutta mediterranea, dipanatasi lungo le onde di un Mar Mediterraneo che non è mai stato confine ma orizzonte: un orizzonte da superare alla ricerca di nuovi futuri, fatti di relazioni, scambi, incontri, capace infine di accomunare genti diverse in un “senso comune di grecità”, da cui ha avuto origine la nostra cultura occidentale europea.</p>\n",
@@ -1115,7 +1163,9 @@
                 "description": null,
                 "extraData": null,
                 "items": [
-                    "777bacdb-6535-412a-89f9-7f90b965c999"
+                    "777bacdb-6535-412a-89f9-7f90b965c999",
+                    "772bacdb-6535-412a-89f9-7f90b965c999",
+                    "773bacdb-6535-412a-89f9-7f90b965c999"
                 ],
                 "lastUpdate": "2023-12-13T11:10:21",
                 "mediaUuid": null,
@@ -21455,7 +21505,7 @@
             },
             {
                 "description": "Pure una breve descrizione (ma proprio breve breve)",
-                "extraData": "{ \"align\": \"end\", \"titleStyle\": \"h1\", \"descriptionColor\": \"#31213b\" }",
+                "extraData": "{ \"align\": \"end\", \"titleStyle\": \"h1\", \"descriptionColor\": \"#722b9e\" }",
                 "items": [],
                 "lastUpdate": "2024-03-11T09:23:15",
                 "mediaUuid": null,
