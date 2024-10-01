@@ -1,0 +1,452 @@
+[
+  {
+    "categories": [
+      "05b00bf8-b7be-49d7-a2ed-2301b73c6505"
+    ],
+    "groups": [],
+    "color": null,
+    "description": "",
+    "lastUpdate": "2024-05-10T14:37:17",
+    "mediaUuid": "52b13867-646d-4437-85dc-59222079621f",
+    "order": 0,
+    "subtitle": "",
+    "tag": "path-main-list",
+    "totalSize": 8814550,
+    "title": "Guglielmo Coronini",
+    "uuid": "16380d9a-ef47-4e6c-b506-978e49b9c822",
+    "galleries": [
+      {
+        "description": null,
+        "items": [
+          "ed0f46f8-023f-4c36-a8ed-1d11189da7ad"
+        ],
+        "lastUpdate": "2024-05-10T14:21:33",
+        "subtitle": null,
+        "tag": "video-gallery",
+        "title": null,
+        "uuid": "1383e8a2-17e5-45ec-b811-ccd219e7459f"
+      },
+      {
+        "description": null,
+        "items": [
+          "1a6bda0c-7e1f-4d0c-8788-622db7bba670"
+        ],
+        "lastUpdate": "2024-05-10T14:21:56",
+        "subtitle": null,
+        "tag": "video-gallery",
+        "title": null,
+        "uuid": "b3059610-cfb8-4d87-ae1f-3d27031d7807"
+      }
+    ],
+    "galleryItems": [
+      {
+        "description": null,
+        "lastUpdate": "2024-05-10T14:21:33",
+        "mediaUuid": "c0c88840-cd03-46e6-9c8c-77c3b585a26d",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "ed0f46f8-023f-4c36-a8ed-1d11189da7ad"
+      },
+      {
+        "description": null,
+        "lastUpdate": "2024-05-10T14:21:56",
+        "mediaUuid": "c0c88840-cd03-46e6-9c8c-77c3b585a26d",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "1a6bda0c-7e1f-4d0c-8788-622db7bba670"
+      }
+    ],
+    "mediaFiles": [
+      {
+        "lastUpdate": "2024-05-07T10:13:49",
+        "mimeType": "image/jpeg",
+        "name": "vecteezy_nebulosa-galassia-sfondo-cosmo-nuvole-e-bellissimo-universo_25781776-1.jpg",
+        "size": 3863396,
+        "type": "IMG",
+        "url": "https://testcoronini.virtualcontent.it/wp-content/uploads/2024/05/vecteezy_nebulosa-galassia-sfondo-cosmo-nuvole-e-bellissimo-universo_25781776-1.jpg",
+        "uuid": "52b13867-646d-4437-85dc-59222079621f"
+      },
+      {
+        "lastUpdate": "2024-05-10T14:21:33",
+        "mimeType": "video/mp4",
+        "name": "sample-mp4-file-small.mp4",
+        "size": 543879,
+        "type": "VID",
+        "url": "https://testcoronini.virtualcontent.it/wp-content/uploads/2024/05/sample-mp4-file-small.mp4",
+        "uuid": "c0c88840-cd03-46e6-9c8c-77c3b585a26d"
+      }
+    ],
+    "pathCategories": [
+      {
+        "code": "FE6E2813-DA4E-45FF-8147-91EB4789A572",
+        "color": "",
+        "description": "<p>Testo descrittivo della categoria</p>\n",
+        "lastUpdate": "2024-05-10T14:10:19",
+        "mediaUuid": null,
+        "order": 0,
+        "subtitle": "",
+        "tag": "square-expanded",
+        "type": "mainPage",
+        "title": "Guglielmo Coronini",
+        "uuid": "05b00bf8-b7be-49d7-a2ed-2301b73c6505"
+      }
+    ],
+    "poiOrder": [
+      {
+        "index": "1",
+        "isHidden": false,
+        "status": "visited",
+        "order": 0,
+        "poiUuid": "c92b1029-d633-4714-b425-dbb5294a761f"
+      },
+      {
+        "index": "2",
+        "isHidden": false,
+        "status": "visited",
+        "order": 1,
+        "poiUuid": "357cf3c2-9c87-4102-b940-44f4b1c33b20"
+      }
+    ],
+    "pois": [
+      {
+        "categories": [],
+        "description": "",
+        "lastUpdate": "2024-05-10T14:21:33",
+        "mediaUuid": "52b13867-646d-4437-85dc-59222079621f",
+        "subtitle": "",
+        "tag": "poi-main-list",
+        "title": "Guglielmo Coronini da bambino",
+        "uuid": "c92b1029-d633-4714-b425-dbb5294a761f"
+      },
+      {
+        "categories": [],
+        "description": "",
+        "lastUpdate": "2024-05-10T14:21:56",
+        "mediaUuid": "52b13867-646d-4437-85dc-59222079621f",
+        "subtitle": "",
+        "tag": "poi-main-list",
+        "title": "Guglielmo Coronini da adulto",
+        "uuid": "357cf3c2-9c87-4102-b940-44f4b1c33b20"
+      }
+    ],
+    "relations": [
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "2f870504-da73-48d5-82f2-34c607c73912",
+        "poiUuid": "c92b1029-d633-4714-b425-dbb5294a761f",
+        "outType": "GLR",
+        "outUuid": "1383e8a2-17e5-45ec-b811-ccd219e7459f"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "ccf2ac86-ca96-439f-87fa-87f47fab8af6",
+        "poiUuid": "357cf3c2-9c87-4102-b940-44f4b1c33b20",
+        "outType": "GLR",
+        "outUuid": "b3059610-cfb8-4d87-ae1f-3d27031d7807"
+      },
+      {
+        "inType": "EPT",
+        "inUuid": "",
+        "poiUuid": "",
+        "outType": "SHT",
+        "outUuid": "eda8abd4-042c-4aca-b49c-750a476f7510"
+      },
+      {
+        "inType": "POI_EPT",
+        "inUuid": "",
+        "poiUuid": "c92b1029-d633-4714-b425-dbb5294a761f",
+        "outType": "SHT",
+        "outUuid": "afe1f255-e63e-4772-9f2c-3b574899eb8d"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "1bf24d11-67bc-4390-b021-57d38c83a2ae",
+        "poiUuid": "c92b1029-d633-4714-b425-dbb5294a761f",
+        "outType": "SHT",
+        "outUuid": "afe1f255-e63e-4772-9f2c-3b574899eb8d"
+      },
+      {
+        "inType": "POI_EPT",
+        "inUuid": "",
+        "poiUuid": "c92b1029-d633-4714-b425-dbb5294a761f",
+        "outType": "SHT",
+        "outUuid": "3a1cfb50-6f29-41c2-94db-562ffb26adb4"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "4726c993-18aa-4d22-912c-67cf07f304c4",
+        "poiUuid": "357cf3c2-9c87-4102-b940-44f4b1c33b20",
+        "outType": "SHT",
+        "outUuid": "3a1cfb50-6f29-41c2-94db-562ffb26adb4"
+      }
+    ],
+    "sheetItems": [
+      {
+        "lastUpdate": "2024-05-10T14:21:33",
+        "order": 0,
+        "uuid": "2f870504-da73-48d5-82f2-34c607c73912"
+      },
+      {
+        "lastUpdate": "2024-05-10T14:21:56",
+        "order": 0,
+        "uuid": "ccf2ac86-ca96-439f-87fa-87f47fab8af6"
+      },
+      {
+        "lastUpdate": "2024-05-10T14:22:27",
+        "order": 0,
+        "uuid": "1bf24d11-67bc-4390-b021-57d38c83a2ae"
+      },
+      {
+        "lastUpdate": "2024-05-10T14:22:27",
+        "order": 1,
+        "uuid": "4726c993-18aa-4d22-912c-67cf07f304c4"
+      }
+    ],
+    "sheets": [
+      {
+        "description": "",
+        "extraData": null,
+        "items": [
+          "2f870504-da73-48d5-82f2-34c607c73912"
+        ],
+        "lastUpdate": "2024-05-10T14:21:33",
+        "mediaUuid": "52b13867-646d-4437-85dc-59222079621f",
+        "subtitle": "",
+        "tag": "poi-main-list-entry-sheet",
+        "title": "Guglielmo Coronini da bambino",
+        "uuid": "afe1f255-e63e-4772-9f2c-3b574899eb8d"
+      },
+      {
+        "description": "",
+        "extraData": null,
+        "items": [
+          "ccf2ac86-ca96-439f-87fa-87f47fab8af6"
+        ],
+        "lastUpdate": "2024-05-10T14:21:56",
+        "mediaUuid": "52b13867-646d-4437-85dc-59222079621f",
+        "subtitle": "",
+        "tag": "poi-main-list-entry-sheet",
+        "title": "Guglielmo Coronini da adulto",
+        "uuid": "3a1cfb50-6f29-41c2-94db-562ffb26adb4"
+      },
+      {
+        "description": "",
+        "extraData": null,
+        "items": [
+          "2f870504-da73-48d5-82f2-34c607c73912"
+        ],
+        "lastUpdate": "2024-05-10T14:21:33",
+        "mediaUuid": "52b13867-646d-4437-85dc-59222079621f",
+        "subtitle": "",
+        "tag": "poi-main-list-entry-sheet",
+        "title": "Guglielmo Coronini da bambino",
+        "uuid": "afe1f255-e63e-4772-9f2c-3b574899eb8d"
+      },
+      {
+        "description": "",
+        "extraData": null,
+        "items": [
+          "ccf2ac86-ca96-439f-87fa-87f47fab8af6"
+        ],
+        "lastUpdate": "2024-05-10T14:21:56",
+        "mediaUuid": "52b13867-646d-4437-85dc-59222079621f",
+        "subtitle": "",
+        "tag": "poi-main-list-entry-sheet",
+        "title": "Guglielmo Coronini da adulto",
+        "uuid": "3a1cfb50-6f29-41c2-94db-562ffb26adb4"
+      },
+      {
+        "description": "",
+        "extraData": null,
+        "items": [
+          "1bf24d11-67bc-4390-b021-57d38c83a2ae",
+          "4726c993-18aa-4d22-912c-67cf07f304c4"
+        ],
+        "lastUpdate": "2024-05-10T14:22:27",
+        "mediaUuid": "52b13867-646d-4437-85dc-59222079621f",
+        "subtitle": "",
+        "tag": "path-main-list-entry-sheet",
+        "title": "Guglielmo Coronini",
+        "uuid": "eda8abd4-042c-4aca-b49c-750a476f7510"
+      }
+    ]
+  },
+  {
+    "categories": [
+      "67abd106-784b-4c99-ba75-03759909b2de"
+    ],
+    "groups": [],
+    "color": null,
+    "description": "<p>Testo descrittivo virtual tour</p>\n",
+    "lastUpdate": "2024-05-10T14:37:17",
+    "mediaUuid": null,
+    "order": 0,
+    "subtitle": "",
+    "tag": "path-links",
+    "totalSize": 0,
+    "title": "Virtual Tour",
+    "uuid": "1c633fcc-5be7-4a08-bf70-39fc1ea58ae6",
+    "pathCategories": [
+      {
+        "code": "CDD51871-EB70-4F1D-BA3C-561E79F3C05A",
+        "color": "",
+        "description": "",
+        "lastUpdate": "2024-05-10T14:12:25",
+        "mediaUuid": null,
+        "order": 4,
+        "subtitle": "",
+        "tag": "secondary-expanded",
+        "type": "mainPage",
+        "title": "",
+        "uuid": "67abd106-784b-4c99-ba75-03759909b2de"
+      }
+    ],
+    "poiOrder": [
+      {
+        "index": "1",
+        "isHidden": false,
+        "status": "visited",
+        "order": 0,
+        "poiUuid": "91ddd107-e898-40e1-862d-59dc8894ff88"
+      }
+    ],
+    "pois": [
+      {
+        "categories": [],
+        "description": "<p>Testo descrittivo virtual tour</p>\n",
+        "lastUpdate": "2024-05-10T14:16:18",
+        "mediaUuid": null,
+        "subtitle": "",
+        "tag": "poi-links",
+        "title": "Virtual Tour",
+        "uuid": "91ddd107-e898-40e1-862d-59dc8894ff88"
+      }
+    ],
+    "relations": [
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "00a6383a-c8c9-4fc6-8c22-750513142111",
+        "poiUuid": "91ddd107-e898-40e1-862d-59dc8894ff88",
+        "outType": "SHT",
+        "outUuid": "f9ea651b-25cf-4c81-b5d6-e2a6a5c4e000"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "00a6383a-c8c9-4fc6-8c22-750513142222",
+        "poiUuid": "91ddd107-e898-40e1-862d-59dc8894ff88",
+        "outType": "SHT",
+        "outUuid": "f9ea651b-25cf-4c81-b5d6-e2a6a5c4e001"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "00a6383a-c8c9-4fc6-8c22-750513142333",
+        "poiUuid": "91ddd107-e898-40e1-862d-59dc8894ff88",
+        "outType": "SHT",
+        "outUuid": "f9ea651b-25cf-4c81-b5d6-e2a6a5c4ea4b"
+      },
+      {
+        "inType": "EPT",
+        "inUuid": "",
+        "poiUuid": "",
+        "outType": "SHT",
+        "outUuid": "61214b83-a935-48c8-86a8-c774c36e74f7"
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "86a1b1ff-e2e7-4ce0-a5ce-1e807fb28439",
+        "poiUuid": "91ddd107-e898-40e1-862d-59dc8894ff88",
+        "outType": "SHT",
+        "outUuid": "05b1890b-96a7-421b-8c40-dd8b6c102f39"
+      }
+    ],
+    "sheetItems": [
+      {
+        "lastUpdate": "2024-05-10T14:14:48",
+        "order": 0,
+        "uuid": "00a6383a-c8c9-4fc6-8c22-750513142111"
+      },
+      {
+        "lastUpdate": "2024-05-10T14:14:48",
+        "order": 0,
+        "uuid": "00a6383a-c8c9-4fc6-8c22-750513142222"
+      },
+      {
+        "lastUpdate": "2024-05-10T14:14:48",
+        "order": 0,
+        "uuid": "00a6383a-c8c9-4fc6-8c22-750513142333"
+      },
+      {
+        "lastUpdate": "2024-05-10T14:14:49",
+        "order": 0,
+        "uuid": "86a1b1ff-e2e7-4ce0-a5ce-1e807fb28439"
+      }
+    ],
+    "sheets": [
+      {
+        "description": null,
+        "extraData": null,
+        "items": [],
+        "lastUpdate": "2024-05-10T14:14:48",
+        "mediaUuid": null,
+        "subtitle": "http://www.google.com",
+        "tag": "link-sheet",
+        "title": null,
+        "uuid": "f9ea651b-25cf-4c81-b5d6-e2a6a5c4ea4b"
+      },
+      {
+        "description": null,
+        "extraData": null,
+        "items": [
+          "00a6383a-c8c9-4fc6-8c22-750513142333"
+        ],
+        "lastUpdate": "2024-05-10T14:14:48",
+        "mediaUuid": null,
+        "subtitle": null,
+        "tag": "plus-link-sheet",
+        "title": null,
+        "uuid": "f9ea651b-25cf-4c81-b5d6-e2a6a5c4e001"
+      },
+      {
+        "description": null,
+        "extraData": null,
+        "items": [
+          "00a6383a-c8c9-4fc6-8c22-750513142222"
+        ],
+        "lastUpdate": "2024-05-10T14:14:48",
+        "mediaUuid": null,
+        "subtitle": null,
+        "tag": "plus-collection-link-sheet",
+        "title": null,
+        "uuid": "f9ea651b-25cf-4c81-b5d6-e2a6a5c4e000"
+      },
+      {
+        "description": "<p>Testo descrittivo virtual tour</p>\n",
+        "extraData": null,
+        "items": [
+          "00a6383a-c8c9-4fc6-8c22-750513142111"
+        ],
+        "lastUpdate": "2024-05-10T14:16:18",
+        "mediaUuid": null,
+        "subtitle": "",
+        "tag": "poi-links-entry-sheet",
+        "title": "Virtual Tour",
+        "uuid": "05b1890b-96a7-421b-8c40-dd8b6c102f39"
+      },
+      {
+        "description": null,
+        "extraData": null,
+        "items": [
+          "86a1b1ff-e2e7-4ce0-a5ce-1e807fb28439"
+        ],
+        "lastUpdate": "2024-05-10T14:14:49",
+        "mediaUuid": null,
+        "subtitle": null,
+        "tag": "path-links-entry-sheet",
+        "title": "Virtual Tour",
+        "uuid": "61214b83-a935-48c8-86a8-c774c36e74f7"
+      }
+    ]
+  }
+]

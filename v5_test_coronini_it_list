@@ -1,0 +1,75 @@
+{
+  "mediaFiles": [
+    {
+      "lastUpdate": "2024-05-07T10:13:49",
+      "mimeType": "image/jpeg",
+      "name": "vecteezy_nebulosa-galassia-sfondo-cosmo-nuvole-e-bellissimo-universo_25781776-1.jpg",
+      "size": 3863396,
+      "type": "IMG",
+      "url": "https://testcoronini.virtualcontent.it/wp-content/uploads/2024/05/vecteezy_nebulosa-galassia-sfondo-cosmo-nuvole-e-bellissimo-universo_25781776-1.jpg",
+      "uuid": "52b13867-646d-4437-85dc-59222079621f"
+    }
+  ],
+  "pathCategories": [
+    {
+      "code": "CDD51871-EB70-4F1D-BA3C-561E79F3C05A",
+      "color": "",
+      "description": "",
+      "lastUpdate": "2024-05-10T14:12:25",
+      "mediaUuid": null,
+      "order": 4,
+      "subtitle": "",
+      "tag": "secondary-expanded",
+      "type": "mainPage",
+      "title": "",
+      "uuid": "67abd106-784b-4c99-ba75-03759909b2de"
+    },
+    {
+      "code": "FE6E2813-DA4E-45FF-8147-91EB4789A572",
+      "color": "",
+      "description": "<p>Testo descrittivo della categoria</p>\n",
+      "lastUpdate": "2024-05-10T14:10:19",
+      "mediaUuid": null,
+      "order": 0,
+      "subtitle": "",
+      "tag": "square-expanded",
+      "type": "mainPage",
+      "title": "Guglielmo Coronini",
+      "uuid": "05b00bf8-b7be-49d7-a2ed-2301b73c6505"
+    }
+  ],
+  "paths": [
+    {
+      "categories": [
+        "67abd106-784b-4c99-ba75-03759909b2de"
+      ],
+      "groups": [],
+      "color": null,
+      "description": "<p>Testo descrittivo virtual tour</p>\n",
+      "lastUpdate": "2024-05-10T14:37:17",
+      "mediaUuid": null,
+      "order": 0,
+      "subtitle": "",
+      "tag": "path-links",
+      "totalSize": 0,
+      "title": "Virtual Tour",
+      "uuid": "1c633fcc-5be7-4a08-bf70-39fc1ea58ae6"
+    },
+    {
+      "categories": [
+        "05b00bf8-b7be-49d7-a2ed-2301b73c6505"
+      ],
+      "groups": [],
+      "color": null,
+      "description": "",
+      "lastUpdate": "2024-05-10T14:37:17",
+      "mediaUuid": "52b13867-646d-4437-85dc-59222079621f",
+      "order": 0,
+      "subtitle": "",
+      "tag": "path-main-list",
+      "totalSize": 8814550,
+      "title": "Guglielmo Coronini",
+      "uuid": "16380d9a-ef47-4e6c-b506-978e49b9c822"
+    }
+  ]
+}
