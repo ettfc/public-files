@@ -2289,9 +2289,9 @@
         "type":"mapPathType",
         "value": "none",
         "extraData": null,
-      "objType": ""}
+        "objType": ""
+      }
     ],
-    "templateUuids": ["aaa"],
     "lastUpdate": "2025-02-26T15:10:20",
     "mediaUuid": "X0eGo56",
     "order": 0,
@@ -3802,6 +3802,7 @@
           "83faa6cb-ab88-4cd1-615f-c7f1e87f83bd",
           "f21e46d8-f837-ed06-24a4-ba326d367b25"
         ],
+        "templates": ["aaa"],
         "tag": "path-main-external-entry-sheet",
         "lastUpdate": "2025-02-26T15:10:20",
         "mediaUuid": "X0eGo56",
