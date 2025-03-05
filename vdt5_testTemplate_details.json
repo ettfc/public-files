@@ -2285,9 +2285,10 @@
     "color": "#ff0000",
     "description": null,
     "templateDefinitions": [
-      {"uuid": "aaa",
-        "type":"mapPathType",
-        "value": "none",
+      {
+        "uuid": "aaa",
+        "type":"path-poi-list",
+        "value": "hidden",
         "extraData": null,
         "objType": ""
       }
