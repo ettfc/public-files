@@ -1535,7 +1535,7 @@
     "groups": [],
     "color": null,
     "description": "descrizione Percorso lista",
-    "lastUpdate": "2025-02-18T15:11:09",
+    "lastUpdate": "33333",
     "mediaUuid": null,
     "order": 0,
     "tag": "path-main-list",
@@ -2289,8 +2289,13 @@
         "uuid": "aaa",
         "type":"path-poi-list",
         "value": "hidden",
-        "extraData": null,
-        "objType": ""
+        "extraData": null
+      },
+      {
+        "uuid": "bbb",
+        "type": "path-mapItem-card",
+        "value": "navigate",
+        "extraData": null
       }
     ],
     "lastUpdate": "2025-02-26T15:10:20",
@@ -3901,7 +3906,8 @@
         "poiUuid": "1efe56da-7728-667a-a77d-0242ac14000a",
         "uuid": "1eff44b6-cf66-6506-b65e-0242ac14000c",
         "x": null,
-        "y": null
+        "y": null,
+        "templates": ["bbb"]
       },
       {
         "latitude": null,
