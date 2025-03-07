@@ -2296,6 +2296,12 @@
         "type": "path-mapItem-card",
         "value": "navigate",
         "extraData": null
+      },
+      {
+        "uuid": "ccc",
+        "type": "path-mapItem-card",
+        "value": "hidden",
+        "extraData": null
       }
     ],
     "lastUpdate": "2025-02-26T15:10:20",
@@ -3927,7 +3933,8 @@
         "poiUuid": "1efe56dd-0351-6c08-9f9e-0242ac14000a",
         "uuid": "1eff44b6-cffe-6392-908d-0242ac14000c",
         "x": null,
-        "y": null
+        "y": null,
+        "templates": ["ccc"]
       },
       {
         "latitude": null,
