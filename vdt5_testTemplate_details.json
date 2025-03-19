@@ -2304,7 +2304,7 @@
         "extraData": null
       }
     ],
-    "lastUpdate": "2025-02-26T15:10:20",
+    "lastUpdate": "2025-05:10:20",
     "mediaUuid": "X0eGo56",
     "order": 0,
     "tag": "path-main-external",
@@ -3935,7 +3935,7 @@
         "uuid": "1eff44b6-cffe-6392-908d-0242ac14000c",
         "x": null,
         "y": null,
-        "templates": ["ccc"]
+        "templates": ["bbb"]
       },
       {
         "latitude": null,
