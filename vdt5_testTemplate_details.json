@@ -3924,6 +3924,7 @@
         "uuid": "1eff44b6-cffc-6614-becc-0242ac14000c",
         "x": 100,
         "y": 100
+        "templates": ["bbb"]
       },
       {
         "latitude": 44.425203,
