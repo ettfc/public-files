@@ -3900,6 +3900,7 @@
         "tag": "map-image",
         "title": "Campomorone",
         "uuid": "1efe9fd8-d2ee-6bd4-a06b-0242ac14000c",
+        "backgroundColor" : "#ff1d1e",
         "width": 913
       }
     ],
