@@ -3900,6 +3900,7 @@
         "tag": "map-image",
         "title": "Campomorone",
         "uuid": "1efe9fd8-d2ee-6bd4-a06b-0242ac14000c",
+        "backgroundColor" : "#ff1d1e",
         "width": 913
       }
     ],
@@ -11266,7 +11267,7 @@
         "title": "Mappa interna",
         "uuid": "1ef96cc6-5d6e-64a8-8d5d-0242ac14000a",
         "width": 1984,
-        "backgroundColor": "#000000"
+        "backgroundColor": "#B41D1E"
       }
     ],
     "mapItems": [
