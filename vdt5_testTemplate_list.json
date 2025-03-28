@@ -175,8 +175,8 @@
       "description": null,
       "lastUpdate": "2025-03-12T15:04:33",
       "mediaUuid": null,
-      "order": 2,
-      "tag": "path-intro",
+      "order": 0,
+      "tag": "path-target-intro",
       "totalSize": 11002523,
       "poiCategories": []
     },
@@ -192,8 +192,8 @@
       "description": null,
       "lastUpdate": "2025-03-12T15:04:33",
       "mediaUuid": null,
-      "order": 3,
-      "tag": "path-intro",
+      "order": 1,
+      "tag": "path-target-intro",
       "totalSize": 11002523,
       "poiCategories": []
     },
