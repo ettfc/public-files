@@ -1,0 +1,638 @@
+{
+  "mediaFiles": [
+    {
+      "lastUpdate": "2024-12-16 15:50:07",
+      "mimeType": "image\/jpeg",
+      "name": "collezione_dipinti.jpg",
+      "size": 234251,
+      "type": "IMG",
+      "url": "https:\/\/dev-coronini-bo.devworkbench.it\/dam\/mie\/media\/X0eGo56\/original.jpg",
+      "altText": "",
+      "uuid": "X0eGo56"
+    },
+    {
+      "lastUpdate": "2024-11-12 17:27:40",
+      "mimeType": "image\/png",
+      "name": "image-lorem-ipsum.png",
+      "size": 18136,
+      "type": "IMG",
+      "url": "https:\/\/dev-coronini-bo.devworkbench.it\/dam\/mie\/media\/Lg8nP1O\/original.png",
+      "altText": "",
+      "uuid": "Lg8nP1O"
+    },
+    {
+      "lastUpdate": "2024-10-16 15:58:36",
+      "mimeType": "image\/png",
+      "name": "Icona-Store-BR.png",
+      "size": 18449,
+      "type": "IMG",
+      "url": "https:\/\/dev-coronini-bo.devworkbench.it\/dam\/mie\/media\/bW1NY5K\/original.png",
+      "altText": "",
+      "uuid": "bW1NY5K"
+    },
+    {
+      "lastUpdate": "2024-10-16 15:46:29",
+      "mimeType": "image\/png",
+      "name": "6994770.png",
+      "size": 22310,
+      "type": "IMG",
+      "url": "https:\/\/dev-coronini-bo.devworkbench.it\/dam\/mie\/media\/Wg8YJ57\/original.png",
+      "altText": "",
+      "uuid": "Wg8YJ57"
+    }
+  ],
+  "pathCategories": [
+    {
+      "uuid": "1ef96d23-2f4a-6f24-9809-0242ac14000a",
+      "title": "Guglielmo Coronini",
+      "subtitle": null,
+      "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+      "color": "",
+      "type": "mainPage",
+      "tag": "square-expanded",
+      "order": 0,
+      "mediaUuid": null,
+      "lastUpdate": "2024-12-10T11:08:52",
+      "parentCategories": null
+    },
+    {
+      "uuid": "3eadaa71-99db-0341-35bf-5d01516f3238",
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "color": "",
+      "type": "group",
+      "tag": "online",
+      "order": 0,
+      "mediaUuid": null,
+      "lastUpdate": "2024-12-10T11:08:52",
+      "parentCategories": null
+    },
+    {
+      "uuid": "1ef96d27-eab0-6b52-a28c-0242ac14000a",
+      "title": "Itinerario Tradizionale",
+      "subtitle": null,
+      "description": null,
+      "color": "",
+      "type": "mainPage",
+      "tag": "preview",
+      "order": 1,
+      "mediaUuid": null,
+      "lastUpdate": "2025-02-07T17:20:02",
+      "parentCategories": null
+    },
+    {
+      "uuid": "1ef96d25-239a-6e34-b090-0242ac14000a",
+      "title": "Itinerario Bambini",
+      "subtitle": null,
+      "description": null,
+      "color": "#396064",
+      "type": "mainPage",
+      "tag": "preview",
+      "order": 2,
+      "mediaUuid": null,
+      "lastUpdate": "2024-11-26T14:08:16",
+      "parentCategories": null
+    },
+    {
+      "uuid": "1ef96d37-c327-6e86-8c78-0242ac14000a",
+      "title": null,
+      "subtitle": null,
+      "description": null,
+      "color": "",
+      "type": "mainPage",
+      "tag": "secondary-expanded",
+      "order": 3,
+      "mediaUuid": null,
+      "lastUpdate": "2024-11-28T10:50:47",
+      "parentCategories": null
+    }
+  ],
+  "paths": [
+    {
+      "uuid": "1ef8b020-705a-6dfe-878a-0242ac14000a",
+      "title": "Intro",
+      "subtitle": null,
+      "categories": [],
+      "groups": [],
+      "color": null,
+      "description": null,
+      "lastUpdate": "2025-03-12T15:04:33",
+      "mediaUuid": null,
+      "order": 0,
+      "tag": "path-intro",
+      "totalSize": 11002523,
+      "poiCategories": []
+    },
+    {
+      "uuid": "1ef8b020-705a-6dfe-964a-0242ac14000a",
+      "title": "Intro 2",
+      "subtitle": null,
+      "categories": [],
+      "groups": [],
+      "color": null,
+      "description": null,
+      "lastUpdate": "2025-03-12T15:04:33",
+      "mediaUuid": null,
+      "order": 0,
+      "tag": "path-intro",
+      "totalSize": 11002523,
+      "poiCategories": []
+    },
+    {
+      "uuid": "1ef8b021-1054-686e-ae1f-0242ac14000a",
+      "title": "Crediti",
+      "subtitle": null,
+      "categories": [],
+      "groups": [],
+      "color": null,
+      "description": null,
+      "lastUpdate": "2025-02-12T15:29:53",
+      "mediaUuid": null,
+      "order": 3,
+      "tag": "path-credits",
+      "totalSize": 30799225,
+      "poiCategories": []
+    },
+    {
+      "uuid": "1ef96d29-dd85-68ae-b54e-0242ac14000a",
+      "title": "Percorso lista",
+      "subtitle": "sottotitolo Percorso lista",
+      "categories": [
+        "1ef96d23-2f4a-6f24-9809-0242ac14000a",
+        "3eadaa71-99db-0341-35bf-5d01516f3238"
+      ],
+      "groups": [],
+      "color": "#ff0000",
+      "description": "descrizione Percorso lista",
+      "lastUpdate": "2025-03-03T15:15:26",
+      "mediaUuid": null,
+      "order": 0,
+      "tag": "path-main-list",
+      "totalSize": 7215590,
+      "poiCategories": [
+        {
+          "uuid": "1efea11a-3400-648a-8a01-0242ac14000c",
+          "title": "Categoria Test",
+          "subtitle": "",
+          "description": "",
+          "color": "#396064",
+          "order": 0,
+          "tag": "",
+          "mediaUuid": "Wg8YJ57",
+          "lastUpdate": "2025-02-18T15:11:09"
+        }
+      ],
+      "vrs": [
+        {
+          "uuid": "d678b552-33d6-fb11-410a-151acb344b84",
+          "title": null,
+          "subtitle": null,
+          "description": null,
+          "frameType": "degree360",
+          "layout3d": "none",
+          "mappingLayout": "latitudeLongitude",
+          "mediaType": "IMG360",
+          "mode": "swipe",
+          "rotation": 0,
+          "lastUpdate": "2025-02-11T15:38:17",
+          "mediaUuid": "X0eGo56"
+        }
+      ]
+    },
+    {
+      "uuid": "1efe56d9-002e-6d54-83cb-0242ac14000a",
+      "title": "Percorso esterno Test Sestri",
+      "subtitle": null,
+      "categories": [
+        "1ef96d27-eab0-6b52-a28c-0242ac14000a",
+        "3eadaa71-99db-0341-35bf-5d01516f3238"
+      ],
+      "groups": [],
+      "color": "#ff0000",
+      "description": null,
+      "lastUpdate": "2025-03-13T10:18:55",
+      "mediaUuid": "X0eGo56",
+      "order": 0,
+      "tag": "path-main-external",
+      "totalSize": 9475906,
+      "vrs": [
+        {
+          "uuid": "70635a05-abea-27f1-d1db-d8397f6a2b5d",
+          "title": null,
+          "subtitle": null,
+          "description": null,
+          "frameType": "degree360",
+          "layout3d": "none",
+          "mappingLayout": "latitudeLongitude",
+          "mediaType": "IMG360",
+          "mode": "swipe",
+          "rotation": 0,
+          "lastUpdate": "2025-02-12T15:16:31",
+          "mediaUuid": "W1N6v1K"
+        }
+      ],
+      "ars": [
+        {
+          "uuid": "44e5784b-ccf0-a47e-17ce-9ea819686564",
+          "title": null,
+          "subtitle": null,
+          "description": null,
+          "modelLabel": "Tempietto",
+          "catalogName": "catalog_0.1.bin",
+          "addressablesPath": "https:\/\/dev-coronini-bo.devworkbench.it\/dam\/mie\/media\/q8wLJ5y\/original.zip\/dam67cebf884e3231.01012308-Coronini.ar",
+          "lastUpdate": "2025-03-13T10:18:55"
+        }
+      ],
+      "poiCategories": [
+        {
+          "uuid": "1efea11a-3400-648a-8a01-0242ac14000c",
+          "title": "Categoria Test",
+          "subtitle": "",
+          "description": "",
+          "color": "#396064",
+          "order": 0,
+          "tag": "",
+          "mediaUuid": "Wg8YJ57",
+          "lastUpdate": "2025-02-18T15:11:09"
+        }
+      ],
+      "gps": [
+        {
+          "lastUpdate": "2025-02-07T17:23:43",
+          "latitude": 44.425203,
+          "longitude": 8.849408,
+          "radius": 10,
+          "uuid": "1efe56d4-03d0-628c-8960-0242ac14000a"
+        },
+        {
+          "lastUpdate": "2025-02-07T17:22:52",
+          "latitude": 44.427237,
+          "longitude": 8.844354,
+          "radius": 10,
+          "uuid": "1efe56cd-922d-68a6-8b43-0242ac14000a"
+        },
+        {
+          "lastUpdate": "2025-02-07T17:22:30",
+          "latitude": 44.42358,
+          "longitude": 8.863025,
+          "radius": 10,
+          "uuid": "1efe56d6-8a9d-61d2-83aa-0242ac14000a"
+        },
+        {
+          "lastUpdate": "2025-02-07T17:22:52",
+          "latitude": 44.430506,
+          "longitude": 8.850917,
+          "radius": 10,
+          "uuid": "1efe56e5-cccc-6544-b160-0242ac14000a"
+        }
+      ]
+    },
+    {
+      "uuid": "1ef9ddd1-bcee-61e0-b451-0242ac14000a",
+      "title": "Percorso esterno aggiornato",
+      "subtitle": null,
+      "categories": [
+        "1ef96d27-eab0-6b52-a28c-0242ac14000a",
+        "3eadaa71-99db-0341-35bf-5d01516f3238"
+      ],
+      "groups": [],
+      "color": null,
+      "description": null,
+      "lastUpdate": "2025-02-07T17:20:02",
+      "mediaUuid": null,
+      "order": 1,
+      "tag": "path-main-external",
+      "totalSize": 21881097,
+      "beacons": [
+        {
+          "lastUpdate": "2025-01-13T18:02:20",
+          "major": 1,
+          "minor": 10,
+          "name": "Beacon esempio",
+          "proximityUuid": "64523822-c727-b9dd-0028-e7f574bc65a0",
+          "radius": 20,
+          "uuid": "1efae336-8ba2-6b48-bdd3-0242ac14000a"
+        },
+        {
+          "lastUpdate": "2025-01-14T12:42:15",
+          "major": 1,
+          "minor": 2,
+          "name": null,
+          "proximityUuid": "64523822-c727-b9dd-0028-e7f574bc65a0",
+          "radius": 20,
+          "uuid": "1efb7c51-8f2b-6bfc-aaff-0242ac14000b"
+        }
+      ],
+      "gps": [
+        {
+          "lastUpdate": "2025-01-13T18:02:20",
+          "latitude": 44.4205594,
+          "longitude": 8.850716,
+          "radius": 500,
+          "uuid": "1efae339-1c2c-622a-a01e-0242ac14000a"
+        }
+      ],
+      "poiCategories": []
+    },
+    {
+      "uuid": "1ef96d2c-b4a7-63c6-84b9-0242ac14000a",
+      "title": "Palazzo",
+      "subtitle": "sottotitolo",
+      "categories": [
+        "1ef96d27-eab0-6b52-a28c-0242ac14000a",
+        "3eadaa71-99db-0341-35bf-5d01516f3238"
+      ],
+      "groups": [],
+      "color": "#ff0000",
+      "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.",
+      "lastUpdate": "2025-03-13T10:18:39",
+      "mediaUuid": "Lg8nP1O",
+      "order": 2,
+      "tag": "path-main-internal",
+      "totalSize": 27253301,
+      "ars": [
+        {
+          "uuid": "20e5bdad-f20c-9f36-66e0-d047d36d3998",
+          "title": null,
+          "subtitle": null,
+          "description": null,
+          "modelLabel": "Calice",
+          "catalogName": "catalog_0.1.bin",
+          "addressablesPath": "https:\/\/dev-coronini-bo.devworkbench.it\/dam\/mie\/media\/q8wLJ5y\/original.zip\/dam67cebf884e3231.01012308-Coronini.ar",
+          "lastUpdate": "2025-03-13T10:18:26"
+        },
+        {
+          "uuid": "def0e2be-4d02-2154-4c74-693d1edd22ed",
+          "title": "Cane",
+          "subtitle": null,
+          "description": null,
+          "modelLabel": "CaliceCane",
+          "catalogName": "catalog_0.1.bin",
+          "addressablesPath": "https:\/\/dev-coronini-bo.devworkbench.it\/dam\/mie\/media\/q8wLJ5y\/original.zip\/dam67cebf884e3231.01012308-Coronini.ar",
+          "lastUpdate": "2025-03-13T10:18:39"
+        }
+      ],
+      "poiCategories": [],
+      "beacons": [
+        {
+          "lastUpdate": "2025-03-13T10:18:39",
+          "major": 1,
+          "minor": 11,
+          "name": "Beacon esempio 2",
+          "proximityUuid": "64523822-c727-b9dd-0028-e7f574bc65a0",
+          "radius": 20,
+          "uuid": "1efae337-dde1-6336-84eb-0242ac14000a"
+        },
+        {
+          "lastUpdate": "2025-02-14T11:10:11",
+          "major": 1,
+          "minor": 1,
+          "name": null,
+          "proximityUuid": "C20B6FDF-1A04-9049-2050-1EB75B44DE3F",
+          "radius": 10,
+          "uuid": "1efd8d92-73de-6a6c-be6b-0242ac14000a"
+        }
+      ],
+      "gps": [
+        {
+          "lastUpdate": "2025-03-13T10:18:39",
+          "latitude": 44.4205594,
+          "longitude": 8.850716,
+          "radius": 500,
+          "uuid": "1efae339-1c2c-622a-a01e-0242ac14000a"
+        },
+        {
+          "lastUpdate": "2025-02-04T12:57:51",
+          "latitude": 44.421699488824956,
+          "longitude": 8.855145753983537,
+          "radius": 100,
+          "uuid": "1efe2edc-a799-64c4-be1c-0242ac14000a"
+        }
+      ],
+      "qrCodes": [
+        {
+          "lastUpdate": "2025-03-13T10:18:39",
+          "scanInfo": "test",
+          "uuid": "1efae33a-5d9e-6482-b5f9-0242ac14000a"
+        }
+      ]
+    },
+    {
+      "uuid": "1ef96d31-30b6-6864-b022-0242ac14000a",
+      "title": "Parco Castagnevizza",
+      "subtitle": null,
+      "categories": [
+        "1ef96d27-eab0-6b52-a28c-0242ac14000a",
+        "3eadaa71-99db-0341-35bf-5d01516f3238"
+      ],
+      "groups": [],
+      "color": null,
+      "description": null,
+      "lastUpdate": "2025-03-13T10:18:39",
+      "mediaUuid": "Lg8nP1O",
+      "order": 3,
+      "tag": "path-main-external",
+      "totalSize": 14417943,
+      "beacons": [
+        {
+          "lastUpdate": "2025-01-13T18:02:20",
+          "major": 1,
+          "minor": 10,
+          "name": "Beacon esempio",
+          "proximityUuid": "64523822-c727-b9dd-0028-e7f574bc65a0",
+          "radius": 20,
+          "uuid": "1efae336-8ba2-6b48-bdd3-0242ac14000a"
+        },
+        {
+          "lastUpdate": "2025-03-13T10:18:39",
+          "major": 1,
+          "minor": 11,
+          "name": "Beacon esempio 2",
+          "proximityUuid": "64523822-c727-b9dd-0028-e7f574bc65a0",
+          "radius": 20,
+          "uuid": "1efae337-dde1-6336-84eb-0242ac14000a"
+        }
+      ],
+      "gps": [
+        {
+          "lastUpdate": "2025-03-13T10:18:39",
+          "latitude": 44.4205594,
+          "longitude": 8.850716,
+          "radius": 500,
+          "uuid": "1efae339-1c2c-622a-a01e-0242ac14000a"
+        }
+      ],
+      "poiCategories": [],
+      "ars": [
+        {
+          "uuid": "def0e2be-4d02-2154-4c74-693d1edd22ed",
+          "title": "Cane",
+          "subtitle": null,
+          "description": null,
+          "modelLabel": "CaliceCane",
+          "catalogName": "catalog_0.1.bin",
+          "addressablesPath": "https:\/\/dev-coronini-bo.devworkbench.it\/dam\/mie\/media\/q8wLJ5y\/original.zip\/dam67cebf884e3231.01012308-Coronini.ar",
+          "lastUpdate": "2025-03-13T10:18:39"
+        }
+      ],
+      "qrCodes": [
+        {
+          "lastUpdate": "2025-03-13T10:18:39",
+          "scanInfo": "test",
+          "uuid": "1efae33a-5d9e-6482-b5f9-0242ac14000a"
+        }
+      ]
+    },
+    {
+      "uuid": "1efd96a7-8353-604c-ab07-0242ac14000a",
+      "title": "Test Attivatori",
+      "subtitle": null,
+      "categories": [
+        "1ef96d27-eab0-6b52-a28c-0242ac14000a",
+        "3eadaa71-99db-0341-35bf-5d01516f3238"
+      ],
+      "groups": [],
+      "color": "#ff0000",
+      "description": "Percorso test attivatori",
+      "lastUpdate": "2025-02-14T11:10:11",
+      "mediaUuid": "Lg8nP1O",
+      "order": 4,
+      "tag": "path-main-internal",
+      "totalSize": 439575,
+      "beacons": [
+        {
+          "lastUpdate": "2025-02-14T11:10:11",
+          "major": 1,
+          "minor": 1,
+          "name": null,
+          "proximityUuid": "C20B6FDF-1A04-9049-2050-1EB75B44DE3F",
+          "radius": 10,
+          "uuid": "1efd8d92-73de-6a6c-be6b-0242ac14000a"
+        }
+      ],
+      "gps": [
+        {
+          "lastUpdate": "2025-02-14T11:10:11",
+          "latitude": 44.421699488824956,
+          "longitude": 8.855145753983537,
+          "radius": 100,
+          "uuid": "1efe2edc-a799-64c4-be1c-0242ac14000a"
+        }
+      ],
+      "poiCategories": []
+    },
+    {
+      "uuid": "1efd9a96-f3f3-6d36-ac07-0242ac14000a",
+      "title": "Test Attivatori Esterno",
+      "subtitle": null,
+      "categories": [
+        "1ef96d27-eab0-6b52-a28c-0242ac14000a",
+        "3eadaa71-99db-0341-35bf-5d01516f3238"
+      ],
+      "groups": [],
+      "color": "#ff0000",
+      "description": null,
+      "lastUpdate": "2025-02-14T11:10:11",
+      "mediaUuid": "bW1NY5K",
+      "order": 5,
+      "tag": "path-main-external",
+      "totalSize": 421439,
+      "beacons": [
+        {
+          "lastUpdate": "2025-02-14T11:10:11",
+          "major": 1,
+          "minor": 1,
+          "name": null,
+          "proximityUuid": "C20B6FDF-1A04-9049-2050-1EB75B44DE3F",
+          "radius": 10,
+          "uuid": "1efd8d92-73de-6a6c-be6b-0242ac14000a"
+        }
+      ],
+      "gps": [
+        {
+          "lastUpdate": "2025-02-14T11:10:11",
+          "latitude": 44.421699488824956,
+          "longitude": 8.855145753983537,
+          "radius": 100,
+          "uuid": "1efe2edc-a799-64c4-be1c-0242ac14000a"
+        }
+      ],
+      "poiCategories": []
+    },
+    {
+      "uuid": "1ef96d34-6798-6776-af30-0242ac14000a",
+      "title": "Palazzo (bambini)",
+      "subtitle": null,
+      "categories": [
+        "1ef96d25-239a-6e34-b090-0242ac14000a",
+        "3eadaa71-99db-0341-35bf-5d01516f3238"
+      ],
+      "groups": [],
+      "color": null,
+      "description": null,
+      "lastUpdate": "2024-12-04T15:24:24",
+      "mediaUuid": "Lg8nP1O",
+      "order": 0,
+      "tag": "path-main-internal",
+      "totalSize": 372440,
+      "poiCategories": []
+    },
+    {
+      "uuid": "1ef96d32-c976-6cb0-82db-0242ac14000a",
+      "title": "Parco (bambini)",
+      "subtitle": null,
+      "categories": [
+        "1ef96d25-239a-6e34-b090-0242ac14000a",
+        "3eadaa71-99db-0341-35bf-5d01516f3238"
+      ],
+      "groups": [],
+      "color": null,
+      "description": "descrizione Parco (bambini)",
+      "lastUpdate": "2025-01-13T18:02:20",
+      "mediaUuid": "Lg8nP1O",
+      "order": 1,
+      "tag": "path-main-external",
+      "totalSize": 14063639,
+      "beacons": [
+        {
+          "lastUpdate": "2025-01-13T18:02:20",
+          "major": 1,
+          "minor": 10,
+          "name": "Beacon esempio",
+          "proximityUuid": "64523822-c727-b9dd-0028-e7f574bc65a0",
+          "radius": 20,
+          "uuid": "1efae336-8ba2-6b48-bdd3-0242ac14000a"
+        }
+      ],
+      "gps": [
+        {
+          "lastUpdate": "2025-01-13T18:02:20",
+          "latitude": 44.4205594,
+          "longitude": 8.850716,
+          "radius": 500,
+          "uuid": "1efae339-1c2c-622a-a01e-0242ac14000a"
+        }
+      ],
+      "poiCategories": []
+    },
+    {
+      "uuid": "1efad6d5-a4bb-61b0-9b2a-0242ac14000a",
+      "title": "Virtual Tour",
+      "subtitle": null,
+      "categories": [
+        "1ef96d37-c327-6e86-8c78-0242ac14000a",
+        "3eadaa71-99db-0341-35bf-5d01516f3238"
+      ],
+      "groups": [],
+      "color": null,
+      "description": "Intro percorsoipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia.",
+      "lastUpdate": "2024-11-28T11:06:19",
+      "mediaUuid": "Wg8YJ57",
+      "order": 0,
+      "tag": "path-main-list",
+      "totalSize": 22310,
+      "poiCategories": []
+    }
+  ]
+}
