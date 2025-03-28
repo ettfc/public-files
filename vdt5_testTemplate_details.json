@@ -1167,7 +1167,9 @@
     "uuid": "it1-1ef8b020-705a-6dfe-964a-0242ac14000a",
     "title": "Intro Target 1",
     "subtitle": null,
-    "categories": [],
+    "categories": [
+      "cat-target-b"
+    ],
     "groups": [],
     "color": null,
     "description": null,
@@ -1740,7 +1742,20 @@
         "extraData": null
       }
     ],
-    "pathCategories": [],
+    "pathCategories": [
+      {
+        "color": "",
+        "description": "Un secondo target",
+        "lastUpdate": "2024-01-12T09:03:28",
+        "mediaUuid": null,
+        "order": 1,
+        "subtitle": "",
+        "tag": "target-b",
+        "type": "target",
+        "title": "Target B",
+        "uuid": "cat-target-b"
+      }
+    ],
     "maps": [],
     "mapItems": [],
     "poiCategories": []
@@ -1749,7 +1764,9 @@
     "uuid": "it2-1ef8b020-705a-6dfe-964a-0242ac14000a",
     "title": "Intro Target 2",
     "subtitle": null,
-    "categories": [],
+    "categories": [
+      "cat-target-b"
+    ],
     "groups": [],
     "color": null,
     "description": null,
@@ -2322,7 +2339,20 @@
         "extraData": null
       }
     ],
-    "pathCategories": [],
+    "pathCategories": [
+      {
+        "color": "",
+        "description": "Un secondo target",
+        "lastUpdate": "2024-01-12T09:03:28",
+        "mediaUuid": null,
+        "order": 1,
+        "subtitle": "",
+        "tag": "target-b",
+        "type": "target",
+        "title": "Target B",
+        "uuid": "cat-target-b"
+      }
+    ],
     "maps": [],
     "mapItems": [],
     "poiCategories": []
@@ -3276,7 +3306,8 @@
     "subtitle": "sottotitolo Percorso lista",
     "categories": [
       "1ef96d23-2f4a-6f24-9809-0242ac14000a",
-      "3eadaa71-99db-0341-35bf-5d01516f3238"
+      "3eadaa71-99db-0341-35bf-5d01516f3238",
+      "cat-target-b"
     ],
     "groups": [],
     "color": null,
@@ -3961,6 +3992,18 @@
     ],
     "pathCategories": [
       {
+        "color": "",
+        "description": "Un secondo target",
+        "lastUpdate": "2024-01-12T09:03:28",
+        "mediaUuid": null,
+        "order": 1,
+        "subtitle": "",
+        "tag": "target-b",
+        "type": "target",
+        "title": "Target B",
+        "uuid": "cat-target-b"
+      },
+      {
         "uuid": "1ef96d23-2f4a-6f24-9809-0242ac14000a",
         "title": "Guglielmo Coronini",
         "subtitle": null,
@@ -4025,7 +4068,8 @@
     "subtitle": null,
     "categories": [
       "1ef96d27-eab0-6b52-a28c-0242ac14000a",
-      "3eadaa71-99db-0341-35bf-5d01516f3238"
+      "3eadaa71-99db-0341-35bf-5d01516f3238",
+      "cat-target-b"
     ],
     "groups": [],
     "color": "#ff0000",
@@ -4033,7 +4077,7 @@
     "templateDefinitions": [
       {
         "uuid": "aaa",
-        "type":"path-poi-list",
+        "type": "path-poi-list",
         "value": "hidden",
         "extraData": null
       },
@@ -5560,7 +5604,9 @@
           "83faa6cb-ab88-4cd1-615f-c7f1e87f83bd",
           "f21e46d8-f837-ed06-24a4-ba326d367b25"
         ],
-        "templates": ["aaa"],
+        "templates": [
+          "aaa"
+        ],
         "tag": "path-main-external-entry-sheet",
         "lastUpdate": "2025-02-26T15:10:20",
         "mediaUuid": "X0eGo56",
@@ -5568,6 +5614,18 @@
       }
     ],
     "pathCategories": [
+      {
+        "color": "",
+        "description": "Un secondo target",
+        "lastUpdate": "2024-01-12T09:03:28",
+        "mediaUuid": null,
+        "order": 1,
+        "subtitle": "",
+        "tag": "target-b",
+        "type": "target",
+        "title": "Target B",
+        "uuid": "cat-target-b"
+      },
       {
         "uuid": "1ef96d27-eab0-6b52-a28c-0242ac14000a",
         "title": "Itinerario Tradizionale",
@@ -5646,7 +5704,7 @@
         "tag": "map-image",
         "title": "Campomorone",
         "uuid": "1efe9fd8-d2ee-6bd4-a06b-0242ac14000c",
-        "backgroundColor" : "#ff1d1e",
+        "backgroundColor": "#ff1d1e",
         "width": 913
       }
     ],
@@ -5660,7 +5718,9 @@
         "uuid": "1eff44b6-cf66-6506-b65e-0242ac14000c",
         "x": null,
         "y": null,
-        "templates": ["bbb"]
+        "templates": [
+          "bbb"
+        ]
       },
       {
         "latitude": null,
@@ -5671,7 +5731,9 @@
         "uuid": "1eff44b6-cffc-6614-becc-0242ac14000c",
         "x": 100,
         "y": 100,
-        "templates": ["bbb"]
+        "templates": [
+          "bbb"
+        ]
       },
       {
         "latitude": 44.425203,
@@ -5682,7 +5744,9 @@
         "uuid": "1eff44b6-cffe-6392-908d-0242ac14000c",
         "x": null,
         "y": null,
-        "templates": ["bbb"]
+        "templates": [
+          "bbb"
+        ]
       },
       {
         "latitude": null,
@@ -5821,7 +5885,8 @@
     "subtitle": null,
     "categories": [
       "1ef96d27-eab0-6b52-a28c-0242ac14000a",
-      "3eadaa71-99db-0341-35bf-5d01516f3238"
+      "3eadaa71-99db-0341-35bf-5d01516f3238",
+      "cat-target-a"
     ],
     "groups": [],
     "color": null,
@@ -9063,6 +9128,18 @@
       }
     ],
     "pathCategories": [
+      {
+        "color": "",
+        "description": "Un primo target",
+        "lastUpdate": "2024-01-12T09:03:28",
+        "mediaUuid": null,
+        "order": 0,
+        "subtitle": "",
+        "tag": "target-a",
+        "type": "target",
+        "title": "Target A",
+        "uuid": "cat-target-a"
+      },
       {
         "uuid": "1ef96d27-eab0-6b52-a28c-0242ac14000a",
         "title": "Itinerario Tradizionale",

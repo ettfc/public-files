@@ -106,6 +106,30 @@
       "mediaUuid": null,
       "lastUpdate": "2024-11-28T10:50:47",
       "parentCategories": null
+    },
+    {
+      "color": "",
+      "description": "Un primo target",
+      "lastUpdate": "2024-01-12T09:03:28",
+      "mediaUuid": null,
+      "order": 0,
+      "subtitle": "",
+      "tag": "target-a",
+      "type": "target",
+      "title": "Target A",
+      "uuid": "cat-target-a"
+    },
+    {
+      "color": "",
+      "description": "Un secondo target",
+      "lastUpdate": "2024-01-12T09:03:28",
+      "mediaUuid": null,
+      "order": 1,
+      "subtitle": "",
+      "tag": "target-b",
+      "type": "target",
+      "title": "Target B",
+      "uuid": "cat-target-b"
     }
   ],
   "paths": [
@@ -143,7 +167,9 @@
       "uuid": "it1-1ef8b020-705a-6dfe-964a-0242ac14000a",
       "title": "Intro Target 1",
       "subtitle": null,
-      "categories": [],
+      "categories": [
+        "cat-target-b"
+      ],
       "groups": [],
       "color": null,
       "description": null,
@@ -158,7 +184,9 @@
       "uuid": "it2-1ef8b020-705a-6dfe-964a-0242ac14000a",
       "title": "Intro Target 2",
       "subtitle": null,
-      "categories": [],
+      "categories": [
+        "cat-target-b"
+      ],
       "groups": [],
       "color": null,
       "description": null,
@@ -190,7 +218,8 @@
       "subtitle": "sottotitolo Percorso lista",
       "categories": [
         "1ef96d23-2f4a-6f24-9809-0242ac14000a",
-        "3eadaa71-99db-0341-35bf-5d01516f3238"
+        "3eadaa71-99db-0341-35bf-5d01516f3238",
+        "cat-target-b"
       ],
       "groups": [],
       "color": "#ff0000",
@@ -212,22 +241,6 @@
           "mediaUuid": "Wg8YJ57",
           "lastUpdate": "2025-02-18T15:11:09"
         }
-      ],
-      "vrs": [
-        {
-          "uuid": "d678b552-33d6-fb11-410a-151acb344b84",
-          "title": null,
-          "subtitle": null,
-          "description": null,
-          "frameType": "degree360",
-          "layout3d": "none",
-          "mappingLayout": "latitudeLongitude",
-          "mediaType": "IMG360",
-          "mode": "swipe",
-          "rotation": 0,
-          "lastUpdate": "2025-02-11T15:38:17",
-          "mediaUuid": "X0eGo56"
-        }
       ]
     },
     {
@@ -236,7 +249,8 @@
       "subtitle": null,
       "categories": [
         "1ef96d27-eab0-6b52-a28c-0242ac14000a",
-        "3eadaa71-99db-0341-35bf-5d01516f3238"
+        "3eadaa71-99db-0341-35bf-5d01516f3238",
+        "cat-target-b"
       ],
       "groups": [],
       "color": "#ff0000",
@@ -246,34 +260,6 @@
       "order": 0,
       "tag": "path-main-external",
       "totalSize": 9475906,
-      "vrs": [
-        {
-          "uuid": "70635a05-abea-27f1-d1db-d8397f6a2b5d",
-          "title": null,
-          "subtitle": null,
-          "description": null,
-          "frameType": "degree360",
-          "layout3d": "none",
-          "mappingLayout": "latitudeLongitude",
-          "mediaType": "IMG360",
-          "mode": "swipe",
-          "rotation": 0,
-          "lastUpdate": "2025-02-12T15:16:31",
-          "mediaUuid": "W1N6v1K"
-        }
-      ],
-      "ars": [
-        {
-          "uuid": "44e5784b-ccf0-a47e-17ce-9ea819686564",
-          "title": null,
-          "subtitle": null,
-          "description": null,
-          "modelLabel": "Tempietto",
-          "catalogName": "catalog_0.1.bin",
-          "addressablesPath": "https:\/\/dev-coronini-bo.devworkbench.it\/dam\/mie\/media\/q8wLJ5y\/original.zip\/dam67cebf884e3231.01012308-Coronini.ar",
-          "lastUpdate": "2025-03-13T10:18:55"
-        }
-      ],
       "poiCategories": [
         {
           "uuid": "1efea11a-3400-648a-8a01-0242ac14000c",
@@ -286,36 +272,6 @@
           "mediaUuid": "Wg8YJ57",
           "lastUpdate": "2025-02-18T15:11:09"
         }
-      ],
-      "gps": [
-        {
-          "lastUpdate": "2025-02-07T17:23:43",
-          "latitude": 44.425203,
-          "longitude": 8.849408,
-          "radius": 10,
-          "uuid": "1efe56d4-03d0-628c-8960-0242ac14000a"
-        },
-        {
-          "lastUpdate": "2025-02-07T17:22:52",
-          "latitude": 44.427237,
-          "longitude": 8.844354,
-          "radius": 10,
-          "uuid": "1efe56cd-922d-68a6-8b43-0242ac14000a"
-        },
-        {
-          "lastUpdate": "2025-02-07T17:22:30",
-          "latitude": 44.42358,
-          "longitude": 8.863025,
-          "radius": 10,
-          "uuid": "1efe56d6-8a9d-61d2-83aa-0242ac14000a"
-        },
-        {
-          "lastUpdate": "2025-02-07T17:22:52",
-          "latitude": 44.430506,
-          "longitude": 8.850917,
-          "radius": 10,
-          "uuid": "1efe56e5-cccc-6544-b160-0242ac14000a"
-        }
       ]
     },
     {
@@ -324,7 +280,8 @@
       "subtitle": null,
       "categories": [
         "1ef96d27-eab0-6b52-a28c-0242ac14000a",
-        "3eadaa71-99db-0341-35bf-5d01516f3238"
+        "3eadaa71-99db-0341-35bf-5d01516f3238",
+        "cat-target-a"
       ],
       "groups": [],
       "color": null,
