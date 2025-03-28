@@ -53,7 +53,9 @@
       "order": 0,
       "mediaUuid": null,
       "lastUpdate": "2024-12-10T11:08:52",
-      "parentCategories": null
+      "parentCategories": [
+        "cat-target-b"
+      ]
     },
     {
       "uuid": "3eadaa71-99db-0341-35bf-5d01516f3238",
@@ -79,7 +81,10 @@
       "order": 1,
       "mediaUuid": null,
       "lastUpdate": "2025-02-07T17:20:02",
-      "parentCategories": null
+      "parentCategories": [
+        "cat-target-a",
+        "cat-target-b"
+      ]
     },
     {
       "uuid": "1ef96d25-239a-6e34-b090-0242ac14000a",
