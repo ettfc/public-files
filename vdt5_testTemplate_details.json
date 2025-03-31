@@ -2369,8 +2369,8 @@
     "description": null,
     "lastUpdate": "2025-01-10T15:24:31",
     "mediaUuid": null,
-    "order": 1,
-    "tag": "path-target-intro",
+    "order": 0,
+    "tag": "path-extra",
     "totalSize": 11002523,
     "galleries": [
       {
@@ -2966,8 +2966,8 @@
     "description": null,
     "lastUpdate": "2025-01-10T15:24:31",
     "mediaUuid": null,
-    "order": 1,
-    "tag": "path-target-intro",
+    "order": 10,
+    "tag": "path-extra",
     "totalSize": 11002523,
     "galleries": [
       {
