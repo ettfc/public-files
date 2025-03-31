@@ -203,6 +203,40 @@
       "poiCategories": []
     },
     {
+      "uuid": "extra1-1ef8b020-705a-6dfe-964a-0242ac14000a",
+      "title": "Extra 1",
+      "subtitle": null,
+      "categories": [
+        "cat-target-a"
+      ],
+      "groups": [],
+      "color": null,
+      "description": null,
+      "lastUpdate": "2025-03-12T15:04:33",
+      "mediaUuid": null,
+      "order": 0,
+      "tag": "path-extra",
+      "totalSize": 11002523,
+      "poiCategories": []
+    },
+    {
+      "uuid": "extra2-1ef8b020-705a-6dfe-964a-0242ac14000a",
+      "title": "Extra 2",
+      "subtitle": null,
+      "categories": [
+        "cat-target-a"
+      ],
+      "groups": [],
+      "color": null,
+      "description": null,
+      "lastUpdate": "2025-03-12T15:04:33",
+      "mediaUuid": null,
+      "order": 10,
+      "tag": "path-extra",
+      "totalSize": 11002523,
+      "poiCategories": []
+    },
+    {
       "uuid": "1ef8b021-1054-686e-ae1f-0242ac14000a",
       "title": "Crediti",
       "subtitle": null,
