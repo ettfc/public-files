@@ -5624,7 +5624,7 @@
         "title": "Villa Rossi",
         "subtitle": "Visibile",
         "description": "Descrizione",
-        "tag": "poi-external-main-data-sheet",
+        "tag": "main_data_sheet",
         "otherStrings": "{\"clue\": \"Lorem ipsum Villa Rossi ... \" }",
         "lastUpdate": "2025-02-18T17:26:44",
         "items": [
@@ -5638,7 +5638,7 @@
         "title": "Villa Rossi",
         "subtitle": "Visibile",
         "description": "Descrizione",
-        "tag": "poi-external-plus-container-sheet",
+        "tag": "plus_container_sheet",
         "lastUpdate": "2025-02-18T17:26:44",
         "items": [
           "406fec7d-e094-fdbd-fffe-fb63ec546cde",
@@ -5657,7 +5657,7 @@
         "title": "Villa Rossi Game Activator",
         "subtitle": "Game",
         "description": "Descrizione",
-        "tag": "poi-external-game-activator-sheet",
+        "tag": "game_activator_sheet",
         "lastUpdate": "2025-02-18T17:26:44",
         "items": [
           "gactitm-e094-fdbd-fffe-fb63ec546cde"
