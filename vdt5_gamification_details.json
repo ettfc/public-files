@@ -6826,7 +6826,7 @@
     "poiOrder": [
       {
         "index": "A",
-        "isHidden": true,
+        "isHidden": false,
         "order": 0,
         "poiUuid": "1ef96d20-9dc3-6012-b5cf-0242ac14000a",
         "status": "visited"
@@ -7754,6 +7754,14 @@
       },
       {
         "inType": "SHT_ITM",
+        "inUuid": "plusitm-4a94-3b9a-c787-7825ae7d8b92",
+        "poiUuid": "1efad665-3d3b-6bf4-9da6-0242ac14000a",
+        "outType": "SHT",
+        "outUuid": "plus-e0a4-c353-a1bd-3069690b56da",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
         "inUuid": "af917182-ed22-8316-cde1-371a2279c9e1",
         "poiUuid": "1efad665-3d3b-6bf4-9da6-0242ac14000a",
         "outType": "GLR",
@@ -8245,7 +8253,7 @@
       },
       {
         "lastUpdate": "2024-11-28T09:55:13",
-        "order": 1,
+        "order": 0,
         "uuid": "741e2ec9-c238-c536-5ff6-0a355f77f04e"
       },
       {
@@ -8262,6 +8270,11 @@
         "lastUpdate": "2024-12-10T11:49:07",
         "order": 2,
         "uuid": "af917182-ed22-8316-cde1-371a2279c9e1"
+      },
+      {
+        "lastUpdate": "2024-12-10T11:49:07",
+        "order": 0,
+        "uuid": "plusitm-4a94-3b9a-c787-7825ae7d8b92"
       }
     ],
     "sheets": [
@@ -9338,8 +9351,19 @@
         "tag": "poi-external-entry-sheet",
         "lastUpdate": "2024-12-10T11:49:07",
         "items": [
-          "694e63bc-4a94-3b9a-c787-7825ae7d8b92",
-          "af917182-ed22-8316-cde1-371a2279c9e1",
+          "694e63bc-4a94-3b9a-c787-7825ae7d8b92"
+        ],
+        "extraData": null,
+        "mediaUuid": null
+      },
+      {
+        "uuid": "plus-e0a4-c353-a1bd-3069690b56da",
+        "title": null,
+        "subtitle": null,
+        "description": null,
+        "tag": "plus-collection-sheet",
+        "lastUpdate": "2024-12-10T11:49:07",
+        "items": [
           "741e2ec9-c238-c536-5ff6-0a355f77f04e"
         ],
         "extraData": null,
