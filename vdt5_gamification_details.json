@@ -7268,7 +7268,11 @@
     ],
     "gameConfigurator": {
       "uuid": "gconf-d01e-447e-b419-a10za5ce4321",
-      "configuration": "{ \"gameMode\": \"treasure_hunt\", \"reward\": true, \"score\": false  }",
+      "configuration": { 
+                         "gameMode": "treasure_hunt", 
+                         "reward": true,
+                         "score": false  
+                      },
       "levels": [
         "levaaa-d01e-447e-b419-c81ad7ce8954"
       ],
