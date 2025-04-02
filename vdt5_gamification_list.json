@@ -539,44 +539,6 @@
       "poiCategories": []
     },
     {
-      "uuid": "1ef96d32-c976-6cb0-82db-0242ac14000a",
-      "title": "Parco (bambini)",
-      "subtitle": null,
-      "categories": [
-        "1ef96d25-239a-6e34-b090-0242ac14000a",
-        "3eadaa71-99db-0341-35bf-5d01516f3238"
-      ],
-      "groups": [],
-      "color": null,
-      "description": "descrizione Parco (bambini)",
-      "lastUpdate": "2025-01-13T18:02:20",
-      "mediaUuid": "Lg8nP1O",
-      "order": 1,
-      "tag": "path-main-external",
-      "totalSize": 14063639,
-      "beacons": [
-        {
-          "lastUpdate": "2025-01-13T18:02:20",
-          "major": 1,
-          "minor": 10,
-          "name": "Beacon esempio",
-          "proximityUuid": "64523822-c727-b9dd-0028-e7f574bc65a0",
-          "radius": 20,
-          "uuid": "1efae336-8ba2-6b48-bdd3-0242ac14000a"
-        }
-      ],
-      "gps": [
-        {
-          "lastUpdate": "2025-01-13T18:02:20",
-          "latitude": 44.4205594,
-          "longitude": 8.850716,
-          "radius": 500,
-          "uuid": "1efae339-1c2c-622a-a01e-0242ac14000a"
-        }
-      ],
-      "poiCategories": []
-    },
-    {
       "uuid": "1efad6d5-a4bb-61b0-9b2a-0242ac14000a",
       "title": "Virtual Tour",
       "subtitle": null,
