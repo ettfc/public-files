@@ -5710,21 +5710,21 @@
         "isHidden": false,
         "order": 1,
         "poiUuid": "1efe56dd-0351-6c08-9f9e-0242ac14000a",
-        "status": "locked"
+        "status": "visited"
       },
       {
         "index": "3",
-        "isHidden": true,
+        "isHidden": false,
         "order": 2,
         "poiUuid": "1efe56e1-8aec-638a-b674-0242ac14000a",
         "status": "visited"
       },
       {
         "index": "4",
-        "isHidden": true,
+        "isHidden": false,
         "order": 3,
         "poiUuid": "1efe56e6-c75c-6888-9ea6-0242ac14000a",
-        "status": "locked"
+        "status": "visited"
       },
       {
         "index": "5",
@@ -11158,7 +11158,7 @@
         "isHidden": false,
         "order": 2,
         "poiUuid": "1efb08dd-e0bb-6388-b886-0242ac14000a",
-        "status": "locked"
+        "status": "visited"
       },
       {
         "index": "4",
@@ -11176,14 +11176,14 @@
       },
       {
         "index": "1",
-        "isHidden": true,
+        "isHidden": false,
         "order": 5,
         "poiUuid": "1efd8d60-d123-6434-ad2b-0242ac14000a",
-        "status": "locked"
+        "status": "visited"
       },
       {
         "index": "7",
-        "isHidden": true,
+        "isHidden": false,
         "order": 6,
         "poiUuid": "1efe2ed9-1aba-64ac-a9d4-0242ac14000a",
         "status": "visited"
