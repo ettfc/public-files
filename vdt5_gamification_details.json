@@ -6119,6 +6119,14 @@
         "action": null
       },
       {
+        "inType": "SHT_ITM",
+        "inUuid": "shitm-maindata-pbaracca-5708-65ecf2582044",
+        "poiUuid": "1efe56dd-0351-6c08-9f9e-0242ac14000a",
+        "outType": "SHT",
+        "outUuid": "maindata-pbaracca-5708-65ecf2582044",
+        "action": null
+      },
+      {
         "inType": "EPT",
         "inUuid": "",
         "poiUuid": "",
@@ -6526,6 +6534,11 @@
         "uuid": "7299fe0f-5792-0ee9-8201-df433e64620f"
       },
       {
+        "lastUpdate": "2025-02-18T17:26:44",
+        "order": 0,
+        "uuid": "shitm-maindata-pbaracca-5708-65ecf2582044"
+      },
+      {
         "lastUpdate": "2025-02-07T17:23:43",
         "order": 0,
         "uuid": "7dd599d3-af26-b375-0da0-166887e9923a"
@@ -6886,10 +6899,23 @@
       },
       {
         "uuid": "e957265f-6235-1e9c-5708-65ecf2582044",
-        "title": "Piazza Baracca",
-        "subtitle": "Bloccato",
+        "title": "Piazza Baracca POI",
+        "subtitle": "ACCEDI A GOOGLE MAPS",
         "description": null,
         "tag": "poi-external-entry-sheet",
+        "lastUpdate": "2025-02-07T17:23:43",
+        "items": [
+              "shitm-maindata-pbaracca-5708-65ecf2582044"
+        ],
+        "extraData": null,
+        "mediaUuid": null
+      },
+      {
+        "uuid": "maindata-pbaracca-5708-65ecf2582044",
+        "title": "Piazza Baracca MAIN DATA SHEET",
+        "subtitle": "Bloccato",
+        "description": null,
+        "tag": "main-data-sheet",
         "lastUpdate": "2025-02-07T17:23:43",
         "items": [],
         "extraData": null,
