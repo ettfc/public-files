@@ -6819,7 +6819,7 @@
         "subtitle": "Visibile",
         "description": "Descrizione",
         "tag": "main-data-sheet",
-        "otherStrings": "{\"clue\": \"Lorem ipsum Villa Rossi ... \" }",
+        "otherStrings": {"clue": "Lorem ipsum Villa Rossi ... " },
         "lastUpdate": "2025-02-18T17:26:44",
         "items": [
           "7299fe0f-5792-0ee9-8201-df433e64620f"
