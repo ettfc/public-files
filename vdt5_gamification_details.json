@@ -7403,13 +7403,13 @@
         "uuid": "1efe56e5-cccc-6544-b160-0242ac14000a"
       }
     ],
-    "gameConfigurator": {
+    "gameConfigurators": [{
       "uuid": "gconf-d01e-447e-b419-a10za5ce4321",
       "configuration": { 
          "gameMode": "treasure_hunt", 
          "reward": false,
          "score": false  
-      },
+      }],
       "levels": [
         "levaaa-d01e-447e-b419-c81ad7ce8954"
       ],
