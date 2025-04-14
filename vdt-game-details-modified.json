@@ -1,4 +1,4 @@
- [
+[
   {
     "uuid": "1ef8b020-705a-6dfe-878a-0242ac14000a",
     "title": "Intro",
@@ -3344,7 +3344,7 @@
       {
         "uuid": "extra2-1ef8a2db-04c5-6262-9f16-0242ac14000b",
         "title": "Path extra 2",
-                "subtitle": null,
+        "subtitle": null,
         "description": "**Lorem ipsum** dolor sit *amet*, consectetur ***adipiscing elit***. Integer in ante turpis. Duis nec enim vel dui interdum molestie nec eu elit. Donec tortor tortor, maximus in mi quis, pretium euismod urna. Etiam pellentesque nisl magna, in facilisis elit elementum quis. Fusce maximus bibendum fermentum. Sed lacus mi, laoreet non quam eget, mollis venenatis diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed quis magna tincidunt augue interdum cursus. Proin molestie ipsum dolor, ac pellentesque odio consequat id. [Google](http://google.com) Sed eget sem ut orci tristique molestie at convallis augue. Ut metus justo, luctus suscipit blandit non, consequat sed dui. Curabitur dictum, magna vitae varius commodo, nisi neque vehicula leo, quis mollis nisl urna aliquet nisl. Aliquam quis neque arcu.\n\n[External Link](http://www.google.com)\n\nOppure [scrivici una mail](mailto:support@ettsolutions.com)",
         "items": [],
         "tag": "text-sheet",
@@ -6352,12 +6352,12 @@
       },
       {
         "inType": "RWD_EPT",
-        "inUuid": "", 
+        "inUuid": "",
         "poiUuid": "",
         "outType": "SHT",
         "outUuid": "830326e9-d01e-447e-b419-a10za5ce4321",
         "action": null
-     }
+      }
     ],
     "sheetItems": [
       {
@@ -6803,7 +6803,9 @@
         "subtitle": "Visibile",
         "description": "Descrizione",
         "tag": "poi-external-entry-sheet",
-        "otherStrings": {"clue": "Lorem ipsum Villa Rossi ... " },
+        "otherStrings": {
+          "clue": "Lorem ipsum Villa Rossi ... "
+        },
         "lastUpdate": "2025-02-18T17:26:44",
         "items": [
           "aaaitm-7ef5-a233-332c-5c0e50d6f2bd",
@@ -6819,7 +6821,9 @@
         "subtitle": "Visibile",
         "description": "Descrizione",
         "tag": "main-data-sheet",
-        "otherStrings": {"clue": "Lorem ipsum Villa Rossi ... " },
+        "otherStrings": {
+          "clue": "Lorem ipsum Villa Rossi ... "
+        },
         "lastUpdate": "2025-02-18T17:26:44",
         "items": [
           "7299fe0f-5792-0ee9-8201-df433e64620f"
@@ -7265,18 +7269,20 @@
         "uuid": "1efe56e5-cccc-6544-b160-0242ac14000a"
       }
     ],
-    "gameConfigurator": {
-      "uuid": "gconf-d01e-447e-b419-a10za5ce4321",
-      "configuration": { 
-                         "gameMode": "treasure_hunt", 
-                         "reward": true,
-                         "score": false  
-                      },
-      "levels": [
-        "levaaa-d01e-447e-b419-c81ad7ce8954"
-      ],
-      "lastUpdate": "2024-02-29T14:59:21"
-    },
+    "gameConfigurators": [
+      {
+        "uuid": "gconf-d01e-447e-b419-a10za5ce4321",
+        "configuration": {
+          "gameMode": "treasure_hunt",
+          "reward": true,
+          "score": false
+        },
+        "levels": [
+          "levaaa-d01e-447e-b419-c81ad7ce8954"
+        ],
+        "lastUpdate": "2024-02-29T14:59:21"
+      }
+    ],
     "levels": [
       {
         "uuid": "levaaa-d01e-447e-b419-c81ad7ce8954",
@@ -7301,14 +7307,14 @@
       }
     ],
     "rewards": [
-    { 
+      {
         "uuid": "123456e9-d01e-447e-b419-c81ad7ce0000",
         "title": "Premio 1",
         "subtitle": null,
-        "description": "Lorem ipsum dolor sit amet...", 
+        "description": "Lorem ipsum dolor sit amet...",
         "mediaUuid": null,
         "lastUpdate": "2024-02-29T14:59:21"
-    }
+      }
     ]
   },
   {
@@ -13546,4 +13552,4 @@
     "mapItems": [],
     "poiCategories": []
   }
- ]
+]
