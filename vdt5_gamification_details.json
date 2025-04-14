@@ -7409,12 +7409,12 @@
          "gameMode": "treasure_hunt", 
          "reward": false,
          "score": false  
-      }],
+      },
       "levels": [
         "levaaa-d01e-447e-b419-c81ad7ce8954"
       ],
       "lastUpdate": "2024-02-29T14:59:21"
-    },
+    }],
     "levels": [
       {
         "uuid": "levaaa-d01e-447e-b419-c81ad7ce8954",
