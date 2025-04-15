@@ -204,6 +204,14 @@
             },
             {
                 "inType": "SHT_ITM",
+                "inUuid": "gameactitm-4b84-cdcf-f02e-b162bd4d597d",
+                "poiUuid": "1f019cc9-fa8c-60ba-be04-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "gameact-4b84-cdcf-f02e-b162bd4d597d",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
                 "inUuid": "afa333fc-4b84-cdcf-f02e-b162bd4d597d",
                 "poiUuid": "1f019cc9-fa8c-60ba-be04-5e1ca3aac9e9",
                 "outType": "SHT",
@@ -450,6 +458,11 @@
                 "uuid": "afa333fc-4b84-cdcf-f02e-b162bd4d597d"
             },
             {
+                "lastUpdate": "2025-04-15T09:40:25",
+                "order": 1,
+                "uuid": "gameactitm-4b84-cdcf-f02e-b162bd4d597d"
+            },
+            {
                 "lastUpdate": "2025-04-15T10:01:39",
                 "order": 0,
                 "uuid": "6b76b2b8-0eba-7062-c71f-1c14792dba1a"
@@ -654,6 +667,19 @@
                 "subtitle": null,
                 "description": null,
                 "tag": "poi-list-entry-sheet",
+                "lastUpdate": "2025-04-15T10:01:39",
+                "items": [
+                    "gameactitm-4b84-cdcf-f02e-b162bd4d597d"
+                ],
+                "extraData": null,
+                "mediaUuid": "5zeobdX"
+            },
+            {
+                "uuid": "gameact-4b84-cdcf-f02e-b162bd4d597d",
+                "title": "Poi Test 1 Game Activator",
+                "subtitle": null,
+                "description": null,
+                "tag": "game-activator-sheet",
                 "lastUpdate": "2025-04-15T10:01:39",
                 "items": [
                     "afa333fc-4b84-cdcf-f02e-b162bd4d597d"
