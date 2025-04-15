@@ -293,7 +293,7 @@
             {
                 "inType": "LVL_ITM",
                 "inUuid": "lvlitm2-ba61-4f4d-9ef6-57328fb24a22",
-                "poiUuid": "1f019cc9-fa8c-60ba-be04-5e1ca3aac9e9",
+                "poiUuid": "1f019ccf-59ea-6480-9d59-5e1ca3aac9e9",
                 "outType": "SHT",
                 "outUuid": "68b22718-569a-c790-89f7-94c044895e1b",
                 "action": null
@@ -903,7 +903,8 @@
                     "score": false
                 },
                 "levels": [
-                    "levaaa-d01e-447e-b419-c81ad7ce8954"
+                    "levaaa-d01e-447e-b419-c81ad7ce8954",
+                    "levaa2-d01e-447e-b419-c81ad7ce8954"
                 ],
                 "lastUpdate": "2024-02-29T14:59:21"
             }
@@ -920,8 +921,21 @@
                 "order": 0,
                 "items": [
                     "lvlitm1-ba61-4f4d-9ef6-57328fb24a22",
-                    "lvlitm2-ba61-4f4d-9ef6-57328fb24a22",
                     "lvlitm3-ba61-4f4d-9ef6-57328fb24a22"
+                ],
+                "lastUpdate": "2024-02-29T14:59:21"
+            },
+            {
+                "uuid": "levaa2-d01e-447e-b419-c81ad7ce8954",
+                "title": "Livello 2",
+                "subtitle": null,
+                "description": "Lorem ipsum dolor sit amet...",
+                "mediaUuid": null,
+                "isHidden": false,
+                "status": "visited",
+                "order": 1,
+                "items": [
+                    "lvlitm2-ba61-4f4d-9ef6-57328fb24a22"
                 ],
                 "lastUpdate": "2024-02-29T14:59:21"
             }
@@ -935,12 +949,12 @@
             {
                 "lastUpdate": "2024-02-29T14:54:35",
                 "order": 1,
-                "uuid": "lvlitm2-ba61-4f4d-9ef6-57328fb24a22"
+                "uuid": "lvlitm3-ba61-4f4d-9ef6-57328fb24a22"
             },
             {
                 "lastUpdate": "2024-02-29T14:54:35",
-                "order": 2,
-                "uuid": "lvlitm3-ba61-4f4d-9ef6-57328fb24a22"
+                "order": 0,
+                "uuid": "lvlitm2-ba61-4f4d-9ef6-57328fb24a22"
             }
         ]
     }
