@@ -95,14 +95,14 @@
                 "isHidden": false,
                 "order": 1,
                 "poiUuid": "1f019ccf-59ea-6480-9d59-5e1ca3aac9e9",
-                "status": "visited"
+                "status": "blocked"
             },
             {
                 "index": "3",
                 "isHidden": false,
                 "order": 2,
                 "poiUuid": "1f019cd1-2228-695a-81ad-5e1ca3aac9e9",
-                "status": "visited"
+                "status": "blocked"
             }
         ],
         "pois": [
