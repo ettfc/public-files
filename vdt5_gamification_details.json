@@ -7407,7 +7407,7 @@
       "uuid": "gconf-d01e-447e-b419-a10za5ce4321",
       "configuration": { 
          "gameMode": "treasure_hunt", 
-         "reward": false,
+         "reward": true,
          "score": false  
       },
       "levels": [
