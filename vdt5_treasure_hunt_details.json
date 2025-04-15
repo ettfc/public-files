@@ -80,6 +80,16 @@
                 "url": "https:\/\/dev-mie-appvdt-bo.devworkbench.it\/dam\/mie\/media\/ZXRZbRg\/original.png",
                 "altText": "",
                 "uuid": "ZXRZbRg"
+            },
+            {
+            "lastUpdate": "2024-11-18 12:05:40",
+            "mimeType": "image/jpeg",
+            "name": "Guglielmo-Coronini-Cronberg.jpg",
+            "size": 208956,
+            "type": "IMG",
+            "url": "https://dev-coronini-bo.devworkbench.it/dam/mie/media/A68OZ0e/original.jpg",
+            "altText": "",
+            "uuid": "A68OZ0e"
             }
         ],
         "poiOrder": [
@@ -204,6 +214,14 @@
             },
             {
                 "inType": "SHT_ITM",
+                "inUuid": "rewarditm-4269-4c60-d951-c0b50fabb391",
+                "poiUuid": "1f019cc9-fa8c-60ba-be04-5e1ca3aac9e9",
+                "outType": "RWD",
+                "outUuid": "rwd1-d01e-447e-b419-c81ad7ce0000",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
                 "inUuid": "6b76b2b8-0eba-7062-c71f-1c14792dba1a",
                 "poiUuid": "1f019cc9-fa8c-60ba-be04-5e1ca3aac9e9",
                 "outType": "SHT",
@@ -272,6 +290,14 @@
                 "poiUuid": "1f019ccf-59ea-6480-9d59-5e1ca3aac9e9",
                 "outType": "SHT",
                 "outUuid": "11985f9a-fe28-dfb7-1825-637e134c0bf7",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "rewarditm-13cb-0c8d-4f71-631a85babf5f",
+                "poiUuid": "1f019ccf-59ea-6480-9d59-5e1ca3aac9e9",
+                "outType": "RWD",
+                "outUuid": "rwd2-d01e-447e-b419-c81ad7ce0000",
                 "action": null
             },
             {
@@ -372,6 +398,14 @@
             },
             {
                 "inType": "SHT_ITM",
+                "inUuid": "rewarditm-5a8f-5e87-ac7c-9be1f272b04d",
+                "poiUuid": "1f019cd1-2228-695a-81ad-5e1ca3aac9e9",
+                "outType": "RWD",
+                "outUuid": "rwd3-d01e-447e-b419-c81ad7ce0000",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
                 "inUuid": "946b1162-9c95-fb88-2a69-c28e95faced0",
                 "poiUuid": "1f019cd1-2228-695a-81ad-5e1ca3aac9e9",
                 "outType": "SHT",
@@ -453,6 +487,11 @@
                 "uuid": "e33595b3-4269-4c60-d951-c0b50fabb391"
             },
             {
+                "lastUpdate": "2025-04-15T09:40:25",
+                "order": 1,
+                "uuid": "rewarditm-4269-4c60-d951-c0b50fabb391"
+            },
+            {
                 "lastUpdate": "2025-04-15T10:01:39",
                 "order": 0,
                 "uuid": "6b76b2b8-0eba-7062-c71f-1c14792dba1a"
@@ -481,6 +520,11 @@
                 "lastUpdate": "2025-04-15T09:41:28",
                 "order": 1,
                 "uuid": "6665a00f-13cb-0c8d-4f71-631a85babf5f"
+            },
+            {
+                "lastUpdate": "2025-04-15T09:41:28",
+                "order": 2,
+                "uuid": "rewarditm-13cb-0c8d-4f71-631a85babf5f"
             },
             {
                 "lastUpdate": "2025-04-15T10:01:52",
@@ -526,6 +570,11 @@
                 "lastUpdate": "2025-04-15T09:42:31",
                 "order": 1,
                 "uuid": "a460d34b-5a8f-5e87-ac7c-9be1f272b04d"
+            },
+            {
+                "lastUpdate": "2025-04-15T09:42:31",
+                "order": 2,
+                "uuid": "rewarditm-5a8f-5e87-ac7c-9be1f272b04d"
             },
             {
                 "lastUpdate": "2025-04-15T10:02:07",
@@ -641,7 +690,8 @@
                 "tag": "poi-list-entry-sheet",
                 "lastUpdate": "2025-04-15T10:01:39",
                 "items": [
-                    "e33595b3-4269-4c60-d951-c0b50fabb391"
+                    "e33595b3-4269-4c60-d951-c0b50fabb391",
+                    "rewarditm-4269-4c60-d951-c0b50fabb391"
                 ],
                 "extraData": null,
                 "mediaUuid": "5zeobdX"
@@ -692,7 +742,8 @@
                 "tag": "poi-list-entry-sheet",
                 "lastUpdate": "2025-04-15T10:01:52",
                 "items": [
-                    "6665a00f-13cb-0c8d-4f71-631a85babf5f"
+                    "6665a00f-13cb-0c8d-4f71-631a85babf5f",
+                    "rewarditm-13cb-0c8d-4f71-631a85babf5f"
                 ],
                 "extraData": null,
                 "mediaUuid": "vwRObqD"
@@ -804,7 +855,8 @@
                 "tag": "poi-list-entry-sheet",
                 "lastUpdate": "2025-04-15T10:02:07",
                 "items": [
-                    "a460d34b-5a8f-5e87-ac7c-9be1f272b04d"
+                    "a460d34b-5a8f-5e87-ac7c-9be1f272b04d",
+                    "rewarditm-5a8f-5e87-ac7c-9be1f272b04d"
                 ],
                 "extraData": null,
                 "mediaUuid": "ZXRZbRg"
@@ -955,6 +1007,32 @@
                 "lastUpdate": "2024-02-29T14:54:35",
                 "order": 0,
                 "uuid": "lvlitm2-ba61-4f4d-9ef6-57328fb24a22"
+            }
+        ],
+        "rewards": [
+            {
+                "uuid": "rwd1-d01e-447e-b419-c81ad7ce0000",
+                "title": "Premio 1",
+                "subtitle": null,
+                "description": "Lorem ipsum dolor sit amet...",
+                "mediaUuid": "A68OZ0e",
+                "lastUpdate": "2024-02-29T14:59:21"
+            },
+            {
+                "uuid": "rwd2-d01e-447e-b419-c81ad7ce0000",
+                "title": "Premio 2",
+                "subtitle": null,
+                "description": "Lorem ipsum dolor sit amet...",
+                "mediaUuid": "A68OZ0e",
+                "lastUpdate": "2024-02-29T14:59:21"
+            },
+            {
+                "uuid": "rwd3-d01e-447e-b419-c81ad7ce0000",
+                "title": "Premio 3",
+                "subtitle": null,
+                "description": "Lorem ipsum dolor sit amet...",
+                "mediaUuid": "A68OZ0e",
+                "lastUpdate": "2024-02-29T14:59:21"
             }
         ]
     }
