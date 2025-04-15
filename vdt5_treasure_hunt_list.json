@@ -1,0 +1,36 @@
+{
+    "mediaFiles": [],
+    "pathCategories": [
+        {
+            "uuid": "1f019cf3-8a6e-648e-9464-5e1ca3aac9e9",
+            "title": "Categoria 1",
+            "subtitle": null,
+            "description": null,
+            "color": "",
+            "type": "mainPage",
+            "tag": "preview",
+            "order": 0,
+            "mediaUuid": null,
+            "lastUpdate": "2025-04-15T09:57:18",
+            "parentCategories": []
+        }
+    ],
+    "paths": [
+        {
+            "uuid": "1f0147dd-125d-6fd2-9837-1a718f54eda8",
+            "title": "Percorso",
+            "subtitle": null,
+            "categories": [
+                "1f019cf3-8a6e-648e-9464-5e1ca3aac9e9"
+            ],
+            "groups": [],
+            "color": "#afd5bf",
+            "description": null,
+            "lastUpdate": "2025-04-15T09:43:40",
+            "mediaUuid": null,
+            "order": 0,
+            "tag": "path-main-list",
+            "totalSize": 576940
+        }
+    ]
+}

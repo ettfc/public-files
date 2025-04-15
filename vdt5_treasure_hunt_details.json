@@ -1,0 +1,939 @@
+[
+    {
+        "uuid": "1f0147dd-125d-6fd2-9837-1a718f54eda8",
+        "title": "Percorso",
+        "subtitle": null,
+        "categories": [
+            "1f019cf3-8a6e-648e-9464-5e1ca3aac9e9"
+        ],
+        "groups": [],
+        "color": "#afd5bf",
+        "description": null,
+        "lastUpdate": "2025-04-15T10:02:07",
+        "mediaUuid": null,
+        "order": 0,
+        "tag": "path-main-list",
+        "totalSize": 748736,
+        "galleries": [
+            {
+                "description": null,
+                "items": [
+                    "0d2b52bf-2761-46d1-8e7c-fea97d990225"
+                ],
+                "lastUpdate": "2025-04-15T09:41:28",
+                "subtitle": null,
+                "title": null,
+                "tag": "game-puzzle-gallery",
+                "mediaUuid": null,
+                "extraData": null,
+                "uuid": "247d8613-add6-4144-8113-1556e6c0175b"
+            }
+        ],
+        "galleryItems": [
+            {
+                "description": null,
+                "lastUpdate": "2025-04-15T09:41:28",
+                "mediaUuid": "vwRObqD",
+                "order": 0,
+                "subtitle": null,
+                "title": null,
+                "uuid": "0d2b52bf-2761-46d1-8e7c-fea97d990225"
+            }
+        ],
+        "mediaFiles": [
+            {
+                "lastUpdate": "2025-04-08 15:27:14",
+                "mimeType": "image\/jpeg",
+                "name": "test.jpg",
+                "size": 171796,
+                "type": "IMG",
+                "url": "https:\/\/dev-mie-appvdt-bo.devworkbench.it\/dam\/mie\/media\/oVqW5dA\/original.jpg",
+                "altText": "",
+                "uuid": "oVqW5dA"
+            },
+            {
+                "lastUpdate": "2025-04-15 09:38:58",
+                "mimeType": "image\/png",
+                "name": "logo-positivo.png",
+                "size": 367176,
+                "type": "IMG",
+                "url": "https:\/\/dev-mie-appvdt-bo.devworkbench.it\/dam\/mie\/media\/5zeobdX\/original.png",
+                "altText": "",
+                "uuid": "5zeobdX"
+            },
+            {
+                "lastUpdate": "2025-04-10 14:34:14",
+                "mimeType": "image\/jpeg",
+                "name": "climbing blocks growth 3d illustration, with a child, simple background.jpeg",
+                "size": 117640,
+                "type": "IMG",
+                "url": "https:\/\/dev-mie-appvdt-bo.devworkbench.it\/dam\/mie\/media\/vwRObqD\/original.jpeg",
+                "altText": "",
+                "uuid": "vwRObqD"
+            },
+            {
+                "lastUpdate": "2025-04-15 09:38:50",
+                "mimeType": "image\/png",
+                "name": "unnamed.png",
+                "size": 92124,
+                "type": "IMG",
+                "url": "https:\/\/dev-mie-appvdt-bo.devworkbench.it\/dam\/mie\/media\/ZXRZbRg\/original.png",
+                "altText": "",
+                "uuid": "ZXRZbRg"
+            }
+        ],
+        "poiOrder": [
+            {
+                "index": "1",
+                "isHidden": false,
+                "order": 0,
+                "poiUuid": "1f019cc9-fa8c-60ba-be04-5e1ca3aac9e9",
+                "status": "visited"
+            },
+            {
+                "index": "2",
+                "isHidden": false,
+                "order": 1,
+                "poiUuid": "1f019ccf-59ea-6480-9d59-5e1ca3aac9e9",
+                "status": "locked"
+            },
+            {
+                "index": "3",
+                "isHidden": false,
+                "order": 2,
+                "poiUuid": "1f019cd1-2228-695a-81ad-5e1ca3aac9e9",
+                "status": "locked"
+            }
+        ],
+        "pois": [
+            {
+                "uuid": "1f019cc9-fa8c-60ba-be04-5e1ca3aac9e9",
+                "title": "Poi Test 1",
+                "subtitle": null,
+                "description": null,
+                "tag": "poi-list",
+                "lastUpdate": "2025-04-15T10:01:39",
+                "mediaUuid": "5zeobdX",
+                "categories": []
+            },
+            {
+                "uuid": "1f019ccf-59ea-6480-9d59-5e1ca3aac9e9",
+                "title": "Poi Test 2",
+                "subtitle": null,
+                "description": null,
+                "tag": "poi-list",
+                "lastUpdate": "2025-04-15T10:01:52",
+                "mediaUuid": "vwRObqD",
+                "categories": []
+            },
+            {
+                "uuid": "1f019cd1-2228-695a-81ad-5e1ca3aac9e9",
+                "title": "Poi Test 3",
+                "subtitle": null,
+                "description": null,
+                "tag": "poi-list",
+                "lastUpdate": "2025-04-15T10:02:07",
+                "mediaUuid": "ZXRZbRg",
+                "categories": []
+            }
+        ],
+        "relations": [
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "7fd0826c-60cd-8d87-0f38-cd11a6080f17",
+                "poiUuid": "1f019cc9-fa8c-60ba-be04-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "b66160a0-9a88-4355-ec02-56b9a93c127b",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "d4a2bf26-d6d5-d7e7-fb54-a6db70ec0bf4",
+                "poiUuid": "1f019cc9-fa8c-60ba-be04-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "48150c8c-a025-4c3e-a979-e8cc577e50bc",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "20943428-ce3b-f00c-4fac-9a2cb5c202e3",
+                "poiUuid": "1f019cc9-fa8c-60ba-be04-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "4854cfc1-163e-4e99-e7f8-92cd4aeb70f7",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "8fc7410f-8407-76f8-0e7e-59b92ec1d9f6",
+                "poiUuid": "1f019cc9-fa8c-60ba-be04-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "c8e74952-1008-4ff8-f2b3-02e80e469d48",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "b0b18fdf-7671-c69b-341f-18538fc8fb7d",
+                "poiUuid": "1f019cc9-fa8c-60ba-be04-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "71f94cf6-ec1b-4617-d08d-834c3924ab27",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "106c66d2-0d56-4e5f-065c-7d479f799e33",
+                "poiUuid": "1f019cc9-fa8c-60ba-be04-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "1f019ccc-f7e8-62c0-9e2c-5e1ca3aac9e9",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "f52adf84-629e-7ed3-ce35-4dc8615eb146",
+                "poiUuid": "1f019cc9-fa8c-60ba-be04-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "993586c0-8df4-77e5-6bb4-83b0baa990c5",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "e33595b3-4269-4c60-d951-c0b50fabb391",
+                "poiUuid": "1f019cc9-fa8c-60ba-be04-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "708be67e-826f-731b-ef54-ee204b5ee838",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "afa333fc-4b84-cdcf-f02e-b162bd4d597d",
+                "poiUuid": "1f019cc9-fa8c-60ba-be04-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "dfda278e-f86e-cd20-ec31-f38778dd7a4f",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "6b76b2b8-0eba-7062-c71f-1c14792dba1a",
+                "poiUuid": "1f019cc9-fa8c-60ba-be04-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "bf9a7aab-d1d9-dc85-7fc4-b595e2996007",
+                "action": null
+            },
+            {
+                "inType": "POI_EPT",
+                "inUuid": "",
+                "poiUuid": "1f019cc9-fa8c-60ba-be04-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "bf9a7aab-d1d9-dc85-7fc4-b595e2996007",
+                "action": null
+            },
+            {
+                "inType": "EPT",
+                "inUuid": "",
+                "poiUuid": "",
+                "outType": "MAP",
+                "outUuid": "1f0147d1-43f7-616c-9c65-1a718f54eda8",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "e653537a-a05e-37f7-4c7c-a6eca52b07dd",
+                "poiUuid": "1f019ccf-59ea-6480-9d59-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "9fde98dc-a333-44e3-854e-b71eb88b2dab",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "71f1efbf-a27c-6a71-40a2-224c1889c53a",
+                "poiUuid": "1f019ccf-59ea-6480-9d59-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "55848a31-b94e-69b0-e6dc-3df9386f5730",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "ce400823-037a-f1eb-4f34-ce724d9d76de",
+                "poiUuid": "1f019ccf-59ea-6480-9d59-5e1ca3aac9e9",
+                "outType": "GLR",
+                "outUuid": "247d8613-add6-4144-8113-1556e6c0175b",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "38444854-1514-f45c-9c40-14f0eab78629",
+                "poiUuid": "1f019ccf-59ea-6480-9d59-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "11985f9a-fe28-dfb7-1825-637e134c0bf7",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "6665a00f-13cb-0c8d-4f71-631a85babf5f",
+                "poiUuid": "1f019ccf-59ea-6480-9d59-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "3e098025-701d-78e3-ed61-3652953d2de4",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "32bc6299-cc78-b2bc-239a-baf207d652a6",
+                "poiUuid": "1f019ccf-59ea-6480-9d59-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "68b22718-569a-c790-89f7-94c044895e1b",
+                "action": null
+            },
+            {
+                "inType": "POI_EPT",
+                "inUuid": "",
+                "poiUuid": "1f019ccf-59ea-6480-9d59-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "68b22718-569a-c790-89f7-94c044895e1b",
+                "action": null
+            },
+            {
+                "inType": "EPT",
+                "inUuid": "",
+                "poiUuid": "",
+                "outType": "MAP",
+                "outUuid": "1f0147d1-43f7-616c-9c65-1a718f54eda8",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "60c8aadf-8dd9-886a-2560-87e5ea6450c8",
+                "poiUuid": "1f019cd1-2228-695a-81ad-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "597f76e0-d458-41aa-8654-847017007bc4",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "8dda7fa9-2629-7579-9db4-6ac370aab897",
+                "poiUuid": "1f019cd1-2228-695a-81ad-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "43822d86-b347-4bc9-82cb-78a616b55ecf",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "b38ad879-ccd5-9a10-bdc5-9db1ee7fa1bb",
+                "poiUuid": "1f019cd1-2228-695a-81ad-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "7e7dd8b8-94f2-48c0-a935-59992e15ac22",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "3fd8f806-a966-090b-617c-bba8f993e0bf",
+                "poiUuid": "1f019cd1-2228-695a-81ad-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "21b7b100-0490-4693-b2ae-2a588d099b3f",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "9805956b-cfd1-762e-9563-2a3ff3a72706",
+                "poiUuid": "1f019cd1-2228-695a-81ad-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "6597ac14-1a02-4d2a-93d2-62d257602a2d",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "404a7274-a239-af8b-e819-95de84f6ff0b",
+                "poiUuid": "1f019cd1-2228-695a-81ad-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "1f019cd1-9dc0-6d42-a8b3-5e1ca3aac9e9",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "0c957577-f14a-ac9a-1070-bd6aa340a802",
+                "poiUuid": "1f019cd1-2228-695a-81ad-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "bc9fd2ee-5d89-38aa-34ed-5e258f510133",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "723d1578-3d44-b513-ac77-26de7e7173d0",
+                "poiUuid": "1f019cd1-2228-695a-81ad-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "97e4b648-1364-29cd-ec2b-4ce5cd2cfd4f",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "a460d34b-5a8f-5e87-ac7c-9be1f272b04d",
+                "poiUuid": "1f019cd1-2228-695a-81ad-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "f6be7f4f-9a9f-c07f-21cf-0efa600e7d51",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "946b1162-9c95-fb88-2a69-c28e95faced0",
+                "poiUuid": "1f019cd1-2228-695a-81ad-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "a0548d69-940e-13ac-d418-8c733c6e6ef7",
+                "action": null
+            },
+            {
+                "inType": "POI_EPT",
+                "inUuid": "",
+                "poiUuid": "1f019cd1-2228-695a-81ad-5e1ca3aac9e9",
+                "outType": "SHT",
+                "outUuid": "a0548d69-940e-13ac-d418-8c733c6e6ef7",
+                "action": null
+            },
+            {
+                "inType": "EPT",
+                "inUuid": "",
+                "poiUuid": "",
+                "outType": "MAP",
+                "outUuid": "1f0147d1-43f7-616c-9c65-1a718f54eda8",
+                "action": null
+            },
+            {
+                "inType": "EPT",
+                "inUuid": "",
+                "poiUuid": "",
+                "outType": "SHT",
+                "outUuid": "49c1406b-c5ff-da6d-1a92-2176780fc6d4",
+                "action": null
+            }
+        ],
+        "sheetItems": [
+            {
+                "lastUpdate": "2025-04-15T09:40:25",
+                "order": 1,
+                "uuid": "7fd0826c-60cd-8d87-0f38-cd11a6080f17"
+            },
+            {
+                "lastUpdate": "2025-04-15T09:40:25",
+                "order": 2,
+                "uuid": "d4a2bf26-d6d5-d7e7-fb54-a6db70ec0bf4"
+            },
+            {
+                "lastUpdate": "2025-04-15T09:40:25",
+                "order": 3,
+                "uuid": "20943428-ce3b-f00c-4fac-9a2cb5c202e3"
+            },
+            {
+                "lastUpdate": "2025-04-15T09:40:25",
+                "order": 4,
+                "uuid": "8fc7410f-8407-76f8-0e7e-59b92ec1d9f6"
+            },
+            {
+                "lastUpdate": "2025-04-15T09:40:25",
+                "order": 1,
+                "uuid": "b0b18fdf-7671-c69b-341f-18538fc8fb7d"
+            },
+            {
+                "lastUpdate": "2025-04-15T09:40:25",
+                "order": 1,
+                "uuid": "106c66d2-0d56-4e5f-065c-7d479f799e33"
+            },
+            {
+                "lastUpdate": "2025-04-15T09:40:25",
+                "order": 1,
+                "uuid": "f52adf84-629e-7ed3-ce35-4dc8615eb146"
+            },
+            {
+                "lastUpdate": "2025-04-15T09:40:25",
+                "order": 1,
+                "uuid": "e33595b3-4269-4c60-d951-c0b50fabb391"
+            },
+            {
+                "lastUpdate": "2025-04-15T09:40:25",
+                "order": 1,
+                "uuid": "afa333fc-4b84-cdcf-f02e-b162bd4d597d"
+            },
+            {
+                "lastUpdate": "2025-04-15T10:01:39",
+                "order": 0,
+                "uuid": "6b76b2b8-0eba-7062-c71f-1c14792dba1a"
+            },
+            {
+                "lastUpdate": "2025-04-15T09:41:28",
+                "order": 0,
+                "uuid": "e653537a-a05e-37f7-4c7c-a6eca52b07dd"
+            },
+            {
+                "lastUpdate": "2025-04-15T09:41:28",
+                "order": 1,
+                "uuid": "71f1efbf-a27c-6a71-40a2-224c1889c53a"
+            },
+            {
+                "lastUpdate": "2025-04-15T09:41:28",
+                "order": 1,
+                "uuid": "ce400823-037a-f1eb-4f34-ce724d9d76de"
+            },
+            {
+                "lastUpdate": "2025-04-15T09:41:28",
+                "order": 1,
+                "uuid": "38444854-1514-f45c-9c40-14f0eab78629"
+            },
+            {
+                "lastUpdate": "2025-04-15T09:41:28",
+                "order": 1,
+                "uuid": "6665a00f-13cb-0c8d-4f71-631a85babf5f"
+            },
+            {
+                "lastUpdate": "2025-04-15T10:01:52",
+                "order": 0,
+                "uuid": "32bc6299-cc78-b2bc-239a-baf207d652a6"
+            },
+            {
+                "lastUpdate": "2025-04-15T09:42:31",
+                "order": 1,
+                "uuid": "60c8aadf-8dd9-886a-2560-87e5ea6450c8"
+            },
+            {
+                "lastUpdate": "2025-04-15T09:42:31",
+                "order": 2,
+                "uuid": "8dda7fa9-2629-7579-9db4-6ac370aab897"
+            },
+            {
+                "lastUpdate": "2025-04-15T09:42:31",
+                "order": 3,
+                "uuid": "b38ad879-ccd5-9a10-bdc5-9db1ee7fa1bb"
+            },
+            {
+                "lastUpdate": "2025-04-15T09:42:31",
+                "order": 4,
+                "uuid": "3fd8f806-a966-090b-617c-bba8f993e0bf"
+            },
+            {
+                "lastUpdate": "2025-04-15T09:42:31",
+                "order": 1,
+                "uuid": "9805956b-cfd1-762e-9563-2a3ff3a72706"
+            },
+            {
+                "lastUpdate": "2025-04-15T09:42:31",
+                "order": 1,
+                "uuid": "404a7274-a239-af8b-e819-95de84f6ff0b"
+            },
+            {
+                "lastUpdate": "2025-04-15T09:42:31",
+                "order": 1,
+                "uuid": "0c957577-f14a-ac9a-1070-bd6aa340a802"
+            },
+            {
+                "lastUpdate": "2025-04-15T09:42:31",
+                "order": 1,
+                "uuid": "723d1578-3d44-b513-ac77-26de7e7173d0"
+            },
+            {
+                "lastUpdate": "2025-04-15T09:42:31",
+                "order": 1,
+                "uuid": "a460d34b-5a8f-5e87-ac7c-9be1f272b04d"
+            },
+            {
+                "lastUpdate": "2025-04-15T10:02:07",
+                "order": 0,
+                "uuid": "946b1162-9c95-fb88-2a69-c28e95faced0"
+            }
+        ],
+        "sheets": [
+            {
+                "uuid": "b66160a0-9a88-4355-ec02-56b9a93c127b",
+                "title": "Corretta",
+                "subtitle": "true",
+                "description": null,
+                "items": [],
+                "tag": "game-quiz-question-answer-sheet",
+                "lastUpdate": "2025-04-15T09:40:25",
+                "mediaUuid": null,
+                "extraData": null
+            },
+            {
+                "uuid": "48150c8c-a025-4c3e-a979-e8cc577e50bc",
+                "title": "Non corretta 1",
+                "subtitle": "false",
+                "description": null,
+                "items": [],
+                "tag": "game-quiz-question-answer-sheet",
+                "lastUpdate": "2025-04-15T09:40:25",
+                "mediaUuid": null,
+                "extraData": null
+            },
+            {
+                "uuid": "4854cfc1-163e-4e99-e7f8-92cd4aeb70f7",
+                "title": "Non corretta 2",
+                "subtitle": "false",
+                "description": null,
+                "items": [],
+                "tag": "game-quiz-question-answer-sheet",
+                "lastUpdate": "2025-04-15T09:40:25",
+                "mediaUuid": null,
+                "extraData": null
+            },
+            {
+                "uuid": "c8e74952-1008-4ff8-f2b3-02e80e469d48",
+                "title": "Non corretta 3",
+                "subtitle": "false",
+                "description": null,
+                "items": [],
+                "tag": "game-quiz-question-answer-sheet",
+                "lastUpdate": "2025-04-15T09:40:25",
+                "mediaUuid": null,
+                "extraData": null
+            },
+            {
+                "uuid": "71f94cf6-ec1b-4617-d08d-834c3924ab27",
+                "title": "Domanda 1?",
+                "subtitle": null,
+                "description": null,
+                "items": [
+                    "7fd0826c-60cd-8d87-0f38-cd11a6080f17",
+                    "d4a2bf26-d6d5-d7e7-fb54-a6db70ec0bf4",
+                    "20943428-ce3b-f00c-4fac-9a2cb5c202e3",
+                    "8fc7410f-8407-76f8-0e7e-59b92ec1d9f6"
+                ],
+                "tag": "game-quiz-question-sheet",
+                "lastUpdate": "2025-04-15T09:40:25",
+                "mediaUuid": null,
+                "extraData": null
+            },
+            {
+                "uuid": "1f019ccc-f7e8-62c0-9e2c-5e1ca3aac9e9",
+                "title": "Game Quiz",
+                "subtitle": null,
+                "description": null,
+                "items": [
+                    "b0b18fdf-7671-c69b-341f-18538fc8fb7d"
+                ],
+                "tag": "game-quiz-sheet",
+                "lastUpdate": "2025-04-15T09:40:25",
+                "mediaUuid": null,
+                "extraData": null
+            },
+            {
+                "uuid": "993586c0-8df4-77e5-6bb4-83b0baa990c5",
+                "title": null,
+                "subtitle": null,
+                "description": null,
+                "items": [
+                    "106c66d2-0d56-4e5f-065c-7d479f799e33"
+                ],
+                "tag": "game-quiz-entry-sheet",
+                "lastUpdate": "2025-04-15T09:40:25",
+                "mediaUuid": null,
+                "extraData": null
+            },
+            {
+                "uuid": "708be67e-826f-731b-ef54-ee204b5ee838",
+                "title": null,
+                "subtitle": null,
+                "description": null,
+                "items": [
+                    "f52adf84-629e-7ed3-ce35-4dc8615eb146"
+                ],
+                "tag": "plus-game-quiz-sheet",
+                "lastUpdate": "2025-04-15T09:40:25",
+                "mediaUuid": null,
+                "extraData": null
+            },
+            {
+                "uuid": "dfda278e-f86e-cd20-ec31-f38778dd7a4f",
+                "title": null,
+                "subtitle": null,
+                "description": null,
+                "items": [
+                    "e33595b3-4269-4c60-d951-c0b50fabb391"
+                ],
+                "tag": "plus-collection-game-quiz-sheet",
+                "lastUpdate": "2025-04-15T09:40:25",
+                "mediaUuid": null,
+                "extraData": null
+            },
+            {
+                "uuid": "bf9a7aab-d1d9-dc85-7fc4-b595e2996007",
+                "title": "Poi Test 1",
+                "subtitle": null,
+                "description": null,
+                "tag": "poi-list-entry-sheet",
+                "lastUpdate": "2025-04-15T10:01:39",
+                "items": [
+                    "afa333fc-4b84-cdcf-f02e-b162bd4d597d"
+                ],
+                "extraData": null,
+                "mediaUuid": "5zeobdX"
+            },
+            {
+                "uuid": "9fde98dc-a333-44e3-854e-b71eb88b2dab",
+                "title": "",
+                "subtitle": null,
+                "description": null,
+                "items": [],
+                "tag": "game-hint-sheet",
+                "lastUpdate": "2025-04-15T09:41:28",
+                "mediaUuid": "vwRObqD",
+                "extraData": null
+            },
+            {
+                "uuid": "55848a31-b94e-69b0-e6dc-3df9386f5730",
+                "title": null,
+                "subtitle": null,
+                "description": null,
+                "items": [
+                    "ce400823-037a-f1eb-4f34-ce724d9d76de",
+                    "e653537a-a05e-37f7-4c7c-a6eca52b07dd"
+                ],
+                "tag": "game-puzzle-entry-sheet",
+                "lastUpdate": "2025-04-15T09:41:28",
+                "mediaUuid": null,
+                "extraData": null
+            },
+            {
+                "uuid": "11985f9a-fe28-dfb7-1825-637e134c0bf7",
+                "title": null,
+                "subtitle": null,
+                "description": null,
+                "items": [
+                    "71f1efbf-a27c-6a71-40a2-224c1889c53a"
+                ],
+                "tag": "plus-game-puzzle-sheet",
+                "lastUpdate": "2025-04-15T09:41:28",
+                "mediaUuid": null,
+                "extraData": null
+            },
+            {
+                "uuid": "3e098025-701d-78e3-ed61-3652953d2de4",
+                "title": null,
+                "subtitle": null,
+                "description": null,
+                "items": [
+                    "38444854-1514-f45c-9c40-14f0eab78629"
+                ],
+                "tag": "plus-collection-game-puzzle-sheet",
+                "lastUpdate": "2025-04-15T09:41:28",
+                "mediaUuid": null,
+                "extraData": null
+            },
+            {
+                "uuid": "68b22718-569a-c790-89f7-94c044895e1b",
+                "title": "Poi Test 2",
+                "subtitle": null,
+                "description": null,
+                "tag": "poi-list-entry-sheet",
+                "lastUpdate": "2025-04-15T10:01:52",
+                "items": [
+                    "6665a00f-13cb-0c8d-4f71-631a85babf5f"
+                ],
+                "extraData": null,
+                "mediaUuid": "vwRObqD"
+            },
+            {
+                "uuid": "597f76e0-d458-41aa-8654-847017007bc4",
+                "title": "Una domanda sciocca",
+                "subtitle": "false",
+                "description": null,
+                "items": [],
+                "tag": "game-quiz-question-answer-sheet",
+                "lastUpdate": "2025-04-15T09:42:31",
+                "mediaUuid": null,
+                "extraData": null
+            },
+            {
+                "uuid": "43822d86-b347-4bc9-82cb-78a616b55ecf",
+                "title": "Una domanda inutile",
+                "subtitle": "false",
+                "description": null,
+                "items": [],
+                "tag": "game-quiz-question-answer-sheet",
+                "lastUpdate": "2025-04-15T09:42:31",
+                "mediaUuid": null,
+                "extraData": null
+            },
+            {
+                "uuid": "7e7dd8b8-94f2-48c0-a935-59992e15ac22",
+                "title": "Una domanda di test",
+                "subtitle": "true",
+                "description": null,
+                "items": [],
+                "tag": "game-quiz-question-answer-sheet",
+                "lastUpdate": "2025-04-15T09:42:31",
+                "mediaUuid": null,
+                "extraData": null
+            },
+            {
+                "uuid": "21b7b100-0490-4693-b2ae-2a588d099b3f",
+                "title": "Una domanda senza risposta",
+                "subtitle": "false",
+                "description": null,
+                "items": [],
+                "tag": "game-quiz-question-answer-sheet",
+                "lastUpdate": "2025-04-15T09:42:31",
+                "mediaUuid": null,
+                "extraData": null
+            },
+            {
+                "uuid": "6597ac14-1a02-4d2a-93d2-62d257602a2d",
+                "title": "Ma che domanda \u00e8?",
+                "subtitle": null,
+                "description": null,
+                "items": [
+                    "60c8aadf-8dd9-886a-2560-87e5ea6450c8",
+                    "8dda7fa9-2629-7579-9db4-6ac370aab897",
+                    "b38ad879-ccd5-9a10-bdc5-9db1ee7fa1bb",
+                    "3fd8f806-a966-090b-617c-bba8f993e0bf"
+                ],
+                "tag": "game-quiz-question-sheet",
+                "lastUpdate": "2025-04-15T09:42:31",
+                "mediaUuid": null,
+                "extraData": null
+            },
+            {
+                "uuid": "1f019cd1-9dc0-6d42-a8b3-5e1ca3aac9e9",
+                "title": "Game Quiz",
+                "subtitle": null,
+                "description": null,
+                "items": [
+                    "9805956b-cfd1-762e-9563-2a3ff3a72706"
+                ],
+                "tag": "game-quiz-sheet",
+                "lastUpdate": "2025-04-15T09:42:31",
+                "mediaUuid": null,
+                "extraData": null
+            },
+            {
+                "uuid": "bc9fd2ee-5d89-38aa-34ed-5e258f510133",
+                "title": null,
+                "subtitle": null,
+                "description": null,
+                "items": [
+                    "404a7274-a239-af8b-e819-95de84f6ff0b"
+                ],
+                "tag": "game-quiz-entry-sheet",
+                "lastUpdate": "2025-04-15T09:42:31",
+                "mediaUuid": null,
+                "extraData": null
+            },
+            {
+                "uuid": "97e4b648-1364-29cd-ec2b-4ce5cd2cfd4f",
+                "title": null,
+                "subtitle": null,
+                "description": null,
+                "items": [
+                    "0c957577-f14a-ac9a-1070-bd6aa340a802"
+                ],
+                "tag": "plus-game-quiz-sheet",
+                "lastUpdate": "2025-04-15T09:42:31",
+                "mediaUuid": null,
+                "extraData": null
+            },
+            {
+                "uuid": "f6be7f4f-9a9f-c07f-21cf-0efa600e7d51",
+                "title": null,
+                "subtitle": null,
+                "description": null,
+                "items": [
+                    "723d1578-3d44-b513-ac77-26de7e7173d0"
+                ],
+                "tag": "plus-collection-game-quiz-sheet",
+                "lastUpdate": "2025-04-15T09:42:31",
+                "mediaUuid": null,
+                "extraData": null
+            },
+            {
+                "uuid": "a0548d69-940e-13ac-d418-8c733c6e6ef7",
+                "title": "Poi Test 3",
+                "subtitle": null,
+                "description": null,
+                "tag": "poi-list-entry-sheet",
+                "lastUpdate": "2025-04-15T10:02:07",
+                "items": [
+                    "a460d34b-5a8f-5e87-ac7c-9be1f272b04d"
+                ],
+                "extraData": null,
+                "mediaUuid": "ZXRZbRg"
+            },
+            {
+                "uuid": "49c1406b-c5ff-da6d-1a92-2176780fc6d4",
+                "title": "Percorso",
+                "subtitle": null,
+                "description": null,
+                "items": [
+                    "6b76b2b8-0eba-7062-c71f-1c14792dba1a",
+                    "32bc6299-cc78-b2bc-239a-baf207d652a6",
+                    "946b1162-9c95-fb88-2a69-c28e95faced0"
+                ],
+                "tag": "path-main-list-entry-sheet",
+                "lastUpdate": "2025-04-15T10:02:07",
+                "mediaUuid": null,
+                "extraData": null
+            }
+        ],
+        "pathCategories": [
+            {
+                "uuid": "1f019cf3-8a6e-648e-9464-5e1ca3aac9e9",
+                "title": "Categoria 1",
+                "subtitle": null,
+                "description": null,
+                "color": "",
+                "type": "mainPage",
+                "tag": "preview",
+                "order": 0,
+                "mediaUuid": null,
+                "lastUpdate": "2025-04-15T09:57:18",
+                "parentCategories": [
+                    "1f015ecf-2807-628a-8125-8a5682364d25"
+                ]
+            }
+        ],
+        "maps": [
+            {
+                "description": "",
+                "height": 600,
+                "items": [
+                    "1f019cff-0700-61d6-a907-5e1ca3aac9e9",
+                    "1f019cff-0749-61d8-8a2a-5e1ca3aac9e9",
+                    "1f019cff-0771-65fc-8005-5e1ca3aac9e9"
+                ],
+                "lastUpdate": "2025-04-15T10:01:39",
+                "mediaUuid": "oVqW5dA",
+                "order": 1,
+                "subtitle": "",
+                "tag": "map-image",
+                "title": "Mappa interna",
+                "uuid": "1f0147d1-43f7-616c-9c65-1a718f54eda8",
+                "width": 1600
+            }
+        ],
+        "mapItems": [
+            {
+                "latitude": null,
+                "lastUpdate": "2025-04-15T10:01:39",
+                "longitude": null,
+                "mediaUuid": "oVqW5dA",
+                "poiUuid": "1f019cc9-fa8c-60ba-be04-5e1ca3aac9e9",
+                "uuid": "1f019cff-0700-61d6-a907-5e1ca3aac9e9",
+                "x": 300,
+                "y": 500
+            },
+            {
+                "latitude": null,
+                "lastUpdate": "2025-04-15T10:01:52",
+                "longitude": null,
+                "mediaUuid": "oVqW5dA",
+                "poiUuid": "1f019ccf-59ea-6480-9d59-5e1ca3aac9e9",
+                "uuid": "1f019cff-0749-61d8-8a2a-5e1ca3aac9e9",
+                "x": 2000,
+                "y": 2780
+            },
+            {
+                "latitude": null,
+                "lastUpdate": "2025-04-15T10:02:07",
+                "longitude": null,
+                "mediaUuid": "oVqW5dA",
+                "poiUuid": "1f019cd1-2228-695a-81ad-5e1ca3aac9e9",
+                "uuid": "1f019cff-0771-65fc-8005-5e1ca3aac9e9",
+                "x": 3000,
+                "y": 890
+            }
+        ],
+        "poiCategories": []
+    }
+]
