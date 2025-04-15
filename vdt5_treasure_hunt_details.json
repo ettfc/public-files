@@ -204,22 +204,6 @@
             },
             {
                 "inType": "SHT_ITM",
-                "inUuid": "gameactitm-4b84-cdcf-f02e-b162bd4d597d",
-                "poiUuid": "1f019cc9-fa8c-60ba-be04-5e1ca3aac9e9",
-                "outType": "SHT",
-                "outUuid": "gameact-4b84-cdcf-f02e-b162bd4d597d",
-                "action": null
-            },
-            {
-                "inType": "SHT_ITM",
-                "inUuid": "afa333fc-4b84-cdcf-f02e-b162bd4d597d",
-                "poiUuid": "1f019cc9-fa8c-60ba-be04-5e1ca3aac9e9",
-                "outType": "SHT",
-                "outUuid": "dfda278e-f86e-cd20-ec31-f38778dd7a4f",
-                "action": null
-            },
-            {
-                "inType": "SHT_ITM",
                 "inUuid": "6b76b2b8-0eba-7062-c71f-1c14792dba1a",
                 "poiUuid": "1f019cc9-fa8c-60ba-be04-5e1ca3aac9e9",
                 "outType": "SHT",
@@ -243,12 +227,12 @@
                 "action": null
             },
             {
-              "inType": "EPT",
-              "inUuid": "",
-              "poiUuid": "",
-              "outType": "GAME_CONF",
-              "outUuid": "gconf-d01e-447e-b419-a10za5ce4321",
-              "action": null
+                "inType": "EPT",
+                "inUuid": "",
+                "poiUuid": "",
+                "outType": "GAME_CONF",
+                "outUuid": "gconf-d01e-447e-b419-a10za5ce4321",
+                "action": null
             },
             {
                 "inType": "SHT_ITM",
@@ -461,16 +445,6 @@
                 "uuid": "e33595b3-4269-4c60-d951-c0b50fabb391"
             },
             {
-                "lastUpdate": "2025-04-15T09:40:25",
-                "order": 1,
-                "uuid": "afa333fc-4b84-cdcf-f02e-b162bd4d597d"
-            },
-            {
-                "lastUpdate": "2025-04-15T09:40:25",
-                "order": 1,
-                "uuid": "gameactitm-4b84-cdcf-f02e-b162bd4d597d"
-            },
-            {
                 "lastUpdate": "2025-04-15T10:01:39",
                 "order": 0,
                 "uuid": "6b76b2b8-0eba-7062-c71f-1c14792dba1a"
@@ -651,20 +625,7 @@
                 "items": [
                     "f52adf84-629e-7ed3-ce35-4dc8615eb146"
                 ],
-                "tag": "plus-game-quiz-sheet",
-                "lastUpdate": "2025-04-15T09:40:25",
-                "mediaUuid": null,
-                "extraData": null
-            },
-            {
-                "uuid": "dfda278e-f86e-cd20-ec31-f38778dd7a4f",
-                "title": null,
-                "subtitle": null,
-                "description": null,
-                "items": [
-                    "e33595b3-4269-4c60-d951-c0b50fabb391"
-                ],
-                "tag": "plus-collection-game-quiz-sheet",
+                "tag": "game-activator-sheet",
                 "lastUpdate": "2025-04-15T09:40:25",
                 "mediaUuid": null,
                 "extraData": null
@@ -677,20 +638,7 @@
                 "tag": "poi-list-entry-sheet",
                 "lastUpdate": "2025-04-15T10:01:39",
                 "items": [
-                    "gameactitm-4b84-cdcf-f02e-b162bd4d597d"
-                ],
-                "extraData": null,
-                "mediaUuid": "5zeobdX"
-            },
-            {
-                "uuid": "gameact-4b84-cdcf-f02e-b162bd4d597d",
-                "title": "Poi Test 1 Game Activator",
-                "subtitle": null,
-                "description": null,
-                "tag": "game-activator-sheet",
-                "lastUpdate": "2025-04-15T10:01:39",
-                "items": [
-                    "afa333fc-4b84-cdcf-f02e-b162bd4d597d"
+                    "e33595b3-4269-4c60-d951-c0b50fabb391"
                 ],
                 "extraData": null,
                 "mediaUuid": "5zeobdX"
@@ -977,7 +925,9 @@
                     "reward": true,
                     "score": false
                 },
-                "levels": [],
+                "levels": [
+                    "levaaa-d01e-447e-b419-c81ad7ce8954"
+                ],
                 "lastUpdate": "2024-02-29T14:59:21"
             }
         ]
