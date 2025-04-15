@@ -95,14 +95,14 @@
                 "isHidden": false,
                 "order": 1,
                 "poiUuid": "1f019ccf-59ea-6480-9d59-5e1ca3aac9e9",
-                "status": "locked"
+                "status": "visited"
             },
             {
                 "index": "3",
                 "isHidden": false,
                 "order": 2,
                 "poiUuid": "1f019cd1-2228-695a-81ad-5e1ca3aac9e9",
-                "status": "locked"
+                "status": "visited"
             }
         ],
         "pois": [
@@ -260,18 +260,10 @@
             },
             {
                 "inType": "SHT_ITM",
-                "inUuid": "38444854-1514-f45c-9c40-14f0eab78629",
-                "poiUuid": "1f019ccf-59ea-6480-9d59-5e1ca3aac9e9",
-                "outType": "SHT",
-                "outUuid": "11985f9a-fe28-dfb7-1825-637e134c0bf7",
-                "action": null
-            },
-            {
-                "inType": "SHT_ITM",
                 "inUuid": "6665a00f-13cb-0c8d-4f71-631a85babf5f",
                 "poiUuid": "1f019ccf-59ea-6480-9d59-5e1ca3aac9e9",
                 "outType": "SHT",
-                "outUuid": "3e098025-701d-78e3-ed61-3652953d2de4",
+                "outUuid": "11985f9a-fe28-dfb7-1825-637e134c0bf7",
                 "action": null
             },
             {
@@ -356,18 +348,10 @@
             },
             {
                 "inType": "SHT_ITM",
-                "inUuid": "723d1578-3d44-b513-ac77-26de7e7173d0",
-                "poiUuid": "1f019cd1-2228-695a-81ad-5e1ca3aac9e9",
-                "outType": "SHT",
-                "outUuid": "97e4b648-1364-29cd-ec2b-4ce5cd2cfd4f",
-                "action": null
-            },
-            {
-                "inType": "SHT_ITM",
                 "inUuid": "a460d34b-5a8f-5e87-ac7c-9be1f272b04d",
                 "poiUuid": "1f019cd1-2228-695a-81ad-5e1ca3aac9e9",
                 "outType": "SHT",
-                "outUuid": "f6be7f4f-9a9f-c07f-21cf-0efa600e7d51",
+                "outUuid": "97e4b648-1364-29cd-ec2b-4ce5cd2cfd4f",
                 "action": null
             },
             {
@@ -513,11 +497,6 @@
                 "lastUpdate": "2025-04-15T09:42:31",
                 "order": 1,
                 "uuid": "0c957577-f14a-ac9a-1070-bd6aa340a802"
-            },
-            {
-                "lastUpdate": "2025-04-15T09:42:31",
-                "order": 1,
-                "uuid": "723d1578-3d44-b513-ac77-26de7e7173d0"
             },
             {
                 "lastUpdate": "2025-04-15T09:42:31",
@@ -676,20 +655,7 @@
                 "items": [
                     "71f1efbf-a27c-6a71-40a2-224c1889c53a"
                 ],
-                "tag": "plus-game-puzzle-sheet",
-                "lastUpdate": "2025-04-15T09:41:28",
-                "mediaUuid": null,
-                "extraData": null
-            },
-            {
-                "uuid": "3e098025-701d-78e3-ed61-3652953d2de4",
-                "title": null,
-                "subtitle": null,
-                "description": null,
-                "items": [
-                    "38444854-1514-f45c-9c40-14f0eab78629"
-                ],
-                "tag": "plus-collection-game-puzzle-sheet",
+                "tag": "game-activator-sheet",
                 "lastUpdate": "2025-04-15T09:41:28",
                 "mediaUuid": null,
                 "extraData": null
@@ -801,20 +767,7 @@
                 "items": [
                     "0c957577-f14a-ac9a-1070-bd6aa340a802"
                 ],
-                "tag": "plus-game-quiz-sheet",
-                "lastUpdate": "2025-04-15T09:42:31",
-                "mediaUuid": null,
-                "extraData": null
-            },
-            {
-                "uuid": "f6be7f4f-9a9f-c07f-21cf-0efa600e7d51",
-                "title": null,
-                "subtitle": null,
-                "description": null,
-                "items": [
-                    "723d1578-3d44-b513-ac77-26de7e7173d0"
-                ],
-                "tag": "plus-collection-game-quiz-sheet",
+                "tag": "game-activator-sheet",
                 "lastUpdate": "2025-04-15T09:42:31",
                 "mediaUuid": null,
                 "extraData": null
