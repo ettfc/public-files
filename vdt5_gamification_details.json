@@ -7226,11 +7226,15 @@
         "mediaUuid": "X0M6b8L",
         "order": 1,
         "subtitle": "",
-        "tag": "map-image",
+        "tag": "map-image-geoReferenced",
         "title": "Campomorone",
         "uuid": "1efe9fd8-d2ee-6bd4-a06b-0242ac14000c",
         "backgroundColor": "#ff1d1e",
-        "width": 913
+        "width": 913,
+        "bottomRightLatitude": 44.50653460350526,
+        "bottomRightLongitude": 8.892070885467813,
+        "topLeftLatitude": 44.508169522033384,
+        "topLeftLongitude": 8.888700434575648
       }
     ],
     "mapItems": [
