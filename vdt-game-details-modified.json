@@ -8213,6 +8213,14 @@
       },
       {
         "inType": "SHT_ITM",
+        "inUuid": "ddditm-7ef5-a233-332c-5c0e50d6f2bd",
+        "poiUuid": "1efe56da-7728-667a-a77d-0242ac14000a",
+        "outType": "RWD",
+        "outUuid": "123456e9-d01e-447e-b419-c81ad7ce0000",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
         "inUuid": "5c6200ae-ad80-7f08-5594-0592bdf3f60f",
         "poiUuid": "1ef96d20-9dc3-6012-b5cf-0242ac14000a",
         "outType": "SHT",
