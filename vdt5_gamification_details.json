@@ -6070,6 +6070,14 @@
         "outUuid": "d214feb3-91df-1538-b355-3f67e597c089",
         "action": null
       },
+     {
+        "inType": "SHT_ITM",
+        "inUuid": "rewgactitm-e094-fdbd-fffe-fb63ec546cde",
+        "poiUuid": "1efe56da-7728-667a-a77d-0242ac14000a",
+        "outType": "SHT",
+        "outUuid": "d214feb3-91df-1538-b355-3f67e597c089",
+        "action": null
+      },
       {
         "inType": "SHT_ITM",
         "inUuid": "cccitm-7ef5-a233-332c-5c0e50d6f2bd",
@@ -6444,6 +6452,11 @@
         "lastUpdate": "2024-12-03T10:39:44",
         "order": 1,
         "uuid": "gactitm-e094-fdbd-fffe-fb63ec546cde"
+      },
+     {
+        "lastUpdate": "2024-12-03T10:39:44",
+        "order": 1,
+        "uuid": "rewgactitm-e094-fdbd-fffe-fb63ec546cde"
       },
       {
         "lastUpdate": "2024-12-03T10:39:44",
