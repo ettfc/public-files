@@ -6038,7 +6038,14 @@
         "outUuid": "123456e9-d01e-447e-b419-c81ad7ce0000",
         "action": null
       },
-     
+     {
+        "inType": "LVL_ITM",
+        "inUuid": "lvlitmaab-ba11-4f4d-9ef6-57328fb24a22",
+        "poiUuid": "",
+        "outType": "RWD",
+        "outUuid": "123456e9-d01e-447e-b419-c81ad7ce0000",
+        "action": null
+      },
       {
         "inType": "SHT_ITM",
         "inUuid": "aaaitm-7ef5-a233-332c-5c0e50d6f2bd",
@@ -7437,7 +7444,8 @@
          "score": false  
       },
       "levels": [
-        "levaaa-d01e-447e-b419-c81ad7ce8954"
+        "levaaa-d01e-447e-b419-c81ad7ce8954",
+        "levaab-d01e-447e-b419-c81ad7ce8954"
       ],
       "lastUpdate": "2024-02-29T14:59:21"
     }],
@@ -7456,6 +7464,20 @@
           "lvlitmaaa-ba11-4f4d-9ef6-57328fb24a22"
         ],
         "lastUpdate": "2024-02-29T14:59:21"
+      },
+     {
+        "uuid": "levaaa-d01e-447e-b419-c81ad7ce8954",
+        "title": "Scopri il Ladro",
+        "subtitle": null,
+        "description": "Per completare la storia scopri chi ha rubato le opere...",
+        "mediaUuid": null,
+        "isHidden": false,
+        "status": "locked",
+        "order": 1,
+        "items": [
+          "lvlitmaab-ba11-4f4d-9ef6-57328fb24a22"
+        ],
+        "lastUpdate": "2024-02-29T14:59:21"
       }
     ],
     "levelItems": [
@@ -7468,6 +7490,11 @@
         "lastUpdate": "2024-02-29T14:54:35",
         "order": 1,
         "uuid": "lvlitmaaa-ba11-4f4d-9ef6-57328fb24a22"
+      },
+     {
+        "lastUpdate": "2024-02-29T14:54:35",
+        "order": 0,
+        "uuid": "lvlitmaab-ba11-4f4d-9ef6-57328fb24a22"
       }
     ],
     "rewards": [
