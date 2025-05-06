@@ -7471,7 +7471,7 @@
         "subtitle": null,
         "description": "Per completare la storia scopri chi ha rubato le opere...",
         "mediaUuid": null,
-        "isHidden": true,
+        "isHidden": false,
         "status": "locked",
         "order": 1,
         "items": [
