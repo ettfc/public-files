@@ -7457,7 +7457,7 @@
         "description": "Lorem ipsum dolor sit amet...",
         "mediaUuid": null,
         "isHidden": false,
-        "status": "visited",
+        "status": "locked",
         "order": 0,
         "items": [
           "lvlitmaaa-ba61-4f4d-9ef6-57328fb24a22",
@@ -7472,7 +7472,7 @@
         "description": "Per completare la storia scopri chi ha rubato le opere...",
         "mediaUuid": null,
         "isHidden": true,
-        "status": "visted",
+        "status": "locked",
         "order": 1,
         "items": [
           "lvlitmaab-ba11-4f4d-9ef6-57328fb24a22"
