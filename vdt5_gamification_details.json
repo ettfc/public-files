@@ -6024,6 +6024,22 @@
       },
       {
         "inType": "LVL_ITM",
+        "inUuid": "lvlitmaac-ba11-4f4d-9ef6-57328fb24a22"",
+        "poiUuid": "1efe56da-7728-667a-a77d-0242ac14000a",
+        "outType": "SHT",
+        "outUuid": "cc3a09cb-7ef5-a233-332c-5c0e50d6f2bd",
+        "action": null
+      },
+      {
+        "inType": "LVL_ITM",
+        "inUuid": "lvlitmaad-ba11-4f4d-9ef6-57328fb24a22",
+        "poiUuid": "",
+        "outType": "RWD",
+        "outUuid": "123456e9-d01e-447e-b419-c81ad7ce0000",
+        "action": null
+      },
+      {
+        "inType": "LVL_ITM",
         "inUuid": "lvlitmaaa-ba61-4f4d-9ef6-57328fb24a22",
         "poiUuid": "1efe56da-7728-667a-a77d-0242ac14000a",
         "outType": "SHT",
@@ -7475,8 +7491,8 @@
         "status": "locked",
         "order": 1,
         "items": [
-          "lvlitmaaa-ba61-4f4d-9ef6-57328fb24a22",
-          "lvlitmaaa-ba11-4f4d-9ef6-57328fb24a22"
+          "lvlitmaac-ba11-4f4d-9ef6-57328fb24a22",
+          "lvlitmaad-ba11-4f4d-9ef6-57328fb24a22"
         ],
         "lastUpdate": "2024-02-29T14:59:21"
       }
@@ -7496,6 +7512,16 @@
         "lastUpdate": "2024-02-29T14:54:35",
         "order": 0,
         "uuid": "lvlitmaab-ba11-4f4d-9ef6-57328fb24a22"
+      },
+      {
+        "lastUpdate": "2024-02-29T14:54:35",
+        "order": 0,
+        "uuid": "lvlitmaac-ba11-4f4d-9ef6-57328fb24a22"
+      },
+     {
+        "lastUpdate": "2024-02-29T14:54:35",
+        "order": 1,
+        "uuid": "lvlitmaad-ba11-4f4d-9ef6-57328fb24a22"
       }
     ],
     "rewards": [
