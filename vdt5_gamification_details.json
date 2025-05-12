@@ -5710,7 +5710,7 @@
         "isHidden": false,
         "order": 1,
         "poiUuid": "1efe56dd-0351-6c08-9f9e-0242ac14000a",
-        "status": "visited"
+        "status": "locked"
       },
       {
         "index": "3",
