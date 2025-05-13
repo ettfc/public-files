@@ -7441,8 +7441,15 @@
       "configuration": { 
          "gameMode": "treasure_hunt", 
          "reward": true,
-         "score": false  
+         "score": false,
+         "avatarName": "orlandino", 
+         "rewardShapeName": "fiore"
       },
+     "otherStrings": { 
+      "welcome": "Benvenuto nel game", 
+      "levelCompleted": "Complimenti hai superato tutte le sfide per questo livello, vai alla bacheca dei premi per risolvere l'enigma finale!", 
+      "missionCompleted": "Complimenti hai completato la missione assegnata!"   
+     },  
       "levels": [
         "levaaa-d01e-447e-b419-c81ad7ce8954",
         "levaab-d01e-447e-b419-c81ad7ce8954"
