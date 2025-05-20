@@ -6088,6 +6088,14 @@
       },
      {
         "inType": "SHT_ITM",
+        "inUuid": "gactmmm-e094-fdbd-fffe-fb63ec546cde",
+        "poiUuid": "1efe56da-7728-667a-a77d-0242ac14000a",
+        "outType": "SHT",
+        "outUuid": "d214mmm-91df-1538-b355-3f67e597c089",
+        "action": null
+      },
+     {
+        "inType": "SHT_ITM",
         "inUuid": "rewgactitm-e094-fdbd-fffe-fb63ec546cde",
         "poiUuid": "1efe56da-7728-667a-a77d-0242ac14000a",
         "outType": "SHT",
@@ -6948,11 +6956,25 @@
         "tag": "game-activator-sheet",
         "lastUpdate": "2025-02-18T17:26:44",
         "items": [
-          "gactitm-e094-fdbd-fffe-fb63ec546cde"
+          "gactitm-e094-fdbd-fffe-fb63ec546cde",
+          "gactmmm-e094-fdbd-fffe-fb63ec546cde"
         ],
         "extraData": null,
         "mediaUuid": "M5Rav8W"
       },
+     {
+        "uuid": "d214mmmm-91df-1538-b355-3f67e597c089",
+        "title": "game result title",
+        "subtitle": "game result subtitle",
+        "description": "game result description",
+        "tag": "game-result-sheet",
+        "lastUpdate": "2025-02-18T17:26:44",
+        "items": [
+          "1ef8b020-a58f-6506-bf28-0242ac14000a",
+         ],
+        "extraData": null,
+        "mediaUuid": "M5Rav8W"
+      }
       {
         "uuid": "830326e9-d01e-447e-b419-a10za5ce4321",
         "title": "REWARD Villa Rossi",
