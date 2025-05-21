@@ -5288,6 +5288,12 @@
         "type": "path-mapItem-card",
         "value": "hidden",
         "extraData": null
+      },
+     {
+        "uuid": "uuu",
+        "type": "containersTemplate",
+        "value": "cards",
+        "extraData": null
       }
     ],
     "lastUpdate": "2025-05:10:20",
@@ -6091,6 +6097,22 @@
         "inUuid": "gactmmm-e094-fdbd-fffe-fb63ec546cde",
         "poiUuid": "1efe56da-7728-667a-a77d-0242ac14000a",
         "outType": "SHT",
+        "outUuid": "d214mmm-91df-1538-b355-3f67e597c089",
+        "action": null
+      },
+     {
+        "inType": "SHT_ITM",
+        "inUuid": "ggctmmm-e094-fdbd-fffe-fb63ec546cde",
+        "poiUuid": "1efe56da-7728-667a-a77d-0242ac14000a",
+        "outType": "SHT",
+        "outUuid": "d214mmm-91df-1538-b355-3f67e597c089",
+        "action": null
+      },
+     {
+        "inType": "SHT_ITM",
+        "inUuid": "ggccmmm-e094-fdbd-fffe-fb63ec546cde",
+        "poiUuid": "1efe56da-7728-667a-a77d-0242ac14000a",
+        "outType": "SHT",/*/*/
         "outUuid": "d214mmm-91df-1538-b355-3f67e597c089",
         "action": null
       },
@@ -6982,11 +7004,26 @@
         "tag": "game-result-sheet",
         "lastUpdate": "2025-02-18T17:26:44",
         "items": [
-          "1ef8b020-a58f-6506-bf28-0242ac14000a",
+          "ggccmmm-e094-fdbd-fffe-fb63ec546cde",
          ],
+         "templates" : []
         "extraData": null,
         "mediaUuid": "M5Rav8W"
       },
+      {
+        "uuid": "d214mmm-91df-1538-b355-3f67e597c089",
+        "title": "container result",
+        "subtitle": "container result",
+        "description": "container result",
+        "tag": "container-sheet",
+        "lastUpdate": "2025-02-18T17:26:44",
+        "items": [
+          "ggctmmm-e094-fdbd-fffe-fb63ec546cde",
+         ],
+         "templates" : []
+        "extraData": null,
+        "mediaUuid": "M5Rav8W"
+      }
       {
         "uuid": "830326e9-d01e-447e-b419-a10za5ce4321",
         "title": "REWARD Villa Rossi",
