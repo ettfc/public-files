@@ -11,6 +11,14 @@
     "mediaUuid": null,
     "order": 0,
     "tag": "path-intro",
+    "templateDefinitions" : [
+      {
+        "uuid": "bab",
+        "type": "containers",
+        "value": "tutorial",
+        "extraData": null
+      }
+    ]
     "totalSize": 11002523,
     "galleries": [
       {
