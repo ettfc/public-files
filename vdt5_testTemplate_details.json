@@ -567,6 +567,7 @@
           "412035ab-c176-4b6d-616e-37869c8f934b",
           "effd9309-65d5-1633-4659-014441143b0b"
         ],
+        "templates" : ["bab"],
         "extraData": null,
         "mediaUuid": null
       },
