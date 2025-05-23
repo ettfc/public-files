@@ -12,6 +12,14 @@
     "order": 0,
     "tag": "path-intro",
     "totalSize": 11002523,
+   "templateDefinitions": [
+      {
+        "uuid": "bab",
+        "type": "containers",
+        "value": "tutorial",
+        "extraData": null
+      }
+    ],
     "galleries": [
       {
         "description": null,
@@ -552,6 +560,7 @@
         "subtitle": null,
         "description": null,
         "tag": "poi-intro-entry-sheet",
+        "templates": ["bab"],
         "lastUpdate": "2024-11-26T14:03:27",
         "items": [
           "91260f19-ee13-b361-a1dc-982f0c5af412",
