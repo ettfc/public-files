@@ -11,7 +11,7 @@
     "mediaUuid": null,
     "order": 0,
     "tag": "path-intro",
-    "templateDefinitions" : [
+    "templateDefinitions": [
       {
         "uuid": "bab",
         "type": "containers",
