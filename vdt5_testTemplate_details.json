@@ -5807,8 +5807,30 @@
         "title": "Guglielmo Coronini",
         "subtitle": "Scopri Coronini",
         "description": "Oh, ***wow***, una *descrizione*",
-        "items": [],
+        "items": ["cs1"],
         "tag": "game-hint-sheet",
+        "lastUpdate": "2024-12-03T10:39:44",
+        "mediaUuid": "bW1NY5K",
+        "extraData": null
+      },
+      {
+        "uuid": "cs2fd947-2534-4b8e-8450-ea8bf88f0e15",
+        "title": "",
+        "subtitle": "'",
+        "description": "",
+        "items": ["cs2"],
+        "tag": "container-sheet",
+        "lastUpdate": "2024-12-03T10:39:44",
+        "mediaUuid": "bW1NY5K",
+        "extraData": null
+      } ,
+      {
+        "uuid": "cs3fd947-2534-4b8e-8450-ea8bf88f0e15",
+        "title": "Ciao questo e un suggerimento",
+        "subtitle": "'",
+        "description": "",
+        "items": [],
+        "tag": "text-sheet",
         "lastUpdate": "2024-12-03T10:39:44",
         "mediaUuid": "bW1NY5K",
         "extraData": null
@@ -7024,6 +7046,22 @@
         "poiUuid": "1ef96d20-9dc3-6012-b5cf-0242ac14000a",
         "outType": "SHT",
         "outUuid": "1efa6695-9ba4-64ba-9cff-0242ac14000a",
+        "action": null
+      },
+       {
+        "inType": "SHT_ITM",
+        "inUuid": "cs1",
+        "poiUuid": "1ef96d20-9dc3-6012-b5cf-0242ac14000a",
+        "outType": "SHT",
+        "outUuid": "cs2fd947-2534-4b8e-8450-ea8bf88f0e15",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "cs2",
+        "poiUuid": "1ef96d20-9dc3-6012-b5cf-0242ac14000a",
+        "outType": "SHT",
+        "outUuid": "cs3fd947-2534-4b8e-8450-ea8bf88f0e15",
         "action": null
       },
       {
