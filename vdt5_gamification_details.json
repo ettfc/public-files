@@ -7566,7 +7566,7 @@
          "score": false,
          "avatarName": "orlandino", 
          "rewardShapeName": "fiore",
-         "poiShapeName":nil
+         "poiShapeName":null
       },
      "otherStrings": { 
       "welcome": "Benvenuto nel game", 
