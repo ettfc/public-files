@@ -568,7 +568,7 @@
           "412035ab-c176-4b6d-616e-37869c8f934b",
           "effd9309-65d5-1633-4659-014441143b0b"
         ],
-        "templates":"formatted-c9c5-4549-8b00-7b0b011cf9aa",
+        "templates":["formatted-c9c5-4549-8b00-7b0b011cf9aa"],
         "extraData": null,
         "mediaUuid": null
       },
