@@ -6536,7 +6536,7 @@
         "inUuid": "123456e9-rwd2-447e-b419-c81ad7ce0000",
         "poiUuid": "",
         "outType": "SHT",
-        "outUuid": "830326e9-d01e-447e-b419-a10za5ce4321",
+        "outUuid": "830326e9-emptyrwd-447e-b419-a10za5ce4321",
         "action": null
       },
       {
@@ -6544,7 +6544,7 @@
         "inUuid": "123456e9-rwd3-447e-b419-c81ad7ce0000",
         "poiUuid": "",
         "outType": "SHT",
-        "outUuid": "830326e9-emptyrwd-447e-b419-a10za5ce4321",
+        "outUuid": "830326e9-d01e-447e-b419-a10za5ce4321",
         "action": null
       }
     ],
