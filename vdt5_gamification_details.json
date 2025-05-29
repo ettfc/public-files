@@ -571,7 +571,7 @@
           "effd9309-65d5-1633-4659-014441143b0b"
         ],
         "templates": [
-          "tutorial-c9c5-4549-8b00-7b0b011cf9aa"
+          "cards-c9c5-4549-8b00-7b0b011cf9aa"
         ],
         "extraData": null,
         "mediaUuid": null
@@ -592,9 +592,9 @@
     ],
     "templateDefinitions": [
       {
-        "uuid": "tutorial-c9c5-4549-8b00-7b0b011cf9aa",
+        "uuid": "cards-c9c5-4549-8b00-7b0b011cf9aa",
         "type": "page-container-style-",
-        "value": "tutorial",
+        "value": "cards",
         "extraData": null,
         "lastUpdate": "2023-11-07T14:59:07"
       }
