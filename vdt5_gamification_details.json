@@ -1,4 +1,4 @@
- [
+[
   {
     "uuid": "1ef8b020-705a-6dfe-878a-0242ac14000a",
     "title": "Intro",
@@ -12,7 +12,7 @@
     "order": 0,
     "tag": "path-intro",
     "totalSize": 11002523,
-   "templateDefinitions": [
+    "templateDefinitions": [
       {
         "uuid": "bab",
         "type": "containers",
@@ -560,7 +560,9 @@
         "subtitle": null,
         "description": null,
         "tag": "poi-intro-entry-sheet",
-        "templates": ["bab"],
+        "templates": [
+          "bab"
+        ],
         "lastUpdate": "2024-11-26T14:03:27",
         "items": [
           "91260f19-ee13-b361-a1dc-982f0c5af412",
@@ -568,7 +570,9 @@
           "412035ab-c176-4b6d-616e-37869c8f934b",
           "effd9309-65d5-1633-4659-014441143b0b"
         ],
-        "templates":["formatted-c9c5-4549-8b00-7b0b011cf9aa"],
+        "templates": [
+          "formatted-c9c5-4549-8b00-7b0b011cf9aa"
+        ],
         "extraData": null,
         "mediaUuid": null
       },
@@ -586,13 +590,15 @@
         "extraData": null
       }
     ],
-   "templateDefinitions":[{
+    "templateDefinitions": [
+      {
         "uuid": "formatted-c9c5-4549-8b00-7b0b011cf9aa",
-        "type": "page-container-style-", 
-        "value": "formatted-page", 
-        "extraData": null, 
-        "lastUpdate": "2023-11-07T14:59:07", 
-     }],
+        "type": "page-container-style-",
+        "value": "formatted-page",
+        "extraData": null,
+        "lastUpdate": "2023-11-07T14:59:07"
+      }
+    ],
     "pathCategories": [],
     "maps": [],
     "mapItems": [],
@@ -3361,7 +3367,7 @@
       {
         "uuid": "extra2-1ef8a2db-04c5-6262-9f16-0242ac14000b",
         "title": "Path extra 2",
-                "subtitle": null,
+        "subtitle": null,
         "description": "**Lorem ipsum** dolor sit *amet*, consectetur ***adipiscing elit***. Integer in ante turpis. Duis nec enim vel dui interdum molestie nec eu elit. Donec tortor tortor, maximus in mi quis, pretium euismod urna. Etiam pellentesque nisl magna, in facilisis elit elementum quis. Fusce maximus bibendum fermentum. Sed lacus mi, laoreet non quam eget, mollis venenatis diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed quis magna tincidunt augue interdum cursus. Proin molestie ipsum dolor, ac pellentesque odio consequat id. [Google](http://google.com) Sed eget sem ut orci tristique molestie at convallis augue. Ut metus justo, luctus suscipit blandit non, consequat sed dui. Curabitur dictum, magna vitae varius commodo, nisi neque vehicula leo, quis mollis nisl urna aliquet nisl. Aliquam quis neque arcu.\n\n[External Link](http://www.google.com)\n\nOppure [scrivici una mail](mailto:support@ettsolutions.com)",
         "items": [],
         "tag": "text-sheet",
@@ -5306,7 +5312,7 @@
         "value": "hidden",
         "extraData": null
       },
-     {
+      {
         "uuid": "uuu",
         "type": "containersTemplate",
         "value": "cards",
@@ -5740,7 +5746,7 @@
         "isHidden": false,
         "order": 2,
         "poiUuid": "1efe56e1-8aec-638a-b674-0242ac14000a",
-        "status": "visited"
+        "status": "locked"
       },
       {
         "index": "4",
@@ -6047,10 +6053,26 @@
       },
       {
         "inType": "LVL_ITM",
-        "inUuid": "lvlitmaaa-ba61-4f4d-9ef6-57328fb24a22",
+        "inUuid": "lvlitmaaa-itm1-4f4d-9ef6-57328fb24a22",
         "poiUuid": "1efe56da-7728-667a-a77d-0242ac14000a",
         "outType": "SHT",
         "outUuid": "cc3a09cb-7ef5-a233-332c-5c0e50d6f2bd",
+        "action": null
+      },
+      {
+        "inType": "LVL_ITM",
+        "inUuid": "lvlitmaaa-itm2-4f4d-9ef6-57328fb24a22",
+        "poiUuid": "1efe56dd-0351-6c08-9f9e-0242ac14000a",
+        "outType": "SHT",
+        "outUuid": "e957265f-6235-1e9c-5708-65ecf2582044",
+        "action": null
+      },
+      {
+        "inType": "LVL_ITM",
+        "inUuid": "lvlitmaaa-itm3-4f4d-9ef6-57328fb24a22",
+        "poiUuid": "1efe56e1-8aec-638a-b674-0242ac14000a",
+        "outType": "SHT",
+        "outUuid": "eebbcdc4-f1ba-b3b0-bbe1-a11d4a53a588",
         "action": null
       },
       {
@@ -6061,7 +6083,7 @@
         "outUuid": "123456e9-d01e-447e-b419-c81ad7ce0000",
         "action": null
       },
-     {
+      {
         "inType": "LVL_ITM",
         "inUuid": "lvlitmaab-ba11-4f4d-9ef6-57328fb24a22",
         "poiUuid": "",
@@ -6109,7 +6131,7 @@
         "outUuid": "d214feb3-91df-1538-b355-3f67e597c089",
         "action": null
       },
-     {
+      {
         "inType": "SHT_ITM",
         "inUuid": "gactmmm-e094-fdbd-fffe-fb63ec546cde",
         "poiUuid": "1efe56da-7728-667a-a77d-0242ac14000a",
@@ -6117,7 +6139,7 @@
         "outUuid": "d214mmm-91df-1538-b355-3f67e597c089",
         "action": null
       },
-     {
+      {
         "inType": "SHT_ITM",
         "inUuid": "ggctmmm-e094-fdbd-fffe-fb63ec546cde",
         "poiUuid": "1efe56da-7728-667a-a77d-0242ac14000a",
@@ -6125,7 +6147,7 @@
         "outUuid": "d214mmm-91df-1538-b355-3f67e597c089",
         "action": null
       },
-     {
+      {
         "inType": "SHT_ITM",
         "inUuid": "ggccmmm-e094-fdbd-fffe-fb63ec546cde",
         "poiUuid": "1efe56da-7728-667a-a77d-0242ac14000a",
@@ -6133,7 +6155,7 @@
         "outUuid": "d214mmm-91df-1538-b355-3f67e597c089",
         "action": null
       },
-     {
+      {
         "inType": "SHT_ITM",
         "inUuid": "rewgactitm-e094-fdbd-fffe-fb63ec546cde",
         "poiUuid": "1efe56da-7728-667a-a77d-0242ac14000a",
@@ -6141,7 +6163,7 @@
         "outUuid": "d214feb3-91df-1538-b355-3f67e597c089",
         "action": null
       },
-     {
+      {
         "inType": "SHT_ITM",
         "inUuid": "gactitm-e094-fdbd-fffe-fb63ec546cde",
         "poiUuid": "1efe56da-7728-667a-a77d-0242ac14000a",
@@ -6151,18 +6173,50 @@
       },
       {
         "inType": "SHT_ITM",
-        "inUuid": "cccitm-7ef5-a233-332c-5c0e50d6f2bd",
+        "inUuid": "cccitm-itm1-a233-332c-5c0e50d6f2bd",
         "poiUuid": "1efe56da-7728-667a-a77d-0242ac14000a",
         "outType": "SHT",
         "outUuid": "gactsht-7ef5-a233-332c-5c0e50d6f2bd",
         "action": null
       },
-     {
+      {
         "inType": "SHT_ITM",
-        "inUuid": "ddditm-7ef5-a233-332c-5c0e50d6f2bd",
+        "inUuid": "cccitm-itm2-a233-332c-5c0e50d6f2bd",
+        "poiUuid": "1efe56dd-0351-6c08-9f9e-0242ac14000a",
+        "outType": "SHT",
+        "outUuid": "gactsht-7ef5-a233-332c-5c0e50d6f2bd",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "cccitm-itm3-a233-332c-5c0e50d6f2bd",
+        "poiUuid": "1efe56e1-8aec-638a-b674-0242ac14000a",
+        "outType": "SHT",
+        "outUuid": "gactsht-7ef5-a233-332c-5c0e50d6f2bd",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "ddditm-rwd1-a233-332c-5c0e50d6f2bd",
         "poiUuid": "1efe56da-7728-667a-a77d-0242ac14000a",
         "outType": "RWD",
         "outUuid": "123456e9-d01e-447e-b419-c81ad7ce0000",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "ddditm-rwd2-a233-332c-5c0e50d6f2bd",
+        "poiUuid": "1efe56da-7728-667a-a77d-0242ac14000a",
+        "outType": "RWD",
+        "outUuid": "123456e9-rwd2-447e-b419-c81ad7ce0000",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "ddditm-rwd3-a233-332c-5c0e50d6f2bd",
+        "poiUuid": "1efe56da-7728-667a-a77d-0242ac14000a",
+        "outType": "RWD",
+        "outUuid": "123456e9-rwd3-447e-b419-c81ad7ce0000",
         "action": null
       },
       {
@@ -6471,12 +6525,28 @@
       },
       {
         "inType": "RWD_EPT",
-        "inUuid": "123456e9-d01e-447e-b419-c81ad7ce0000", 
+        "inUuid": "123456e9-d01e-447e-b419-c81ad7ce0000",
         "poiUuid": "",
         "outType": "SHT",
         "outUuid": "830326e9-d01e-447e-b419-a10za5ce4321",
         "action": null
-     }
+      },
+      {
+        "inType": "RWD_EPT",
+        "inUuid": "123456e9-rwd2-447e-b419-c81ad7ce0000",
+        "poiUuid": "",
+        "outType": "SHT",
+        "outUuid": "830326e9-d01e-447e-b419-a10za5ce4321",
+        "action": null
+      },
+      {
+        "inType": "RWD_EPT",
+        "inUuid": "123456e9-rwd3-447e-b419-c81ad7ce0000",
+        "poiUuid": "",
+        "outType": "SHT",
+        "outUuid": "830326e9-emptyrwd-447e-b419-a10za5ce4321",
+        "action": null
+      }
     ],
     "sheetItems": [
       {
@@ -6519,12 +6589,12 @@
         "order": 0,
         "uuid": "6773ec1c-ad6b-513f-93d9-66b47c26939a"
       },
-     {
+      {
         "lastUpdate": "2024-12-03T10:39:44",
         "order": 2,
         "uuid": "gactmmm-e094-fdbd-fffe-fb63ec546cde"
       },
-     {
+      {
         "lastUpdate": "2024-12-03T10:39:44",
         "order": 2,
         "uuid": "cs1"
@@ -6533,13 +6603,13 @@
         "lastUpdate": "2024-12-03T10:39:44",
         "order": 2,
         "uuid": "cs2"
-      }
-     ,{
+      },
+      {
         "lastUpdate": "2024-12-03T10:39:44",
         "order": 1,
         "uuid": "gactitm-e094-fdbd-fffe-fb63ec546cde"
       },
-     {
+      {
         "lastUpdate": "2024-12-03T10:39:44",
         "order": 1,
         "uuid": "rewgactitm-e094-fdbd-fffe-fb63ec546cde"
@@ -6547,12 +6617,32 @@
       {
         "lastUpdate": "2024-12-03T10:39:44",
         "order": 1,
-        "uuid": "cccitm-7ef5-a233-332c-5c0e50d6f2bd"
+        "uuid": "cccitm-itm1-a233-332c-5c0e50d6f2bd"
       },
       {
         "lastUpdate": "2024-12-03T10:39:44",
         "order": 1,
-        "uuid": "ddditm-7ef5-a233-332c-5c0e50d6f2bd"
+        "uuid": "cccitm-itm2-a233-332c-5c0e50d6f2bd"
+      },
+      {
+        "lastUpdate": "2024-12-03T10:39:44",
+        "order": 1,
+        "uuid": "cccitm-itm3-a233-332c-5c0e50d6f2bd"
+      },
+      {
+        "lastUpdate": "2024-12-03T10:39:44",
+        "order": 1,
+        "uuid": "ddditm-rwd1-a233-332c-5c0e50d6f2bd"
+      },
+      {
+        "lastUpdate": "2024-12-03T10:39:44",
+        "order": 1,
+        "uuid": "ddditm-rwd2-a233-332c-5c0e50d6f2bd"
+      },
+      {
+        "lastUpdate": "2024-12-03T10:39:44",
+        "order": 1,
+        "uuid": "ddditm-rwd3-a233-332c-5c0e50d6f2bd"
       },
       {
         "lastUpdate": "2024-12-03T10:39:44",
@@ -6967,13 +7057,15 @@
         "subtitle": "Visibile",
         "description": "Descrizione",
         "tag": "poi-external-entry-sheet",
-        "otherStrings": { "clue": "Lorem ipsum Villa Rossi ..." },
+        "otherStrings": {
+          "clue": "Lorem ipsum Villa Rossi ..."
+        },
         "lastUpdate": "2025-02-18T17:26:44",
         "items": [
           "aaaitm-7ef5-a233-332c-5c0e50d6f2bd",
           "bbbitm-7ef5-a233-332c-5c0e50d6f2bd",
-          "cccitm-7ef5-a233-332c-5c0e50d6f2bd",
-          "ddditm-7ef5-a233-332c-5c0e50d6f2bd"
+          "cccitm-itm1-a233-332c-5c0e50d6f2bd",
+          "ddditm-rwd1-a233-332c-5c0e50d6f2bd"
         ],
         "extraData": null,
         "mediaUuid": "M5Rav8W"
@@ -7023,7 +7115,7 @@
         "extraData": null,
         "mediaUuid": "M5Rav8W"
       },
-     {
+      {
         "uuid": "d214mmm-91df-1538-b355-3f67e597c089",
         "title": "game result title",
         "subtitle": "game result subtitle",
@@ -7032,8 +7124,10 @@
         "lastUpdate": "2025-02-18T17:26:44",
         "items": [
           "ggccmmm-e094-fdbd-fffe-fb63ec546cde"
-         ],
-         "templates" : ["uuu"],
+        ],
+        "templates": [
+          "uuu"
+        ],
         "extraData": null,
         "mediaUuid": "M5Rav8W"
       },
@@ -7045,8 +7139,8 @@
         "tag": "container-sheet",
         "lastUpdate": "2025-02-18T17:26:44",
         "items": [
-          "ggctmmm-e094-fdbd-fffe-fb63ec546cde",
-         ],
+          "ggctmmm-e094-fdbd-fffe-fb63ec546cde"
+        ],
         "templates": [],
         "extraData": null,
         "mediaUuid": "M5Rav8W"
@@ -7063,6 +7157,17 @@
           "brewitm-7ef5-a233-332c-5c0e50d6f2bd",
           "crewitm-7ef5-a233-332c-5c0e50d6f2bd"
         ],
+        "extraData": null,
+        "mediaUuid": "M5Rav8W"
+      },
+      {
+        "uuid": "830326e9-emptyrwd-447e-b419-a10za5ce4321",
+        "title": "REWARD Villa Rossi",
+        "subtitle": "REWARD",
+        "description": "Descrizione",
+        "tag": "reward-entry-sheet",
+        "lastUpdate": "2025-02-18T17:26:44",
+        "items": [],
         "extraData": null,
         "mediaUuid": "M5Rav8W"
       },
@@ -7127,12 +7232,14 @@
         "mediaUuid": null,
         "extraData": null
       },
-     {
+      {
         "uuid": "cs1fd947-2534-4b8e-8450-ea8bf88f0e15",
         "title": "Guglielmo Coronini",
         "subtitle": "Scopri Coronini",
         "description": "Oh, ***wow***, una *descrizione*",
-        "items": ["cs1"],
+        "items": [
+          "cs1"
+        ],
         "tag": "game-hint-sheet",
         "lastUpdate": "2024-12-03T10:39:44",
         "mediaUuid": "bW1NY5K",
@@ -7143,12 +7250,14 @@
         "title": "",
         "subtitle": "'",
         "description": "",
-        "items": ["cs2"],
+        "items": [
+          "cs2"
+        ],
         "tag": "container-sheet",
         "lastUpdate": "2024-12-03T10:39:44",
         "mediaUuid": "bW1NY5K",
         "extraData": null
-      } ,
+      },
       {
         "uuid": "cs3fd947-2534-4b8e-8450-ea8bf88f0e15",
         "title": "Ciao questo e un suggerimento",
@@ -7168,7 +7277,9 @@
         "tag": "poi-external-entry-sheet",
         "lastUpdate": "2025-02-07T17:23:43",
         "items": [
-              "shitm-maindata-pbaracca-5708-65ecf2582044"
+          "shitm-maindata-pbaracca-5708-65ecf2582044",
+          "cccitm-itm2-a233-332c-5c0e50d6f2bd",
+          "ddditm-rwd2-a233-332c-5c0e50d6f2bd"
         ],
         "extraData": null,
         "mediaUuid": null
@@ -7187,11 +7298,14 @@
       {
         "uuid": "eebbcdc4-f1ba-b3b0-bbe1-a11d4a53a588",
         "title": "Erzelli",
-        "subtitle": "Nascosto",
+        "subtitle": "Bloccato",
         "description": null,
         "tag": "poi-external-entry-sheet",
         "lastUpdate": "2025-02-07T17:22:30",
-        "items": [],
+        "items": [
+          "cccitm-itm3-a233-332c-5c0e50d6f2bd",
+          "ddditm-rwd3-a233-332c-5c0e50d6f2bd"
+        ],
         "extraData": null,
         "mediaUuid": null
       },
@@ -7558,27 +7672,29 @@
         "uuid": "1efe56e5-cccc-6544-b160-0242ac14000a"
       }
     ],
-    "gameConfigurators": [{
-      "uuid": "gconf-d01e-447e-b419-a10za5ce4321",
-      "configuration": { 
-         "gameMode": "treasure_hunt", 
-         "reward": true,
-         "score": false,
-         "avatarName": "orlandino", 
-         "rewardShapeName": "fiore",
-         "poiShapeName":null
-      },
-     "otherStrings": { 
-      "welcome": "Benvenuto nel game", 
-      "levelCompleted": "Complimenti hai superato tutte le sfide per questo livello, vai alla bacheca dei premi per risolvere l'enigma finale!", 
-      "missionCompleted": "Complimenti hai completato la missione assegnata!"   
-     },  
-      "levels": [
-        "levaaa-d01e-447e-b419-c81ad7ce8954",
-        "levaab-d01e-447e-b419-c81ad7ce8954"
-      ],
-      "lastUpdate": "2024-02-29T14:59:21"
-    }],
+    "gameConfigurators": [
+      {
+        "uuid": "gconf-d01e-447e-b419-a10za5ce4321",
+        "configuration": {
+          "gameMode": "treasure_hunt",
+          "reward": true,
+          "score": false,
+          "avatarName": "orlandino",
+          "rewardShapeName": "fiore",
+          "poiShapeName": null
+        },
+        "otherStrings": {
+          "welcome": "Benvenuto nel game",
+          "levelCompleted": "Complimenti hai superato tutte le sfide per questo livello, vai alla bacheca dei premi per risolvere l'enigma finale!",
+          "missionCompleted": "Complimenti hai completato la missione assegnata!"
+        },
+        "levels": [
+          "levaaa-d01e-447e-b419-c81ad7ce8954",
+          "levaab-d01e-447e-b419-c81ad7ce8954"
+        ],
+        "lastUpdate": "2024-02-29T14:59:21"
+      }
+    ],
     "levels": [
       {
         "uuid": "levaaa-d01e-447e-b419-c81ad7ce8954",
@@ -7590,12 +7706,14 @@
         "status": "locked",
         "order": 0,
         "items": [
-          "lvlitmaaa-ba61-4f4d-9ef6-57328fb24a22",
+          "lvlitmaaa-itm1-4f4d-9ef6-57328fb24a22",
+          "lvlitmaaa-itm2-4f4d-9ef6-57328fb24a22",
+          "lvlitmaaa-itm3-4f4d-9ef6-57328fb24a22",
           "lvlitmaaa-ba11-4f4d-9ef6-57328fb24a22"
         ],
         "lastUpdate": "2024-02-29T14:59:21"
       },
-     {
+      {
         "uuid": "levaab-d01e-447e-b419-c81ad7ce8954",
         "title": "Scopri il Ladro",
         "subtitle": null,
@@ -7614,28 +7732,54 @@
       {
         "lastUpdate": "2024-02-29T14:54:35",
         "order": 0,
-        "uuid": "lvlitmaaa-ba61-4f4d-9ef6-57328fb24a22"
+        "uuid": "lvlitmaaa-itm1-4f4d-9ef6-57328fb24a22"
       },
-     {
+      {
+        "lastUpdate": "2024-02-29T14:54:35",
+        "order": 1,
+        "uuid": "lvlitmaaa-itm2-4f4d-9ef6-57328fb24a22"
+      },
+      {
+        "lastUpdate": "2024-02-29T14:54:35",
+        "order": 2,
+        "uuid": "lvlitmaaa-itm3-4f4d-9ef6-57328fb24a22"
+      },
+      {
         "lastUpdate": "2024-02-29T14:54:35",
         "order": 1,
         "uuid": "lvlitmaaa-ba11-4f4d-9ef6-57328fb24a22"
       },
-     {
+      {
         "lastUpdate": "2024-02-29T14:54:35",
         "order": 0,
         "uuid": "lvlitmaab-ba11-4f4d-9ef6-57328fb24a22"
       }
     ],
     "rewards": [
-    { 
+      {
         "uuid": "123456e9-d01e-447e-b419-c81ad7ce0000",
         "title": "Premio 1",
         "subtitle": null,
-        "description": "Lorem ipsum dolor sit amet...", 
+        "description": "Lorem ipsum dolor sit amet...",
         "mediaUuid": "M5Rav8W",
         "lastUpdate": "2024-02-29T14:59:21"
-    }
+      },
+      {
+        "uuid": "123456e9-rwd2-447e-b419-c81ad7ce0000",
+        "title": "Premio 2",
+        "subtitle": null,
+        "description": "Lorem ipsum dolor sit amet...",
+        "mediaUuid": "M5Rav8W",
+        "lastUpdate": "2024-02-29T14:59:21"
+      },
+      {
+        "uuid": "123456e9-rwd3-447e-b419-c81ad7ce0000",
+        "title": "Premio vuoto",
+        "subtitle": null,
+        "description": "Lorem ipsum dolor sit amet...",
+        "mediaUuid": "M5Rav8W",
+        "lastUpdate": "2024-02-29T14:59:21"
+      }
     ]
   },
   {
@@ -8700,7 +8844,6 @@
         "outUuid": "cs3fd947-2534-4b8e-8450-ea8bf88f0e15",
         "action": null
       },
-
       {
         "inType": "SHT_ITM",
         "inUuid": "5b483e23-6d8c-e657-798e-1f548245955d",
@@ -13891,4 +14034,4 @@
     "mapItems": [],
     "poiCategories": []
   }
- ]
+]
