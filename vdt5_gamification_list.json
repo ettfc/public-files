@@ -2,41 +2,41 @@
   "mediaFiles": [
     {
       "lastUpdate": "2024-12-16 15:50:07",
-      "mimeType": "image\/jpeg",
+      "mimeType": "image/jpeg",
       "name": "collezione_dipinti.jpg",
       "size": 234251,
       "type": "IMG",
-      "url": "https:\/\/dev-coronini-bo.devworkbench.it\/dam\/mie\/media\/X0eGo56\/original.jpg",
+      "url": "https://dev-coronini-bo.devworkbench.it/dam/mie/media/X0eGo56/original.jpg",
       "altText": "",
       "uuid": "X0eGo56"
     },
     {
       "lastUpdate": "2024-11-12 17:27:40",
-      "mimeType": "image\/png",
+      "mimeType": "image/png",
       "name": "image-lorem-ipsum.png",
       "size": 18136,
       "type": "IMG",
-      "url": "https:\/\/dev-coronini-bo.devworkbench.it\/dam\/mie\/media\/Lg8nP1O\/original.png",
+      "url": "https://dev-coronini-bo.devworkbench.it/dam/mie/media/Lg8nP1O/original.png",
       "altText": "",
       "uuid": "Lg8nP1O"
     },
     {
       "lastUpdate": "2024-10-16 15:58:36",
-      "mimeType": "image\/png",
+      "mimeType": "image/png",
       "name": "Icona-Store-BR.png",
       "size": 18449,
       "type": "IMG",
-      "url": "https:\/\/dev-coronini-bo.devworkbench.it\/dam\/mie\/media\/bW1NY5K\/original.png",
+      "url": "https://dev-coronini-bo.devworkbench.it/dam/mie/media/bW1NY5K/original.png",
       "altText": "",
       "uuid": "bW1NY5K"
     },
     {
       "lastUpdate": "2024-10-16 15:46:29",
-      "mimeType": "image\/png",
+      "mimeType": "image/png",
       "name": "6994770.png",
       "size": 22310,
       "type": "IMG",
-      "url": "https:\/\/dev-coronini-bo.devworkbench.it\/dam\/mie\/media\/Wg8YJ57\/original.png",
+      "url": "https://dev-coronini-bo.devworkbench.it/dam/mie/media/Wg8YJ57/original.png",
       "altText": "",
       "uuid": "Wg8YJ57"
     }
@@ -135,6 +135,17 @@
       "type": "target",
       "title": "Target B",
       "uuid": "cat-target-b"
+    },
+    {
+      "uuid": "1f030a53-4921-67c8-be97-d235bc588b63",
+      "title": "Target Museo City",
+      "subtitle": "",
+      "description": "",
+      "tag": "target-museocity",
+      "type": "target",
+      "order": 0,
+      "mediaUuid": null,
+      "lastUpdate": "2025-06-06T14:55:44"
     }
   ],
   "paths": [
@@ -385,7 +396,7 @@
           "description": null,
           "modelLabel": "Calice",
           "catalogName": "catalog_0.1.bin",
-          "addressablesPath": "https:\/\/dev-coronini-bo.devworkbench.it\/dam\/mie\/media\/q8wLJ5y\/original.zip\/dam67cebf884e3231.01012308-Coronini.ar",
+          "addressablesPath": "https://dev-coronini-bo.devworkbench.it/dam/mie/media/q8wLJ5y/original.zip/dam67cebf884e3231.01012308-Coronini.ar",
           "lastUpdate": "2025-03-13T10:18:26"
         },
         {
@@ -395,7 +406,7 @@
           "description": null,
           "modelLabel": "CaliceCane",
           "catalogName": "catalog_0.1.bin",
-          "addressablesPath": "https:\/\/dev-coronini-bo.devworkbench.it\/dam\/mie\/media\/q8wLJ5y\/original.zip\/dam67cebf884e3231.01012308-Coronini.ar",
+          "addressablesPath": "https://dev-coronini-bo.devworkbench.it/dam/mie/media/q8wLJ5y/original.zip/dam67cebf884e3231.01012308-Coronini.ar",
           "lastUpdate": "2025-03-13T10:18:39"
         }
       ],
@@ -555,6 +566,78 @@
       "tag": "path-main-list",
       "totalSize": 22310,
       "poiCategories": []
+    },
+    {
+      "uuid": "1f042d4a-3b54-66c0-9436-8a6643d96647",
+      "title": "Intro",
+      "subtitle": null,
+      "categories": [
+        "1f030a53-4921-67c8-be97-d235bc588b63"
+      ],
+      "groups": [],
+      "color": "#FFC246",
+      "description": null,
+      "lastUpdate": "2025-06-06T14:51:18",
+      "mediaUuid": null,
+      "order": 0,
+      "tag": "path-target-intro",
+      "totalSize": 1399267,
+      "templateDefinitions": [
+        {
+          "uuid": "formatted123",
+          "type": "page-container-style",
+          "value": "formatted-page",
+          "extraData": null
+        }
+      ]
+    },
+    {
+      "uuid": "1f030a5b-8fa7-6cbc-b1e7-d235bc588b63",
+      "title": "Mission",
+      "subtitle": null,
+      "categories": [
+        "1f030a53-4921-67c8-be97-d235bc588b63"
+      ],
+      "groups": [],
+      "color": null,
+      "description": null,
+      "lastUpdate": "2025-06-06T14:55:53",
+      "mediaUuid": null,
+      "order": 1,
+      "tag": "path-target-intro",
+      "totalSize": 35801007,
+      "templateDefinitions": [
+        {
+          "uuid": "card123",
+          "type": "page-container-style",
+          "value": "card",
+          "extraData": null
+        }
+      ]
+    },
+    {
+      "uuid": "1f042d50-62c8-6610-8506-8a6643d96647",
+      "title": "Tutorial",
+      "subtitle": null,
+      "categories": [
+        "1f030a53-4921-67c8-be97-d235bc588b63"
+      ],
+      "groups": [],
+      "color": "#FFC246",
+      "description": null,
+      "lastUpdate": "2025-06-06T14:55:44",
+      "mediaUuid": null,
+      "order": 2,
+      "tag": "path-target-intro",
+      "totalSize": 36285823,
+      "templateDefinitions": [
+        {
+          "uuid": "formatted123",
+          "type": "page-container-style",
+          "value": "formatted-page",
+          "extraData": null
+        }
+      ]
     }
   ]
 }
