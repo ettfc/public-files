@@ -14271,7 +14271,10 @@
           "ff3171f4-30d9-ed1c-a070-b647127d045d"
         ],
         "extraData": null,
-        "mediaUuid": null
+        "mediaUuid": null,
+         "templates": [
+          "formatted123"
+        ]
       },
       {
         "uuid": "633b5e8e-79a8-9a61-b310-29f76d9451d7",
@@ -14285,9 +14288,7 @@
         "lastUpdate": "2025-06-06T14:51:18",
         "mediaUuid": null,
         "extraData": null,
-        "templates": [
-          "formatted123"
-        ]
+        "templates": []
       }
     ],
     "pathCategories": [
@@ -14692,7 +14693,10 @@
           "35726028-39d1-8b48-1565-8d84d1d335dd"
         ],
         "extraData": null,
-        "mediaUuid": null
+        "mediaUuid": null,
+        "templates": [
+          "tutorial123"
+        ]
       },
       {
         "uuid": "fba97331-59bf-c99d-cbbb-4e93cd4f15c6",
@@ -14706,9 +14710,7 @@
         "lastUpdate": "2025-06-06T14:55:44",
         "mediaUuid": null,
         "extraData": null,
-        "templates": [
-          "tutorial123"
-        ]
+        "templates": []
       }
     ],
     "pathCategories": [
@@ -14919,7 +14921,10 @@
           "2ce33644-555f-46f4-37d1-3e0259cdcff1"
         ],
         "extraData": null,
-        "mediaUuid": null
+        "mediaUuid": null,
+        "templates": [
+          "card123"
+        ]
       },
       {
         "uuid": "0f3ba80a-b575-fc3b-c6ec-cfba307dcea1",
@@ -14933,9 +14938,7 @@
         "lastUpdate": "2025-06-06T14:55:53",
         "mediaUuid": null,
         "extraData": null,
-        "templates": [
-          "card123"
-        ]
+        "templates": []
       }
     ],
     "pathCategories": [
