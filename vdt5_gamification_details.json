@@ -12,14 +12,6 @@
     "order": 0,
     "tag": "path-intro",
     "totalSize": 11002523,
-    "templateDefinitions": [
-      {
-        "uuid": "bab",
-        "type": "containers",
-        "value": "tutorial",
-        "extraData": null
-      }
-    ],
     "galleries": [
       {
         "description": null,
@@ -560,9 +552,6 @@
         "subtitle": null,
         "description": null,
         "tag": "poi-intro-entry-sheet",
-        "templates": [
-          "bab"
-        ],
         "lastUpdate": "2024-11-26T14:03:27",
         "items": [
           "91260f19-ee13-b361-a1dc-982f0c5af412",
@@ -14033,5 +14022,945 @@
     "maps": [],
     "mapItems": [],
     "poiCategories": []
+  },
+  {
+    "uuid": "1f042d4a-3b54-66c0-9436-8a6643d96647",
+    "title": "Intro",
+    "subtitle": null,
+    "categories": [
+      "1f030a53-4921-67c8-be97-d235bc588b63"
+    ],
+    "groups": [],
+    "color": "#FFC246",
+    "description": null,
+    "lastUpdate": "2025-06-06T14:51:18",
+    "mediaUuid": null,
+    "order": 41,
+    "tag": "path-target-intro",
+    "totalSize": 1399267,
+    "galleries": [
+      {
+        "description": null,
+        "items": [
+          "ee9e5ad6-5f08-48e8-c5d3-07b5a81c9446",
+          "9dc32be7-49ac-4a1f-9d93-218d2bc8da4b",
+          "8307dcc6-3ca5-4f56-d769-47e23b4e8cec"
+        ],
+        "lastUpdate": "2025-06-06T14:50:52",
+        "subtitle": null,
+        "title": null,
+        "tag": "image-gallery",
+        "mediaUuid": null,
+        "extraData": null,
+        "uuid": "ae4c9ffb-9bcd-410b-eed0-4eb932e2d568"
+      }
+    ],
+    "galleryItems": [
+      {
+        "description": null,
+        "lastUpdate": "2025-06-06T14:50:52",
+        "mediaUuid": "Zvqm8eG",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "ee9e5ad6-5f08-48e8-c5d3-07b5a81c9446"
+      },
+      {
+        "description": null,
+        "lastUpdate": "2025-06-06T14:50:52",
+        "mediaUuid": "vkqNpdz",
+        "order": 1,
+        "subtitle": null,
+        "title": null,
+        "uuid": "9dc32be7-49ac-4a1f-9d93-218d2bc8da4b"
+      },
+      {
+        "description": null,
+        "lastUpdate": "2025-06-06T14:50:52",
+        "mediaUuid": "Z1q0VdE",
+        "order": 2,
+        "subtitle": null,
+        "title": null,
+        "uuid": "8307dcc6-3ca5-4f56-d769-47e23b4e8cec"
+      }
+    ],
+    "mediaFiles": [
+      {
+        "lastUpdate": "2025-05-16 12:00:45",
+        "mimeType": "image/jpeg",
+        "name": "percorso1_GiardinoGaribaldi.jpg",
+        "size": 536022,
+        "type": "IMG",
+        "url": "https://dev-mie-appvdt-bo.devworkbench.it/dam/mie/media/Zvqm8eG/original.jpg",
+        "altText": "",
+        "uuid": "Zvqm8eG"
+      },
+      {
+        "lastUpdate": "2025-05-14 16:44:10",
+        "mimeType": "image/jpeg",
+        "name": "I 4 canti.jpg",
+        "size": 307872,
+        "type": "IMG",
+        "url": "https://dev-mie-appvdt-bo.devworkbench.it/dam/mie/media/vkqNpdz/original.jpg",
+        "altText": "",
+        "uuid": "vkqNpdz"
+      },
+      {
+        "lastUpdate": "2025-05-16 12:01:31",
+        "mimeType": "image/jpeg",
+        "name": "percorso3_QuattroCanti.jpg",
+        "size": 555373,
+        "type": "IMG",
+        "url": "https://dev-mie-appvdt-bo.devworkbench.it/dam/mie/media/Z1q0VdE/original.jpg",
+        "altText": "",
+        "uuid": "Z1q0VdE"
+      }
+    ],
+    "poiOrder": [
+      {
+        "index": "1",
+        "isHidden": false,
+        "order": 1,
+        "poiUuid": "b6d3a80f-314a-57f5-3b99-26345691a417",
+        "status": "visited"
+      }
+    ],
+    "pois": [
+      {
+        "uuid": "b6d3a80f-314a-57f5-3b99-26345691a417",
+        "title": "",
+        "subtitle": null,
+        "description": null,
+        "tag": "poi-intro",
+        "lastUpdate": "2025-06-06T14:51:18",
+        "mediaUuid": null,
+        "categories": []
+      }
+    ],
+    "relations": [
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "845309d8-04f8-e31f-0a92-c3a5a26f0566",
+        "poiUuid": "1f042d4b-97a2-6d2c-8484-8a6643d96647",
+        "outType": "SHT",
+        "outUuid": "1f042d4b-97a2-6d2c-8484-8a6643d96647",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "da430cf2-8e79-e5ff-d887-0b7e7204e132",
+        "poiUuid": "1f042d4c-8fcc-6494-8078-8a6643d96647",
+        "outType": "GLR",
+        "outUuid": "ae4c9ffb-9bcd-410b-eed0-4eb932e2d568",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "624165ec-b8d4-e0eb-ccc4-4f3af8a7a2c3",
+        "poiUuid": "1f042d4e-464f-6364-b322-8a6643d96647",
+        "outType": "SHT",
+        "outUuid": "1f042d4e-464f-6364-b322-8a6643d96647",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "ff3171f4-30d9-ed1c-a070-b647127d045d",
+        "poiUuid": "1f042d4b-643d-6b4e-a645-8a6643d96647",
+        "outType": "SHT",
+        "outUuid": "1f042d4b-643d-6b4e-a645-8a6643d96647",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "74d787e5-b600-1788-7153-7cb95a15b783",
+        "poiUuid": "b6d3a80f-314a-57f5-3b99-26345691a417",
+        "outType": "SHT",
+        "outUuid": "eabaa29b-5994-793d-b82d-2c5d35297ab9",
+        "action": null
+      },
+      {
+        "inType": "POI_EPT",
+        "inUuid": "",
+        "poiUuid": "b6d3a80f-314a-57f5-3b99-26345691a417",
+        "outType": "SHT",
+        "outUuid": "eabaa29b-5994-793d-b82d-2c5d35297ab9",
+        "action": null
+      },
+      {
+        "inType": "EPT",
+        "inUuid": "",
+        "poiUuid": "",
+        "outType": "SHT",
+        "outUuid": "633b5e8e-79a8-9a61-b310-29f76d9451d7",
+        "action": null
+      }
+    ],
+    "sheetItems": [
+      {
+        "lastUpdate": "2025-06-06T14:50:01",
+        "order": 0,
+        "uuid": "845309d8-04f8-e31f-0a92-c3a5a26f0566"
+      },
+      {
+        "lastUpdate": "2025-06-06T14:50:52",
+        "order": 1,
+        "uuid": "da430cf2-8e79-e5ff-d887-0b7e7204e132"
+      },
+      {
+        "lastUpdate": "2025-06-06T14:51:00",
+        "order": 3,
+        "uuid": "624165ec-b8d4-e0eb-ccc4-4f3af8a7a2c3"
+      },
+      {
+        "lastUpdate": "2025-06-06T14:51:04",
+        "order": 1,
+        "uuid": "ff3171f4-30d9-ed1c-a070-b647127d045d"
+      },
+      {
+        "lastUpdate": "2025-06-06T14:51:18",
+        "order": 0,
+        "uuid": "74d787e5-b600-1788-7153-7cb95a15b783"
+      }
+    ],
+    "sheets": [
+      {
+        "uuid": "1f042d4b-97a2-6d2c-8484-8a6643d96647",
+        "title": null,
+        "subtitle": null,
+        "description": "Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip.",
+        "items": [],
+        "tag": "text-sheet",
+        "lastUpdate": "2025-06-06T14:50:01",
+        "mediaUuid": null,
+        "extraData": null
+      },
+      {
+        "uuid": "1f042d4e-464f-6364-b322-8a6643d96647",
+        "title": null,
+        "subtitle": null,
+        "description": "Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip.",
+        "items": [],
+        "tag": "text-sheet",
+        "lastUpdate": "2025-06-06T14:51:00",
+        "mediaUuid": null,
+        "extraData": null
+      },
+      {
+        "uuid": "1f042d4b-643d-6b4e-a645-8a6643d96647",
+        "title": null,
+        "subtitle": null,
+        "description": null,
+        "items": [
+          "845309d8-04f8-e31f-0a92-c3a5a26f0566",
+          "da430cf2-8e79-e5ff-d887-0b7e7204e132",
+          "624165ec-b8d4-e0eb-ccc4-4f3af8a7a2c3"
+        ],
+        "tag": "container-sheet",
+        "lastUpdate": "2025-06-06T14:51:04",
+        "mediaUuid": null,
+        "extraData": null
+      },
+      {
+        "uuid": "eabaa29b-5994-793d-b82d-2c5d35297ab9",
+        "title": "",
+        "subtitle": null,
+        "description": null,
+        "tag": "poi-intro-entry-sheet",
+        "lastUpdate": "2025-06-06T14:51:18",
+        "items": [
+          "ff3171f4-30d9-ed1c-a070-b647127d045d"
+        ],
+        "extraData": null,
+        "mediaUuid": null
+      },
+      {
+        "uuid": "633b5e8e-79a8-9a61-b310-29f76d9451d7",
+        "title": "Intro",
+        "subtitle": null,
+        "description": null,
+        "items": [
+          "74d787e5-b600-1788-7153-7cb95a15b783"
+        ],
+        "tag": "path-intro-entry-sheet",
+        "lastUpdate": "2025-06-06T14:51:18",
+        "mediaUuid": null,
+        "extraData": null,
+        "templates": [
+          "formatted123"
+        ]
+      }
+    ],
+    "pathCategories": [
+      {
+        "uuid": "1f030a53-4921-67c8-be97-d235bc588b63",
+        "title": "Target Museo City",
+        "subtitle": "",
+        "description": "",
+        "tag": "target-museocity",
+        "type": "target",
+        "order": 0,
+        "mediaUuid": null,
+        "lastUpdate": "2025-06-06T14:51:18"
+      }
+    ],
+    "maps": [],
+    "mapItems": [],
+    "poiCategories": [],
+    "templateDefinitions": [
+      {
+        "uuid": "formatted123",
+        "type": "page-container-style",
+        "value": "formatted-page",
+        "extraData": null
+      }
+    ]
+  },
+  {
+    "uuid": "1f042d50-62c8-6610-8506-8a6643d96647",
+    "title": "Tutorial",
+    "subtitle": null,
+    "categories": [
+      "1f030a53-4921-67c8-be97-d235bc588b63"
+    ],
+    "groups": [],
+    "color": "#FFC246",
+    "description": null,
+    "lastUpdate": "2025-06-06T14:55:44",
+    "mediaUuid": null,
+    "order": 2,
+    "tag": "path-target-intro",
+    "totalSize": 36285823,
+    "galleries": [
+      {
+        "description": null,
+        "items": [
+          "b562cde5-705c-4644-8854-1a261be191cf"
+        ],
+        "lastUpdate": "2025-06-06T14:53:33",
+        "subtitle": null,
+        "title": null,
+        "tag": "video-gallery",
+        "mediaUuid": null,
+        "extraData": null,
+        "uuid": "653442c6-d12c-44dc-f115-7145b4a34356"
+      },
+      {
+        "description": null,
+        "items": [
+          "0658fb29-d402-4dc0-be31-48ae83e6a41f"
+        ],
+        "lastUpdate": "2025-06-06T14:54:47",
+        "subtitle": null,
+        "title": null,
+        "tag": "image-gallery",
+        "mediaUuid": null,
+        "extraData": null,
+        "uuid": "58bd48ce-0795-4c17-a4dc-116037f43a26"
+      },
+      {
+        "description": null,
+        "items": [
+          "be5c6da0-98be-46b7-fa9a-0d95f8bc625a"
+        ],
+        "lastUpdate": "2025-06-06T14:55:39",
+        "subtitle": null,
+        "title": null,
+        "tag": "image-gallery",
+        "mediaUuid": null,
+        "extraData": null,
+        "uuid": "fa1acc39-4382-4d6a-a6cf-cfba3ebee2a3"
+      }
+    ],
+    "galleryItems": [
+      {
+        "description": null,
+        "lastUpdate": "2025-06-06T14:53:33",
+        "mediaUuid": "AxdwJRW",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "b562cde5-705c-4644-8854-1a261be191cf"
+      },
+      {
+        "description": null,
+        "lastUpdate": "2025-06-06T14:54:47",
+        "mediaUuid": "vwRObqD",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "0658fb29-d402-4dc0-be31-48ae83e6a41f"
+      },
+      {
+        "description": null,
+        "lastUpdate": "2025-06-06T14:55:39",
+        "mediaUuid": "5zeobdX",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "be5c6da0-98be-46b7-fa9a-0d95f8bc625a"
+      }
+    ],
+    "mediaFiles": [
+      {
+        "lastUpdate": "2025-05-14 13:01:45",
+        "mimeType": "video/mp4",
+        "name": "Orlandino intro 3.mp4",
+        "size": 35801007,
+        "type": "VID",
+        "url": "https://dev-mie-appvdt-bo.devworkbench.it/dam/mie/media/AxdwJRW/original.mp4",
+        "altText": "",
+        "uuid": "AxdwJRW"
+      },
+      {
+        "lastUpdate": "2025-04-10 14:34:14",
+        "mimeType": "image/jpeg",
+        "name": "climbing blocks growth 3d illustration, with a child, simple background.jpeg",
+        "size": 117640,
+        "type": "IMG",
+        "url": "https://dev-mie-appvdt-bo.devworkbench.it/dam/mie/media/vwRObqD/original.jpeg",
+        "altText": "",
+        "uuid": "vwRObqD"
+      },
+      {
+        "lastUpdate": "2025-04-15 09:38:58",
+        "mimeType": "image/png",
+        "name": "logo-positivo.png",
+        "size": 367176,
+        "type": "IMG",
+        "url": "https://dev-mie-appvdt-bo.devworkbench.it/dam/mie/media/5zeobdX/original.png",
+        "altText": "",
+        "uuid": "5zeobdX"
+      }
+    ],
+    "poiOrder": [
+      {
+        "index": "1",
+        "isHidden": false,
+        "order": 1,
+        "poiUuid": "2461aae5-ad63-233a-4c7a-6e6c39c1af9f",
+        "status": "visited"
+      }
+    ],
+    "pois": [
+      {
+        "uuid": "2461aae5-ad63-233a-4c7a-6e6c39c1af9f",
+        "title": "",
+        "subtitle": null,
+        "description": null,
+        "tag": "poi-intro",
+        "lastUpdate": "2025-06-06T14:55:44",
+        "mediaUuid": null,
+        "categories": []
+      }
+    ],
+    "relations": [
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "a44f7948-ba70-3659-bd4c-4b7f44198a27",
+        "poiUuid": "1f042d51-c271-6c46-bc47-8a6643d96647",
+        "outType": "SHT",
+        "outUuid": "1f042d51-c271-6c46-bc47-8a6643d96647",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "d0462734-e8b9-fb8b-ad6c-9fd8ec74d7cb",
+        "poiUuid": "1f042d53-9187-6b92-9ec1-8a6643d96647",
+        "outType": "GLR",
+        "outUuid": "653442c6-d12c-44dc-f115-7145b4a34356",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "7108d313-528a-5d6a-a88f-3fdc6bfc3a51",
+        "poiUuid": "1f042d51-7d3f-6808-8605-8a6643d96647",
+        "outType": "SHT",
+        "outUuid": "1f042d51-7d3f-6808-8605-8a6643d96647",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "e342a6c4-7de9-3a5d-ece0-05227deff487",
+        "poiUuid": "1f042d54-df28-6a94-bd32-8a6643d96647",
+        "outType": "SHT",
+        "outUuid": "1f042d54-df28-6a94-bd32-8a6643d96647",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "54b839a9-561f-26ea-273f-bcd4cf279d9c",
+        "poiUuid": "1f042d55-c9cc-6e4c-b95f-8a6643d96647",
+        "outType": "GLR",
+        "outUuid": "58bd48ce-0795-4c17-a4dc-116037f43a26",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "6454c958-588e-a769-28e2-7e1311ac5990",
+        "poiUuid": "1f042d54-94d7-6440-afa8-8a6643d96647",
+        "outType": "SHT",
+        "outUuid": "1f042d54-94d7-6440-afa8-8a6643d96647",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "ef03d1e7-c67a-8a6c-90ce-60c6ddd4aa1a",
+        "poiUuid": "1f042d57-d9d9-6c34-8023-8a6643d96647",
+        "outType": "SHT",
+        "outUuid": "1f042d57-d9d9-6c34-8023-8a6643d96647",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "06236bc0-b61d-2244-b95c-850e5be73505",
+        "poiUuid": "1f042d58-73a2-6014-b7cc-8a6643d96647",
+        "outType": "GLR",
+        "outUuid": "fa1acc39-4382-4d6a-a6cf-cfba3ebee2a3",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "35726028-39d1-8b48-1565-8d84d1d335dd",
+        "poiUuid": "1f042d57-6416-6efc-b79e-8a6643d96647",
+        "outType": "SHT",
+        "outUuid": "1f042d57-6416-6efc-b79e-8a6643d96647",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "86e84869-dc24-c620-67c5-980d13881bf1",
+        "poiUuid": "2461aae5-ad63-233a-4c7a-6e6c39c1af9f",
+        "outType": "SHT",
+        "outUuid": "92037dd7-2ce9-ae03-5171-ea444339c7e5",
+        "action": null
+      },
+      {
+        "inType": "POI_EPT",
+        "inUuid": "",
+        "poiUuid": "2461aae5-ad63-233a-4c7a-6e6c39c1af9f",
+        "outType": "SHT",
+        "outUuid": "92037dd7-2ce9-ae03-5171-ea444339c7e5",
+        "action": null
+      },
+      {
+        "inType": "EPT",
+        "inUuid": "",
+        "poiUuid": "",
+        "outType": "SHT",
+        "outUuid": "fba97331-59bf-c99d-cbbb-4e93cd4f15c6",
+        "action": null
+      }
+    ],
+    "sheetItems": [
+      {
+        "lastUpdate": "2025-06-06T14:53:07",
+        "order": 0,
+        "uuid": "a44f7948-ba70-3659-bd4c-4b7f44198a27"
+      },
+      {
+        "lastUpdate": "2025-06-06T14:53:33",
+        "order": 2,
+        "uuid": "d0462734-e8b9-fb8b-ad6c-9fd8ec74d7cb"
+      },
+      {
+        "lastUpdate": "2025-06-06T14:53:39",
+        "order": 0,
+        "uuid": "7108d313-528a-5d6a-a88f-3fdc6bfc3a51"
+      },
+      {
+        "lastUpdate": "2025-06-06T14:54:15",
+        "order": 0,
+        "uuid": "e342a6c4-7de9-3a5d-ece0-05227deff487"
+      },
+      {
+        "lastUpdate": "2025-06-06T14:54:47",
+        "order": 2,
+        "uuid": "54b839a9-561f-26ea-273f-bcd4cf279d9c"
+      },
+      {
+        "lastUpdate": "2025-06-06T14:54:51",
+        "order": 1,
+        "uuid": "6454c958-588e-a769-28e2-7e1311ac5990"
+      },
+      {
+        "lastUpdate": "2025-06-06T14:55:23",
+        "order": 0,
+        "uuid": "ef03d1e7-c67a-8a6c-90ce-60c6ddd4aa1a"
+      },
+      {
+        "lastUpdate": "2025-06-06T14:55:39",
+        "order": 2,
+        "uuid": "06236bc0-b61d-2244-b95c-850e5be73505"
+      },
+      {
+        "lastUpdate": "2025-06-06T14:55:41",
+        "order": 3,
+        "uuid": "35726028-39d1-8b48-1565-8d84d1d335dd"
+      },
+      {
+        "lastUpdate": "2025-06-06T14:55:44",
+        "order": 0,
+        "uuid": "86e84869-dc24-c620-67c5-980d13881bf1"
+      }
+    ],
+    "sheets": [
+      {
+        "uuid": "1f042d51-c271-6c46-bc47-8a6643d96647",
+        "title": null,
+        "subtitle": "STEP 1",
+        "description": null,
+        "items": [],
+        "tag": "text-sheet",
+        "lastUpdate": "2025-06-06T14:53:07",
+        "mediaUuid": null,
+        "extraData": null
+      },
+      {
+        "uuid": "1f042d51-7d3f-6808-8605-8a6643d96647",
+        "title": null,
+        "subtitle": null,
+        "description": null,
+        "items": [
+          "a44f7948-ba70-3659-bd4c-4b7f44198a27",
+          "d0462734-e8b9-fb8b-ad6c-9fd8ec74d7cb"
+        ],
+        "tag": "container-sheet",
+        "lastUpdate": "2025-06-06T14:53:39",
+        "mediaUuid": null,
+        "extraData": null
+      },
+      {
+        "uuid": "1f042d54-df28-6a94-bd32-8a6643d96647",
+        "title": null,
+        "subtitle": "STEP 2",
+        "description": null,
+        "items": [],
+        "tag": "text-sheet",
+        "lastUpdate": "2025-06-06T14:54:15",
+        "mediaUuid": null,
+        "extraData": null
+      },
+      {
+        "uuid": "1f042d54-94d7-6440-afa8-8a6643d96647",
+        "title": null,
+        "subtitle": null,
+        "description": null,
+        "items": [
+          "e342a6c4-7de9-3a5d-ece0-05227deff487",
+          "54b839a9-561f-26ea-273f-bcd4cf279d9c"
+        ],
+        "tag": "container-sheet",
+        "lastUpdate": "2025-06-06T14:54:51",
+        "mediaUuid": null,
+        "extraData": null
+      },
+      {
+        "uuid": "1f042d57-d9d9-6c34-8023-8a6643d96647",
+        "title": null,
+        "subtitle": "STEP 3",
+        "description": null,
+        "items": [],
+        "tag": "text-sheet",
+        "lastUpdate": "2025-06-06T14:55:23",
+        "mediaUuid": null,
+        "extraData": null
+      },
+      {
+        "uuid": "1f042d57-6416-6efc-b79e-8a6643d96647",
+        "title": null,
+        "subtitle": null,
+        "description": null,
+        "items": [
+          "ef03d1e7-c67a-8a6c-90ce-60c6ddd4aa1a",
+          "06236bc0-b61d-2244-b95c-850e5be73505"
+        ],
+        "tag": "container-sheet",
+        "lastUpdate": "2025-06-06T14:55:41",
+        "mediaUuid": null,
+        "extraData": null
+      },
+      {
+        "uuid": "92037dd7-2ce9-ae03-5171-ea444339c7e5",
+        "title": "",
+        "subtitle": null,
+        "description": null,
+        "tag": "poi-intro-entry-sheet",
+        "lastUpdate": "2025-06-06T14:55:44",
+        "items": [
+          "7108d313-528a-5d6a-a88f-3fdc6bfc3a51",
+          "6454c958-588e-a769-28e2-7e1311ac5990",
+          "35726028-39d1-8b48-1565-8d84d1d335dd"
+        ],
+        "extraData": null,
+        "mediaUuid": null
+      },
+      {
+        "uuid": "fba97331-59bf-c99d-cbbb-4e93cd4f15c6",
+        "title": "Tutorial",
+        "subtitle": null,
+        "description": null,
+        "items": [
+          "86e84869-dc24-c620-67c5-980d13881bf1"
+        ],
+        "tag": "path-intro-entry-sheet",
+        "lastUpdate": "2025-06-06T14:55:44",
+        "mediaUuid": null,
+        "extraData": null,
+        "templates": [
+          "tutorial123"
+        ]
+      }
+    ],
+    "pathCategories": [
+      {
+        "uuid": "1f030a53-4921-67c8-be97-d235bc588b63",
+        "title": "Target Museo City",
+        "subtitle": "",
+        "description": "",
+        "tag": "target-museocity",
+        "type": "target",
+        "order": 0,
+        "mediaUuid": null,
+        "lastUpdate": "2025-06-06T14:55:44"
+      }
+    ],
+    "maps": [],
+    "mapItems": [],
+    "poiCategories": [],
+    "templateDefinitions": [
+      {
+        "uuid": "tutorial123",
+        "type": "page-container-style",
+        "value": "tutorial",
+        "extraData": null
+      }
+    ]
+  },
+  {
+    "uuid": "1f030a5b-8fa7-6cbc-b1e7-d235bc588b63",
+    "title": "Mission",
+    "subtitle": null,
+    "categories": [
+      "1f030a53-4921-67c8-be97-d235bc588b63"
+    ],
+    "groups": [],
+    "color": null,
+    "description": null,
+    "lastUpdate": "2025-06-06T14:55:53",
+    "mediaUuid": null,
+    "order": 1,
+    "tag": "path-target-intro",
+    "totalSize": 35801007,
+    "galleries": [
+      {
+        "description": null,
+        "items": [
+          "7dac08b1-ea16-4f97-8684-5e7fd88b91ff"
+        ],
+        "lastUpdate": "2025-05-14T13:01:52",
+        "subtitle": null,
+        "title": null,
+        "tag": "video-gallery",
+        "mediaUuid": null,
+        "extraData": null,
+        "uuid": "1e05ecd2-f189-4015-b505-f52d076cc322"
+      }
+    ],
+    "galleryItems": [
+      {
+        "description": null,
+        "lastUpdate": "2025-05-14T13:01:52",
+        "mediaUuid": "AxdwJRW",
+        "order": 0,
+        "subtitle": null,
+        "title": null,
+        "uuid": "7dac08b1-ea16-4f97-8684-5e7fd88b91ff"
+      }
+    ],
+    "mediaFiles": [
+      {
+        "lastUpdate": "2025-05-14 13:01:45",
+        "mimeType": "video/mp4",
+        "name": "Orlandino intro 3.mp4",
+        "size": 35801007,
+        "type": "VID",
+        "url": "https://dev-mie-appvdt-bo.devworkbench.it/dam/mie/media/AxdwJRW/original.mp4",
+        "altText": "",
+        "uuid": "AxdwJRW"
+      }
+    ],
+    "poiOrder": [
+      {
+        "index": "1",
+        "isHidden": false,
+        "order": 1,
+        "poiUuid": "fa8af152-5a25-ff81-5c99-6e1b37b8e136",
+        "status": "visited"
+      }
+    ],
+    "pois": [
+      {
+        "uuid": "fa8af152-5a25-ff81-5c99-6e1b37b8e136",
+        "title": "",
+        "subtitle": null,
+        "description": null,
+        "tag": "poi-intro",
+        "lastUpdate": "2025-06-06T14:55:53",
+        "mediaUuid": null,
+        "categories": []
+      }
+    ],
+    "relations": [
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "b0e0dc19-8e5d-da2a-382e-1655442996f0",
+        "poiUuid": "1f042d48-4638-60f2-b120-8a6643d96647",
+        "outType": "SHT",
+        "outUuid": "1f042d48-4638-60f2-b120-8a6643d96647",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "52b31346-f3c9-aa17-c8e5-723cd6913a25",
+        "poiUuid": "1f030b2a-e177-681a-821c-d235bc588b63",
+        "outType": "GLR",
+        "outUuid": "1e05ecd2-f189-4015-b505-f52d076cc322",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "2ce33644-555f-46f4-37d1-3e0259cdcff1",
+        "poiUuid": "1f030b2a-9c47-6a1a-a1b5-d235bc588b63",
+        "outType": "SHT",
+        "outUuid": "1f030b2a-9c47-6a1a-a1b5-d235bc588b63",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "f29ba3a3-ac75-87ed-8080-a3d3e6f5e8a7",
+        "poiUuid": "fa8af152-5a25-ff81-5c99-6e1b37b8e136",
+        "outType": "SHT",
+        "outUuid": "73823744-ebeb-17f6-6683-4968bd9e7745",
+        "action": null
+      },
+      {
+        "inType": "POI_EPT",
+        "inUuid": "",
+        "poiUuid": "fa8af152-5a25-ff81-5c99-6e1b37b8e136",
+        "outType": "SHT",
+        "outUuid": "73823744-ebeb-17f6-6683-4968bd9e7745",
+        "action": null
+      },
+      {
+        "inType": "EPT",
+        "inUuid": "",
+        "poiUuid": "",
+        "outType": "SHT",
+        "outUuid": "0f3ba80a-b575-fc3b-c6ec-cfba307dcea1",
+        "action": null
+      }
+    ],
+    "sheetItems": [
+      {
+        "lastUpdate": "2025-06-06T14:51:31",
+        "order": 0,
+        "uuid": "b0e0dc19-8e5d-da2a-382e-1655442996f0"
+      },
+      {
+        "lastUpdate": "2025-05-14T13:01:52",
+        "order": 1,
+        "uuid": "52b31346-f3c9-aa17-c8e5-723cd6913a25"
+      },
+      {
+        "lastUpdate": "2025-06-06T14:51:43",
+        "order": 1,
+        "uuid": "2ce33644-555f-46f4-37d1-3e0259cdcff1"
+      },
+      {
+        "lastUpdate": "2025-06-06T14:55:53",
+        "order": 0,
+        "uuid": "f29ba3a3-ac75-87ed-8080-a3d3e6f5e8a7"
+      }
+    ],
+    "sheets": [
+      {
+        "uuid": "1f042d48-4638-60f2-b120-8a6643d96647",
+        "title": "La Missione",
+        "subtitle": null,
+        "description": null,
+        "items": [],
+        "tag": "text-sheet",
+        "lastUpdate": "2025-06-06T14:51:31",
+        "mediaUuid": null,
+        "extraData": null
+      },
+      {
+        "uuid": "1f030b2a-9c47-6a1a-a1b5-d235bc588b63",
+        "title": null,
+        "subtitle": null,
+        "description": null,
+        "items": [
+          "b0e0dc19-8e5d-da2a-382e-1655442996f0",
+          "52b31346-f3c9-aa17-c8e5-723cd6913a25"
+        ],
+        "tag": "container-sheet",
+        "lastUpdate": "2025-06-06T14:51:43",
+        "mediaUuid": null,
+        "extraData": null
+      },
+      {
+        "uuid": "73823744-ebeb-17f6-6683-4968bd9e7745",
+        "title": "",
+        "subtitle": null,
+        "description": null,
+        "tag": "poi-intro-entry-sheet",
+        "lastUpdate": "2025-06-06T14:55:53",
+        "items": [
+          "2ce33644-555f-46f4-37d1-3e0259cdcff1"
+        ],
+        "extraData": null,
+        "mediaUuid": null
+      },
+      {
+        "uuid": "0f3ba80a-b575-fc3b-c6ec-cfba307dcea1",
+        "title": "Mission",
+        "subtitle": null,
+        "description": null,
+        "items": [
+          "f29ba3a3-ac75-87ed-8080-a3d3e6f5e8a7"
+        ],
+        "tag": "path-intro-entry-sheet",
+        "lastUpdate": "2025-06-06T14:55:53",
+        "mediaUuid": null,
+        "extraData": null,
+        "templates": [
+          "card123"
+        ]
+      }
+    ],
+    "pathCategories": [
+      {
+        "uuid": "1f030a53-4921-67c8-be97-d235bc588b63",
+        "title": "Target Museo City",
+        "subtitle": "",
+        "description": "",
+        "tag": "target-museocity",
+        "type": "target",
+        "order": 0,
+        "mediaUuid": null,
+        "lastUpdate": "2025-06-06T14:55:53"
+      }
+    ],
+    "maps": [],
+    "mapItems": [],
+    "poiCategories": [],
+    "templateDefinitions": [
+      {
+        "uuid": "card123",
+        "type": "page-container-style",
+        "value": "card",
+        "extraData": null
+      }
+    ]
   }
 ]
