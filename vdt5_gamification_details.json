@@ -7679,6 +7679,7 @@
         "description": null,
         "height": null,
         "items": [
+          "b1-1eff44b6-cffe-6392-908d-0242ac14000c",
           "b2-1eff44b6-cf66-6506-b65e-0242ac14000c"
         ],
         "lastUpdate": "2025-02-18T17:26:44",
@@ -7776,6 +7777,19 @@
         "mediaUuid": null,
         "poiUuid": "1efe56dd-0351-6c08-9f9e-0242ac14000a",
         "uuid": "1eff44b6-cffe-6392-908d-0242ac14000c",
+        "x": null,
+        "y": null,
+        "templates": [
+          "bbb"
+        ]
+      },
+      {
+        "latitude": 44.425203,
+        "lastUpdate": "2025-02-07T17:23:43",
+        "longitude": 8.849408,
+        "mediaUuid": null,
+        "poiUuid": "b1-1efe56dd-0351-6c08-9f9e-0242ac14000a",
+        "uuid": "b1-1eff44b6-cffe-6392-908d-0242ac14000c",
         "x": null,
         "y": null,
         "templates": [
