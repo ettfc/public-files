@@ -5308,7 +5308,7 @@
         "extraData": null
       }
     ],
-    "lastUpdate": "2025-05:10:20",
+    "lastUpdate": "2025-06-16-05:10:20",
     "mediaUuid": "X0eGo56",
     "order": 0,
     "tag": "path-main-external",
@@ -6085,6 +6085,22 @@
         "action": null
       },
       {
+        "inType": "SHT_ITM",
+        "inUuid": "b2-2cc9664f-6d95-92a8-8b04-0580d1b22f02",
+        "poiUuid": "b2-1efe56da-7728-667a-a77d-0242ac14000a",
+        "outType": "SHT",
+        "outUuid": "b2-cc3a09cb-7ef5-a233-332c-5c0e50d6f2bd",
+        "action": null
+      },
+      {
+        "inType": "POI_EPT",
+        "inUuid": "",
+        "poiUuid": "b2-1efe56da-7728-667a-a77d-0242ac14000a",
+        "outType": "SHT",
+        "outUuid": "b2-cc3a09cb-7ef5-a233-332c-5c0e50d6f2bd",
+        "action": null
+      },
+      {
         "inType": "LVL_ITM",
         "inUuid": "lvlitmbbb-itm1-4f4d-9ef6-57328fb24a22",
         "poiUuid": "b2-1efe56da-7728-667a-a77d-0242ac14000a",
@@ -6306,6 +6322,14 @@
         "poiUuid": "",
         "outType": "MAP",
         "outUuid": "1eff44b6-cf67-6776-8308-0242ac14000c",
+        "action": null
+      },
+      {
+        "inType": "EPT",
+        "inUuid": "",
+        "poiUuid": "",
+        "outType": "MAP",
+        "outUuid": "b2-1eff44b6-cf67-6776-8308-0242ac14000c",
         "action": null
       },
       {
@@ -6817,6 +6841,11 @@
         "lastUpdate": "2025-02-18T17:26:44",
         "order": 0,
         "uuid": "2cc9664f-6d95-92a8-8b04-0580d1b22f02"
+      },
+      {
+        "lastUpdate": "2025-02-18T17:26:44",
+        "order": 0,
+        "uuid": "b2-2cc9664f-6d95-92a8-8b04-0580d1b22f02"
       },
       {
         "lastUpdate": "2025-02-18T17:26:44",
@@ -7456,6 +7485,7 @@
         "description": null,
         "items": [
           "2cc9664f-6d95-92a8-8b04-0580d1b22f02",
+          "b2-2cc9664f-6d95-92a8-8b04-0580d1b22f02",
           "7dd599d3-af26-b375-0da0-166887e9923a",
           "947178f0-e04d-c1b9-201b-e879364dcdd7",
           "ff1d223f-5e6d-6deb-c44e-d0789a78a529",
@@ -7543,7 +7573,7 @@
         "subtitle": null,
         "tag": "map-geoReferenced",
         "title": "Livello 2",
-        "uuid": "1eff44b6-cf67-6776-8308-0242ac14000c",
+        "uuid": "b2-1eff44b6-cf67-6776-8308-0242ac14000c",
         "width": null
       },
       {
