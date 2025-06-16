@@ -5724,11 +5724,18 @@
         "status": "visited"
       },
       {
-        "index": "b2",
+        "index": "b1",
         "isHidden": false,
         "order": 0,
+        "poiUuid": "b1-1efe56dd-0351-6c08-9f9e-0242ac14000a",
+        "status": "locked"
+      },
+      {
+        "index": "b2",
+        "isHidden": false,
+        "order": 1,
         "poiUuid": "b2-1efe56da-7728-667a-a77d-0242ac14000a",
-        "status": "visited"
+        "status": "locked"
       },
       {
         "index": "2",
@@ -5795,6 +5802,16 @@
         "uuid": "1efe56dd-0351-6c08-9f9e-0242ac14000a",
         "title": "Piazza Baracca",
         "subtitle": "Bloccato",
+        "description": null,
+        "tag": "poi-external",
+        "lastUpdate": "2025-02-07T17:23:43",
+        "mediaUuid": null,
+        "categories": []
+      },
+      {
+        "uuid": "b1-1efe56dd-0351-6c08-9f9e-0242ac14000a",
+        "title": "Piazza Baracca 2",
+        "subtitle": null,
         "description": null,
         "tag": "poi-external",
         "lastUpdate": "2025-02-07T17:23:43",
@@ -6117,6 +6134,14 @@
       },
       {
         "inType": "LVL_ITM",
+        "inUuid": "lvlitmbbb-itm0-4f4d-9ef6-57328fb24a22",
+        "poiUuid": "b1-1efe56dd-0351-6c08-9f9e-0242ac14000a",
+        "outType": "SHT",
+        "outUuid": "b1-e957265f-6235-1e9c-5708-65ecf2582044",
+        "action": null
+      },
+      {
+        "inType": "LVL_ITM",
         "inUuid": "lvlitmbbb-ba11-4f4d-9ef6-57328fb24a22",
         "poiUuid": "",
         "outType": "RWD",
@@ -6253,6 +6278,14 @@
       },
       {
         "inType": "SHT_ITM",
+        "inUuid": "b1-cccitm-itm2-a233-332c-5c0e50d6f2bd",
+        "poiUuid": "b1-1efe56dd-0351-6c08-9f9e-0242ac14000a",
+        "outType": "SHT",
+        "outUuid": "gactsht-7ef5-a233-332c-5c0e50d6f2bd",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
         "inUuid": "cccitm-itm3-a233-332c-5c0e50d6f2bd",
         "poiUuid": "1efe56e1-8aec-638a-b674-0242ac14000a",
         "outType": "SHT",
@@ -6279,6 +6312,14 @@
         "inType": "SHT_ITM",
         "inUuid": "ddditm-rwd2-a233-332c-5c0e50d6f2bd",
         "poiUuid": "1efe56da-7728-667a-a77d-0242ac14000a",
+        "outType": "RWD",
+        "outUuid": "123456e9-rwd2-447e-b419-c81ad7ce0000",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "b1-ddditm-rwd2-a233-332c-5c0e50d6f2bd",
+        "poiUuid": "b1-1efe56da-7728-667a-a77d-0242ac14000a",
         "outType": "RWD",
         "outUuid": "123456e9-rwd2-447e-b419-c81ad7ce0000",
         "action": null
@@ -6356,11 +6397,27 @@
         "action": null
       },
       {
+        "inType": "SHT_ITM",
+        "inUuid": "b1-7dd599d3-af26-b375-0da0-166887e9923a",
+        "poiUuid": "b1-1efe56dd-0351-6c08-9f9e-0242ac14000a",
+        "outType": "SHT",
+        "outUuid": "b1-e957265f-6235-1e9c-5708-65ecf2582044",
+        "action": null
+      },
+      {
         "inType": "POI_EPT",
         "inUuid": "",
         "poiUuid": "1efe56dd-0351-6c08-9f9e-0242ac14000a",
         "outType": "SHT",
         "outUuid": "e957265f-6235-1e9c-5708-65ecf2582044",
+        "action": null
+      },
+      {
+        "inType": "POI_EPT",
+        "inUuid": "",
+        "poiUuid": "b1-1efe56dd-0351-6c08-9f9e-0242ac14000a",
+        "outType": "SHT",
+        "outUuid": "b1-e957265f-6235-1e9c-5708-65ecf2582044",
         "action": null
       },
       {
@@ -6722,6 +6779,11 @@
       {
         "lastUpdate": "2024-12-03T10:39:44",
         "order": 1,
+        "uuid": "b1-cccitm-itm2-a233-332c-5c0e50d6f2bd"
+      },
+      {
+        "lastUpdate": "2024-12-03T10:39:44",
+        "order": 1,
         "uuid": "cccitm-itm3-a233-332c-5c0e50d6f2bd"
       },
       {
@@ -6738,6 +6800,11 @@
         "lastUpdate": "2024-12-03T10:39:44",
         "order": 1,
         "uuid": "ddditm-rwd2-a233-332c-5c0e50d6f2bd"
+      },
+      {
+        "lastUpdate": "2024-12-03T10:39:44",
+        "order": 1,
+        "uuid": "b1-ddditm-rwd2-a233-332c-5c0e50d6f2bd"
       },
       {
         "lastUpdate": "2024-12-03T10:39:44",
@@ -6888,6 +6955,11 @@
         "lastUpdate": "2025-02-07T17:23:43",
         "order": 0,
         "uuid": "7dd599d3-af26-b375-0da0-166887e9923a"
+      },
+      {
+        "lastUpdate": "2025-02-07T17:23:43",
+        "order": 0,
+        "uuid": "b1-7dd599d3-af26-b375-0da0-166887e9923a"
       },
       {
         "lastUpdate": "2025-02-07T17:22:30",
@@ -7409,6 +7481,20 @@
         "mediaUuid": null
       },
       {
+        "uuid": "b1-e957265f-6235-1e9c-5708-65ecf2582044",
+        "title": "Piazza Baracca 2",
+        "subtitle": null,
+        "description": null,
+        "tag": "poi-external-entry-sheet",
+        "lastUpdate": "2025-02-07T17:23:43",
+        "items": [
+          "b1-cccitm-itm2-a233-332c-5c0e50d6f2bd",
+          "b1-ddditm-rwd2-a233-332c-5c0e50d6f2bd"
+        ],
+        "extraData": null,
+        "mediaUuid": null
+      },
+      {
         "uuid": "maindata-pbaracca-5708-65ecf2582044",
         "title": "Piazza Baracca MAIN DATA SHEET",
         "subtitle": "Bloccato",
@@ -7514,6 +7600,7 @@
           "2cc9664f-6d95-92a8-8b04-0580d1b22f02",
           "b2-2cc9664f-6d95-92a8-8b04-0580d1b22f02",
           "7dd599d3-af26-b375-0da0-166887e9923a",
+          "b1-7dd599d3-af26-b375-0da0-166887e9923a",
           "947178f0-e04d-c1b9-201b-e879364dcdd7",
           "ff1d223f-5e6d-6deb-c44e-d0789a78a529",
           "83faa6cb-ab88-4cd1-615f-c7f1e87f83bd",
@@ -7877,6 +7964,7 @@
         "status": "locked",
         "order": 1,
         "items": [
+          "lvlitmbbb-itm0-4f4d-9ef6-57328fb24a22",
           "lvlitmbbb-itm1-4f4d-9ef6-57328fb24a22",
           "lvlitmbbb-ba11-4f4d-9ef6-57328fb24a22"
         ],
@@ -7921,6 +8009,11 @@
       {
         "lastUpdate": "2024-02-29T14:54:35",
         "order": 0,
+        "uuid": "lvlitmbbb-itm0-4f4d-9ef6-57328fb24a22"
+      },
+      {
+        "lastUpdate": "2024-02-29T14:54:35",
+        "order": 1,
         "uuid": "lvlitmbbb-itm1-4f4d-9ef6-57328fb24a22"
       },
       {
