@@ -5724,6 +5724,13 @@
         "status": "visited"
       },
       {
+        "index": "b2",
+        "isHidden": false,
+        "order": 0,
+        "poiUuid": "b2-1efe56da-7728-667a-a77d-0242ac14000a",
+        "status": "visited"
+      },
+      {
         "index": "2",
         "isHidden": false,
         "order": 1,
