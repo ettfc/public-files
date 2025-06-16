@@ -5773,6 +5773,18 @@
         ]
       },
       {
+        "uuid": "b2-1efe56da-7728-667a-a77d-0242ac14000a",
+        "title": "Villa Rossi 2",
+        "subtitle": "Visibile",
+        "description": "Descrizione",
+        "tag": "poi-external",
+        "lastUpdate": "2025-02-18T17:26:44",
+        "mediaUuid": "M5Rav8W",
+        "categories": [
+          "1efea11a-3400-648a-8a01-0242ac14000c"
+        ]
+      },
+      {
         "uuid": "1efe56dd-0351-6c08-9f9e-0242ac14000a",
         "title": "Piazza Baracca",
         "subtitle": "Bloccato",
@@ -6074,6 +6086,22 @@
       },
       {
         "inType": "LVL_ITM",
+        "inUuid": "lvlitmbbb-itm1-4f4d-9ef6-57328fb24a22",
+        "poiUuid": "b2-1efe56da-7728-667a-a77d-0242ac14000a",
+        "outType": "SHT",
+        "outUuid": "b2-cc3a09cb-7ef5-a233-332c-5c0e50d6f2bd",
+        "action": null
+      },
+      {
+        "inType": "LVL_ITM",
+        "inUuid": "lvlitmbbb-ba11-4f4d-9ef6-57328fb24a22",
+        "poiUuid": "",
+        "outType": "RWD",
+        "outUuid": "123456e9-d01e-447e-b419-c81ad7ce0000",
+        "action": null
+      },
+      {
+        "inType": "LVL_ITM",
         "inUuid": "lvlitmaab-ba11-4f4d-9ef6-57328fb24a22",
         "poiUuid": "",
         "outType": "RWD",
@@ -6092,6 +6120,22 @@
         "inType": "SHT_ITM",
         "inUuid": "bbbitm-7ef5-a233-332c-5c0e50d6f2bd",
         "poiUuid": "1efe56da-7728-667a-a77d-0242ac14000a",
+        "outType": "SHT",
+        "outUuid": "bbbsht-7ef5-a233-332c-5c0e50d6f2bd",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "b2-aaaitm-7ef5-a233-332c-5c0e50d6f2bd",
+        "poiUuid": "b2-1efe56da-7728-667a-a77d-0242ac14000a",
+        "outType": "SHT",
+        "outUuid": "aaasht-7ef5-a233-332c-5c0e50d6f2bd",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "b2-bbbitm-7ef5-a233-332c-5c0e50d6f2bd",
+        "poiUuid": "b2-1efe56da-7728-667a-a77d-0242ac14000a",
         "outType": "SHT",
         "outUuid": "bbbsht-7ef5-a233-332c-5c0e50d6f2bd",
         "action": null
@@ -6170,6 +6214,14 @@
       },
       {
         "inType": "SHT_ITM",
+        "inUuid": "b2-cccitm-itm1-a233-332c-5c0e50d6f2bd",
+        "poiUuid": "b2-1efe56da-7728-667a-a77d-0242ac14000a",
+        "outType": "SHT",
+        "outUuid": "gactsht-7ef5-a233-332c-5c0e50d6f2bd",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
         "inUuid": "cccitm-itm2-a233-332c-5c0e50d6f2bd",
         "poiUuid": "1efe56dd-0351-6c08-9f9e-0242ac14000a",
         "outType": "SHT",
@@ -6188,6 +6240,14 @@
         "inType": "SHT_ITM",
         "inUuid": "ddditm-rwd1-a233-332c-5c0e50d6f2bd",
         "poiUuid": "1efe56da-7728-667a-a77d-0242ac14000a",
+        "outType": "RWD",
+        "outUuid": "123456e9-d01e-447e-b419-c81ad7ce0000",
+        "action": null
+      },
+      {
+        "inType": "SHT_ITM",
+        "inUuid": "b2-ddditm-rwd1-a233-332c-5c0e50d6f2bd",
+        "poiUuid": "b2-1efe56da-7728-667a-a77d-0242ac14000a",
         "outType": "RWD",
         "outUuid": "123456e9-d01e-447e-b419-c81ad7ce0000",
         "action": null
@@ -7060,6 +7120,25 @@
         "mediaUuid": "M5Rav8W"
       },
       {
+        "uuid": "b2-cc3a09cb-7ef5-a233-332c-5c0e50d6f2bd",
+        "title": "Villa Rossi 2",
+        "subtitle": "Visibile",
+        "description": "Descrizione",
+        "tag": "poi-external-entry-sheet",
+        "otherStrings": {
+          "clue": "Lorem ipsum Villa Rossi ..."
+        },
+        "lastUpdate": "2025-02-18T17:26:44",
+        "items": [
+          "b2-aaaitm-7ef5-a233-332c-5c0e50d6f2bd",
+          "b2-bbbitm-7ef5-a233-332c-5c0e50d6f2bd",
+          "b2-cccitm-itm1-a233-332c-5c0e50d6f2bd",
+          "b2-ddditm-rwd1-a233-332c-5c0e50d6f2bd"
+        ],
+        "extraData": null,
+        "mediaUuid": "M5Rav8W"
+      },
+      {
         "uuid": "aaasht-7ef5-a233-332c-5c0e50d6f2bd",
         "title": "Villa Rossi",
         "subtitle": "Visibile",
@@ -7448,7 +7527,22 @@
         "order": 0,
         "subtitle": null,
         "tag": "map-geoReferenced",
-        "title": null,
+        "title": "Livello 1",
+        "uuid": "1eff44b6-cf67-6776-8308-0242ac14000c",
+        "width": null
+      },
+      {
+        "description": null,
+        "height": null,
+        "items": [
+          "b2-1eff44b6-cf66-6506-b65e-0242ac14000c"
+        ],
+        "lastUpdate": "2025-02-18T17:26:44",
+        "mediaUuid": null,
+        "order": 1,
+        "subtitle": null,
+        "tag": "map-geoReferenced",
+        "title": "Livello 2",
         "uuid": "1eff44b6-cf67-6776-8308-0242ac14000c",
         "width": null
       },
@@ -7499,6 +7593,19 @@
         "mediaUuid": null,
         "poiUuid": "1efe56da-7728-667a-a77d-0242ac14000a",
         "uuid": "1eff44b6-cf66-6506-b65e-0242ac14000c",
+        "x": null,
+        "y": null,
+        "templates": [
+          "bbb"
+        ]
+      },
+      {
+        "latitude": 44.427237,
+        "lastUpdate": "2025-02-18T17:26:44",
+        "longitude": 8.844354,
+        "mediaUuid": null,
+        "poiUuid": "b2-1efe56da-7728-667a-a77d-0242ac14000a",
+        "uuid": "b2-1eff44b6-cf66-6506-b65e-0242ac14000c",
         "x": null,
         "y": null,
         "templates": [
@@ -7679,7 +7786,8 @@
         },
         "levels": [
           "levaaa-d01e-447e-b419-c81ad7ce8954",
-          "levaab-d01e-447e-b419-c81ad7ce8954"
+          "levbbb-d01e-447e-b419-c81ad7ce8954",
+          "levfin-d01e-447e-b419-c81ad7ce8954"
         ],
         "lastUpdate": "2024-02-29T14:59:21"
       }
@@ -7703,7 +7811,22 @@
         "lastUpdate": "2024-02-29T14:59:21"
       },
       {
-        "uuid": "levaab-d01e-447e-b419-c81ad7ce8954",
+        "uuid": "levbbb-d01e-447e-b419-c81ad7ce8954",
+        "title": "Livello 2",
+        "subtitle": null,
+        "description": "Lorem ipsum dolor sit amet...",
+        "mediaUuid": null,
+        "isHidden": false,
+        "status": "locked",
+        "order": 1,
+        "items": [
+          "lvlitmbbb-itm1-4f4d-9ef6-57328fb24a22",
+          "lvlitmbbb-ba11-4f4d-9ef6-57328fb24a22"
+        ],
+        "lastUpdate": "2024-02-29T14:59:21"
+      },
+      {
+        "uuid": "levfin-d01e-447e-b419-c81ad7ce8954",
         "title": "Scopri il Ladro",
         "subtitle": null,
         "description": "Per completare la storia scopri chi ha rubato le opere...",
@@ -7737,6 +7860,16 @@
         "lastUpdate": "2024-02-29T14:54:35",
         "order": 1,
         "uuid": "lvlitmaaa-ba11-4f4d-9ef6-57328fb24a22"
+      },
+      {
+        "lastUpdate": "2024-02-29T14:54:35",
+        "order": 0,
+        "uuid": "lvlitmbbb-itm1-4f4d-9ef6-57328fb24a22"
+      },
+      {
+        "lastUpdate": "2024-02-29T14:54:35",
+        "order": 1,
+        "uuid": "lvlitmbbb-ba11-4f4d-9ef6-57328fb24a22"
       },
       {
         "lastUpdate": "2024-02-29T14:54:35",
