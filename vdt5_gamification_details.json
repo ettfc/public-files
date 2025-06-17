@@ -5728,28 +5728,28 @@
         "isHidden": false,
         "order": 0,
         "poiUuid": "b1-1efe56dd-0351-6c08-9f9e-0242ac14000a",
-        "status": "locked"
+        "status": "visited"
       },
       {
         "index": "b2",
         "isHidden": false,
         "order": 1,
         "poiUuid": "b2-1efe56da-7728-667a-a77d-0242ac14000a",
-        "status": "locked"
+        "status": "visited"
       },
       {
         "index": "2",
         "isHidden": false,
         "order": 1,
         "poiUuid": "1efe56dd-0351-6c08-9f9e-0242ac14000a",
-        "status": "locked"
+        "status": "visited"
       },
       {
         "index": "3",
         "isHidden": false,
         "order": 2,
         "poiUuid": "1efe56e1-8aec-638a-b674-0242ac14000a",
-        "status": "locked"
+        "status": "visited"
       },
       {
         "index": "4",
@@ -7254,7 +7254,7 @@
         "description": "Descrizione",
         "tag": "poi-external-entry-sheet",
         "otherStrings": {
-          "clue": "Lorem ipsum Villa Rossi ..."
+          "clue": "Lorem ipsum Villa Rossi 2..."
         },
         "lastUpdate": "2025-02-18T17:26:44",
         "items": [
@@ -7491,6 +7491,9 @@
           "b1-cccitm-itm2-a233-332c-5c0e50d6f2bd",
           "b1-ddditm-rwd2-a233-332c-5c0e50d6f2bd"
         ],
+        "otherStrings": {
+          "clue": "Non farti ingannare dal numero 2, la prossima destinazione è una piazza ben nota!"
+        },
         "extraData": null,
         "mediaUuid": null
       },
@@ -7516,6 +7519,9 @@
           "cccitm-itm3-a233-332c-5c0e50d6f2bd",
           "ddditm-rwd3-a233-332c-5c0e50d6f2bd"
         ],
+        "otherStrings": {
+          "clue": "O ma quando sono belli, questi tanto amati Erzelli..."
+        },
         "extraData": null,
         "mediaUuid": null
       },
@@ -7930,7 +7936,7 @@
       {
         "uuid": "gconf-d01e-447e-b419-a10za5ce4321",
         "configuration": {
-          "gameMode": "treasure_hunt",
+          "gameMode": "free_capture",
           "reward": true,
           "score": false,
           "avatarName": "orlandino",
