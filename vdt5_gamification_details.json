@@ -7940,7 +7940,8 @@
         "otherStrings": {
           "welcome": "Benvenuto nel game",
           "levelCompleted": "Complimenti hai superato tutte le sfide per questo livello, vai alla bacheca dei premi per risolvere l'enigma finale!",
-          "missionCompleted": "Complimenti hai completato la missione assegnata!"
+          "missionCompleted": "Complimenti hai completato la missione assegnata!",
+          "poiLocked": "C'è un luogo e un momento per ogni cosa, ma non ora."
         },
         "levels": [
           "levaaa-d01e-447e-b419-c81ad7ce8954",
