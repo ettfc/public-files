@@ -5742,14 +5742,14 @@
         "isHidden": false,
         "order": 1,
         "poiUuid": "1efe56dd-0351-6c08-9f9e-0242ac14000a",
-        "status": "visited"
+        "status": "locked"
       },
       {
         "index": "3",
         "isHidden": false,
         "order": 2,
         "poiUuid": "1efe56e1-8aec-638a-b674-0242ac14000a",
-        "status": "visited"
+        "status": "locked"
       },
       {
         "index": "4",
@@ -7936,7 +7936,7 @@
       {
         "uuid": "gconf-d01e-447e-b419-a10za5ce4321",
         "configuration": {
-          "gameMode": "free_capture",
+          "gameMode": "treasure_hunt",
           "reward": true,
           "score": false,
           "avatarName": "orlandino",
