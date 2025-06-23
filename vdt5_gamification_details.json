@@ -5146,14 +5146,14 @@
         "isHidden": false,
         "order": 0,
         "poiUuid": "b1-1efe56dd-0351-6c08-9f9e-0242ac14000a",
-        "status": "visited"
+        "status": "locked"
       },
       {
         "index": "b2",
         "isHidden": false,
         "order": 1,
         "poiUuid": "b2-1efe56da-7728-667a-a77d-0242ac14000a",
-        "status": "visited"
+        "status": "locked"
       },
       {
         "index": "2",
