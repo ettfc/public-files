@@ -1,0 +1,1078 @@
+[
+    {
+        "uuid": "1f07cdcb-5707-6974-86a1-46216fb9831f",
+        "title": "Intro",
+        "subtitle": null,
+        "categories": [
+            "1f07cdcc-68d2-69b4-ad52-46216fb9831f"
+        ],
+        "groups": [],
+        "color": null,
+        "description": null,
+        "lastUpdate": "2025-08-19T11:14:49",
+        "mediaUuid": null,
+        "order": 0,
+        "tag": "path-target-intro",
+        "totalSize": 0,
+        "galleries": [],
+        "galleryItems": [],
+        "mediaFiles": [],
+        "poiOrder": [
+            {
+                "index": "1",
+                "isHidden": false,
+                "order": 1,
+                "poiUuid": "ed558c8d-acd6-5d63-87dc-030f4f3e3e57",
+                "status": "visited"
+            }
+        ],
+        "pois": [
+            {
+                "uuid": "ed558c8d-acd6-5d63-87dc-030f4f3e3e57",
+                "title": "",
+                "subtitle": null,
+                "description": null,
+                "tag": "poi-intro",
+                "lastUpdate": "2025-08-19T11:14:49",
+                "mediaUuid": null,
+                "categories": []
+            }
+        ],
+        "relations": [
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "a642465c-78a1-ae52-afb7-c0845a4ddc7c",
+                "poiUuid": "ed558c8d-acd6-5d63-87dc-030f4f3e3e57",
+                "outType": "SHT",
+                "outUuid": "b861b846-9bfb-c9f3-ce13-09c784eba5c2",
+                "action": null
+            },
+            {
+                "inType": "POI_EPT",
+                "inUuid": "",
+                "poiUuid": "ed558c8d-acd6-5d63-87dc-030f4f3e3e57",
+                "outType": "SHT",
+                "outUuid": "b861b846-9bfb-c9f3-ce13-09c784eba5c2",
+                "action": null
+            },
+            {
+                "inType": "EPT",
+                "inUuid": "",
+                "poiUuid": "",
+                "outType": "SHT",
+                "outUuid": "d2385321-6be9-e93b-23b6-3c47cd00a43f",
+                "action": null
+            }
+        ],
+        "sheetItems": [
+            {
+                "lastUpdate": "2025-08-19T11:14:49",
+                "order": 0,
+                "uuid": "a642465c-78a1-ae52-afb7-c0845a4ddc7c"
+            }
+        ],
+        "sheets": [
+            {
+                "uuid": "b861b846-9bfb-c9f3-ce13-09c784eba5c2",
+                "title": "",
+                "subtitle": null,
+                "description": null,
+                "tag": "poi-intro-entry-sheet",
+                "lastUpdate": "2025-08-19T11:14:49",
+                "items": [],
+                "extraData": null,
+                "mediaUuid": null,
+                "templates": []
+            },
+            {
+                "uuid": "d2385321-6be9-e93b-23b6-3c47cd00a43f",
+                "title": "Intro",
+                "subtitle": null,
+                "description": null,
+                "items": [
+                    "a642465c-78a1-ae52-afb7-c0845a4ddc7c"
+                ],
+                "tag": "path-intro-entry-sheet",
+                "lastUpdate": "2025-08-19T11:14:49",
+                "mediaUuid": null,
+                "extraData": null,
+                "templates": []
+            }
+        ],
+        "poiCategories": [],
+        "pathCategories": [
+            {
+                "uuid": "1f07cdcc-68d2-69b4-ad52-46216fb9831f",
+                "title": "Percorso Gioco",
+                "subtitle": "",
+                "description": null,
+                "tag": "target-gioco",
+                "type": "target",
+                "order": 2,
+                "color": null,
+                "mediaUuid": null,
+                "lastUpdate": "2025-08-19T11:14:49"
+            }
+        ],
+        "maps": [],
+        "mapItems": [],
+        "templateDefinitions": []
+    },
+    {
+        "uuid": "1f07ce09-fd40-63e8-a41d-46216fb9831f",
+        "title": "Percorso mappa",
+        "subtitle": null,
+        "categories": [
+            "1f07ce09-1755-6734-8c20-46216fb9831f",
+            "1f07cdcb-9751-6d04-8825-46216fb9831f"
+        ],
+        "groups": [],
+        "color": "#ffffff",
+        "description": null,
+        "lastUpdate": "2025-08-19T12:21:53",
+        "mediaUuid": null,
+        "order": 0,
+        "tag": "path-main-map",
+        "totalSize": 0,
+        "galleries": [],
+        "galleryItems": [],
+        "mediaFiles": [],
+        "poiOrder": [
+            {
+                "index": "1",
+                "isHidden": false,
+                "order": 0,
+                "poiUuid": "1f07ce1d-290f-6a88-822e-46216fb9831f",
+                "status": "visited"
+            }
+        ],
+        "pois": [
+            {
+                "uuid": "1f07ce1d-290f-6a88-822e-46216fb9831f",
+                "title": "Poi 1",
+                "subtitle": null,
+                "description": "Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa. Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.",
+                "tag": "poi-map",
+                "lastUpdate": "2025-08-19T11:52:25",
+                "mediaUuid": null,
+                "categories": []
+            }
+        ],
+        "relations": [
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "5dd84e12-7c56-f89b-28af-c29d6cbea8a0",
+                "poiUuid": "1f07ce1d-290f-6a88-822e-46216fb9831f",
+                "outType": "SHT",
+                "outUuid": "8a6b888e-bb38-ba0b-94c7-9732384c51a2",
+                "action": null
+            },
+            {
+                "inType": "EPT",
+                "inUuid": "",
+                "poiUuid": "",
+                "outType": "MAP",
+                "outUuid": "1f07ce1e-fc86-6672-8f87-46216fb9831f",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "5d713a67-1aaa-3492-1574-5b2044fb21d3",
+                "poiUuid": "1f07ce1d-290f-6a88-822e-46216fb9831f",
+                "outType": "SHT",
+                "outUuid": "60080710-472b-e6b3-bd27-9405803428ac",
+                "action": null
+            },
+            {
+                "inType": "POI_EPT",
+                "inUuid": "",
+                "poiUuid": "1f07ce1d-290f-6a88-822e-46216fb9831f",
+                "outType": "SHT",
+                "outUuid": "60080710-472b-e6b3-bd27-9405803428ac",
+                "action": null
+            },
+            {
+                "inType": "EPT",
+                "inUuid": "",
+                "poiUuid": "",
+                "outType": "SHT",
+                "outUuid": "9ae0c47c-8223-c9f0-8fbc-ee39d83ac415",
+                "action": null
+            }
+        ],
+        "sheetItems": [
+            {
+                "lastUpdate": "2025-08-19T11:52:25",
+                "order": 0,
+                "uuid": "5dd84e12-7c56-f89b-28af-c29d6cbea8a0"
+            },
+            {
+                "lastUpdate": "2025-08-19T11:52:25",
+                "order": 0,
+                "uuid": "5d713a67-1aaa-3492-1574-5b2044fb21d3"
+            }
+        ],
+        "sheets": [
+            {
+                "uuid": "8a6b888e-bb38-ba0b-94c7-9732384c51a2",
+                "title": "Poi 1",
+                "subtitle": null,
+                "description": "Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa. Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.",
+                "tag": "main-data-sheet",
+                "lastUpdate": "2025-08-19T11:52:25",
+                "items": [],
+                "extraData": null,
+                "mediaUuid": null
+            },
+            {
+                "uuid": "60080710-472b-e6b3-bd27-9405803428ac",
+                "title": "Poi 1",
+                "subtitle": null,
+                "description": "Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa. Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.",
+                "items": [
+                    "5dd84e12-7c56-f89b-28af-c29d6cbea8a0"
+                ],
+                "tag": "poi-map-entry-sheet",
+                "lastUpdate": "2025-08-19T11:52:25",
+                "mediaUuid": null,
+                "extraData": null,
+                "templates": null,
+                "otherStrings": null
+            },
+            {
+                "uuid": "9ae0c47c-8223-c9f0-8fbc-ee39d83ac415",
+                "title": "Percorso mappa",
+                "subtitle": null,
+                "description": null,
+                "items": [
+                    "5d713a67-1aaa-3492-1574-5b2044fb21d3"
+                ],
+                "tag": "path-main-map-entry-sheet",
+                "lastUpdate": "2025-08-19T12:21:53",
+                "mediaUuid": null,
+                "extraData": null,
+                "templates": []
+            }
+        ],
+        "poiCategories": [],
+        "pathCategories": [
+            {
+                "uuid": "1f07ce09-1755-6734-8c20-46216fb9831f",
+                "title": "Contenitore",
+                "subtitle": null,
+                "description": null,
+                "color": "",
+                "type": "mainPage",
+                "tag": "preview",
+                "order": 1,
+                "mediaUuid": null,
+                "lastUpdate": "2025-08-19T11:52:57",
+                "parentCategories": [
+                    "1f07cdcb-9751-6d04-8825-46216fb9831f"
+                ]
+            },
+            {
+                "uuid": "1f07cdcb-9751-6d04-8825-46216fb9831f",
+                "title": "Percorso Tradizionale",
+                "subtitle": "",
+                "description": null,
+                "tag": "target-tradizionale",
+                "type": "target",
+                "order": 1,
+                "color": null,
+                "mediaUuid": null,
+                "lastUpdate": "2025-08-19T14:21:29"
+            }
+        ],
+        "maps": [
+            {
+                "bottomRightLatitude": null,
+                "bottomRightLongitude": null,
+                "description": null,
+                "height": null,
+                "items": [
+                    "1f07d9f1-e458-6ab2-89ec-46216fb9831f"
+                ],
+                "lastUpdate": "2025-08-19T11:52:25",
+                "mediaUuid": null,
+                "order": 0,
+                "subtitle": null,
+                "tag": "map-geoReferenced",
+                "title": "Mappa esterna",
+                "topLeftLatitude": null,
+                "topLeftLongitude": null,
+                "uuid": "1f07ce1e-fc86-6672-8f87-46216fb9831f",
+                "width": null
+            }
+        ],
+        "mapItems": [
+            {
+                "latitude": 44.658284,
+                "lastUpdate": "2025-08-19T11:52:25",
+                "longitude": 8.831574,
+                "mediaUuid": null,
+                "poiUuid": "1f07ce1d-290f-6a88-822e-46216fb9831f",
+                "uuid": "1f07d9f1-e458-6ab2-89ec-46216fb9831f",
+                "x": null,
+                "y": null,
+                "templates": []
+            }
+        ],
+        "templateDefinitions": []
+    },
+    {
+        "uuid": "1f07ceab-805b-695c-86f1-46216fb9831f",
+        "title": "Missione del gioco",
+        "subtitle": null,
+        "categories": [
+            "1f07cdcc-68d2-69b4-ad52-46216fb9831f"
+        ],
+        "groups": [],
+        "color": null,
+        "description": "Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip.",
+        "lastUpdate": "2025-08-19T12:57:03",
+        "mediaUuid": null,
+        "order": 4,
+        "tag": "path-target-intro",
+        "totalSize": 0,
+        "galleries": [],
+        "galleryItems": [],
+        "mediaFiles": [],
+        "poiOrder": [
+            {
+                "index": "1",
+                "isHidden": false,
+                "order": 1,
+                "poiUuid": "25ad4f6d-bfd9-e9ff-33af-adad8c76eee8",
+                "status": "visited"
+            }
+        ],
+        "pois": [
+            {
+                "uuid": "25ad4f6d-bfd9-e9ff-33af-adad8c76eee8",
+                "title": "",
+                "subtitle": null,
+                "description": null,
+                "tag": "poi-intro",
+                "lastUpdate": "2025-08-19T12:57:03",
+                "mediaUuid": null,
+                "categories": []
+            }
+        ],
+        "relations": [
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "88e5e833-b654-7f2a-dab4-b7d1fe137535",
+                "poiUuid": "25ad4f6d-bfd9-e9ff-33af-adad8c76eee8",
+                "outType": "SHT",
+                "outUuid": "a75e53b2-bb86-b9c2-1a57-5f17dac41afc",
+                "action": null
+            },
+            {
+                "inType": "POI_EPT",
+                "inUuid": "",
+                "poiUuid": "25ad4f6d-bfd9-e9ff-33af-adad8c76eee8",
+                "outType": "SHT",
+                "outUuid": "a75e53b2-bb86-b9c2-1a57-5f17dac41afc",
+                "action": null
+            },
+            {
+                "inType": "EPT",
+                "inUuid": "",
+                "poiUuid": "",
+                "outType": "SHT",
+                "outUuid": "e4eb9f8c-1411-1061-9615-99775de4ae68",
+                "action": null
+            }
+        ],
+        "sheetItems": [
+            {
+                "lastUpdate": "2025-08-19T12:57:03",
+                "order": 0,
+                "uuid": "88e5e833-b654-7f2a-dab4-b7d1fe137535"
+            }
+        ],
+        "sheets": [
+            {
+                "uuid": "a75e53b2-bb86-b9c2-1a57-5f17dac41afc",
+                "title": "",
+                "subtitle": null,
+                "description": null,
+                "tag": "poi-intro-entry-sheet",
+                "lastUpdate": "2025-08-19T12:57:03",
+                "items": [],
+                "extraData": null,
+                "mediaUuid": null,
+                "templates": []
+            },
+            {
+                "uuid": "e4eb9f8c-1411-1061-9615-99775de4ae68",
+                "title": "Missione del gioco",
+                "subtitle": null,
+                "description": "Lorem ipsum dolor sit amet, consectetur amet adipiscing elit, sed do eiusmod tempor sit incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud lorem exercitation ullamco laboris nisi ut aliquip.",
+                "items": [
+                    "88e5e833-b654-7f2a-dab4-b7d1fe137535"
+                ],
+                "tag": "path-intro-entry-sheet",
+                "lastUpdate": "2025-08-19T12:57:03",
+                "mediaUuid": null,
+                "extraData": null,
+                "templates": []
+            }
+        ],
+        "poiCategories": [],
+        "pathCategories": [
+            {
+                "uuid": "1f07cdcc-68d2-69b4-ad52-46216fb9831f",
+                "title": "Percorso Gioco",
+                "subtitle": "",
+                "description": null,
+                "tag": "target-gioco",
+                "type": "target",
+                "order": 2,
+                "color": null,
+                "mediaUuid": null,
+                "lastUpdate": "2025-08-19T12:57:03"
+            }
+        ],
+        "maps": [],
+        "mapItems": [],
+        "templateDefinitions": []
+    },
+    {
+        "uuid": "1f07ceae-18b2-6424-a36e-46216fb9831f",
+        "title": "Tutorial",
+        "subtitle": null,
+        "categories": [
+            "1f07cdcc-68d2-69b4-ad52-46216fb9831f"
+        ],
+        "groups": [],
+        "color": null,
+        "description": null,
+        "lastUpdate": "2025-08-19T14:31:55",
+        "mediaUuid": null,
+        "order": 5,
+        "tag": "path-target-intro",
+        "totalSize": 0,
+        "galleries": [],
+        "galleryItems": [],
+        "mediaFiles": [],
+        "poiOrder": [
+            {
+                "index": "1",
+                "isHidden": false,
+                "order": 1,
+                "poiUuid": "0f45e3dd-6b85-9493-c9fd-db9da8d9c877",
+                "status": "visited"
+            }
+        ],
+        "pois": [
+            {
+                "uuid": "0f45e3dd-6b85-9493-c9fd-db9da8d9c877",
+                "title": "",
+                "subtitle": null,
+                "description": null,
+                "tag": "poi-intro",
+                "lastUpdate": "2025-08-19T14:24:07",
+                "mediaUuid": null,
+                "categories": []
+            }
+        ],
+        "relations": [
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "03aa0bf5-6b34-4b13-406a-27266df4cddd",
+                "poiUuid": "0f45e3dd-6b85-9493-c9fd-db9da8d9c877",
+                "outType": "SHT",
+                "outUuid": "1f07ceaf-013f-6980-9925-46216fb9831f",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "3348da82-b9bd-8138-3cc1-bcf78a878f9d",
+                "poiUuid": "0f45e3dd-6b85-9493-c9fd-db9da8d9c877",
+                "outType": "SHT",
+                "outUuid": "1f07ceae-8723-6732-b268-46216fb9831f",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "bfb42c9e-5d94-acf3-ecba-e96b8be9a199",
+                "poiUuid": "0f45e3dd-6b85-9493-c9fd-db9da8d9c877",
+                "outType": "SHT",
+                "outUuid": "1f07cf86-73b7-69fe-9efb-46216fb9831f",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "48b50ee0-ca88-84ec-1046-b8683551fe6c",
+                "poiUuid": "0f45e3dd-6b85-9493-c9fd-db9da8d9c877",
+                "outType": "SHT",
+                "outUuid": "1f07cf86-3594-6d2a-91e3-46216fb9831f",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "bb56e906-5421-df77-093e-046d507ea50c",
+                "poiUuid": "0f45e3dd-6b85-9493-c9fd-db9da8d9c877",
+                "outType": "SHT",
+                "outUuid": "10908686-c8bb-a32c-86f8-a3e6ba8d51e7",
+                "action": null
+            },
+            {
+                "inType": "POI_EPT",
+                "inUuid": "",
+                "poiUuid": "0f45e3dd-6b85-9493-c9fd-db9da8d9c877",
+                "outType": "SHT",
+                "outUuid": "10908686-c8bb-a32c-86f8-a3e6ba8d51e7",
+                "action": null
+            },
+            {
+                "inType": "EPT",
+                "inUuid": "",
+                "poiUuid": "",
+                "outType": "SHT",
+                "outUuid": "e24734e4-67ce-211f-b852-1fac9bcea1fd",
+                "action": null
+            }
+        ],
+        "sheetItems": [
+            {
+                "lastUpdate": "2025-08-19T12:55:13",
+                "order": 1,
+                "uuid": "03aa0bf5-6b34-4b13-406a-27266df4cddd"
+            },
+            {
+                "lastUpdate": "2025-08-19T14:30:58",
+                "order": 0,
+                "uuid": "3348da82-b9bd-8138-3cc1-bcf78a878f9d"
+            },
+            {
+                "lastUpdate": "2025-08-19T14:31:34",
+                "order": 1,
+                "uuid": "bfb42c9e-5d94-acf3-ecba-e96b8be9a199"
+            },
+            {
+                "lastUpdate": "2025-08-19T14:31:55",
+                "order": 2,
+                "uuid": "48b50ee0-ca88-84ec-1046-b8683551fe6c"
+            },
+            {
+                "lastUpdate": "2025-08-19T14:24:07",
+                "order": 0,
+                "uuid": "bb56e906-5421-df77-093e-046d507ea50c"
+            }
+        ],
+        "sheets": [
+            {
+                "uuid": "1f07ceaf-013f-6980-9925-46216fb9831f",
+                "title": null,
+                "subtitle": "STEP 1",
+                "description": "Per sbloccare i giochi dovrai recarti nei pressi del Punto di Interesse.",
+                "items": [],
+                "tag": "text-sheet",
+                "lastUpdate": "2025-08-19T12:55:13",
+                "mediaUuid": null,
+                "extraData": null
+            },
+            {
+                "uuid": "1f07ceae-8723-6732-b268-46216fb9831f",
+                "title": null,
+                "subtitle": null,
+                "description": null,
+                "items": [
+                    "03aa0bf5-6b34-4b13-406a-27266df4cddd"
+                ],
+                "tag": "container-sheet",
+                "lastUpdate": "2025-08-19T14:30:58",
+                "mediaUuid": null,
+                "extraData": null
+            },
+            {
+                "uuid": "1f07cf86-73b7-69fe-9efb-46216fb9831f",
+                "title": null,
+                "subtitle": null,
+                "description": "Concedi tutti i permessi per partecipare alla Caccia al Tesoro",
+                "items": [],
+                "tag": "text-sheet",
+                "lastUpdate": "2025-08-19T14:31:34",
+                "mediaUuid": null,
+                "extraData": null
+            },
+            {
+                "uuid": "1f07cf86-3594-6d2a-91e3-46216fb9831f",
+                "title": null,
+                "subtitle": null,
+                "description": null,
+                "items": [
+                    "bfb42c9e-5d94-acf3-ecba-e96b8be9a199"
+                ],
+                "tag": "container-sheet",
+                "lastUpdate": "2025-08-19T14:31:55",
+                "mediaUuid": null,
+                "extraData": {
+                    "features": [
+                        "location"
+                    ]
+                }
+            },
+            {
+                "uuid": "10908686-c8bb-a32c-86f8-a3e6ba8d51e7",
+                "title": "",
+                "subtitle": null,
+                "description": null,
+                "tag": "poi-intro-entry-sheet",
+                "lastUpdate": "2025-08-19T14:24:07",
+                "items": [
+                    "3348da82-b9bd-8138-3cc1-bcf78a878f9d",
+                    "48b50ee0-ca88-84ec-1046-b8683551fe6c"
+                ],
+                "extraData": null,
+                "mediaUuid": null,
+                "templates": [
+                    "dfff9745-fae6-4f6d-f1d9-876a9c68fd98"
+                ]
+            },
+            {
+                "uuid": "e24734e4-67ce-211f-b852-1fac9bcea1fd",
+                "title": "Tutorial",
+                "subtitle": null,
+                "description": null,
+                "items": [
+                    "bb56e906-5421-df77-093e-046d507ea50c"
+                ],
+                "tag": "path-intro-entry-sheet",
+                "lastUpdate": "2025-08-19T14:31:55",
+                "mediaUuid": null,
+                "extraData": null,
+                "templates": [
+                    "dfff9745-fae6-4f6d-f1d9-876a9c68fd98"
+                ]
+            }
+        ],
+        "poiCategories": [],
+        "pathCategories": [
+            {
+                "uuid": "1f07cdcc-68d2-69b4-ad52-46216fb9831f",
+                "title": "Percorso Gioco",
+                "subtitle": "",
+                "description": null,
+                "tag": "target-gioco",
+                "type": "target",
+                "order": 2,
+                "color": null,
+                "mediaUuid": null,
+                "lastUpdate": "2025-08-19T14:24:07"
+            }
+        ],
+        "maps": [],
+        "mapItems": [],
+        "templateDefinitions": [
+            {
+                "uuid": "dfff9745-fae6-4f6d-f1d9-876a9c68fd98",
+                "value": "tutorial",
+                "type": "page-container-style",
+                "extraData": null,
+                "lastUpdate": "2025-08-19T11:49:16"
+            }
+        ]
+    },
+    {
+        "uuid": "1f07cebb-ee6c-6b7a-8e72-46216fb9831f",
+        "title": "Percorso mappa Gioco",
+        "subtitle": null,
+        "categories": [
+            "1f07cf72-8261-6f7c-b532-46216fb9831f",
+            "1f07cdcc-68d2-69b4-ad52-46216fb9831f"
+        ],
+        "groups": [],
+        "color": "#ffffff",
+        "description": null,
+        "lastUpdate": "2025-08-20T10:22:00",
+        "mediaUuid": null,
+        "order": 0,
+        "tag": "path-main-map",
+        "totalSize": 0,
+        "galleries": [],
+        "galleryItems": [],
+        "mediaFiles": [],
+        "poiOrder": [
+            {
+                "index": "1",
+                "isHidden": false,
+                "order": 0,
+                "poiUuid": "1f07cfc9-c83e-6980-98fc-46216fb9831f",
+                "status": "locked"
+            },
+            {
+                "index": "2",
+                "isHidden": false,
+                "order": 1,
+                "poiUuid": "1f07cfc6-96c5-6a50-b053-46216fb9831f",
+                "status": "locked"
+            },
+            {
+                "index": "3",
+                "isHidden": false,
+                "order": 2,
+                "poiUuid": "1f07cfa6-bb54-6d82-8c2d-46216fb9831f",
+                "status": "locked"
+            }
+        ],
+        "pois": [
+            {
+                "uuid": "1f07cfc9-c83e-6980-98fc-46216fb9831f",
+                "title": "Poi 1 bloccato",
+                "subtitle": null,
+                "description": null,
+                "tag": "poi-map",
+                "lastUpdate": "2025-08-20T10:21:42",
+                "mediaUuid": null,
+                "categories": []
+            },
+            {
+                "uuid": "1f07cfc6-96c5-6a50-b053-46216fb9831f",
+                "title": "Poi 2 Bloccato",
+                "subtitle": null,
+                "description": null,
+                "tag": "poi-map",
+                "lastUpdate": "2025-08-20T10:21:54",
+                "mediaUuid": null,
+                "categories": []
+            },
+            {
+                "uuid": "1f07cfa6-bb54-6d82-8c2d-46216fb9831f",
+                "title": "Poi 3 Bloccato",
+                "subtitle": null,
+                "description": null,
+                "tag": "poi-map",
+                "lastUpdate": "2025-08-20T10:22:00",
+                "mediaUuid": null,
+                "categories": []
+            }
+        ],
+        "relations": [
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "691badcb-f490-0035-173f-92d1b8ba8ff7",
+                "poiUuid": "1f07cfc9-c83e-6980-98fc-46216fb9831f",
+                "outType": "SHT",
+                "outUuid": "d480487f-3890-c631-b5f7-f2e61dfdff9d",
+                "action": null
+            },
+            {
+                "inType": "POI_EPT",
+                "inUuid": "",
+                "poiUuid": "1f07cfc9-c83e-6980-98fc-46216fb9831f",
+                "outType": "SHT",
+                "outUuid": "d480487f-3890-c631-b5f7-f2e61dfdff9d",
+                "action": null
+            },
+            {
+                "inType": "GPS",
+                "inUuid": "1f07cfa9-8182-662e-8111-46216fb9831f",
+                "poiUuid": "1f07cfc9-c83e-6980-98fc-46216fb9831f",
+                "outType": "SHT",
+                "outUuid": "d480487f-3890-c631-b5f7-f2e61dfdff9d",
+                "action": "unlock"
+            },
+            {
+                "inType": "GPS",
+                "inUuid": "1f07cfa9-8182-662e-8111-46216fb9831f",
+                "poiUuid": "1f07cfc9-c83e-6980-98fc-46216fb9831f",
+                "outType": "SHT",
+                "outUuid": "d480487f-3890-c631-b5f7-f2e61dfdff9d",
+                "action": "notify"
+            },
+            {
+                "inType": "EPT",
+                "inUuid": "",
+                "poiUuid": "",
+                "outType": "MAP",
+                "outUuid": "1f07ce1e-fc86-6672-8f87-46216fb9831f",
+                "action": null
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "b12e9372-c880-09f4-0fb4-368e73f5297f",
+                "poiUuid": "1f07cfc6-96c5-6a50-b053-46216fb9831f",
+                "outType": "SHT",
+                "outUuid": "72354daf-21fa-3e7e-e71d-6db3e5d51013",
+                "action": null
+            },
+            {
+                "inType": "POI_EPT",
+                "inUuid": "",
+                "poiUuid": "1f07cfc6-96c5-6a50-b053-46216fb9831f",
+                "outType": "SHT",
+                "outUuid": "72354daf-21fa-3e7e-e71d-6db3e5d51013",
+                "action": null
+            },
+            {
+                "inType": "GPS",
+                "inUuid": "1f07cfba-a069-6838-8985-46216fb9831f",
+                "poiUuid": "1f07cfc6-96c5-6a50-b053-46216fb9831f",
+                "outType": "SHT",
+                "outUuid": "72354daf-21fa-3e7e-e71d-6db3e5d51013",
+                "action": "notify"
+            },
+            {
+                "inType": "GPS",
+                "inUuid": "1f07cfba-a069-6838-8985-46216fb9831f",
+                "poiUuid": "1f07cfc6-96c5-6a50-b053-46216fb9831f",
+                "outType": "SHT",
+                "outUuid": "72354daf-21fa-3e7e-e71d-6db3e5d51013",
+                "action": "unlock"
+            },
+            {
+                "inType": "SHT_ITM",
+                "inUuid": "355562ae-79dd-52df-9d89-33f1d7fc0419",
+                "poiUuid": "1f07cfa6-bb54-6d82-8c2d-46216fb9831f",
+                "outType": "SHT",
+                "outUuid": "fc81373c-b379-edfc-1302-a8a04a40ff2c",
+                "action": null
+            },
+            {
+                "inType": "POI_EPT",
+                "inUuid": "",
+                "poiUuid": "1f07cfa6-bb54-6d82-8c2d-46216fb9831f",
+                "outType": "SHT",
+                "outUuid": "fc81373c-b379-edfc-1302-a8a04a40ff2c",
+                "action": null
+            },
+            {
+                "inType": "GPS",
+                "inUuid": "1f07cfbc-9703-683c-840e-46216fb9831f",
+                "poiUuid": "1f07cfa6-bb54-6d82-8c2d-46216fb9831f",
+                "outType": "SHT",
+                "outUuid": "fc81373c-b379-edfc-1302-a8a04a40ff2c",
+                "action": "notify"
+            },
+            {
+                "inType": "GPS",
+                "inUuid": "1f07cfbc-9703-683c-840e-46216fb9831f",
+                "poiUuid": "1f07cfa6-bb54-6d82-8c2d-46216fb9831f",
+                "outType": "SHT",
+                "outUuid": "fc81373c-b379-edfc-1302-a8a04a40ff2c",
+                "action": "unlock"
+            },
+            {
+                "inType": "EPT",
+                "inUuid": "",
+                "poiUuid": "",
+                "outType": "SHT",
+                "outUuid": "6d0e0ac5-f2c1-538e-0631-66d8ff3ca878",
+                "action": null
+            },
+            {
+                "inType": "EPT",
+                "inUuid": "",
+                "poiUuid": "",
+                "outType": "GAME_CONF",
+                "outUuid": "e6fb5d14-b8d0-48b2-c239-a232be77b74c",
+                "action": null
+            }
+        ],
+        "sheetItems": [
+            {
+                "lastUpdate": "2025-08-20T10:21:42",
+                "order": 0,
+                "uuid": "691badcb-f490-0035-173f-92d1b8ba8ff7"
+            },
+            {
+                "lastUpdate": "2025-08-20T10:21:54",
+                "order": 0,
+                "uuid": "b12e9372-c880-09f4-0fb4-368e73f5297f"
+            },
+            {
+                "lastUpdate": "2025-08-20T10:22:00",
+                "order": 0,
+                "uuid": "355562ae-79dd-52df-9d89-33f1d7fc0419"
+            }
+        ],
+        "sheets": [
+            {
+                "uuid": "d480487f-3890-c631-b5f7-f2e61dfdff9d",
+                "title": "Poi 1 bloccato",
+                "subtitle": null,
+                "description": null,
+                "items": [],
+                "tag": "poi-map-entry-sheet",
+                "lastUpdate": "2025-08-20T10:21:42",
+                "mediaUuid": null,
+                "extraData": null,
+                "templates": null,
+                "otherStrings": null
+            },
+            {
+                "uuid": "72354daf-21fa-3e7e-e71d-6db3e5d51013",
+                "title": "Poi 2 Bloccato",
+                "subtitle": null,
+                "description": null,
+                "items": [],
+                "tag": "poi-map-entry-sheet",
+                "lastUpdate": "2025-08-20T10:21:54",
+                "mediaUuid": null,
+                "extraData": null,
+                "templates": null,
+                "otherStrings": null
+            },
+            {
+                "uuid": "fc81373c-b379-edfc-1302-a8a04a40ff2c",
+                "title": "Poi 3 Bloccato",
+                "subtitle": null,
+                "description": null,
+                "items": [],
+                "tag": "poi-map-entry-sheet",
+                "lastUpdate": "2025-08-20T10:22:00",
+                "mediaUuid": null,
+                "extraData": null,
+                "templates": null,
+                "otherStrings": null
+            },
+            {
+                "uuid": "6d0e0ac5-f2c1-538e-0631-66d8ff3ca878",
+                "title": "Percorso mappa Gioco",
+                "subtitle": null,
+                "description": null,
+                "items": [
+                    "691badcb-f490-0035-173f-92d1b8ba8ff7",
+                    "b12e9372-c880-09f4-0fb4-368e73f5297f",
+                    "355562ae-79dd-52df-9d89-33f1d7fc0419"
+                ],
+                "tag": "path-main-map-entry-sheet",
+                "lastUpdate": "2025-08-20T10:22:00",
+                "mediaUuid": null,
+                "extraData": null,
+                "templates": []
+            }
+        ],
+        "poiCategories": [],
+        "pathCategories": [
+            {
+                "uuid": "1f07cf72-8261-6f7c-b532-46216fb9831f",
+                "title": "Contenitore",
+                "subtitle": null,
+                "description": null,
+                "color": "",
+                "type": "mainPage",
+                "tag": "preview",
+                "order": 1,
+                "mediaUuid": null,
+                "lastUpdate": "2025-08-19T14:22:38",
+                "parentCategories": [
+                    "1f07cdcc-68d2-69b4-ad52-46216fb9831f"
+                ]
+            },
+            {
+                "uuid": "1f07cdcc-68d2-69b4-ad52-46216fb9831f",
+                "title": "Percorso Gioco",
+                "subtitle": "",
+                "description": null,
+                "tag": "target-gioco",
+                "type": "target",
+                "order": 2,
+                "color": null,
+                "mediaUuid": null,
+                "lastUpdate": "2025-08-19T14:23:07"
+            }
+        ],
+        "maps": [
+            {
+                "bottomRightLatitude": null,
+                "bottomRightLongitude": null,
+                "description": null,
+                "height": null,
+                "items": [
+                    "1f07d9f1-e486-6bec-bfca-46216fb9831f",
+                    "1f07d9f1-e48b-6f98-a1c5-46216fb9831f",
+                    "1f07d9f1-e491-62fe-aed8-46216fb9831f"
+                ],
+                "lastUpdate": "2025-08-20T10:21:42",
+                "mediaUuid": null,
+                "order": 0,
+                "subtitle": null,
+                "tag": "map-geoReferenced",
+                "title": "Mappa esterna",
+                "topLeftLatitude": null,
+                "topLeftLongitude": null,
+                "uuid": "1f07ce1e-fc86-6672-8f87-46216fb9831f",
+                "width": null
+            }
+        ],
+        "mapItems": [
+            {
+                "latitude": 44.65791,
+                "lastUpdate": "2025-08-20T10:21:42",
+                "longitude": 8.831398,
+                "mediaUuid": null,
+                "poiUuid": "1f07cfc9-c83e-6980-98fc-46216fb9831f",
+                "uuid": "1f07d9f1-e486-6bec-bfca-46216fb9831f",
+                "x": null,
+                "y": null,
+                "templates": []
+            },
+            {
+                "latitude": 44.658343,
+                "lastUpdate": "2025-08-20T10:21:54",
+                "longitude": 8.830669,
+                "mediaUuid": null,
+                "poiUuid": "1f07cfc6-96c5-6a50-b053-46216fb9831f",
+                "uuid": "1f07d9f1-e48b-6f98-a1c5-46216fb9831f",
+                "x": null,
+                "y": null,
+                "templates": []
+            },
+            {
+                "latitude": 44.660251,
+                "lastUpdate": "2025-08-20T10:22:00",
+                "longitude": 8.830348,
+                "mediaUuid": null,
+                "poiUuid": "1f07cfa6-bb54-6d82-8c2d-46216fb9831f",
+                "uuid": "1f07d9f1-e491-62fe-aed8-46216fb9831f",
+                "x": null,
+                "y": null,
+                "templates": []
+            }
+        ],
+        "gps": [
+            {
+                "lastUpdate": "2025-08-20T10:21:42",
+                "latitude": 44.6558699,
+                "longitude": 8.8298725,
+                "radius": 50,
+                "uuid": "1f07cfa9-8182-662e-8111-46216fb9831f"
+            },
+            {
+                "lastUpdate": "2025-08-20T10:21:54",
+                "latitude": 44.6581768,
+                "longitude": 8.8303099,
+                "radius": 50,
+                "uuid": "1f07cfba-a069-6838-8985-46216fb9831f"
+            },
+            {
+                "lastUpdate": "2025-08-20T10:22:00",
+                "latitude": 44.6602506,
+                "longitude": 8.8303475,
+                "radius": 50,
+                "uuid": "1f07cfbc-9703-683c-840e-46216fb9831f"
+            }
+        ],
+        "templateDefinitions": [],
+        "gameConfigurators": [
+            {
+                "uuid": "e6fb5d14-b8d0-48b2-c239-a232be77b74c",
+                "configuration": {
+                    "gameMode": "treasure_hunt",
+                    "reward": true,
+                    "score": false,
+                    "avatarName": null,
+                    "rewardShapeName": null,
+                    "poiShapeName": null
+                },
+                "otherStrings": null,
+                "levels": []
+            }
+        ]
+    }
+]
