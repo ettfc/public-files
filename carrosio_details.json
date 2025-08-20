@@ -720,6 +720,23 @@
         "galleries": [],
         "galleryItems": [],
         "mediaFiles": [],
+            "gameConfigurators": [
+      {
+        "uuid": "e6fb5d14-b8d0-48b2-c239-a232be77b74c",
+        "configuration": {
+          "gameMode": "treasure_hunt",
+          "reward": true,
+          "score": false,
+          "avatarName": null,
+          "rewardShapeName": null,
+          "poiShapeName": null
+        },
+        "otherStrings": null,
+        "levels": [
+          "1f07dd4f-ab75-6bd0-b325-46216fb9831f"
+        ]
+      }
+    ]
         "levelItems": [
             {
                 "lastUpdate": "2025-08-20T16:50:42",
