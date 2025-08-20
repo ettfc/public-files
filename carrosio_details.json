@@ -535,30 +535,30 @@
                 "outUuid": "e24734e4-67ce-211f-b852-1fac9bcea1fd",
                 "action": null
             },
-                  {
-        "inType": "LVL_ITM",
-        "inUuid": "80dacea4-e03f-bcd1-df0a-d492e987381f",
-        "poiUuid": "1f07cfc9-c83e-6980-98fc-46216fb9831f",
-        "outType": "SHT",
-        "outUuid": "d480487f-3890-c631-b5f7-f2e61dfdff9d",
-        "action": null
-      },
-      {
-        "inType": "LVL_ITM",
-        "inUuid": "0cf0253f-5b96-0d4c-e200-4fed7f81549b",
-        "poiUuid": "1f07cfc6-96c5-6a50-b053-46216fb9831f",
-        "outType": "SHT",
-        "outUuid": "72354daf-21fa-3e7e-e71d-6db3e5d51013",
-        "action": null
-      },
-      {
-        "inType": "LVL_ITM",
-        "inUuid": "190bc6e9-2ae7-dabd-067c-46aef2d11306",
-        "poiUuid": "1f07cfa6-bb54-6d82-8c2d-46216fb9831f",
-        "outType": "SHT",
-        "outUuid": "fc81373c-b379-edfc-1302-a8a04a40ff2c",
-        "action": null
-      }
+            {
+                "inType": "LVL_ITM",
+                "inUuid": "80dacea4-e03f-bcd1-df0a-d492e987381f",
+                "poiUuid": "1f07cfc9-c83e-6980-98fc-46216fb9831f",
+                "outType": "SHT",
+                "outUuid": "d480487f-3890-c631-b5f7-f2e61dfdff9d",
+                "action": null
+            },
+            {
+                "inType": "LVL_ITM",
+                "inUuid": "0cf0253f-5b96-0d4c-e200-4fed7f81549b",
+                "poiUuid": "1f07cfc6-96c5-6a50-b053-46216fb9831f",
+                "outType": "SHT",
+                "outUuid": "72354daf-21fa-3e7e-e71d-6db3e5d51013",
+                "action": null
+            },
+            {
+                "inType": "LVL_ITM",
+                "inUuid": "190bc6e9-2ae7-dabd-067c-46aef2d11306",
+                "poiUuid": "1f07cfa6-bb54-6d82-8c2d-46216fb9831f",
+                "outType": "SHT",
+                "outUuid": "fc81373c-b379-edfc-1302-a8a04a40ff2c",
+                "action": null
+            }
         ],
         "sheetItems": [
             {
@@ -720,41 +720,41 @@
         "galleries": [],
         "galleryItems": [],
         "mediaFiles": [],
-        levelItems": [
-      {
-        "lastUpdate": "2025-08-20T16:50:42",
-        "order": 0,
-        "uuid": "80dacea4-e03f-bcd1-df0a-d492e987381f"
-      },
-      {
-        "lastUpdate": "2025-08-20T16:50:42",
-        "order": 1,
-        "uuid": "0cf0253f-5b96-0d4c-e200-4fed7f81549b"
-      },
-      {
-        "lastUpdate": "2025-08-20T16:50:42",
-        "order": 2,
-        "uuid": "190bc6e9-2ae7-dabd-067c-46aef2d11306"
-      }
-    ],
+        "levelItems": [
+            {
+                "lastUpdate": "2025-08-20T16:50:42",
+                "order": 0,
+                "uuid": "80dacea4-e03f-bcd1-df0a-d492e987381f"
+            },
+            {
+                "lastUpdate": "2025-08-20T16:50:42",
+                "order": 1,
+                "uuid": "0cf0253f-5b96-0d4c-e200-4fed7f81549b"
+            },
+            {
+                "lastUpdate": "2025-08-20T16:50:42",
+                "order": 2,
+                "uuid": "190bc6e9-2ae7-dabd-067c-46aef2d11306"
+            }
+        ],
         "levels": [
-             {
-               "uuid": "1f07dd4f-ab75-6bd0-b325-46216fb9831f",
-               "title": "Livello invisibile ",
-               "subtitle": null,
-               "description": null,
-               "isHidden": false,
-               "status": "locked",
-               "order": 1,
-               "lastUpdate": "2025-08-20T16:50:42",
-               "mediaUuid": null,
-               "items": [
-                   "80dacea4-e03f-bcd1-df0a-d492e987381f",
-                   "0cf0253f-5b96-0d4c-e200-4fed7f81549b",
-                   "190bc6e9-2ae7-dabd-067c-46aef2d11306"
+            {
+                "uuid": "1f07dd4f-ab75-6bd0-b325-46216fb9831f",
+                "title": "Livello invisibile ",
+                "subtitle": null,
+                "description": null,
+                "isHidden": false,
+                "status": "locked",
+                "order": 1,
+                "lastUpdate": "2025-08-20T16:50:42",
+                "mediaUuid": null,
+                "items": [
+                    "80dacea4-e03f-bcd1-df0a-d492e987381f",
+                    "0cf0253f-5b96-0d4c-e200-4fed7f81549b",
+                    "190bc6e9-2ae7-dabd-067c-46aef2d11306"
                 ]
-           }
-    ],
+            }
+        ],
         "poiOrder": [
             {
                 "index": "1",
