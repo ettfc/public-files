@@ -1100,21 +1100,21 @@
                 "lastUpdate": "2025-08-20T10:21:42",
                 "latitude": 44.6558699,
                 "longitude": 8.8298725,
-                "radius": 50,
+                "radius": 100,
                 "uuid": "1f07cfa9-8182-662e-8111-46216fb9831f"
             },
             {
                 "lastUpdate": "2025-08-20T10:21:54",
                 "latitude": 44.6581768,
                 "longitude": 8.8303099,
-                "radius": 50,
+                "radius": 100,
                 "uuid": "1f07cfba-a069-6838-8985-46216fb9831f"
             },
             {
                 "lastUpdate": "2025-08-20T10:22:00",
                 "latitude": 44.6602506,
                 "longitude": 8.8303475,
-                "radius": 50,
+                "radius": 100,
                 "uuid": "1f07cfbc-9703-683c-840e-46216fb9831f"
             }
         ],
