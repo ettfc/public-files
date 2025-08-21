@@ -534,31 +534,8 @@
                 "outType": "SHT",
                 "outUuid": "e24734e4-67ce-211f-b852-1fac9bcea1fd",
                 "action": null
-            },
-            {
-                "inType": "LVL_ITM",
-                "inUuid": "80dacea4-e03f-bcd1-df0a-d492e987381f",
-                "poiUuid": "1f07cfc9-c83e-6980-98fc-46216fb9831f",
-                "outType": "SHT",
-                "outUuid": "d480487f-3890-c631-b5f7-f2e61dfdff9d",
-                "action": null
-            },
-            {
-                "inType": "LVL_ITM",
-                "inUuid": "0cf0253f-5b96-0d4c-e200-4fed7f81549b",
-                "poiUuid": "1f07cfc6-96c5-6a50-b053-46216fb9831f",
-                "outType": "SHT",
-                "outUuid": "72354daf-21fa-3e7e-e71d-6db3e5d51013",
-                "action": null
-            },
-            {
-                "inType": "LVL_ITM",
-                "inUuid": "190bc6e9-2ae7-dabd-067c-46aef2d11306",
-                "poiUuid": "1f07cfa6-bb54-6d82-8c2d-46216fb9831f",
-                "outType": "SHT",
-                "outUuid": "fc81373c-b379-edfc-1302-a8a04a40ff2c",
-                "action": null
             }
+            
         ],
         "sheetItems": [
             {
@@ -929,6 +906,30 @@
                 "poiUuid": "",
                 "outType": "GAME_CONF",
                 "outUuid": "e6fb5d14-b8d0-48b2-c239-a232be77b74c",
+                "action": null
+            },
+            {
+                "inType": "LVL_ITM",
+                "inUuid": "80dacea4-e03f-bcd1-df0a-d492e987381f",
+                "poiUuid": "1f07cfc9-c83e-6980-98fc-46216fb9831f",
+                "outType": "SHT",
+                "outUuid": "d480487f-3890-c631-b5f7-f2e61dfdff9d",
+                "action": null
+            },
+            {
+                "inType": "LVL_ITM",
+                "inUuid": "0cf0253f-5b96-0d4c-e200-4fed7f81549b",
+                "poiUuid": "1f07cfc6-96c5-6a50-b053-46216fb9831f",
+                "outType": "SHT",
+                "outUuid": "72354daf-21fa-3e7e-e71d-6db3e5d51013",
+                "action": null
+            },
+            {
+                "inType": "LVL_ITM",
+                "inUuid": "190bc6e9-2ae7-dabd-067c-46aef2d11306",
+                "poiUuid": "1f07cfa6-bb54-6d82-8c2d-46216fb9831f",
+                "outType": "SHT",
+                "outUuid": "fc81373c-b379-edfc-1302-a8a04a40ff2c",
                 "action": null
             }
         ],
