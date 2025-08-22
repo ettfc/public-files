@@ -291,7 +291,7 @@
                 "description": null,
                 "height": null,
                 "items": [
-                    "1f07d9f1-e458-6ab2-89ec-46216fb9831f"
+                    "1f07dd54-8788-62cc-af00-46216fb9831f"
                 ],
                 "lastUpdate": "2025-08-19T11:52:25",
                 "mediaUuid": null,
@@ -312,7 +312,7 @@
                 "longitude": 8.831574,
                 "mediaUuid": null,
                 "poiUuid": "1f07ce1d-290f-6a88-822e-46216fb9831f",
-                "uuid": "1f07d9f1-e458-6ab2-89ec-46216fb9831f",
+                "uuid": "1f07dd54-8788-62cc-af00-46216fb9831f",
                 "x": null,
                 "y": null,
                 "templates": []
@@ -535,7 +535,6 @@
                 "outUuid": "e24734e4-67ce-211f-b852-1fac9bcea1fd",
                 "action": null
             }
-            
         ],
         "sheetItems": [
             {
@@ -689,7 +688,7 @@
         "groups": [],
         "color": "#ffffff",
         "description": null,
-        "lastUpdate": "2025-08-20T10:22:00",
+        "lastUpdate": "2025-08-20T16:50:57",
         "mediaUuid": null,
         "order": 0,
         "tag": "path-main-map",
@@ -697,41 +696,6 @@
         "galleries": [],
         "galleryItems": [],
         "mediaFiles": [],
-        "levelItems": [
-            {
-                "lastUpdate": "2025-08-20T16:50:42",
-                "order": 0,
-                "uuid": "80dacea4-e03f-bcd1-df0a-d492e987381f"
-            },
-            {
-                "lastUpdate": "2025-08-20T16:50:42",
-                "order": 1,
-                "uuid": "0cf0253f-5b96-0d4c-e200-4fed7f81549b"
-            },
-            {
-                "lastUpdate": "2025-08-20T16:50:42",
-                "order": 2,
-                "uuid": "190bc6e9-2ae7-dabd-067c-46aef2d11306"
-            }
-        ],
-        "levels": [
-            {
-                "uuid": "1f07dd4f-ab75-6bd0-b325-46216fb9831f",
-                "title": "Livello invisibile ",
-                "subtitle": null,
-                "description": null,
-                "isHidden": false,
-                "status": "locked",
-                "order": 1,
-                "lastUpdate": "2025-08-20T16:50:42",
-                "mediaUuid": null,
-                "items": [
-                    "80dacea4-e03f-bcd1-df0a-d492e987381f",
-                    "0cf0253f-5b96-0d4c-e200-4fed7f81549b",
-                    "190bc6e9-2ae7-dabd-067c-46aef2d11306"
-                ]
-            }
-        ],
         "poiOrder": [
             {
                 "index": "1",
@@ -804,13 +768,13 @@
                 "outUuid": "d480487f-3890-c631-b5f7-f2e61dfdff9d",
                 "action": null
             },
-            {
+             {
                 "inType": "GPS",
                 "inUuid": "1f07cfa9-8182-662e-8111-46216fb9831f",
                 "poiUuid": "1f07cfc9-c83e-6980-98fc-46216fb9831f",
                 "outType": "SHT",
                 "outUuid": "d480487f-3890-c631-b5f7-f2e61dfdff9d",
-                "action": "unlock"
+                "action": "notify"
             },
             {
                 "inType": "GPS",
@@ -818,7 +782,7 @@
                 "poiUuid": "1f07cfc9-c83e-6980-98fc-46216fb9831f",
                 "outType": "SHT",
                 "outUuid": "d480487f-3890-c631-b5f7-f2e61dfdff9d",
-                "action": "notify"
+                "action": "unlock"
             },
             {
                 "inType": "EPT",
@@ -844,7 +808,7 @@
                 "outUuid": "72354daf-21fa-3e7e-e71d-6db3e5d51013",
                 "action": null
             },
-            {
+             {
                 "inType": "GPS",
                 "inUuid": "1f07cfba-a069-6838-8985-46216fb9831f",
                 "poiUuid": "1f07cfc6-96c5-6a50-b053-46216fb9831f",
@@ -1001,7 +965,7 @@
                     "355562ae-79dd-52df-9d89-33f1d7fc0419"
                 ],
                 "tag": "path-main-map-entry-sheet",
-                "lastUpdate": "2025-08-20T10:22:00",
+                "lastUpdate": "2025-08-20T16:50:57",
                 "mediaUuid": null,
                 "extraData": null,
                 "templates": []
@@ -1044,9 +1008,9 @@
                 "description": null,
                 "height": null,
                 "items": [
-                    "1f07d9f1-e486-6bec-bfca-46216fb9831f",
-                    "1f07d9f1-e48b-6f98-a1c5-46216fb9831f",
-                    "1f07d9f1-e491-62fe-aed8-46216fb9831f"
+                    "1f07dd54-87bc-6f2c-91a7-46216fb9831f",
+                    "1f07dd54-87c2-6468-80d5-46216fb9831f",
+                    "1f07dd54-87c7-617a-adde-46216fb9831f"
                 ],
                 "lastUpdate": "2025-08-20T10:21:42",
                 "mediaUuid": null,
@@ -1067,7 +1031,7 @@
                 "longitude": 8.831398,
                 "mediaUuid": null,
                 "poiUuid": "1f07cfc9-c83e-6980-98fc-46216fb9831f",
-                "uuid": "1f07d9f1-e486-6bec-bfca-46216fb9831f",
+                "uuid": "1f07dd54-87bc-6f2c-91a7-46216fb9831f",
                 "x": null,
                 "y": null,
                 "templates": []
@@ -1078,7 +1042,7 @@
                 "longitude": 8.830669,
                 "mediaUuid": null,
                 "poiUuid": "1f07cfc6-96c5-6a50-b053-46216fb9831f",
-                "uuid": "1f07d9f1-e48b-6f98-a1c5-46216fb9831f",
+                "uuid": "1f07dd54-87c2-6468-80d5-46216fb9831f",
                 "x": null,
                 "y": null,
                 "templates": []
@@ -1089,10 +1053,45 @@
                 "longitude": 8.830348,
                 "mediaUuid": null,
                 "poiUuid": "1f07cfa6-bb54-6d82-8c2d-46216fb9831f",
-                "uuid": "1f07d9f1-e491-62fe-aed8-46216fb9831f",
+                "uuid": "1f07dd54-87c7-617a-adde-46216fb9831f",
                 "x": null,
                 "y": null,
                 "templates": []
+            }
+        ],
+        "levelItems": [
+            {
+                "lastUpdate": "2025-08-20T16:50:42",
+                "order": 0,
+                "uuid": "80dacea4-e03f-bcd1-df0a-d492e987381f"
+            },
+            {
+                "lastUpdate": "2025-08-20T16:50:42",
+                "order": 1,
+                "uuid": "0cf0253f-5b96-0d4c-e200-4fed7f81549b"
+            },
+            {
+                "lastUpdate": "2025-08-20T16:50:42",
+                "order": 2,
+                "uuid": "190bc6e9-2ae7-dabd-067c-46aef2d11306"
+            }
+        ],
+        "levels": [
+            {
+                "uuid": "1f07dd4f-ab75-6bd0-b325-46216fb9831f",
+                "title": "Livello invisibile ",
+                "subtitle": null,
+                "description": null,
+                "isHidden": false,
+                "status": "locked",
+                "order": 1,
+                "lastUpdate": "2025-08-20T16:50:42",
+                "mediaUuid": null,
+                "items": [
+                    "80dacea4-e03f-bcd1-df0a-d492e987381f",
+                    "0cf0253f-5b96-0d4c-e200-4fed7f81549b",
+                    "190bc6e9-2ae7-dabd-067c-46aef2d11306"
+                ]
             }
         ],
         "gps": [
@@ -1100,21 +1099,21 @@
                 "lastUpdate": "2025-08-20T10:21:42",
                 "latitude": 44.6558699,
                 "longitude": 8.8298725,
-                "radius": 100,
+                "radius": 50,
                 "uuid": "1f07cfa9-8182-662e-8111-46216fb9831f"
             },
             {
                 "lastUpdate": "2025-08-20T10:21:54",
                 "latitude": 44.6581768,
                 "longitude": 8.8303099,
-                "radius": 100,
+                "radius": 50,
                 "uuid": "1f07cfba-a069-6838-8985-46216fb9831f"
             },
             {
                 "lastUpdate": "2025-08-20T10:22:00",
                 "latitude": 44.6602506,
                 "longitude": 8.8303475,
-                "radius": 100,
+                "radius": 50,
                 "uuid": "1f07cfbc-9703-683c-840e-46216fb9831f"
             }
         ],
